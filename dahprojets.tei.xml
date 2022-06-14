@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <!-- @todo DH Awards http://dhawards.org/dhawards2014/results/ -->
-<?xml-stylesheet href="style.css"?>
-=======
 <?xml-stylesheet href="style.css"?>
 <?xml-model href="./schema/dahprojects.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
->>>>>>> e33515c (fichiers initiaux)
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -31,10 +26,6 @@
     <body>
       <listBibl>
         <head>Éditions critiques</head>
-<<<<<<< HEAD
-
-=======
->>>>>>> e33515c (fichiers initiaux)
         <biblFull>
           <titleStmt>
             <title>Leonardo da Vinci &amp; his treatise on painting</title>
@@ -448,29 +439,17 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-<<<<<<< HEAD
-            <title type="main">Wired !</title>
-=======
             <title type="main">Wired !</title>
->>>>>>> e33515c (fichiers initiaux)
             <title type="sub">Digital art history &amp; visual culture</title>
             <principal> <persName> <forename /> <surname /> </persName> </principal>
           </titleStmt>
           <publicationStmt>
-<<<<<<< HEAD
-            <publisher>Wired !</publisher>
-=======
             <publisher>Wired !</publisher>
->>>>>>> e33515c (fichiers initiaux)
             <idno>http://www.dukewired.org</idno>
           </publicationStmt>
           <notesStmt>
             <note>
-<<<<<<< HEAD
-              <p>Wired ! est un groupe de chercheurs de l’univeristé de Duke qui appliquent les technologies de visualisation culturelle et historique et leurs méthodes à l’étude de la culture matérielle, de l’art, de l’architecture et à l’histoire urbaine.</p>
-=======
               <p>Wired ! est un groupe de chercheurs de l’univeristé de Duke qui appliquent les technologies de visualisation culturelle et historique et leurs méthodes à l’étude de la culture matérielle, de l’art, de l’architecture et à l’histoire urbaine.</p>
->>>>>>> e33515c (fichiers initiaux)
             </note>
           </notesStmt>
         </biblFull>
@@ -680,11 +659,7 @@
           </publicationStmt>
           <notesStmt>
             <note>
-<<<<<<< HEAD
-              <p><title>Hidden Florence</title> est une application gratuite pour téléphone intelligent qui offre une visite de la ville à travers un guide fictif « contemporain » des années 1490 qui serait un ouvrier de l’industrie lainière.</p>
-=======
               <p><title>Hidden Florence</title> est une application gratuite pour téléphone intelligent qui offre une visite de la ville à travers un guide fictif « contemporain » des années 1490 qui serait un ouvrier de l’industrie lainière.</p>
->>>>>>> e33515c (fichiers initiaux)
               <p>Le site designé par <ref target="http://kierongurner.co.uk/"
               >Kieron Gurner</ref> est conçu avec WordPress. L’application a été développée par <ref
               target="http://calvium.com">Calvium Ltd</ref></p> </note>
@@ -766,11 +741,7 @@
               <p>The visualisation is based on an online inventory catalogue of the drawings by Frederick William IV of Prussia. It was published in 2013 by the Prussian Palaces and Gardens Foundation Berlin-Brandenburg (SPSG). The SPSG received funding for the research and publishing of the online inventory catalogue by the German Research Foundation (DFG) the Reinhold and Elisabeth-Schulze-Foundation, the Scherping-Schulze-Foundation and the Fritz Thyssen Foundation.</p>
               <p>The digital copies, metadata, and texts used in the visualisation were created by Dr. Jörg Meiner (project lead), Dr. Catharina Hasenclever (project lead 2006-2008), Antje Adler, Astrid Fritsche, Klaus Dorst, Stefan Gehlen, Dr. Gabriele Horn, Dr. Andreas Meinecke, Dr. Gerd-H. Zuchold, Dr. Rolf H. Johannsen, Prof. Dr. Harry Falk, Dr. Rolf Th. Senn and Dr. Sepp-Gustav Gröschel. Editor: Dr. Carsten Dilba.</p>
               <p>The timeline information was supplemented with excerpts from the exhibition catalogue »Unglaublich ist sein Genie fürs Zeichnen« Friedrich Wilhelm IV. von Preußen (1795-1861) zum 150. Todestag, published on behalf of the Prussian Palaces and Gardens Foundation Berlin-Brandenburg by Jörg Meiner, 2011.</p>
-<<<<<<< HEAD
-              <p>TECHNOLOGY : HTML5, CSS3, Canvas/WebGL, pixi.js und d3.js</p> </note>
-=======
               <p>TECHNOLOGY : HTML5, CSS3, Canvas/WebGL, pixi.js und d3.js</p> </note>
->>>>>>> e33515c (fichiers initiaux)
           </notesStmt>
         </biblFull>
         <biblFull>
@@ -860,11 +831,7 @@
           </publicationStmt>
           <notesStmt>
             <note>
-<<<<<<< HEAD
-              <p>Le projet de recherche « VERSPERA », porté par la Fondation des Sciences du Patrimoine. Celui-ci vise à rendre publics les plans du domaine de Versailles sous l’Ancien Régime et à en restituer certains espaces grâce à la modélisation 3D. Le corpus numérisé est conservé aux Archives nationales (Paris), à la Bibliothèque nationale de France et à l’Établissement public du château, du musée et du domaine national de Versailles. Ce projet répond à trois objectifs : préserver des fonds fragiles et difficilement accessibles, en faciliter l’accès via Internet à la communauté internationale scientifique interdisciplinaire et permettre, grâce à la modélisation, une réflexion sur l’utilisation qui pouvait être faite d’une résidence royale à l’époque moderne.</p>
-=======
               <p>Le projet de recherche « VERSPERA », porté par la Fondation des Sciences du Patrimoine. Celui-ci vise à rendre publics les plans du domaine de Versailles sous l’Ancien Régime et à en restituer certains espaces grâce à la modélisation 3D. Le corpus numérisé est conservé aux Archives nationales (Paris), à la Bibliothèque nationale de France et à l’Établissement public du château, du musée et du domaine national de Versailles. Ce projet répond à trois objectifs : préserver des fonds fragiles et difficilement accessibles, en faciliter l’accès via Internet à la communauté internationale scientifique interdisciplinaire et permettre, grâce à la modélisation, une réflexion sur l’utilisation qui pouvait être faite d’une résidence royale à l’époque moderne.</p>
->>>>>>> e33515c (fichiers initiaux)
             </note>
           </notesStmt>
         </biblFull>
@@ -1335,11 +1302,7 @@
             <note xml:lang="fr">
               <p>Quels étaient les grands centres du marché de l’art en Europe au 18<hi
               rend="superscript"
-<<<<<<< HEAD
-              >e</hi> siècle ? Qui en étaient les acteurs ? Dans quels réseaux professionnels et familiaux ces derniers s’inscrivaient-ils ? Où étaient situés les marchands de tableaux à Paris au siècle des Lumières ? A quoi ressemblait l’activité du marchande du Pont Notre Dame et la boutique de son plus célèbre occupant, François-Edmé Gersaint ?</p>
-=======
               >e</hi> siècle ? Qui en étaient les acteurs ? Dans quels réseaux professionnels et familiaux ces derniers s’inscrivaient-ils ? Où étaient situés les marchands de tableaux à Paris au siècle des Lumières ? A quoi ressemblait l’activité du marchande du Pont Notre Dame et la boutique de son plus célèbre occupant, François-Edmé Gersaint ?</p>
->>>>>>> e33515c (fichiers initiaux)
               <p>La base de données et les applications de visualisation proposées ici visent à restituer sous une forme inédite les résultats d’une équipe de chercheurs qui se sont penchés – entre autres – sur ces questions, dans le cadre du projet Art Markets in Europe. Emergence, Development, Networks, 1500-1800, soutenu par l’ANR.</p>
             </note>
           </notesStmt>
@@ -1469,8 +1432,4 @@
       </listBibl>
     </body>
   </text>
-<<<<<<< HEAD
 </TEI>
-=======
-</TEI>
->>>>>>> e33515c (fichiers initiaux)
