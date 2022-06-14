@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ODD file for the Digital Art History Directory</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Ouvroir d’histoire de l’art et de muséologie numérique</publisher>
+        <date from="2022-06">Since June 2022</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Natively digital</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <schemaSpec ident="dahprojects" start="TEI">
+        <moduleRef key="header" include="abstract authority biblFull biblStruct catDesc catRef category change classDecl edition editionStmt editorialDecl encodingDesc extent fileDesc funder idno keywords langUsage language licence listChange noteStmt principal profileDesc projectDesc publicationStmt revisionDesc schemaRef sponsor sourceDesc taxonomy teiHeader textClass titleStmt"/>
+        <moduleRef key="core" include="analytic author date desc editor email emph expan foreign graphic head hi imprint item label list listBibl media meeting monogr name note noteGrp p pubPlace publisher quote ref resp respStmt series sic soCalled teiCorpus term textLang time title unit "/>
+        <moduleRef key="tei"/>
+        <moduleRef key="textstructure" include="TEI argument back body div epigraph front text"/>
+        <moduleRef key="namesdates" include="affiliation country forename listPerson listPlace org orgName persName person place placeName roleName settlement surname"/>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>
