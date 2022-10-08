@@ -69,8 +69,14 @@
           <titleStmt>
             <title type="main">Pietro Mellini’s Inventory in Verse 1681</title>
             <title type="sub">A Digital Facsimile with Translation and Commentary</title>
-            <principal> <persName> <forename>Murtha</forename> <surname>Baca</surname> </persName>
-              <persName> <forename>Nuria</forename> <surname>Rodríguez Ortega</surname> </persName>
+            <principal>
+              <persName>
+                <forename>Murtha</forename>
+                <surname>Baca</surname>
+              </persName>
+              <persName>
+                <forename>Nuria</forename>
+                <surname>Rodríguez Ortega</surname> </persName>
             </principal>
           </titleStmt>
           <publicationStmt>
@@ -303,6 +309,36 @@
             <date when="2016">2016</date>
             <idno>https://brieven-correspondenten-1900.huygens.knaw.nl</idno>
           </publicationStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">The Mondrian Papers</title>
+            <title type="sub">The complete letters and theoretical writings of Piet Mondrian</title>
+            <editor>
+              <persName>
+                <forename>Wietse</forename>
+                <surname>Coppes</surname>
+              </persName>
+            </editor>
+            <editor>
+              <persName>
+                <forename>Leo</forename>
+                <surname>Jansen</surname>
+              </persName>
+            </editor>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Netherlands Institute for Art History (RKD)</publisher>
+            <publisher>the Huygens Institute for Dutch History (KNAW)</publisher>
+            <date from="2012" to="2027">2012-2027</date>
+            <idno>https://mondrianpapers.org</idno>
+          </publicationStmt>
+          <noteStmt>
+            <note xml:lang="en">
+              <p>The Mondrian Papers is an academic online edition of the entire correspondence and theoretical writings of the Dutch artist Piet Mondrian (1872-1944). The edition will be fully annotated and illustrated. All relevant secondary sources (personal documents, studio and portrait photos, amongst others) are also included in the edition.</p>
+              <p>The Mondrian Papers is a work in progress and will be published in parts. This site will keep you updated on the developments whilst also offering information on the background of the Mondrian Edition Project, of which The Mondrian Papers is the result.</p>
+            </note>
+          </noteStmt>
         </biblFull>
       </listBibl>
       <listBibl>
