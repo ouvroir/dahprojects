@@ -1018,7 +1018,7 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Using laser-scanning technology, this project examines Hans Scharoun's iconic Berlin Philharmonie (1960–1963) through 3-D renderings. The project's first phase, a collaboration with the Fraunhofer Institute's Competence Center for Cultural Heritage Digitization, produced a physical model of the hall, which was featured in the exhibition Berlin/LA: Spaces for Music.</p>
+              <p>Using laser-scanning technology, this project examines Hans Scharoun’s iconic Berlin Philharmonie (1960–1963) through 3-D renderings. The project’s first phase, a collaboration with the Fraunhofer Institute’s Competence Center for Cultural Heritage Digitization, produced a physical model of the hall, which was featured in the exhibition Berlin/LA: Spaces for Music.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1455,6 +1455,130 @@
             <publisher>Yale DHLab</publisher>
             <date>2019-2020</date>
             <idno>https://dhlab.yale.edu/projects/blaketint/</idno>
+          </publicationStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title></title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>The Provenance Lab</publisher>
+            <date when="2022">2022</date>
+            <idno>https://whatisapainting.com</idno>
+          </publicationStmt>
+          <noteStmt>
+            <note><p>The different definitions of 'painting' were retrieved from US museums classifications in the context of the project Modern Migrants: Paintings from Europe in US Museums  of The Provenance Lab  at Leuphana University.</p></note>
+          </noteStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title>Archival-city</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher></publisher>
+            <date from="2022">depuis 2022</date>
+            <idno>https://archivalcity.hypotheses.org</idno>
+          </publicationStmt>
+          <noteStmt>
+            <note><p>ARCHIVAL-CITY aims to propose new ways of accessing, viewing and using the city archives. Therefore, it is slated to become a key resource for better understanding and exploiting urban archives, and also to imagine, debate and plan the city of the future by incorporating robust data from the past. It will serve as the bridge and communication link that was missing between those who are interested in the city’s past and those building its future. Used not only by researchers, historians and archivists, but also by local government, policy-makers and urban operators, as well as citizens eager to take part in their urban environment.</p></note>
+          </noteStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title>Vespera</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher></publisher>
+            <date from="2013">depuis 2013</date>
+            <idno>https://verspera.hypotheses.org</idno>
+          </publicationStmt>
+          <noteStmt>
+            <note><p>Le projet de recherche VERSPERA, numérisation et modélisation des plans de Versailles sous l’Ancien Régime, vise à rendre accessibles à tous les plans du domaine de Versailles sous l’Ancien Régime et à en restituer certains espaces grâce à la numérisation et à la modélisation 3D.</p></note>
+          </noteStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title>Paris Time-machine</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher></publisher>
+            <date from="2019">depuis </date>
+            <idno>https://paris-timemachine.huma-num.fr</idno>
+          </publicationStmt>
+          <noteStmt>
+            <note><p></p></note>
+          </noteStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Le plan de Rome</title>
+            <title type="sub">Restituer la Rome antique</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher></publisher>
+            <date></date>
+            <idno>https://rome.unicaen.fr</idno>
+          </publicationStmt>
+          <noteStmt>
+            <note><p>Le projet « Plan de Rome » est l’un des trois axes de l’ERLIS (Équipe de Recherche sur les Littératures, les Imaginaires et les Sociétés - EA 4254). L’objectif est de rendre toujours plus accessibles les sources anciennes à de larges publics en utilisant les technologies multimédias.</p></note>
+          </noteStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title>Digital Augustan Rome</title>
+            <principal>
+              <persName>
+                <forename>David</forename>
+                <surname>Gilman Romano</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>The University of Arizona</publisher>
+            <date></date>
+            <idno>https://www.digitalaugustanrome.org</idno>
+          </publicationStmt>
+          <noteStmt>
+            <note><p></p></note>
+          </noteStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title>Rennes et l’incendie de 1720</title>
+            <principal>
+              <persName>
+                <forename>Laurent</forename>
+                <surname>Gonthier</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <idno>https://www.laurentgontier.com/Rennes_Incendie/</idno>
+          </publicationStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title>Lyon en 1700</title>
+          </titleStmt>
+          <publicationStmt>
+            <idno>https://lyonen1700.fr</idno>
+          </publicationStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title>Imagine Rio</title>
+          </titleStmt>
+          <publicationStmt>
+            <idno>https://www.imaginerio.org</idno>
+          </publicationStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title>Base de données du programme CIRCE</title>
+            <title>Constructions, Interprétations et Représentations Cultuelles de l’Espace dans les sociétés anciennes</title>
+          </titleStmt>
+          <publicationStmt>
+            <idno>https://circe-antique.huma-num.fr</idno>
           </publicationStmt>
         </biblFull>
         <!-- https://hiddenflorence.org/about/ -->
