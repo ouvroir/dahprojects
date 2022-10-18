@@ -7,8 +7,20 @@
       <titleStmt>
         <title xml:lang="en">Digital art history project directory</title>
         <title xml:lang="fr">Répertoire de projets en histoire de l’art numérique</title>
-        <editor> <persName> <forename>Emmanuel</forename> <surname>Château-Dutier</surname>
-          </persName> <orgName>Université de Montréal</orgName> </editor>
+        <editor>
+          <persName>
+            <forename>Emmanuel</forename>
+            <surname>Château-Dutier</surname>
+          </persName>
+          <orgName>Université de Montréal</orgName>
+        </editor>
+        <editor>
+          <persName>
+            <forename>Léa</forename>
+            <surname>Maronet</surname>
+          </persName>
+          <orgName>Université de Montréal</orgName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>/img/lab</publisher>
@@ -29,18 +41,30 @@
         <biblFull>
           <titleStmt>
             <title>Leonardo da Vinci &amp; his treatise on painting</title>
-            <principal> <persName> <forename>Francesca</forename> <surname>Fiorani</surname>
-              </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Francesca</forename>
+                <surname>Fiorani</surname>
+              </persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>The Institute for Advanced Technology in the Humanities, University of Virginia</publisher>
+            <publisher>The Institute for Advanced Technology in the Humanities, University of
+              Virginia</publisher>
             <date when="2012">2012</date>
             <idno>http://www.treatiseonpainting.org</idno>
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Leonardo da Vinci and His Treatise on Painting is a digital archive dedicated to the Treatise on Painting, the pivotal text for disseminating Leonardo's art theory in Renaissance and Baroque Europe. Rather than focusing on Leonardo's original manuscripts, which remained largely unavailable until the early nineteenth century, the digital archive focuses on the Treatise on Painting, the only text by Leonardo that circulated widely in Renaissance and Baroque Europe.</p>
-              <p>In collaboration with institutional partners and private collectors from across the globe, the digital archive gathers for the first time, in a single place, critical resource materials on the legacy and reception of Leonardo's art theory. </p></note>
+              <p>Leonardo da Vinci and His Treatise on Painting is a digital archive dedicated to
+                the Treatise on Painting, the pivotal text for disseminating Leonardo's art theory
+                in Renaissance and Baroque Europe. Rather than focusing on Leonardo's original
+                manuscripts, which remained largely unavailable until the early nineteenth century,
+                the digital archive focuses on the Treatise on Painting, the only text by Leonardo
+                that circulated widely in Renaissance and Baroque Europe.</p>
+              <p>In collaboration with institutional partners and private collectors from across the
+                globe, the digital archive gathers for the first time, in a single place, critical
+                resource materials on the legacy and reception of Leonardo's art theory. </p></note>
           </notesStmt>
         </biblFull>
         <biblFull>
@@ -76,7 +100,8 @@
               </persName>
               <persName>
                 <forename>Nuria</forename>
-                <surname>Rodríguez Ortega</surname> </persName>
+                <surname>Rodríguez Ortega</surname>
+              </persName>
             </principal>
           </titleStmt>
           <publicationStmt>
@@ -89,17 +114,27 @@
             <title type="main">Élie-Honoré Montagny’s Recueil d'Antiquités</title>
             <title type="sub">A Digital Critical Edition</title>
             <principal>
-              <!-- direction générale du projet --> <persName> <forename>Martine</forename>
-              <surname>Denoyelle</surname> </persName>
-              <orgName>Institut national d’histoire de l’art (INHA)</orgName> </principal>
+              <!-- direction générale du projet -->
+              <persName>
+                <forename>Martine</forename>
+                <surname>Denoyelle</surname>
+              </persName>
+              <orgName>Institut national d’histoire de l’art (INHA)</orgName>
+            </principal>
             <respStmt>
               <resp>éditeur scientifique, direction du projet</resp>
-              <persName> <forename>Delphine</forename> <surname>Burlot</surname> </persName>
+              <persName>
+                <forename>Delphine</forename>
+                <surname>Burlot</surname>
+              </persName>
               <orgName>Institut national d’histoire de l’art (INHA)</orgName>
             </respStmt>
             <respStmt>
               <resp>directrice du département d’histoire de l’art numérique</resp>
-              <persName> <forename>Murtha</forename> <surname>Baca</surname> </persName>
+              <persName>
+                <forename>Murtha</forename>
+                <surname>Baca</surname>
+              </persName>
               <orgName>Getty Research Institute (GRI)</orgName>
             </respStmt>
           </titleStmt>
@@ -109,9 +144,15 @@
             <idno>http://digitalmontagny.inha.fr</idno>
           </publicationStmt>
           <notesStmt>
-            <note> <p>Date de mise en ligne septembre 2015</p>
-              <p>Conçu et réalisé en étroite collaboration par l’Institut national d’histoire de l’art et le Getty Research Institute, ce site porte sur le Recueil d’Antiquités d’Élie-Honoré Montagny, un remarquable album de dessins du début du XIXe siècle, conservé dans les Special Collections du Getty Research Institute (2004.M.12), qui documente des objets antiques présents à Naples et à Rome à cette époque.</p>
-              <p>Publication réalisée avec Drupal. Format d’export XML avec des éléments encodés !</p>
+            <note>
+              <p>Date de mise en ligne septembre 2015</p>
+              <p>Conçu et réalisé en étroite collaboration par l’Institut national d’histoire de
+                l’art et le Getty Research Institute, ce site porte sur le Recueil d’Antiquités
+                d’Élie-Honoré Montagny, un remarquable album de dessins du début du XIXe siècle,
+                conservé dans les Special Collections du Getty Research Institute (2004.M.12), qui
+                documente des objets antiques présents à Naples et à Rome à cette époque.</p>
+              <p>Publication réalisée avec Drupal. Format d’export XML avec des éléments encodés
+                !</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -119,19 +160,43 @@
           <titleStmt>
             <title type="main">The History of the Accademia di San Luca, c. 1590-1635</title>
             <title type="sub">Documents from the Archivio di Stato di Roma</title>
-            <principal> <persName> <forename>Peter</forename> <surname>Lukehart</surname>
-              </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Peter</forename>
+                <surname>Lukehart</surname>
+              </persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>Center for Advanced Study in the Visual Arts, National Gallery of Art</publisher>
+            <publisher>Center for Advanced Study in the Visual Arts, National Gallery of
+              Art</publisher>
             <idno>http://www.nga.gov/content/accademia/en/intro.html</idno>
             <date from="2005" to="2015">2005 à 2015</date>
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Welcome to The History of the Accademia di San Luca, c. 1590–1635: Documents from the Archivio di Stato di Roma. This site makes available archival documents and other research materials concerning one of the first artists’ academies in Europe. These resources document the breadth of the Accademia’s activities, drawing from the proceedings of meetings, financial and legal transactions, property rentals, and other records. New documents and research materials are added to the site periodically, all cross-referenced to people connected with the academy’s institutional and professional concerns and the places where they interacted.</p>
-              <p>First launched in 2010, the site was initially created using Extensible Markup Language (XML) within the parameters of the Text Encoding Initiative (TEI) [1]. In 2014 the site was migrated to the platform used by the National Gallery of Art website to ensure its long-term sustainability and extensibility. Search parameters initially developed in 2010 were enhanced after the 2014 site migration. The site’s original documents and features have been re-edited and updated to correct errors and inconsistencies as well as to incorporate new information.</p>
-              <p>The current site is driven by the National Gallery of Art's content management and site design platform. High resolution images are managed through the Java Script Object Notation (JSON) file format, compatible with Application Programming Interface (API) viewing applications using the International Image Interoperability Framework (IIIF), specifically Mirador and IIPMooViewer. The site is built on Hyper Text Markup Language (HTML) with Cascading Style Sheets (CSS) and JavaScript Framework (jQuery).</p>
+              <p>Welcome to The History of the Accademia di San Luca, c. 1590–1635: Documents from
+                the Archivio di Stato di Roma. This site makes available archival documents and
+                other research materials concerning one of the first artists’ academies in Europe.
+                These resources document the breadth of the Accademia’s activities, drawing from the
+                proceedings of meetings, financial and legal transactions, property rentals, and
+                other records. New documents and research materials are added to the site
+                periodically, all cross-referenced to people connected with the academy’s
+                institutional and professional concerns and the places where they interacted.</p>
+              <p>First launched in 2010, the site was initially created using Extensible Markup
+                Language (XML) within the parameters of the Text Encoding Initiative (TEI) [1]. In
+                2014 the site was migrated to the platform used by the National Gallery of Art
+                website to ensure its long-term sustainability and extensibility. Search parameters
+                initially developed in 2010 were enhanced after the 2014 site migration. The site’s
+                original documents and features have been re-edited and updated to correct errors
+                and inconsistencies as well as to incorporate new information.</p>
+              <p>The current site is driven by the National Gallery of Art's content management and
+                site design platform. High resolution images are managed through the Java Script
+                Object Notation (JSON) file format, compatible with Application Programming
+                Interface (API) viewing applications using the International Image Interoperability
+                Framework (IIIF), specifically Mirador and IIPMooViewer. The site is built on Hyper
+                Text Markup Language (HTML) with Cascading Style Sheets (CSS) and JavaScript
+                Framework (jQuery).</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -141,15 +206,21 @@
             <title>Manart</title>
           </titleStmt>
           <publicationStmt>
-            <publisher />
+            <publisher/>
             <pubPlace>France</pubPlace>
             <idno>http://www.basemanart.com</idno>
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Manart est un projet construit autour de la base de données du même nom sur les MANifestes ARTistiques. Elle contient des manifestes produits au XX<hi
-              rend="superscript"
-              >e</hi> siècle dans toutes les disciplines artistiques et dans toutes les sphères géographiques. La richesse d’information rassemblée pour chaque manifeste autorise des questionnements qui contribuent à élargir et à nuancer les perspectives d’analyse du manifeste comme genre. Reposant sur le principe d’alimentation collaborative, Manart s’offre comme une plateforme de recherche ouverte et internationale autour du phénomène manifestaire et, plus largement, en histoire et sociologie de l’art.</p>
+              <p>Manart est un projet construit autour de la base de données du même nom sur les
+                MANifestes ARTistiques. Elle contient des manifestes produits au XX<hi
+                  rend="superscript">e</hi> siècle dans toutes les disciplines artistiques et dans
+                toutes les sphères géographiques. La richesse d’information rassemblée pour chaque
+                manifeste autorise des questionnements qui contribuent à élargir et à nuancer les
+                perspectives d’analyse du manifeste comme genre. Reposant sur le principe
+                d’alimentation collaborative, Manart s’offre comme une plateforme de recherche
+                ouverte et internationale autour du phénomène manifestaire et, plus largement, en
+                histoire et sociologie de l’art.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -174,28 +245,54 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>The seminar used digital technologies (Getty Scholars' Workspace v 1.1, the Digital Archive Navigation Application, and a customized image viewer from the IIIF community) to enable collaboration among three graduate seminars at UCLA, the University of Chicago, and the Academy of Fine Arts, Leipzig, all focused on the work of seminal curator Harald Szeemann, whose extraordinary archive is housed at the Research Institute. </p>
-              <p>The students research newly digitized materials from the Harald Szeemann Archive and use collaborative tools developed by the Research Institute, including Getty Scholars' Workspace™, to explore the relationships between Szeemann's collecting and research interests and to present findings to their peers. Results and lessons learned from the project will be published online following the conclusion of the seminar.</p>
+              <p>The seminar used digital technologies (Getty Scholars' Workspace v 1.1, the Digital
+                Archive Navigation Application, and a customized image viewer from the IIIF
+                community) to enable collaboration among three graduate seminars at UCLA, the
+                University of Chicago, and the Academy of Fine Arts, Leipzig, all focused on the
+                work of seminal curator Harald Szeemann, whose extraordinary archive is housed at
+                the Research Institute. </p>
+              <p>The students research newly digitized materials from the Harald Szeemann Archive
+                and use collaborative tools developed by the Research Institute, including Getty
+                Scholars' Workspace™, to explore the relationships between Szeemann's collecting and
+                research interests and to present findings to their peers. Results and lessons
+                learned from the project will be published online following the conclusion of the
+                seminar.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">Adam Grand Tour Online</title>
-            <title type="sub"
-              >Robert &amp; James Adam’s Grand Tour letters and writings 1754–63</title>
+            <title type="sub">Robert &amp; James Adam’s Grand Tour letters and writings
+              1754–63</title>
             <funder>Paul Mellon Centre for Studies in British Art</funder>
             <sponsor>UCL’s Bartlett School of Architecture</sponsor>
             <sponsor>University of Buckingham’s Department of History and History of Art</sponsor>
-            <editor> <persName> <forename>Adriano</forename> <surname>Aymonino</surname> </persName> </editor>
-            <editor> <persName> <forename>Colin</forename> <surname>Thom</surname> </persName> </editor>
+            <editor>
+              <persName>
+                <forename>Adriano</forename>
+                <surname>Aymonino</surname>
+              </persName>
+            </editor>
+            <editor>
+              <persName>
+                <forename>Colin</forename>
+                <surname>Thom</surname>
+              </persName>
+            </editor>
             <respStmt>
               <resp>technical director</resp>
-              <persName> <forename>Giles</forename> <surname>Bergel</surname> </persName>
+              <persName>
+                <forename>Giles</forename>
+                <surname>Bergel</surname>
+              </persName>
             </respStmt>
             <respStmt>
               <resp>project’s transcriber</resp>
-              <persName> <forename>Harriet</forename> <surname>Richardson</surname> </persName>
+              <persName>
+                <forename>Harriet</forename>
+                <surname>Richardson</surname>
+              </persName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
@@ -204,7 +301,13 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Welcome to the website of Robert &amp; James Adam’s Grand Tour letters and writings 1754–63. The aim of this project is to present an online critical edition of all the known Adam brothers’ Grand Tour letters and writings as a freely available, open-access, fully searchable database. This will enable readers to view the letters in their original form alongside new and accurate transcriptions, with contextual scholarly annotations. </p> </note>
+              <p>Welcome to the website of Robert &amp; James Adam’s Grand Tour letters and writings
+                1754–63. The aim of this project is to present an online critical edition of all the
+                known Adam brothers’ Grand Tour letters and writings as a freely available,
+                open-access, fully searchable database. This will enable readers to view the letters
+                in their original form alongside new and accurate transcriptions, with contextual
+                scholarly annotations. </p>
+            </note>
             <note type="licence">CC BY-NC-SA</note>
           </notesStmt>
         </biblFull>
@@ -223,7 +326,11 @@
             <idno>https://www.emunch.no</idno>
           </publicationStmt>
           <notesStmt>
-            <note><p>Digitalisering Museets prosjektgruppe arbeider med digitalisering av korrespondansen til Edvard Munch samt med ferdigstilling av Munchs egne tekster. Materialet korrekturleses og kodes før det publiseres her. Alle registrerte avsendere (med lister over brevene de sendte til Munch) og omtalte personer og institusjoner blir etter hvert tilgjengelig her i det digitale arkivet.</p></note>
+            <note><p>Digitalisering Museets prosjektgruppe arbeider med digitalisering av
+                korrespondansen til Edvard Munch samt med ferdigstilling av Munchs egne tekster.
+                Materialet korrekturleses og kodes før det publiseres her. Alle registrerte
+                avsendere (med lister over brevene de sendte til Munch) og omtalte personer og
+                institusjoner blir etter hvert tilgjengelig her i det digitale arkivet.</p></note>
           </notesStmt>
         </biblFull>
         <biblFull>
@@ -239,13 +346,26 @@
             <idno>https://boschdoc.huygens.knaw.nl</idno>
           </publicationStmt>
           <notesStmt>
-            <note><p>BoschDoc is an online database containing source material on the ’s-Hertogenbosch painter Hieronymus Bosch. Not only the sources in which he himself is mentioned are included, but also sources giving information about his immediate surroundings, members of his family, patrons and works. These are chiefly handwritten documents, but also a number of early printed works, dating from before 1800 are included in BoschDoc.</p><p>BoschDoc is part of the Bosch Research and Conservation Project and has been carried out in the framework of the 500th anniversary of the death of Hieronymus Bosch (c. 1450 – 1516). The project has been made possible by the Radboud University Nijmegen, the City Archives of ’s-Hertogenbosch and the Huygens ING.</p><p>The content of BoschDoc is largely based on references in other publications. These references have been traced, expanded and if necessary updated and/or corrected. The publications containing the references are credited under the tab “Comments &amp; References”.</p></note>
+            <note><p>BoschDoc is an online database containing source material on the
+                ’s-Hertogenbosch painter Hieronymus Bosch. Not only the sources in which he himself
+                is mentioned are included, but also sources giving information about his immediate
+                surroundings, members of his family, patrons and works. These are chiefly
+                handwritten documents, but also a number of early printed works, dating from before
+                1800 are included in BoschDoc.</p><p>BoschDoc is part of the Bosch Research and
+                Conservation Project and has been carried out in the framework of the 500th
+                anniversary of the death of Hieronymus Bosch (c. 1450 – 1516). The project has been
+                made possible by the Radboud University Nijmegen, the City Archives of
+                ’s-Hertogenbosch and the Huygens ING.</p><p>The content of BoschDoc is largely based
+                on references in other publications. These references have been traced, expanded and
+                if necessary updated and/or corrected. The publications containing the references
+                are credited under the tab “Comments &amp; References”.</p></note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>Der Sturm</title>
-            <title>Digitale Quellenedition zur Geschichte der internationalen Avantgarde</title><editor>
+            <title>Digitale Quellenedition zur Geschichte der internationalen Avantgarde</title>
+            <editor>
               <forename>Marjam</forename>
               <surname>Trautmann</surname>
             </editor>
@@ -291,8 +411,13 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>This site is a research and documentation centre on Bertel Thorvaldsen and his art. Published here you will find comprehensive written source material on the sculptor and his art.</p>
-              <p>The bulk of the material is transcripts of all written primary sources left by Thorvaldsen, and kept today at his museum. More than half of the documents are letters to, from and about the sculptor. They were uncovered in Rome just after the death of Thorvaldsen; see History of the Archives for more on this.</p>
+              <p>This site is a research and documentation centre on Bertel Thorvaldsen and his art.
+                Published here you will find comprehensive written source material on the sculptor
+                and his art.</p>
+              <p>The bulk of the material is transcripts of all written primary sources left by
+                Thorvaldsen, and kept today at his museum. More than half of the documents are
+                letters to, from and about the sculptor. They were uncovered in Rome just after the
+                death of Thorvaldsen; see History of the Archives for more on this.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -335,77 +460,120 @@
           </publicationStmt>
           <noteStmt>
             <note xml:lang="en">
-              <p>The Mondrian Papers is an academic online edition of the entire correspondence and theoretical writings of the Dutch artist Piet Mondrian (1872-1944). The edition will be fully annotated and illustrated. All relevant secondary sources (personal documents, studio and portrait photos, amongst others) are also included in the edition.</p>
-              <p>The Mondrian Papers is a work in progress and will be published in parts. This site will keep you updated on the developments whilst also offering information on the background of the Mondrian Edition Project, of which The Mondrian Papers is the result.</p>
+              <p>The Mondrian Papers is an academic online edition of the entire correspondence and
+                theoretical writings of the Dutch artist Piet Mondrian (1872-1944). The edition will
+                be fully annotated and illustrated. All relevant secondary sources (personal
+                documents, studio and portrait photos, amongst others) are also included in the
+                edition.</p>
+              <p>The Mondrian Papers is a work in progress and will be published in parts. This site
+                will keep you updated on the developments whilst also offering information on the
+                background of the Mondrian Edition Project, of which The Mondrian Papers is the
+                result.</p>
             </note>
           </noteStmt>
         </biblFull>
       </listBibl>
       <listBibl>
+        <head>Projets en histoire de l'art numérique</head>
         <biblFull>
           <titleStmt>
             <title>Amiens Cathedral Project</title>
-            <principal> <persName> <forename>Stephen</forename> <surname>Murray</surname>
-              </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Stephen</forename>
+                <surname>Murray</surname>
+              </persName>
+            </principal>
             <funder>National Endowment for the Humanities</funder>
             <funder>Samuel H. Kress Foundation</funder>
           </titleStmt>
           <publicationStmt>
             <authority>Media Center for Art History</authority>
-            <pubPlace>United States of America</pubPlace>
             <publisher>Columbia University</publisher>
+            <pubPlace>United States of America</pubPlace>
             <date when="1996">1996</date>
             <idno>http://learn.columbia.edu/Mcahweb/index-frame.html</idno>
           </publicationStmt>
           <notesStmt>
-            <note xml:lang="fre">
-              <p>Dirigé par Stephen Murray, professeur d’histoire de l’art et d’archéologie à l’université de Columbia, le <title>Amiens project</title> consiste en une archive de divers matériaux multimédias pour rendre compte de l’espace authentique de la cathédrale.</p>
-              <p>Plusieurs sections du site proposent des archives iconographiques de l’intérieur et de l’extérieur de l’édifice accompagnées d’une riche documentation textuelle. Il présente rassemble ainsi des clichés photographiques du bâtiment, des reconstitutions virtuelles, diverses pièces de documentation graphique ainsi que des relevés architecturaux.</p>
-              <p>Une rubrique du site présente notamment une animation de treize minutes conçue en images 3D conçue pour un usage pédagogique. Outre ce film, une section intitulée <ref
-              target="http://learn.columbia.edu/1k_years/"
-              >A Thousand Years of Chruch Architecture</ref> présente des diagrammes en flash sur l’évolution des formes architecturales religieuses à l’époque médiévale. Le programme iconographique est quant à lui présenté au moyen d’animations interactives avec des références aux sources religieuses textuelles. Enfin, une page du site accueillait des discussions avec les utilisateurs au moyen du service HTML Gear Discussion Board offert par Lycos jusqu’en avril 2012.</p>
-              <p>Le projet avait été conçu comme le prototype de ce que pourrait régulièrement produire, à cette époque, le nouveau <orgName>Media Center for the Arts</orgName> en tant que suppléments au programme d’art et d’humanités offert dans l’université.</p> </note>
-            <note> <biblStruct>
-              <analytic>
-                <title type="a">The Amiens Project</title>
-                <author> <persName> <forename>Brett</forename> <surname>Forman</surname> </persName>
-                </author>
-              </analytic>
-              <monogr>
-                <title type="j">Columbia Magazine</title>
-                <imprint>
-                  <date when="1996">1996</date>
-                  <biblScope unit="issue">Summer 1996</biblScope>
-                </imprint>
-              </monogr>
-              <ref type="url"
-                >http://www.columbia.edu/cu/record/archives/vol22/vol22_iss1/Amiens_Proj.html</ref>
-              </biblStruct> <biblStruct>
-              <analytic>
-                <title type="a">Amiens, a Medieval City, Recreated in a Columbia Laboratory</title>
-              </analytic>
-              <monogr>
-                <title type="j">Columbia University Record</title>
-                <imprint>
-                  <date when="1995-11-17">17 novembre 1995</date>
-                  <biblScope unit="volume">21</biblScope>
-                  <biblScope unit="issue">10</biblScope>
-                </imprint>
-              </monogr>
-              <ref type="url"
-                >http://www.columbia.edu/cu/record/archives/vol21/vol21_iss10/record2110.28.html</ref>
-              </biblStruct> </note>
+            <note type="abstract" xml:lang="fr">
+              <p>Dirigé par Stephen Murray, professeur d’histoire de l’art et d’archéologie à
+                l’université de Columbia, le <title>Amiens project</title> consiste en une archive
+                de divers matériaux multimédias pour rendre compte de l’espace authentique de la
+                cathédrale.</p>
+              <p>Plusieurs sections du site proposent des archives iconographiques de l’intérieur et
+                de l’extérieur de l’édifice accompagnées d’une riche documentation textuelle. Il
+                présente rassemble ainsi des clichés photographiques du bâtiment, des
+                reconstitutions virtuelles, diverses pièces de documentation graphique ainsi que des
+                relevés architecturaux.</p>
+              <p>Une rubrique du site présente notamment une animation de treize minutes conçue en
+                images 3D conçue pour un usage pédagogique. Outre ce film, une section intitulée
+                  <ref target="http://learn.columbia.edu/1k_years/">A Thousand Years of Chruch
+                  Architecture</ref> présente des diagrammes en flash sur l’évolution des formes
+                architecturales religieuses à l’époque médiévale. Le programme iconographique est
+                quant à lui présenté au moyen d’animations interactives avec des références aux
+                sources religieuses textuelles. Enfin, une page du site accueillait des discussions
+                avec les utilisateurs au moyen du service HTML Gear Discussion Board offert par
+                Lycos jusqu’en avril 2012.</p>
+              <p>Le projet avait été conçu comme le prototype de ce que pourrait régulièrement
+                produire, à cette époque, le nouveau <orgName>Media Center for the Arts</orgName> en
+                tant que suppléments au programme d’art et d’humanités offert dans l’université.</p>
+            </note>
+            <note type="projectBib">
+              <biblStruct>
+                <analytic>
+                  <title type="a">The Amiens Project</title>
+                  <author>
+                    <persName>
+                      <forename>Brett</forename>
+                      <surname>Forman</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Columbia Magazine</title>
+                  <imprint>
+                    <date when="1996">1996</date>
+                    <biblScope unit="issue">Summer 1996</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >http://www.columbia.edu/cu/record/archives/vol22/vol22_iss1/Amiens_Proj.html</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">Amiens, a Medieval City, Recreated in a Columbia
+                    Laboratory</title>
+                </analytic>
+                <monogr>
+                  <title type="j">Columbia University Record</title>
+                  <imprint>
+                    <date when="1995-11-17">17 novembre 1995</date>
+                    <biblScope unit="volume">21</biblScope>
+                    <biblScope unit="issue">10</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >http://www.columbia.edu/cu/record/archives/vol21/vol21_iss10/record2110.28.html</ref>
+              </biblStruct>
+            </note>
           </notesStmt>
-          <!--<projectDesc> <creation when="1996">1996</creation> <country>États-Unis</country> <langUsage> <language ident="eng" usage="100">Anglais (langue principale)</language> </langUsage> <projectClass> <keywords xml:lang="fre" scheme="http://data.bnf.fr/liste-rameau"> <term url="http://catalogue.bnf.fr/ark:/12148/cb11934792v/PUBLIC" >Architecture gothique</term> <term>13e siècle</term> <term>France</term> </keywords> <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh"> <term url="http://id.loc.gov/authorities/subjects/sh85006792" >Architecture, Gothic</term> <term url="http://id.loc.gov/authorities/subjects/sh2002012456">13th century</term> <term url="http://id.loc.gov/authorities/names/n79006404" >France</term> </keywords> <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/"> <term>website</term> <!-\- TODO qualifier -\-> </classCode> </projectClass> -->
+          <!--<projectDesc> <creation when="1996">1996</creation> <country>États-Unis</country> <langUsage> <language ident="eng" usage="100">Anglais (langue principale)</language> </langUsage> <projectClass> <keywords xml:lang="fr" scheme="http://data.bnf.fr/liste-rameau"> <term url="http://catalogue.bnf.fr/ark:/12148/cb11934792v/PUBLIC" >Architecture gothique</term> <term>13e siècle</term> <term>France</term> </keywords> <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh"> <term url="http://id.loc.gov/authorities/subjects/sh85006792" >Architecture, Gothic</term> <term url="http://id.loc.gov/authorities/subjects/sh2002012456">13th century</term> <term url="http://id.loc.gov/authorities/names/n79006404" >France</term> </keywords> <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/"> <term>website</term> <!-\- TODO qualifier -\-> </classCode> </projectClass> -->
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>Hachiman Digital Handscrolls</title>
-            <principal> <persName> <forename>Melanie</forename> <surname>Trede</surname> </persName>
-              <roleName>head of project</roleName> <orgName>Heidelberg University</orgName>
-              <affiliation> <orgName>Heidelberg University</orgName>
-              <roleName>Professor of Japanese art histories</roleName> </affiliation> </principal>
-            <funder>Initiative d’excellence de l’université de Heidelberg, Field of Focus 3 Cultural Dynamics in Globalised Worlds sponsorisé par la Fondation allemande de recherche entre mars 2014 et février 2015. Le projet fut étendu et complété en octobre 2015 avec des fonds du responsable du projet.</funder>
+            <principal>
+              <persName>
+                <forename>Melanie</forename>
+                <surname>Trede</surname>
+              </persName>
+              <roleName>Head of project</roleName>
+              <orgName>Heidelberg University</orgName>
+            </principal>
+            <funder>Initiative d’excellence de l’université de Heidelberg, Field of Focus 3 Cultural
+              Dynamics in Globalised Worlds sponsorisé par la Fondation allemande de recherche entre
+              mars 2014 et février 2015. Le projet fut étendu et complété en octobre 2015 avec des
+              fonds du responsable du projet.</funder>
           </titleStmt>
           <publicationStmt>
             <publisher>Universität Heidelberg</publisher>
@@ -414,78 +582,154 @@
             <idno>http://kjc-sv013.kjc.uni-heidelberg.de/hachiman/</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
-              <p>Le but du picturalprojet consistait à rendre possible la présentation numérique de formats textuels et iconographiques longitudinaux et de pouvoir les les rendre accessibles à une large audience. La présentation explore les possibilités de visualisation simultanée d’un même thème iconographique ou textuel dans plusieurs sources.</p>
-              <p>Le contenu pictural et textuel des rouleaux est identifié par des zones et indexé. Ce découpage permet une navigation hypertexteulle et de fournir des informations supplémentaire. Une table lumineuses permet de rassemblée des ensembles pour les étudier de manière adéquate.</p> </note>
-            <note> <p>Techniquement, le site utilise le logiciel <ref target="http://hyperimage.ws"
-              >HyperImage Reader</ref>.</p> </note>
+            <note type="abstract" xml:lang="fr">
+              <p>Le but du picturalprojet consistait à rendre possible la présentation numérique de
+                formats textuels et iconographiques longitudinaux et de pouvoir les les rendre
+                accessibles à une large audience. La présentation explore les possibilités de
+                visualisation simultanée d’un même thème iconographique ou textuel dans plusieurs
+                sources.</p>
+              <p>Le contenu pictural et textuel des rouleaux est identifié par des zones et indexé.
+                Ce découpage permet une navigation hypertexteulle et de fournir des informations
+                supplémentaire. Une table lumineuses permet de rassemblée des ensembles pour les
+                étudier de manière adéquate.</p>
+              <p>Techniquement, le site utilise le logiciel <ref target="http://hyperimage.ws"
+                  >HyperImage Reader</ref>.</p>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>Venus iconography</title>
-            <principal> <persName>K Bender</persName> </principal>
+            <principal>
+              <persName>
+                <forename>K.</forename>
+                <surname>Bender</surname>
+              </persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>K Bender</publisher>
+            <publisher>K. Bender</publisher>
+            <pubPlace>s.l.</pubPlace>
             <date from="2009" to="2014">2009 à 2014</date>
             <idno>https://sites.google.com/site/venusiconography/</idno>
+            <idno type="internetArchive"
+              >https://web.archive.org/web/20200808173853/https://sites.google.com/site/venusiconography/</idno>
           </publicationStmt>
           <notesStmt>
-            <note xml:lang="fr">
-              <p>Le projet propose une collection de recherche thématique pour contribuer à une lecture distante, à une macroanalyse et à une approche quantitative en histoire de l’art.</p>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet propose une collection de recherche thématique pour contribuer à une
+                lecture distante, à une macroanalyse et à une approche quantitative en histoire de
+                l’art.</p>
               <p>Techniquement très simple, le site utilise le service <ref
-              target="https://sites.google.com">Google sites</ref>.</p> </note>
+                  target="https://sites.google.com">Google sites</ref>.</p>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">Mapping Titian</title>
-            <title type="sub"
-              >See the history of art by mapping Titian’s paintings across time and space</title>
-            <principal> <persName> <forename>Jodi</forename> <surname>Cranston</surname> </persName>
-              <persName> <forename>Antien</forename> <surname>Knaap</surname> </persName> </principal>
+            <title type="sub">See the history of art by mapping Titian’s paintings across time and
+              space</title>
+            <principal>
+              <persName>
+                <forename>Jodi</forename>
+                <surname>Cranston</surname>
+              </persName>
+              <persName>
+                <forename>Antien</forename>
+                <surname>Knaap</surname>
+              </persName>
+            </principal>
             <funder>Kress Foundation</funder>
           </titleStmt>
           <publicationStmt>
-            <authority>Department of History of Art &amp; Architecture at Boston University</authority>
+            <authority>Department of History of Art &amp; Architecture at Boston
+              University</authority>
             <publisher>Boston University</publisher>
+            <pubPlace>Boston</pubPlace>
             <date when="2015">2015</date>
             <idno>http://www.mappingtitian.org</idno>
+            <idno type="internetArchive"
+              >https://web.archive.org/web/20210927012903/http://www.mappingtitian.org/</idno>
           </publicationStmt>
           <notesStmt>
-            <note xml:lang="fre">
-              <p>Le projet propose une cartographie des œuvres du Titien. C’est un site collaboratif qui permet l’édition d’un catalogue d’œuvres et leur visualisation sur une carte.</p>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet propose une cartographie des œuvres du Titien. C’est un site collaboratif
+                qui permet l’édition d’un catalogue d’œuvres et leur visualisation sur une
+                carte.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>The Digital Michelangelo Project</title>
-            <principal> <persName> <forename>Levoy</forename> <surname>Marc</surname> </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Marc</forename>
+                <surname>Levoy</surname>
+              </persName>
+            </principal>
             <funder>Stanford University</funder>
+            <funder>Interval Research Corporation</funder>
+            <funder>Paul G. Allen Foundation for the Arts</funder>
           </titleStmt>
           <publicationStmt>
             <authority>Stanford University</authority>
-            <authority>University of Washington</authority>
-            <date from="1997" to="1999">1997 à 1999</date>
-            <publisher />
+            <publisher>University of Washington</publisher>
+            <pubPlace>Stanford</pubPlace>
+            <date from="1997" to="2004">1997 à 2004</date>
             <idno>http://graphics.stanford.edu/projects/mich/</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Recent improvements in laser rangefinder technology, together with algorithms
+                developed at <orgName>Stanford</orgName> for combining multiple range and color
+                images, allow us to reliably and accurately digitize the external shape and surface
+                characteristics of many physical objects. Examples include machine parts, cultural
+                artifacts, and design models for the manufacturing, moviemaking, and video game
+                industries. As an application of this technology, a team of 30 faculty, staff, and
+                students from <orgName>Stanford University</orgName> and <orgName>the University of
+                  Washington</orgName> spent the 1998-99 academic year in Italy scanning the
+                sculptures and architecture of Michelangelo. As a side project, we also scanned
+                1,163 fragments of the Forma Urbis Romae, a giant marble map of ancient Rome. We are
+                currently back in the United States processing the data we acquired. Our goal is to
+                produce a set of 3D computer models - one for each statue, architectural setting,
+                and map fragment we scanned - and to make these models available to scholars
+                worldwide. The motivations behind this project are to advance the technology of 3D
+                scanning, to place this technology in the service of the humanities, and to create a
+                long-term digital archive of some important cultural artifacts. Our sponsors are
+                  <orgName>Stanford University</orgName>, <orgName>Interval Research
+                  Corporation</orgName> and <orgName>the Paul G. Allen Foundation for the
+                  Arts</orgName>. Our collaborators, a mix of computer scientists and art
+                historians, include the Italian museums and institutions whose names are listed
+                below.</p>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">Wired !</title>
             <title type="sub">Digital art history &amp; visual culture</title>
-            <principal> <persName> <forename /> <surname /> </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Kristin Huffman</forename>
+                <surname>Lanzoni</surname>
+              </persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>Wired !</publisher>
+            <publisher>Duke University</publisher>
+            <pubPlace>Duhram</pubPlace>
+            <date from="2009" to="2015">2009 à 2015</date>
             <idno>http://www.dukewired.org</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
-              <p>Wired ! est un groupe de chercheurs de l’univeristé de Duke qui appliquent les technologies de visualisation culturelle et historique et leurs méthodes à l’étude de la culture matérielle, de l’art, de l’architecture et à l’histoire urbaine.</p>
+            <note type="abstract" xml:lang="fr">
+              <p>Wired ! est un groupe de chercheurs de l’univeristé de Duke qui appliquent les
+                technologies de visualisation culturelle et historique et leurs méthodes à l’étude
+                de la culture matérielle, de l’art, de l’architecture et à l’histoire urbaine.</p>
+              <p>Le projet a changé de nom pour devenir le <title>Duke’s Digital Art History &amp; Visual
+                  Culture Research Lab</title>.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -493,27 +737,69 @@
           <titleStmt>
             <title type="main">Forma Urbis Romae</title>
             <title type="sub">Pianta monumentale di Roma per il grande giubileo del 2000</title>
+            <principal>
+              <orgName>Biblioteca Apostolica Vaticana</orgName>
+            </principal>
           </titleStmt>
           <publicationStmt>
             <publisher>Biblioteca Apostolica Vaticana</publisher>
+            <pubPlace>Cité du Vatican</pubPlace>
+            <date when="2001">2001</date>
             <idno>http://www.vatican.va/formaurbis/index_fr.htm</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
-              <p>La Biblioteca Apostolica Vaticana  in collaborazione con l’Istituto Nazionale per la Grafica ha realizzato, in occasione del Grande Giubileo dell'Anno Duemila, una Pianta di Roma incisa su rame ad acquaforte e bulino e stampata seguendo i procedimenti  tradizionali della calcografia.</p>
+            <note type="abstract" xml:lang="it">
+              <p>La Biblioteca Apostolica Vaticana in collaborazione con l’Istituto Nazionale per la
+                Grafica ha realizzato, in occasione del Grande Giubileo dell'Anno Duemila, una
+                Pianta di Roma incisa su rame ad acquaforte e bulino e stampata seguendo i
+                procedimenti tradizionali della calcografia.</p>
+            </note>
+            <note type="projectBib">
+              <biblStruct>
+                <analytic>
+                  <title type="a"> La Forma Urbis Romae, Bilan de vingt-cinq années de recherches </title>
+                  <author>
+                    <persName>
+                      <forename>Charles</forename>
+                      <surname>Davoine</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Histoire Urbaine</title>
+                  <imprint>
+                    <date when="2007">2007</date>
+                    <biblScope unit="issue">3</biblScope>
+                    <biblScope unit="volume">20</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url">https://www.cairn.info/revue-histoire-urbaine-2007-3-page-133.htm</ref>
+              </biblStruct>
             </note>
           </notesStmt>
-          <!-- https://www.cairn.info/revue-histoire-urbaine-2007-3-page-133.htm -->
         </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">Visualizing Venice</title>
             <title type="sub">Exploring the city’s past</title>
-            <principal> <persName> <forename>Alessandra</forename> <surname>Ferrighi</surname>
-              </persName> <persName> <forename>Kristin</forename> <surname>Lanzoni</surname>
-              </persName> <persName> <forename>Cosimo</forename> <surname>Monteleone</surname>
-              </persName> <persName> <forename>Elena</forename> <surname>Svalduz</surname>
-              </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Alessandra</forename>
+                <surname>Ferrighi</surname>
+              </persName>
+              <persName>
+                <forename>Kristin</forename>
+                <surname>Lanzoni</surname>
+              </persName>
+              <persName>
+                <forename>Cosimo</forename>
+                <surname>Monteleone</surname>
+              </persName>
+              <persName>
+                <forename>Elena</forename>
+                <surname>Svalduz</surname>
+              </persName>
+            </principal>
             <funder>Gladys Krieble Delmas Foundation</funder>
             <funder>Fondazione di Venezia</funder>
             <funder>Regione del Veneto</funder>
@@ -524,9 +810,17 @@
             <authority>Duke University</authority>
             <authority>Università luav di Venezia</authority>
             <authority>Università degli Studi di Padova</authority>
+            <pubPlace/>
+            <!-- NEED INFO -->
             <date from="2009" to="2015">2015</date>
             <idno>http://www.visualizingvenice.org/visu/</idno>
           </publicationStmt>
+          <noteStmt>
+            <note type="abstract" xml:lang="">
+              <p/>
+              <!-- NEED INFO -->
+            </note>
+          </noteStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -560,7 +854,7 @@
             <title>Raphael Research Resource</title>
           </titleStmt>
           <publicationStmt>
-            <publisher />
+            <publisher/>
             <idno>http://cima.ng-london.org.uk/documentation/</idno>
           </publicationStmt>
         </biblFull>
@@ -587,10 +881,20 @@
         <biblFull>
           <titleStmt>
             <title>Mapping Gothic France</title>
-            <principal> <persName> <forename>Stephen</forename> <surname>Murray</surname>
-              </persName> <persName> <forename>Andrew</forename> <surname>Tallon</surname>
-              </persName> <persName> <forename>Rory</forename> <surname>O’Neill</surname>
-              </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Stephen</forename>
+                <surname>Murray</surname>
+              </persName>
+              <persName>
+                <forename>Andrew</forename>
+                <surname>Tallon</surname>
+              </persName>
+              <persName>
+                <forename>Rory</forename>
+                <surname>O’Neill</surname>
+              </persName>
+            </principal>
             <funder>The Mellon Foundation</funder>
           </titleStmt>
           <publicationStmt>
@@ -605,7 +909,7 @@
             <title>FACES: Faces, Art, and Computerized Evaluation Systems, Phase II</title>
           </titleStmt>
           <publicationStmt>
-            <publisher />
+            <publisher/>
             <idno><![CDATA[https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HD-51735-13]]></idno>
           </publicationStmt>
         </biblFull>
@@ -627,7 +931,7 @@
             <funder>Humanities Research Council</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher />
+            <publisher/>
             <idno>http://isda.ncsa.illinois.edu/DID/</idno>
           </publicationStmt>
         </biblFull>
@@ -648,15 +952,18 @@
           </titleStmt>
           <publicationStmt>
             <publisher>Stiftung Museum Kunstpalast, Düsseldorf</publisher>
-            <publisher>Cologne Institute of Conservation Sciences / Cologne University of Applied Sciences</publisher>
-            <date from="2009" to="2018" />
+            <publisher>Cologne Institute of Conservation Sciences / Cologne University of Applied
+              Sciences</publisher>
+            <date from="2009" to="2018"/>
             <idno>http://www.lucascranach.org</idno>
           </publicationStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>Chapelle numérique</title>
-            <principal> <persName>Bibliothèque Vaclav Havel</persName> </principal>
+            <principal>
+              <persName>Bibliothèque Vaclav Havel</persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
             <publisher>Bibliothèque Vaclav Havel</publisher>
@@ -665,27 +972,45 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>La Chapelle numérique est un fonds documentaire sur le quartier de la Chapelle, dans le dix-huitième arrondissement de Paris. Il s’agit d’un projet amateur de collecte et de mise en commun de ressources numérisées libres de droits. Il s’agit de rendre justice de la richesse et de la diversité de ce quartier multiculturel et populaire parisien.</p>
+              <p>La Chapelle numérique est un fonds documentaire sur le quartier de la Chapelle,
+                dans le dix-huitième arrondissement de Paris. Il s’agit d’un projet amateur de
+                collecte et de mise en commun de ressources numérisées libres de droits. Il s’agit
+                de rendre justice de la richesse et de la diversité de ce quartier multiculturel et
+                populaire parisien.</p>
               <p>Le projet utilise l’application <ref target="http://umap.openstreetmap.fr/"
-              >umap</ref> qui permet de créer des cartes personnalisées sur des fonds d’<ref
-              target="http://osm.org/">OpenStreetMap</ref></p> </note>
+                  >umap</ref> qui permet de créer des cartes personnalisées sur des fonds d’<ref
+                  target="http://osm.org/">OpenStreetMap</ref></p>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>Hidden Florence</title>
-            <principal> <persName> <forename>Fabrizio</forename> <surname>Nevola</surname>
-              </persName> <orgName>University of Exeter</orgName> </principal>
+            <principal>
+              <persName>
+                <forename>Fabrizio</forename>
+                <surname>Nevola</surname>
+              </persName>
+              <orgName>University of Exeter</orgName>
+            </principal>
             <respStmt>
               <resp>auteur</resp>
-              <persName> <forename>Fabrizio</forename> <surname>Nevola</surname> </persName>
+              <persName>
+                <forename>Fabrizio</forename>
+                <surname>Nevola</surname>
+              </persName>
             </respStmt>
             <respStmt>
               <resp>auteur</resp>
-              <persName> <forename>David</forename> <surname>Rosenthal</surname> </persName>
+              <persName>
+                <forename>David</forename>
+                <surname>Rosenthal</surname>
+              </persName>
             </respStmt>
-            <funder>the Arts &amp; Humanities Research Council (UK) (grant number AH/K005138/1)</funder>
-            <funder>the HEFCE Higher Education Innovation Fund (HEIF) Open Innovation Fund pour le support dans la promotion de l’application et la création des films courts.</funder>
+            <funder>the Arts &amp; Humanities Research Council (UK) (grant number
+              AH/K005138/1)</funder>
+            <funder>the HEFCE Higher Education Innovation Fund (HEIF) Open Innovation Fund pour le
+              support dans la promotion de l’application et la création des films courts.</funder>
             <funder>Commune di Firenze</funder>
           </titleStmt>
           <publicationStmt>
@@ -695,43 +1020,66 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p><title>Hidden Florence</title> est une application gratuite pour téléphone intelligent qui offre une visite de la ville à travers un guide fictif « contemporain » des années 1490 qui serait un ouvrier de l’industrie lainière.</p>
-              <p>Le site designé par <ref target="http://kierongurner.co.uk/"
-              >Kieron Gurner</ref> est conçu avec WordPress. L’application a été développée par <ref
-              target="http://calvium.com">Calvium Ltd</ref></p> </note>
+              <p><title>Hidden Florence</title> est une application gratuite pour téléphone
+                intelligent qui offre une visite de la ville à travers un guide fictif «
+                contemporain » des années 1490 qui serait un ouvrier de l’industrie lainière.</p>
+              <p>Le site designé par <ref target="http://kierongurner.co.uk/">Kieron Gurner</ref>
+                est conçu avec WordPress. L’application a été développée par <ref
+                  target="http://calvium.com">Calvium Ltd</ref></p>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">Histoire du bâti Parisien</title>
-            <title type="sub"
-              >Petite cartographie des périodes de construction du bâti parisien et des monuments historiques de la capitale</title>
-            <principal> <persName>@comeetie</persName> </principal>
+            <title type="sub">Petite cartographie des périodes de construction du bâti parisien et
+              des monuments historiques de la capitale</title>
+            <principal>
+              <persName>@comeetie</persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher><ref target="http://www.comeetie.fr">Commeetie</ref> <ref
-              target="http://www.comeetie.fr">http://www.comeetie.fr</ref> </publisher>
+            <publisher><ref target="http://www.comeetie.fr">Commeetie</ref>
+              <ref target="http://www.comeetie.fr">http://www.comeetie.fr</ref>
+            </publisher>
             <date when="2015">2015</date>
             <idno>http://www.comeetie.fr/galerie/BatiParis/</idno>
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Carte qui permet de naviguer entre les différentes strates du bâti parisien conçue à partir des données de l’<ref
-              target="http://www.apur.org/article/donnees-disponibles-open-data"
-              >APUR</ref>. Il est possible de filtrer les immeubles selon leur date d’édification, et obtenir des informations sur les architectes et les immeubles classées titrées de la base de données des monumenst historiques <ref
-              target="http://www.culture.gouv.fr/culture/inventai/patrimoine/"
-              >Mérimée</ref> géolocalisées grâce à Wikimedia Commons.</p> </note>
+              <p>Carte qui permet de naviguer entre les différentes strates du bâti parisien conçue
+                à partir des données de l’<ref
+                  target="http://www.apur.org/article/donnees-disponibles-open-data">APUR</ref>. Il
+                est possible de filtrer les immeubles selon leur date d’édification, et obtenir des
+                informations sur les architectes et les immeubles classées titrées de la base de
+                données des monumenst historiques <ref
+                  target="http://www.culture.gouv.fr/culture/inventai/patrimoine/">Mérimée</ref>
+                géolocalisées grâce à Wikimedia Commons.</p>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">The Paintings of Paul Cézanne</title>
-            <title type="sub"
-              >An online catalogue raisonné under the direction of Walter Feilchenfeldt, Jayne Warman and David Nash</title>
-            <principal> <persName> <forename>Walter</forename> <surname>Feilchenfeldt</surname>
-              </persName> </principal>
-            <principal> <persName> <forename>Jayne</forename> <surname>Warman</surname> </persName> </principal>
-            <principal> <persName> <forename>David</forename> <surname>Nash</surname> </persName>
+            <title type="sub">An online catalogue raisonné under the direction of Walter
+              Feilchenfeldt, Jayne Warman and David Nash</title>
+            <principal>
+              <persName>
+                <forename>Walter</forename>
+                <surname>Feilchenfeldt</surname>
+              </persName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>Jayne</forename>
+                <surname>Warman</surname>
+              </persName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>David</forename>
+                <surname>Nash</surname>
+              </persName>
             </principal>
           </titleStmt>
           <publicationStmt>
@@ -741,10 +1089,20 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Ce catalogue raisonné est une tentative de rendre compte de l’œuvre complet du peintre. Le projet tire parti de la versatilité des technologies numériques et entend orienter la recherche sur le peintre dans de nouvelles voies. Le catalogue en ligne est interactif et peut être mis à jour de manière régulière afin que les utilisateurs soient assurés de toujours y trouver une information à jour. Les auteurs espèrent ainsi que ce catalogue bénéficie grandement aux chercheurs et aux étudiants qui pourront ainsi largement avoir accès à des recherches avancées et sauvegarder leurs résultats.</p>
-              <p>Le catalogue en ligne résulte d’un effort collaboratif. L’intérêt d’un catalogue en ligne consistant à le rendre largement consultable et à ses possibilités aisées de mise à jour.</p>
+              <p>Ce catalogue raisonné est une tentative de rendre compte de l’œuvre complet du
+                peintre. Le projet tire parti de la versatilité des technologies numériques et
+                entend orienter la recherche sur le peintre dans de nouvelles voies. Le catalogue en
+                ligne est interactif et peut être mis à jour de manière régulière afin que les
+                utilisateurs soient assurés de toujours y trouver une information à jour. Les
+                auteurs espèrent ainsi que ce catalogue bénéficie grandement aux chercheurs et aux
+                étudiants qui pourront ainsi largement avoir accès à des recherches avancées et
+                sauvegarder leurs résultats.</p>
+              <p>Le catalogue en ligne résulte d’un effort collaboratif. L’intérêt d’un catalogue en
+                ligne consistant à le rendre largement consultable et à ses possibilités aisées de
+                mise à jour.</p>
               <p>Design du site web et logiciel de base de données par <ref
-              target="http://panopticondesign.net/">panOpticon</ref></p> </note>
+                  target="http://panopticondesign.net/">panOpticon</ref></p>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
@@ -752,7 +1110,8 @@
             <title>QRator</title>
           </titleStmt>
           <publicationStmt>
-            <publisher>A joint project with UCL Centre for Digital Humanities, Centre for Advanced Spatial Analysis and UCL Museums</publisher>
+            <publisher>A joint project with UCL Centre for Digital Humanities, Centre for Advanced
+              Spatial Analysis and UCL Museums</publisher>
             <date when="2011">2011</date>
             <idno>http://www.qrator.org</idno>
           </publicationStmt>
@@ -761,36 +1120,65 @@
           <titleStmt>
             <title type="main">Past visions</title>
             <title type="sub">penned by Frederick William IV</title>
-            <principal> <persName> <forename>Marian</forename> <surname>Dörk</surname> </persName>
+            <principal>
+              <persName>
+                <forename>Marian</forename>
+                <surname>Dörk</surname>
+              </persName>
             </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher />
+            <publisher/>
             <date when="2016">2016</date>
             <idno>http://uclab.fh-potsdam.de/fw4/en/</idno>
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>This website and the visualisation prototype are being developed within the framework of the research project <ref
-              target="http://uclab.fh-potsdam.de/projects/vikus/"
-              >»VIKUS - Visualising Cultural Collections«</ref> that is funded by the Federal Ministry of Education and Research. Project partners are the Prussian Palaces and Gardens Foundation Berlin-Brandenburg (SPSG) and the Programmfabrik GmbH.</p>
-              <p>The visualisation is based on an online inventory catalogue of the drawings by Frederick William IV of Prussia. It was published in 2013 by the Prussian Palaces and Gardens Foundation Berlin-Brandenburg (SPSG). The SPSG received funding for the research and publishing of the online inventory catalogue by the German Research Foundation (DFG) the Reinhold and Elisabeth-Schulze-Foundation, the Scherping-Schulze-Foundation and the Fritz Thyssen Foundation.</p>
-              <p>The digital copies, metadata, and texts used in the visualisation were created by Dr. Jörg Meiner (project lead), Dr. Catharina Hasenclever (project lead 2006-2008), Antje Adler, Astrid Fritsche, Klaus Dorst, Stefan Gehlen, Dr. Gabriele Horn, Dr. Andreas Meinecke, Dr. Gerd-H. Zuchold, Dr. Rolf H. Johannsen, Prof. Dr. Harry Falk, Dr. Rolf Th. Senn and Dr. Sepp-Gustav Gröschel. Editor: Dr. Carsten Dilba.</p>
-              <p>The timeline information was supplemented with excerpts from the exhibition catalogue »Unglaublich ist sein Genie fürs Zeichnen« Friedrich Wilhelm IV. von Preußen (1795-1861) zum 150. Todestag, published on behalf of the Prussian Palaces and Gardens Foundation Berlin-Brandenburg by Jörg Meiner, 2011.</p>
-              <p>TECHNOLOGY : HTML5, CSS3, Canvas/WebGL, pixi.js und d3.js</p> </note>
+              <p>This website and the visualisation prototype are being developed within the
+                framework of the research project <ref
+                  target="http://uclab.fh-potsdam.de/projects/vikus/">»VIKUS - Visualising Cultural
+                  Collections«</ref> that is funded by the Federal Ministry of Education and
+                Research. Project partners are the Prussian Palaces and Gardens Foundation
+                Berlin-Brandenburg (SPSG) and the Programmfabrik GmbH.</p>
+              <p>The visualisation is based on an online inventory catalogue of the drawings by
+                Frederick William IV of Prussia. It was published in 2013 by the Prussian Palaces
+                and Gardens Foundation Berlin-Brandenburg (SPSG). The SPSG received funding for the
+                research and publishing of the online inventory catalogue by the German Research
+                Foundation (DFG) the Reinhold and Elisabeth-Schulze-Foundation, the
+                Scherping-Schulze-Foundation and the Fritz Thyssen Foundation.</p>
+              <p>The digital copies, metadata, and texts used in the visualisation were created by
+                Dr. Jörg Meiner (project lead), Dr. Catharina Hasenclever (project lead 2006-2008),
+                Antje Adler, Astrid Fritsche, Klaus Dorst, Stefan Gehlen, Dr. Gabriele Horn, Dr.
+                Andreas Meinecke, Dr. Gerd-H. Zuchold, Dr. Rolf H. Johannsen, Prof. Dr. Harry Falk,
+                Dr. Rolf Th. Senn and Dr. Sepp-Gustav Gröschel. Editor: Dr. Carsten Dilba.</p>
+              <p>The timeline information was supplemented with excerpts from the exhibition
+                catalogue »Unglaublich ist sein Genie fürs Zeichnen« Friedrich Wilhelm IV. von
+                Preußen (1795-1861) zum 150. Todestag, published on behalf of the Prussian Palaces
+                and Gardens Foundation Berlin-Brandenburg by Jörg Meiner, 2011.</p>
+              <p>TECHNOLOGY : HTML5, CSS3, Canvas/WebGL, pixi.js und d3.js</p>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">London Gallery Project</title>
-            <principal> <persName> <forename>Pamela</forename> <surname>Fletcher</surname>
-              </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Pamela</forename>
+                <surname>Fletcher</surname>
+              </persName>
+            </principal>
             <respStmt>
               <resp>Second Investigator and Technical Advisor</resp>
-              <persName> <forename>David</forename> <surname>Israel</surname> </persName>
+              <persName>
+                <forename>David</forename>
+                <surname>Israel</surname>
+              </persName>
             </respStmt>
             <funder>Funding for the project was provided by the <ref target="http://nitle.org/"
-              ><orgName>National Institute for Technology and Liberal Education</orgName></ref>, with student support from the Gibbons Summer Research Internship Fund, and the Bowdoin College Office of Information Technology.</funder>
+                  ><orgName>National Institute for Technology and Liberal Education</orgName></ref>,
+              with student support from the Gibbons Summer Research Internship Fund, and the Bowdoin
+              College Office of Information Technology.</funder>
           </titleStmt>
           <publicationStmt>
             <publisher>Bowdoin Art History Department</publisher>
@@ -802,41 +1190,68 @@
           <titleStmt>
             <title type="main">Vistas</title>
             <title type="sub">Visual Culture in Spanish America, 1520-1820</title>
-            <principal> <persName> <forename>Dana</forename> <surname>Leibsohn</surname> </persName> </principal>
-            <principal> <persName> <forename>Barbara E.</forename> <surname>Mundy</surname>
-              </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Dana</forename>
+                <surname>Leibsohn</surname>
+              </persName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>Barbara E.</forename>
+                <surname>Mundy</surname>
+              </persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher />
+            <publisher/>
             <idno>https://vistas.ace.fordham.edu</idno>
             <date from="2005" to="2015">2005-2015</date>
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>The Vistas project seeks to bring an understanding of the visual culture of Spanish America to a broad audience. Spanish America was an extensive region—covering much of the Americas, running from California to Chile from the 16th century to the early 19th century. Its visual culture was forged in urban centers, religious and frontier communities, and indigenous towns. The new Vistas website offers a gallery of high-resolution color images, each of them fully annotated, videos and interpretive essays on Vista’s six themes, along with discussion of related images. In the “Library” and “Texts” sections are primary documents relating to visual culture, with discussions and bibliography. Other features are seen in the sidebar.</p>
-              <p>This site was last updated in April 2015, with new design, addition of library/texts and Luna galleries.</p>
-              <p>http://www.smith.edu/vistas/ Copyright 2005, Dana Leibsohn and Barbara Mundy Please credit as: Leibsohn, Dana, and Barbara Mundy, Vistas: Visual Culture in Spanish America, 1520-1820. http://www.smith.edu/vistas, 2005.</p>
-              <p>This website supersedes an earlier Spanish-English one, which remains visible at www.smith.edu/vistas.</p>
+              <p>The Vistas project seeks to bring an understanding of the visual culture of Spanish
+                America to a broad audience. Spanish America was an extensive region—covering much
+                of the Americas, running from California to Chile from the 16th century to the early
+                19th century. Its visual culture was forged in urban centers, religious and frontier
+                communities, and indigenous towns. The new Vistas website offers a gallery of
+                high-resolution color images, each of them fully annotated, videos and interpretive
+                essays on Vista’s six themes, along with discussion of related images. In the
+                “Library” and “Texts” sections are primary documents relating to visual culture,
+                with discussions and bibliography. Other features are seen in the sidebar.</p>
+              <p>This site was last updated in April 2015, with new design, addition of
+                library/texts and Luna galleries.</p>
+              <p>http://www.smith.edu/vistas/ Copyright 2005, Dana Leibsohn and Barbara Mundy Please
+                credit as: Leibsohn, Dana, and Barbara Mundy, Vistas: Visual Culture in Spanish
+                America, 1520-1820. http://www.smith.edu/vistas, 2005.</p>
+              <p>This website supersedes an earlier Spanish-English one, which remains visible at
+                www.smith.edu/vistas.</p>
               <p> Vistas has been created with support from the <ref target="http://www.neh.fed.us/"
-              >National Endowment for the Humanities</ref>, and the <ref
-              target="http://www.inah.gob.mx/"
-              >Instituto Nacional de Antropología e Historia</ref>.</p> </note>
+                  >National Endowment for the Humanities</ref>, and the <ref
+                  target="http://www.inah.gob.mx/">Instituto Nacional de Antropología e
+                  Historia</ref>.</p>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>The Corpus of Medieval Narrative Art</title>
-            <principal> <persName> <forename>Stuart</forename> <surname>Whatling</surname>
-              </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Stuart</forename>
+                <surname>Whatling</surname>
+              </persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher />
+            <publisher/>
             <idno>http://www.medievalart.org.uk</idno>
             <date from="2006" to="2010">2006 à 2010</date>
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Ce site web est un entrepôt de photographies réalisées par l’auteur entre 2006 et 2010 dans le cadre de son travail de recherche doctorale.</p>
+              <p>Ce site web est un entrepôt de photographies réalisées par l’auteur entre 2006 et
+                2010 dans le cadre de son travail de recherche doctorale.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -846,15 +1261,20 @@
             <title type="sub">Achivio di immagini e testi dal XVIII al XIX secolo</title>
           </titleStmt>
           <publicationStmt>
-            <publisher />
+            <publisher/>
             <idno>http://pompei.sns.it</idno>
           </publicationStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>Verspera</title>
-            <author> <orgName>Fondation des Sciences du Patrimoine</orgName> </author>
-            <author> <persName> <forename>Mathieu </forename> <surname>da Vinha</surname>
+            <author>
+              <orgName>Fondation des Sciences du Patrimoine</orgName>
+            </author>
+            <author>
+              <persName>
+                <forename>Mathieu </forename>
+                <surname>da Vinha</surname>
               </persName>
               <!-- ingénieur de recherche, directeur scientifique, Centre de recherche du château de Versailles -->
             </author>
@@ -867,7 +1287,16 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Le projet de recherche « VERSPERA », porté par la Fondation des Sciences du Patrimoine. Celui-ci vise à rendre publics les plans du domaine de Versailles sous l’Ancien Régime et à en restituer certains espaces grâce à la modélisation 3D. Le corpus numérisé est conservé aux Archives nationales (Paris), à la Bibliothèque nationale de France et à l’Établissement public du château, du musée et du domaine national de Versailles. Ce projet répond à trois objectifs : préserver des fonds fragiles et difficilement accessibles, en faciliter l’accès via Internet à la communauté internationale scientifique interdisciplinaire et permettre, grâce à la modélisation, une réflexion sur l’utilisation qui pouvait être faite d’une résidence royale à l’époque moderne.</p>
+              <p>Le projet de recherche « VERSPERA », porté par la Fondation des Sciences du
+                Patrimoine. Celui-ci vise à rendre publics les plans du domaine de Versailles sous
+                l’Ancien Régime et à en restituer certains espaces grâce à la modélisation 3D. Le
+                corpus numérisé est conservé aux Archives nationales (Paris), à la Bibliothèque
+                nationale de France et à l’Établissement public du château, du musée et du domaine
+                national de Versailles. Ce projet répond à trois objectifs : préserver des fonds
+                fragiles et difficilement accessibles, en faciliter l’accès via Internet à la
+                communauté internationale scientifique interdisciplinaire et permettre, grâce à la
+                modélisation, une réflexion sur l’utilisation qui pouvait être faite d’une résidence
+                royale à l’époque moderne.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -894,8 +1323,15 @@
             <idno>http://emblematica.grainger.illinois.edu</idno>
           </publicationStmt>
           <notesStmt>
-            <note> <p>Discover the early modern world of texts and images here!</p>
-              <p>Emblematica Online draws from the most important collections of emblematica worldwide. It is hosted by the University of Illinois at Urbana-Champaign, and its founding partner is the Herzog August Bibliothek, Wolfenbüttel. Contributing partners include Glasgow University Library and Utrecht University, which contributed both book- and emblem-level data. Additional contributors include the Getty Research Institute Library and Duke University Library, both of which contributed book-level information.</p>
+            <note>
+              <p>Discover the early modern world of texts and images here!</p>
+              <p>Emblematica Online draws from the most important collections of emblematica
+                worldwide. It is hosted by the University of Illinois at Urbana-Champaign, and its
+                founding partner is the Herzog August Bibliothek, Wolfenbüttel. Contributing
+                partners include Glasgow University Library and Utrecht University, which
+                contributed both book- and emblem-level data. Additional contributors include the
+                Getty Research Institute Library and Duke University Library, both of which
+                contributed book-level information.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -903,39 +1339,67 @@
           <titleStmt>
             <title xml:lang="de">Kupferstichkabinett online</title>
             <title xml:lang="en">Virtual Printroom online</title>
-            <funder> <orgName>Niedersächsisches Ministerium für Wissenschaft und Kultur</orgName>
-              <date from="2018-04" to="2020-09">avril 2018 à septembre 2020</date> </funder>
+            <funder>
+              <orgName>Niedersächsisches Ministerium für Wissenschaft und Kultur</orgName>
+              <date from="2018-04" to="2020-09">avril 2018 à septembre 2020</date>
+            </funder>
           </titleStmt>
           <publicationStmt>
-            <publisher> <orgName>Herzog August Bibliothek (HAB)</orgName>
-              <placeName>Wolfenbüttel</placeName> </publisher>
-            <publisher> <orgName ref="http://www.haum.niedersachsen.de/"
-              >Herzog Anton Ulrich Museum (HAUM)</orgName> <placeName>Braunschweig</placeName> </publisher>
+            <publisher>
+              <orgName>Herzog August Bibliothek (HAB)</orgName>
+              <placeName>Wolfenbüttel</placeName>
+            </publisher>
+            <publisher>
+              <orgName ref="http://www.haum.niedersachsen.de/">Herzog Anton Ulrich Museum
+                (HAUM)</orgName>
+              <placeName>Braunschweig</placeName>
+            </publisher>
             <idno>http://diglib.hab.de/?link=046</idno>
             <idno>http://www.virtuelles-kupferstichkabinett.de</idno>
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>The aim of the project is to create a virtual combination of a representative selection of items from the print collections of both institutions. These include holdings which once belonged to the former ducal collections, but are now divided between the HAUM and the HAB. The main focus will be on works dating from before 1850. In the first project phase more than 37,000 prints have been digitalised and described. In this project phase additional 8,000 grafic sheets shall be digitalised and described, among them sheets from volumes of the dukes Julius, Heinrich Julius and August and of the graphic and topographic collections. Descriptions and linked images will be entered into a database which will be freely available via the internet. Formal descriptions will be based on international standards. In addition all imprints will be indexed by Foto Marburg using Iconclass. The database will be accessible via a common internet portal of the HAUM and HAB, as well as through the indexes of the archives of Bildarchiv Foto Marburg.</p>
+              <p>The aim of the project is to create a virtual combination of a representative
+                selection of items from the print collections of both institutions. These include
+                holdings which once belonged to the former ducal collections, but are now divided
+                between the HAUM and the HAB. The main focus will be on works dating from before
+                1850. In the first project phase more than 37,000 prints have been digitalised and
+                described. In this project phase additional 8,000 grafic sheets shall be digitalised
+                and described, among them sheets from volumes of the dukes Julius, Heinrich Julius
+                and August and of the graphic and topographic collections. Descriptions and linked
+                images will be entered into a database which will be freely available via the
+                internet. Formal descriptions will be based on international standards. In addition
+                all imprints will be indexed by Foto Marburg using Iconclass. The database will be
+                accessible via a common internet portal of the HAUM and HAB, as well as through the
+                indexes of the archives of Bildarchiv Foto Marburg.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">Virtual St. Paul’s cathedral project</title>
-            <title type="sub"
-              >A digital re-creation of worship and preaching at St. Paul’s cathedral in early modern London</title>
+            <title type="sub">A digital re-creation of worship and preaching at St. Paul’s cathedral
+              in early modern London</title>
           </titleStmt>
           <publicationStmt>
             <publisher>NC State University</publisher>
-            <date />
+            <date/>
             <idno>https://vpcp.chass.ncsu.edu</idno>
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>The Virtual St Paul’s Cathedral Project will enable us to experience worship and preaching at St Paul’s Cathedral and in Paul’s Churchyard as events that unfold over time and on particular occasions in London in the early seventeenth century.</p>
-              <p>In time, this site will host a visual model of St Paul’s Cathedral and the surrounding churchyard, together with a recreation of worship for Easter Sunday 1624, with all the liturgical events of the day, including choir and organ music plus a sermon in the morning by Bishop Lancelot Andrewes and a sermon in the afternoon by John Donne, Dean of the cathedral.</p>
-              <p>For now, the site hosts the first phase of this project, the Virtual Paul’s Cross Project, which has already been completed. This Project provides the experience of hearing John Donne’s sermon for Gunpowder Day, November 5th, 1622 in Paul’s Churchyard, the specific physical location for which it was composed.</p>
+              <p>The Virtual St Paul’s Cathedral Project will enable us to experience worship and
+                preaching at St Paul’s Cathedral and in Paul’s Churchyard as events that unfold over
+                time and on particular occasions in London in the early seventeenth century.</p>
+              <p>In time, this site will host a visual model of St Paul’s Cathedral and the
+                surrounding churchyard, together with a recreation of worship for Easter Sunday
+                1624, with all the liturgical events of the day, including choir and organ music
+                plus a sermon in the morning by Bishop Lancelot Andrewes and a sermon in the
+                afternoon by John Donne, Dean of the cathedral.</p>
+              <p>For now, the site hosts the first phase of this project, the Virtual Paul’s Cross
+                Project, which has already been completed. This Project provides the experience of
+                hearing John Donne’s sermon for Gunpowder Day, November 5th, 1622 in Paul’s
+                Churchyard, the specific physical location for which it was composed.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -950,7 +1414,10 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>This project digitizes a pioneering collection generated by one of the world's most recognized artists. The innovative digitization and exhibition of this archive will make public for the first time a resource for scholars of history, art, architecture, and urban studies, available in 2020.</p>
+              <p>This project digitizes a pioneering collection generated by one of the world's most
+                recognized artists. The innovative digitization and exhibition of this archive will
+                make public for the first time a resource for scholars of history, art,
+                architecture, and urban studies, available in 2020.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -966,13 +1433,18 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Getty Scholars' Workspace™ is an online environment designed to support collaborative art-historical research. It provides a space and a toolset that enable research teams to examine digital surrogates of works of art and primary source materials, build a bibliography, translate and annotate texts, and exchange ideas. With Scholars' Workspace, research and communication are consolidated into a single online location accessible from anywhere.</p>
+              <p>Getty Scholars' Workspace™ is an online environment designed to support
+                collaborative art-historical research. It provides a space and a toolset that enable
+                research teams to examine digital surrogates of works of art and primary source
+                materials, build a bibliography, translate and annotate texts, and exchange ideas.
+                With Scholars' Workspace, research and communication are consolidated into a single
+                online location accessible from anywhere.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title />
+            <title/>
           </titleStmt>
           <publicationStmt>
             <publisher>Getty</publisher>
@@ -982,9 +1454,18 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Mutual Muses is a crowdsourced transcription project undertaken by the Digital Art History program at the Getty Research Institute in 2017. The project crowdsourced transcriptions of correspondence from the archives of art critic Lawrence Alloway (1926-1990) and feminist artist Sylvia Sleigh (ca. 1916-2010), which are held at the Getty Research Institute. These letters reveal the intimate early stages of their respective careers and intertwined personal lives in postwar England from 1948-1953. The results of this project include transcription data for 2,376 documents from these archives, as well as code used for processing and analyzing the data results and producing file outputs.</p> </note>
+              <p>Mutual Muses is a crowdsourced transcription project undertaken by the Digital Art
+                History program at the Getty Research Institute in 2017. The project crowdsourced
+                transcriptions of correspondence from the archives of art critic Lawrence Alloway
+                (1926-1990) and feminist artist Sylvia Sleigh (ca. 1916-2010), which are held at the
+                Getty Research Institute. These letters reveal the intimate early stages of their
+                respective careers and intertwined personal lives in postwar England from 1948-1953.
+                The results of this project include transcription data for 2,376 documents from
+                these archives, as well as code used for processing and analyzing the data results
+                and producing file outputs.</p>
+            </note>
             <note><p>This publication uses data generated via the <ref
-              target="http://www.zooniverse.org">Zooniverse platform</ref>.</p></note>
+                  target="http://www.zooniverse.org">Zooniverse platform</ref>.</p></note>
           </notesStmt>
         </biblFull>
         <biblFull>
@@ -992,18 +1473,32 @@
             <title>Digital Serlio</title>
             <funder>Sidney J. Weinberg, Jr. Foundation</funder>
             <funder>Samuel Freeman Charitable Trust</funder>
-            <editor> <persName> <forename>Francesco</forename> <surname>Benelli</surname>
-              </persName> </editor>
+            <editor>
+              <persName>
+                <forename>Francesco</forename>
+                <surname>Benelli</surname>
+              </persName>
+            </editor>
           </titleStmt>
           <publicationStmt>
-            <publisher>The Italian Academy for advanced studies in America, Columbia University</publisher>
+            <publisher>The Italian Academy for advanced studies in America, Columbia
+              University</publisher>
             <date>2018</date>
             <idno>http://italianacademy.columbia.edu/digital-serlio-project</idno>
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>The Digital Serlio project establishes online access to Avery Classics' corpus of Sebastiano Serlio editions and his unpublished manuscript "On Domestic Architecture" (Tutte l'opere d'architettura, Libro VI, 1619). Research for this project is being conducted in Getty Scholars' Workspace v 1.1.</p>
-              <p>An international team of scholars is coordinated by Prof. Francesco Benelli, while scholars and staff at the Avery Library direct the effort in collaboration with the Graduate School of Architecture, Planning and Preservation (GSAPP), and the Italian Academy, all at Columbia, as well as Avery Friends, the University of Bologna and the École nationale des Chartes. Digital photography and project support are provided by the Avery Digital Lab and (also within Columbia's Libraries) the Digital Program Division and the Preservation and Digital Conversion Division.</p>
+              <p>The Digital Serlio project establishes online access to Avery Classics' corpus of
+                Sebastiano Serlio editions and his unpublished manuscript "On Domestic Architecture"
+                (Tutte l'opere d'architettura, Libro VI, 1619). Research for this project is being
+                conducted in Getty Scholars' Workspace v 1.1.</p>
+              <p>An international team of scholars is coordinated by Prof. Francesco Benelli, while
+                scholars and staff at the Avery Library direct the effort in collaboration with the
+                Graduate School of Architecture, Planning and Preservation (GSAPP), and the Italian
+                Academy, all at Columbia, as well as Avery Friends, the University of Bologna and
+                the École nationale des Chartes. Digital photography and project support are
+                provided by the Avery Digital Lab and (also within Columbia's Libraries) the Digital
+                Program Division and the Preservation and Digital Conversion Division.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1018,15 +1513,23 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Using laser-scanning technology, this project examines Hans Scharoun’s iconic Berlin Philharmonie (1960–1963) through 3-D renderings. The project’s first phase, a collaboration with the Fraunhofer Institute’s Competence Center for Cultural Heritage Digitization, produced a physical model of the hall, which was featured in the exhibition Berlin/LA: Spaces for Music.</p>
+              <p>Using laser-scanning technology, this project examines Hans Scharoun’s iconic
+                Berlin Philharmonie (1960–1963) through 3-D renderings. The project’s first phase, a
+                collaboration with the Fraunhofer Institute’s Competence Center for Cultural
+                Heritage Digitization, produced a physical model of the hall, which was featured in
+                the exhibition Berlin/LA: Spaces for Music.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>Mnemosyne. Meanderings through Aby Warburg’s Atlas</title>
-            <editor> <persName> <surname>Christopher D.</surname> <forename>Johnson</forename>
-              </persName> </editor>
+            <editor>
+              <persName>
+                <surname>Christopher D.</surname>
+                <forename>Johnson</forename>
+              </persName>
+            </editor>
           </titleStmt>
           <publicationStmt>
             <publisher>Cornell University</publisher>
@@ -1035,16 +1538,32 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>This website presents ten of these photographed panels, selected to exemplify both the cosmographical and art-historical content of the Mnemosyne Atlas. Though offering but fragments of a fragment, it is designed to show some of the Wanderstrassen that Warburg pursued in the Atlas. The Warburg Institute has provided new, better scans of the surviving photographs – better, that is, than the images seen in the Gesammelte Schriften volume and other publications (to say nothing of other venues on the Web).</p>
-              <p>Furthermore, the ability to zoom in and out on the panels and on individual images permits a closer inspection of the material aspects of the Atlas. Alternately, if you click on individual images, a window providing identifying information will appear; frequently links to further iterations and permutations on the same image are also provided. Finally, under the tab “Guided Panels,” the user will find interpretations of individual panels by myself and other scholars. Such meanderings, of course, are meant to be at best exemplary, but never exhaustive.</p>
+              <p>This website presents ten of these photographed panels, selected to exemplify both
+                the cosmographical and art-historical content of the Mnemosyne Atlas. Though
+                offering but fragments of a fragment, it is designed to show some of the
+                Wanderstrassen that Warburg pursued in the Atlas. The Warburg Institute has provided
+                new, better scans of the surviving photographs – better, that is, than the images
+                seen in the Gesammelte Schriften volume and other publications (to say nothing of
+                other venues on the Web).</p>
+              <p>Furthermore, the ability to zoom in and out on the panels and on individual images
+                permits a closer inspection of the material aspects of the Atlas. Alternately, if
+                you click on individual images, a window providing identifying information will
+                appear; frequently links to further iterations and permutations on the same image
+                are also provided. Finally, under the tab “Guided Panels,” the user will find
+                interpretations of individual panels by myself and other scholars. Such meanderings,
+                of course, are meant to be at best exemplary, but never exhaustive.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>Artigo Social Image Tagging</title>
-            <editor> <persName> <forename>Hubertus</forename> <surname>Kohle</surname></persName>
-              <orgName>LMU Munich</orgName> </editor>
+            <editor>
+              <persName>
+                <forename>Hubertus</forename>
+                <surname>Kohle</surname></persName>
+              <orgName>LMU Munich</orgName>
+            </editor>
           </titleStmt>
           <publicationStmt>
             <publisher>LMU Munich</publisher>
@@ -1054,12 +1573,20 @@
         <biblFull>
           <titleStmt>
             <title>Itinera</title>
-            <editor> <persName ref="http://www.dhrx.pitt.edu/2012/11/drew-armstrong/">
-              <forename>Christopher Drew</forename> <surname>Armstrong</surname>
-              <roleName>Academic Director</roleName> </persName> </editor>
-            <editor> <persName ref="http://www.dhrx.pitt.edu/2012/11/alison-langmead/">
-              <forename>Alison</forename> <surname>Langmead</surname> </persName>
-              <roleName>Technical Director</roleName> </editor>
+            <editor>
+              <persName ref="http://www.dhrx.pitt.edu/2012/11/drew-armstrong/">
+                <forename>Christopher Drew</forename>
+                <surname>Armstrong</surname>
+                <roleName>Academic Director</roleName>
+              </persName>
+            </editor>
+            <editor>
+              <persName ref="http://www.dhrx.pitt.edu/2012/11/alison-langmead/">
+                <forename>Alison</forename>
+                <surname>Langmead</surname>
+              </persName>
+              <roleName>Technical Director</roleName>
+            </editor>
           </titleStmt>
           <publicationStmt>
             <publisher>University of Pittsburgh</publisher>
@@ -1067,25 +1594,69 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Travel played a pivotal role in the shaping of the intellectual and artistic culture of eighteenth- and nineteenth-century Europe. While capital cities such as Rome, Paris, and London served as major attractions for travelers, the increasing specialization and ease of mobility over the course of these centuries drove exploration into remote areas such as Greece, Egypt, and the Near East. Simultaneously, an interest in “national” landscapes and antiquities made infrequently trafficked local regions the focus of new forms of tourism. The ramifications of this expansion of cultural tourism during the eighteenth and nineteenth centuries have been the subject of recent scholarly debates since, and Itinera offers a platform through which contemporary interests may engage with these issues.</p>
-              <p>Visualizing, understanding, and generating new insights into the changing patterns and objectives for these types of travel are the primary motivators of behind Itinera. Designed to allow scholars and students to better comprehend the interconnected phenomena of mobility, object collection, and site documentation in the eighteenth and nineteenth centuries, Itinera is an map-based, interactive, digital resource that overlays and juxtaposes the movements of travelers alongside the objects of their study and their own creative output. Itinera therefore operates on between two central modelings. The “Travelers” section introduces a user of this site to the historical network in which individual agents existed, while the “Routes” and “Chronology” sections sketch the travels undertaken during their lifetimes.</p>
-              <p>This digital environment has been proactively developed to collect and present historical data within a richly and transparently-structured visual context. Itinera presents the opportunity for academics and enthusiasts alike to engage with the phenomena of cultural tourism through an innovative academic apparatus. These visualizations not only account for the pre-existing scholarship on individual tours, but more crucially, Itinera promotes user-centric inquiry into the creation of meaningful historical relationships among people, objects, and sites.</p>
+              <p>Travel played a pivotal role in the shaping of the intellectual and artistic
+                culture of eighteenth- and nineteenth-century Europe. While capital cities such as
+                Rome, Paris, and London served as major attractions for travelers, the increasing
+                specialization and ease of mobility over the course of these centuries drove
+                exploration into remote areas such as Greece, Egypt, and the Near East.
+                Simultaneously, an interest in “national” landscapes and antiquities made
+                infrequently trafficked local regions the focus of new forms of tourism. The
+                ramifications of this expansion of cultural tourism during the eighteenth and
+                nineteenth centuries have been the subject of recent scholarly debates since, and
+                Itinera offers a platform through which contemporary interests may engage with these
+                issues.</p>
+              <p>Visualizing, understanding, and generating new insights into the changing patterns
+                and objectives for these types of travel are the primary motivators of behind
+                Itinera. Designed to allow scholars and students to better comprehend the
+                interconnected phenomena of mobility, object collection, and site documentation in
+                the eighteenth and nineteenth centuries, Itinera is an map-based, interactive,
+                digital resource that overlays and juxtaposes the movements of travelers alongside
+                the objects of their study and their own creative output. Itinera therefore operates
+                on between two central modelings. The “Travelers” section introduces a user of this
+                site to the historical network in which individual agents existed, while the
+                “Routes” and “Chronology” sections sketch the travels undertaken during their
+                lifetimes.</p>
+              <p>This digital environment has been proactively developed to collect and present
+                historical data within a richly and transparently-structured visual context. Itinera
+                presents the opportunity for academics and enthusiasts alike to engage with the
+                phenomena of cultural tourism through an innovative academic apparatus. These
+                visualizations not only account for the pre-existing scholarship on individual
+                tours, but more crucially, Itinera promotes user-centric inquiry into the creation
+                of meaningful historical relationships among people, objects, and sites.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">EAT data scape</title>
-            <title type="sub"
-              >1962-Today. An Exploration of the Experiments in Art and Technology Archives</title>
-            <principal> <persName> <forename>Christophe</forename> <surname>Leclercq</surname>
-              </persName> <roleName>art historian, project lead (research)</roleName> </principal>
-            <principal> <persName> <forename>Paul</forename> <surname>Girard</surname> </persName>
-              <roleName>engineer, project lead (technology and methodology)</roleName> </principal>
-            <principal> <persName> <forename>Patrick</forename> <surname>Browne</surname>
+            <title type="sub">1962-Today. An Exploration of the Experiments in Art and Technology
+              Archives</title>
+            <principal>
+              <persName>
+                <forename>Christophe</forename>
+                <surname>Leclercq</surname>
               </persName>
-              <roleName>intern engineer, development of the information system</roleName> </principal>
-            <principal> <persName> <forename>Daniele</forename> <surname>Guido</surname> </persName>
+              <roleName>art historian, project lead (research)</roleName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>Paul</forename>
+                <surname>Girard</surname>
+              </persName>
+              <roleName>engineer, project lead (technology and methodology)</roleName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>Patrick</forename>
+                <surname>Browne</surname>
+              </persName>
+              <roleName>intern engineer, development of the information system</roleName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>Daniele</forename>
+                <surname>Guido</surname>
+              </persName>
               <roleName>designer, design and development of the visualization interfaces</roleName>
             </principal>
           </titleStmt>
@@ -1095,22 +1666,66 @@
             <idno>http://jiminy.medialab.sciences-po.fr/eat_datascape/</idno>
           </publicationStmt>
           <notesStmt>
-            <note>Experiments in Art and Technology (E.A.T.) is a renowned example of interdisciplinarity at the intersection of Art, Science and Technology, conceived by Rauschenberg, a co-founder of E.A.T., as a « map of engineers, money and equipment », facilitating collaborations between artist, engineer and industry. Despite the amount of information available, E.A.T.’s production and legacy remains unclear. The project, in collaboration with E.A.T. (represented by Julie Martin), is based on the organization’s numerous activities, developed in art and non-art contexts, including realized and unrealized works and projects from the 1960s to the present day. through a ‘datascape’. In the first place, the aim is to describe as extensively as possible the stories of works of art or projects, from their design and development stages to their different exhibitions and receptions. One of the main challenges is to produce a digital archive displaying the process of collaboration, not merely catalogue E.A.T.’s productions. Secondly, the archive will map these works and projects as networks of people, organizations, places and technologies, so as to better understand E.A.T.’s identity using the theories of Science and Technology Studies. The aim is to develop an online archive built as a research tool for humanities scholars in art and social art history. Their work, mapping the material in the archive, will provide the project’s added value; historical documents combined into information networks, revealed by various visualizations, will make of the archive a veritable exploratory tool.</note>
+            <note>Experiments in Art and Technology (E.A.T.) is a renowned example of
+              interdisciplinarity at the intersection of Art, Science and Technology, conceived by
+              Rauschenberg, a co-founder of E.A.T., as a « map of engineers, money and equipment »,
+              facilitating collaborations between artist, engineer and industry. Despite the amount
+              of information available, E.A.T.’s production and legacy remains unclear. The project,
+              in collaboration with E.A.T. (represented by Julie Martin), is based on the
+              organization’s numerous activities, developed in art and non-art contexts, including
+              realized and unrealized works and projects from the 1960s to the present day. through
+              a ‘datascape’. In the first place, the aim is to describe as extensively as possible
+              the stories of works of art or projects, from their design and development stages to
+              their different exhibitions and receptions. One of the main challenges is to produce a
+              digital archive displaying the process of collaboration, not merely catalogue E.A.T.’s
+              productions. Secondly, the archive will map these works and projects as networks of
+              people, organizations, places and technologies, so as to better understand E.A.T.’s
+              identity using the theories of Science and Technology Studies. The aim is to develop
+              an online archive built as a research tool for humanities scholars in art and social
+              art history. Their work, mapping the material in the archive, will provide the
+              project’s added value; historical documents combined into information networks,
+              revealed by various visualizations, will make of the archive a veritable exploratory
+              tool.</note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>Replica</title>
-            <principal> <persName> <forename>Isabella</forename> <surname>di Lenardo</surname>
-              <roleName>Project Head, Collaboratrice Scientifique, EPFL</roleName> </persName> </principal>
-            <principal> <persName> <forename>Benoît</forename> <surname>Seguin</surname> </persName>
-              <roleName>Ph.D. Student, EPFL</roleName> </principal>
-            <principal> <persName> <forename>Frédéric </forename> <surname>Kaplan</surname>
-              </persName> <roleName>Director DHLAB, EPFL</roleName> </principal>
-            <principal> <persName> <forename>Carlotta</forename> <surname>Striolo</surname>
-              </persName> <roleName>Intern, DHLAB - EPFL</roleName> </principal>
-            <principal> <persName> <forename>Lia</forename> <surname>Costiner</surname> </persName>
-              <roleName>Post Doc, DHLAB - EPFL</roleName> </principal>
+            <principal>
+              <persName>
+                <forename>Isabella</forename>
+                <surname>di Lenardo</surname>
+                <roleName>Project Head, Collaboratrice Scientifique, EPFL</roleName>
+              </persName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>Benoît</forename>
+                <surname>Seguin</surname>
+              </persName>
+              <roleName>Ph.D. Student, EPFL</roleName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>Frédéric </forename>
+                <surname>Kaplan</surname>
+              </persName>
+              <roleName>Director DHLAB, EPFL</roleName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>Carlotta</forename>
+                <surname>Striolo</surname>
+              </persName>
+              <roleName>Intern, DHLAB - EPFL</roleName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>Lia</forename>
+                <surname>Costiner</surname>
+              </persName>
+              <roleName>Post Doc, DHLAB - EPFL</roleName>
+            </principal>
           </titleStmt>
           <publicationStmt>
             <publisher>DHLAB (EPFL)</publisher>
@@ -1119,12 +1734,36 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>How can digital tools assist researchers in the study of works of art? How can such tools help the general public explore, discover and connect to our cultural and artistic past?</p>
-              <p>The digitization of millions of artworks by museums, libraries and cultural institution brings unprecedented access and opportunity to engage with collections. It also poses new challenges in the search, retrieval, and analysis of visual material. Currently, online databases of art can only be searched through keywords, or tags, namely the textual metadata of the original object. Textual queries, however, are not designed to search visual information which has not been indexed – they cannot for instance find similar shapes, forms, or motifs. This is why a new tool for searching art through its visual attributes is needed.</p>
-              <p>The Replica project led by the DHLAB aims to build the first search engine designed specifically for the search and exploration of artistic collections (including paintings, drawings, engravings, sculpture and photography). This employs the latest state-of-the art artificial intelligence techniques, such as Deep Learning and Convolutional Neural Networks, for the search and display of information.</p>
-              <p>In partnership with the Giorgio Cini Foundation in Venice and Factum Arte in Madrid, the Replica project aims to digitize roughly one million artistic reproductions using these images to populate the new search engine and as the basis for new art historical inquiries.</p>
-              <p>Adam Lowe and Factum Arte have been collaborating with the Fondazione Giorgio Cini for a long time and have now built a specially designed circular scanning system, capable of recording 12 A3 sized double sided images at 400DPI per minute. The paired images are automatically downloaded with metadata tags and archived. The scanner is also equipped with a system of automatic object detection, a controlled light source and instant visualization of the images as they are being recorded.</p>
-              <p>Replica opens new avenues for exploring and engaging with artistic collections. It assists art historians in the study of iconography, the transmission of forms, styles and patterns, while engaging larger audiences in a process of learning and discovery.</p>
+              <p>How can digital tools assist researchers in the study of works of art? How can such
+                tools help the general public explore, discover and connect to our cultural and
+                artistic past?</p>
+              <p>The digitization of millions of artworks by museums, libraries and cultural
+                institution brings unprecedented access and opportunity to engage with collections.
+                It also poses new challenges in the search, retrieval, and analysis of visual
+                material. Currently, online databases of art can only be searched through keywords,
+                or tags, namely the textual metadata of the original object. Textual queries,
+                however, are not designed to search visual information which has not been indexed –
+                they cannot for instance find similar shapes, forms, or motifs. This is why a new
+                tool for searching art through its visual attributes is needed.</p>
+              <p>The Replica project led by the DHLAB aims to build the first search engine designed
+                specifically for the search and exploration of artistic collections (including
+                paintings, drawings, engravings, sculpture and photography). This employs the latest
+                state-of-the art artificial intelligence techniques, such as Deep Learning and
+                Convolutional Neural Networks, for the search and display of information.</p>
+              <p>In partnership with the Giorgio Cini Foundation in Venice and Factum Arte in
+                Madrid, the Replica project aims to digitize roughly one million artistic
+                reproductions using these images to populate the new search engine and as the basis
+                for new art historical inquiries.</p>
+              <p>Adam Lowe and Factum Arte have been collaborating with the Fondazione Giorgio Cini
+                for a long time and have now built a specially designed circular scanning system,
+                capable of recording 12 A3 sized double sided images at 400DPI per minute. The
+                paired images are automatically downloaded with metadata tags and archived. The
+                scanner is also equipped with a system of automatic object detection, a controlled
+                light source and instant visualization of the images as they are being recorded.</p>
+              <p>Replica opens new avenues for exploring and engaging with artistic collections. It
+                assists art historians in the study of iconography, the transmission of forms,
+                styles and patterns, while engaging larger audiences in a process of learning and
+                discovery.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1132,15 +1771,27 @@
           <titleStmt>
             <title>Mapping the Republic of Letters</title>
             <title>British Architects on the Grand Tour</title>
-            <principal> <forename>Giovanna</forename> <surname>Ceserani</surname> </principal>
-            <funder> <orgName>NEH</orgName> </funder>
+            <principal>
+              <forename>Giovanna</forename>
+              <surname>Ceserani</surname>
+            </principal>
             <funder>
-              <orgName>Stanford Presidential Fund for Innovation in the Humanities grants</orgName> </funder>
-            <funder> <date from="2013">depuis 2013</date> <orgName>Cesta</orgName> </funder>
-            <funder> <date when="2016">2016</date>
+              <orgName>NEH</orgName>
+            </funder>
+            <funder>
+              <orgName>Stanford Presidential Fund for Innovation in the Humanities grants</orgName>
+            </funder>
+            <funder>
+              <date from="2013">depuis 2013</date>
+              <orgName>Cesta</orgName>
+            </funder>
+            <funder>
+              <date when="2016">2016</date>
               <orgName>Roberta Bowman Denning Innovation in the Humanities Grant</orgName>
-              <orgName>Stanford of the Faculty Dean of Research, Classics Department, the History Department, the Humanities Center, the Europe Center</orgName>
-              <orgName>New Directions Mellon Fellowship.</orgName> </funder>
+              <orgName>Stanford of the Faculty Dean of Research, Classics Department, the History
+                Department, the Humanities Center, the Europe Center</orgName>
+              <orgName>New Directions Mellon Fellowship.</orgName>
+            </funder>
           </titleStmt>
           <publicationStmt>
             <publisher>Stanford’s Center for Spatial and Textual Analysis</publisher>
@@ -1149,7 +1800,18 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>The Grand Tour Project began in 2008, when Giovanna Ceserani established it as one of the case studies within Mapping the Republic of Letters, the Stanford digital project dedicated to investigating early modern networks of knowledge through sophisticated digital approaches. The Grand Tour Project continues this mission while focusing  on eighteenth-century travels to Italy, and, now based within CESTA (Stanford's Center for Spatial and Textual Analysis), it maintains close links to Mapping Republic of Letters and other Cesta research clusters such as the Spatial History Project and Humanities+Design. While remaining based in Stanford, where it has involved over the years many undergraduate and graduate researchers, faculty and staff, it has also expanded its collaborations internationally, as exemplified by its workshops  (see People and Workshops). The Grand Tour Project is made possible thanks to generous institutional encouragement detailed at Project Support.</p>
+              <p>The Grand Tour Project began in 2008, when Giovanna Ceserani established it as one
+                of the case studies within Mapping the Republic of Letters, the Stanford digital
+                project dedicated to investigating early modern networks of knowledge through
+                sophisticated digital approaches. The Grand Tour Project continues this mission
+                while focusing on eighteenth-century travels to Italy, and, now based within CESTA
+                (Stanford's Center for Spatial and Textual Analysis), it maintains close links to
+                Mapping Republic of Letters and other Cesta research clusters such as the Spatial
+                History Project and Humanities+Design. While remaining based in Stanford, where it
+                has involved over the years many undergraduate and graduate researchers, faculty and
+                staff, it has also expanded its collaborations internationally, as exemplified by
+                its workshops (see People and Workshops). The Grand Tour Project is made possible
+                thanks to generous institutional encouragement detailed at Project Support.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1157,7 +1819,11 @@
           <titleStmt>
             <title>Francis Towne</title>
             <title>A Catalogue Raisonné of Francis Towne (1739-1816)</title>
-            <editor> <persName> <forename>Richard</forename> <surname>Stephens</surname> </persName>
+            <editor>
+              <persName>
+                <forename>Richard</forename>
+                <surname>Stephens</surname>
+              </persName>
             </editor>
           </titleStmt>
           <publicationStmt>
@@ -1167,7 +1833,11 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>In 2006 Richard Stephens was awarded a PhD at Birkbeck College, London, for his thesis, A Catalogue Raisonné of The Works of Francis Towne, on which this website is based. In 2016 he curated the exhibition Light, Time, Legacy: Francis Towne's watercolours of Rome at the British Museum, London. He edits The art world in Britain 1660 to 1735, published by the University of York.</p>
+              <p>In 2006 Richard Stephens was awarded a PhD at Birkbeck College, London, for his
+                thesis, A Catalogue Raisonné of The Works of Francis Towne, on which this website is
+                based. In 2016 he curated the exhibition Light, Time, Legacy: Francis Towne's
+                watercolours of Rome at the British Museum, London. He edits The art world in
+                Britain 1660 to 1735, published by the University of York.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1176,13 +1846,21 @@
             <title>Renaissance Polychrome Sculpture in Tuscany Database</title>
           </titleStmt>
           <publicationStmt>
-            <publisher />
+            <publisher/>
             <date>2019</date>
             <idno>http://qspace.library.queensu.ca/handle/1974/14832</idno>
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>is an online open-access database of photographs of and information about over 350 objects, produced by Una D'Elia, Heather Merla, and Rachel Boyd. High-resolution photographs are freely available for research, teaching, and publication. Clicking on “show full item record” reveals further information and bibliography. The database also includes an integrated map, color-coded by material (by Claire Litt). For an example of how this resource can be used in teaching, see Reconstructing the Social Lives of Italian Renaissance Sculptures (reconstructingrenaissance.home.blog), a virtual exhibition created by Queen’s University undergraduate students, which includes digital visual reconstructions</p>
+              <p>is an online open-access database of photographs of and information about over 350
+                objects, produced by Una D'Elia, Heather Merla, and Rachel Boyd. High-resolution
+                photographs are freely available for research, teaching, and publication. Clicking
+                on “show full item record” reveals further information and bibliography. The
+                database also includes an integrated map, color-coded by material (by Claire Litt).
+                For an example of how this resource can be used in teaching, see Reconstructing the
+                Social Lives of Italian Renaissance Sculptures
+                (reconstructingrenaissance.home.blog), a virtual exhibition created by Queen’s
+                University undergraduate students, which includes digital visual reconstructions</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1199,9 +1877,16 @@
         <biblFull>
           <titleStmt>
             <title>The Digital Piranesi</title>
-            <editor> <persName> <forename>Jeanne</forename> <surname>Britton</surname> </persName> </editor>
-            <funder> <orgName>NEH grant from the Division of Preservation and Access</orgName> <date
-              from="2019" to="2021">2019-2021</date> </funder>
+            <editor>
+              <persName>
+                <forename>Jeanne</forename>
+                <surname>Britton</surname>
+              </persName>
+            </editor>
+            <funder>
+              <orgName>NEH grant from the Division of Preservation and Access</orgName>
+              <date from="2019" to="2021">2019-2021</date>
+            </funder>
           </titleStmt>
           <publicationStmt>
             <publisher>University of South Carolina (Columbia)</publisher>
@@ -1209,7 +1894,12 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>The Digital Piranesi (digitalpiranesi.org) is based at the University of South Carolina (Columbia), where the Irvin Department of Rare Books and Special Collections owns a rare full 29-volume set of Piranesi’s complete works. The project aims to make this interdisciplinary material accessible in a complete digital collection and, in an interactive digital edition, to illuminate and enact many of the graphic features of his innovative designs.</p>
+              <p>The Digital Piranesi (digitalpiranesi.org) is based at the University of South
+                Carolina (Columbia), where the Irvin Department of Rare Books and Special
+                Collections owns a rare full 29-volume set of Piranesi’s complete works. The project
+                aims to make this interdisciplinary material accessible in a complete digital
+                collection and, in an interactive digital edition, to illuminate and enact many of
+                the graphic features of his innovative designs.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1217,7 +1907,11 @@
           <titleStmt>
             <title>Mapping Paintings</title>
             <funder>Kress foundation</funder>
-            <editor> <persName> <forename>Jodi</forename> <surname>Cranston</surname> </persName>
+            <editor>
+              <persName>
+                <forename>Jodi</forename>
+                <surname>Cranston</surname>
+              </persName>
             </editor>
           </titleStmt>
           <publicationStmt>
@@ -1226,10 +1920,25 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Mapping Paintings is an open-source platform that allows users to tailor-make their own individual scholarly mapping projects. The platform facilitates the realization of these types of projects with an easy uploading of data collected and assembled by scholars without the need for learning GIS or other technologies. Although we have limited the platform in concept to paintings, users can include paintings, drawings, and prints—and really any artwork. Users can make their projects private or public. The uploaded data, once approved by our admin team, becomes part of the global library, which is available to all users of the site.</p>
-              <p>The project is a scaled up version of Mapping Titian (www.mappingtitian.org), which is still useable; the data from that site is also available on Mapping Paintings. The data for the Titian project continues to be refined and edited, and users of Mapping Paintings are similarly encouraged to submit their data for in-progress projects.</p>
-              <p>The platform is created and administered by Jodi Cranston (cranston@bu.edu), Professor, Department of History of Art &amp; Architecture, Boston University; developed by the software team at Prela, LLC; and generously funded by the Kress Foundation and Boston University.</p>
-              <p>We are always looking for collaborators, whether individuals or institutions! Please join our community!</p>
+              <p>Mapping Paintings is an open-source platform that allows users to tailor-make their
+                own individual scholarly mapping projects. The platform facilitates the realization
+                of these types of projects with an easy uploading of data collected and assembled by
+                scholars without the need for learning GIS or other technologies. Although we have
+                limited the platform in concept to paintings, users can include paintings, drawings,
+                and prints—and really any artwork. Users can make their projects private or public.
+                The uploaded data, once approved by our admin team, becomes part of the global
+                library, which is available to all users of the site.</p>
+              <p>The project is a scaled up version of Mapping Titian (www.mappingtitian.org), which
+                is still useable; the data from that site is also available on Mapping Paintings.
+                The data for the Titian project continues to be refined and edited, and users of
+                Mapping Paintings are similarly encouraged to submit their data for in-progress
+                projects.</p>
+              <p>The platform is created and administered by Jodi Cranston (cranston@bu.edu),
+                Professor, Department of History of Art &amp; Architecture, Boston University;
+                developed by the software team at Prela, LLC; and generously funded by the Kress
+                Foundation and Boston University.</p>
+              <p>We are always looking for collaborators, whether individuals or institutions!
+                Please join our community!</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1237,25 +1946,35 @@
           <titleStmt>
             <title type="main">Images of Rome</title>
             <title type="sub">The Rodolfo Lanciani Digital Archive</title>
-            <principal> <persName> <forename>Giovanni</forename> <surname>Svevo</surname>
-              </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Giovanni</forename>
+                <surname>Svevo</surname>
+              </persName>
+            </principal>
             <respStmt>
               <resp>curation of the selected material</resp>
-              <persName> <forename>Nicola</forename> <surname>Camerlenghi</surname> </persName>
+              <persName>
+                <forename>Nicola</forename>
+                <surname>Camerlenghi</surname>
+              </persName>
             </respStmt>
             <respStmt>
               <resp>assistance</resp>
-              <persName> <forename>Erik</forename> <surname>Steiner</surname> </persName>
+              <persName>
+                <forename>Erik</forename>
+                <surname>Steiner</surname>
+              </persName>
             </respStmt>
             <funder ref="http://www.kressfoundation.org">Samuel H. Kress Foundation</funder>
-            <sponsor ref="http://www.inasa-roma.it"
-              >Istituto Nazionale di Archeologia e Storia dell’Arte (INASA)</sponsor>
-            <sponsor ref="http://www.archeologica.librari.beniculturali.it"
-              >Polo Museale del Lazio - Biblioteca di Archeologia e Storia dell’Arte (BIASA)</sponsor>
+            <sponsor ref="http://www.inasa-roma.it">Istituto Nazionale di Archeologia e Storia
+              dell’Arte (INASA)</sponsor>
+            <sponsor ref="http://www.archeologica.librari.beniculturali.it">Polo Museale del Lazio -
+              Biblioteca di Archeologia e Storia dell’Arte (BIASA)</sponsor>
             <sponsor ref="http://uoregon.edu">University of Oregon</sponsor>
             <sponsor ref="http://dartmouth.edu">Dartmouth College</sponsor>
-            <sponsor ref="https://cesta.stanford.edu"
-              >Stanford University, Center for Spatial and Textual Analysis (CESTA)</sponsor>
+            <sponsor ref="https://cesta.stanford.edu">Stanford University, Center for Spatial and
+              Textual Analysis (CESTA)</sponsor>
           </titleStmt>
           <publicationStmt>
             <publisher>Stanford University Libraries (SUL)</publisher>
@@ -1264,8 +1983,30 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <quote><p>This website offers virtual access to a premier collection of historic depictions amassed by Rodolfo Lanciani (1845–1929). Archaeologist, professor of topography, and secretary of the Archaeological Commission, Lanciani was a pioneer in the systematic, modern study of the city of Rome. Beginning in the latter part of the nineteenth century and continuing into the first three decades of the twentieth century, his work profoundly influenced our understanding of the ancient city. Throughout his long career Lanciani collected a vast archive of his own notes and manuscripts, as well as works by others including rare prints and original drawings by artists and architects stretching back to the sixteenth century. After his death in 1929, his entire library was purchased by the Istituto Nazionale di Archeologia e Storia dell’Arte (INASA), on the recommendation of the Director Corrado Ricci (1858-1934).</p>
-              <p>To quote the librarian at the time of the accession, the Lanciani collection "enriched the Roman topography section by almost 3,000 volumes and printed brochures; [and by] several folders containing valuable notes for the continuation of the history of the excavations of Rome and Lazio, that the death of the illustrious archaeologist left interrupted, as well as about 15,000 prints and loose drawings, and some books of drawings and sketches in pen and pencil by artists such as Giani, Rossini and Caracciolo.” Lanciani considered this corpus his personal collection, unlike one of similar importance that he donated to the Vatican Library in 1925. Fittingly, the room that hosts the INASA collection is called the “Sala Lanciani” and is now located on the fourth floor of the Biblioteca di Archeologia and Storia dell’Arte (BIASA) in the historic Palazzo Venezia in Rome.</p></quote>
+              <quote><p>This website offers virtual access to a premier collection of historic
+                  depictions amassed by Rodolfo Lanciani (1845–1929). Archaeologist, professor of
+                  topography, and secretary of the Archaeological Commission, Lanciani was a pioneer
+                  in the systematic, modern study of the city of Rome. Beginning in the latter part
+                  of the nineteenth century and continuing into the first three decades of the
+                  twentieth century, his work profoundly influenced our understanding of the ancient
+                  city. Throughout his long career Lanciani collected a vast archive of his own
+                  notes and manuscripts, as well as works by others including rare prints and
+                  original drawings by artists and architects stretching back to the sixteenth
+                  century. After his death in 1929, his entire library was purchased by the Istituto
+                  Nazionale di Archeologia e Storia dell’Arte (INASA), on the recommendation of the
+                  Director Corrado Ricci (1858-1934).</p>
+                <p>To quote the librarian at the time of the accession, the Lanciani collection
+                  "enriched the Roman topography section by almost 3,000 volumes and printed
+                  brochures; [and by] several folders containing valuable notes for the continuation
+                  of the history of the excavations of Rome and Lazio, that the death of the
+                  illustrious archaeologist left interrupted, as well as about 15,000 prints and
+                  loose drawings, and some books of drawings and sketches in pen and pencil by
+                  artists such as Giani, Rossini and Caracciolo.” Lanciani considered this corpus
+                  his personal collection, unlike one of similar importance that he donated to the
+                  Vatican Library in 1925. Fittingly, the room that hosts the INASA collection is
+                  called the “Sala Lanciani” and is now located on the fourth floor of the
+                  Biblioteca di Archeologia and Storia dell’Arte (BIASA) in the historic Palazzo
+                  Venezia in Rome.</p></quote>
             </note>
           </notesStmt>
         </biblFull>
@@ -1273,8 +2014,18 @@
           <titleStmt>
             <title type="main">Artists in Paris</title>
             <title type="sub">Mapping the 18<hi rend="superscript">th</hi>-Century Art World</title>
-            <principal> <persName> <forename>Anna</forename> <surname>Williams</surname> </persName> </principal>
-            <principal> <persName> <forename>Chris</forename> <surname>Sparks</surname> </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Anna</forename>
+                <surname>Williams</surname>
+              </persName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>Chris</forename>
+                <surname>Sparks</surname>
+              </persName>
+            </principal>
             <funder>The Leverhulme Trust</funder>
           </titleStmt>
           <publicationStmt>
@@ -1287,10 +2038,18 @@
           <titleStmt>
             <title>Fashion History Timeline</title>
             <funder>Samuel H. Kress Foundation</funder>
-            <principal> <persName> <forename>Justine</forename> <surname>De Young</surname>
-              </persName> </principal>
-            <principal> <persName> <forename>Lourdes M.</forename> <surname>Font</surname>
-              </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Justine</forename>
+                <surname>De Young</surname>
+              </persName>
+            </principal>
+            <principal>
+              <persName>
+                <forename>Lourdes M.</forename>
+                <surname>Font</surname>
+              </persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
             <publisher>Fashion Institute of Technology, State University of New York</publisher>
@@ -1299,7 +2058,15 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>The Fashion History Timeline is a project by FIT’s History of Art Department. The Timeline offers scholarly contributions to the public knowledge of the history of fashion and design. Consistent with this mission, the Timeline’s written commentary, research, and analysis provided by FIT students, faculty, and other members of the community is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Unless specifically noted, images used in the Timeline are not subject to this Creative Commons License applied to the written work from the Timeline. While every attempt at accuracy has been made, the Timeline is a work in progress. If you have suggestions or corrections, please contact us.</p>
+              <p>The Fashion History Timeline is a project by FIT’s History of Art Department. The
+                Timeline offers scholarly contributions to the public knowledge of the history of
+                fashion and design. Consistent with this mission, the Timeline’s written commentary,
+                research, and analysis provided by FIT students, faculty, and other members of the
+                community is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                4.0 International License. Unless specifically noted, images used in the Timeline
+                are not subject to this Creative Commons License applied to the written work from
+                the Timeline. While every attempt at accuracy has been made, the Timeline is a work
+                in progress. If you have suggestions or corrections, please contact us.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1307,8 +2074,14 @@
           <titleStmt>
             <title type="main">Style Revolution, 1797-1804</title>
             <title type="sub">Le Journal des dames et des modes</title>
-            <principal> <forename>Anne</forename> <surname>Higonnet</surname> </principal>
-            <principal> <forename>Alex</forename> <surname>Gil</surname> </principal>
+            <principal>
+              <forename>Anne</forename>
+              <surname>Higonnet</surname>
+            </principal>
+            <principal>
+              <forename>Alex</forename>
+              <surname>Gil</surname>
+            </principal>
           </titleStmt>
           <publicationStmt>
             <publisher>Columbia University Libraries</publisher>
@@ -1316,15 +2089,36 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>This project is dedicated to the world’s most original and influential style magazine, the Journal des dames et des modes. The French Revolution of 1789 promised that all people could reinvent themselves. Between 1797 and 1804, after the political crisis of the first revolutionary years subsided, and before Napoleon demanded that women’s clothing become more conservative, the Journal des dames et des modes offered Europeans a startlingly new way to dress. It rejected the rules, shapes, and materials that had signaled static social rank in favor of mobile self-expression through consumer choice. This dramatic experiment in individualism freed men to dress as they have ever since, and for a brief time liberated women too.</p>
-              <p>Here you will find, online for the first time, all the Journal des dames et des modes plates from the magazine’s most surprising years, 1797-1804, together with their transcribed and translated captions. The digital images were made from an extremely rare, complete set of the engravings, in exceptionally good condition, belonging to the Morgan Library and Museum—call numbers PML 5687, PML 5688, PML 5689. Work on the vocabulary, text descriptions, locations, patterns, and historical context of the plates was begun by a faculty-student team based at Columbia University, and is ongoing.</p>
+              <p>This project is dedicated to the world’s most original and influential style
+                magazine, the Journal des dames et des modes. The French Revolution of 1789 promised
+                that all people could reinvent themselves. Between 1797 and 1804, after the
+                political crisis of the first revolutionary years subsided, and before Napoleon
+                demanded that women’s clothing become more conservative, the Journal des dames et
+                des modes offered Europeans a startlingly new way to dress. It rejected the rules,
+                shapes, and materials that had signaled static social rank in favor of mobile
+                self-expression through consumer choice. This dramatic experiment in individualism
+                freed men to dress as they have ever since, and for a brief time liberated women
+                too.</p>
+              <p>Here you will find, online for the first time, all the Journal des dames et des
+                modes plates from the magazine’s most surprising years, 1797-1804, together with
+                their transcribed and translated captions. The digital images were made from an
+                extremely rare, complete set of the engravings, in exceptionally good condition,
+                belonging to the Morgan Library and Museum—call numbers PML 5687, PML 5688, PML
+                5689. Work on the vocabulary, text descriptions, locations, patterns, and historical
+                context of the plates was begun by a faculty-student team based at Columbia
+                University, and is ongoing.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>Mapping Art Markets in Europe, 1500-1800</title>
-            <principal> <persName> <forename>Sophie</forename> <surname>Raux</surname> </persName> </principal>
+            <principal>
+              <persName>
+                <forename>Sophie</forename>
+                <surname>Raux</surname>
+              </persName>
+            </principal>
             <funder>Agence nationale de recherche (France)</funder>
             <funder>Partner University Fund de la Face Foundation (Washington DC)</funder>
             <funder>FEDER</funder>
@@ -1337,18 +2131,35 @@
           <notesStmt>
             <note xml:lang="fr">
               <p>Quels étaient les grands centres du marché de l’art en Europe au 18<hi
-              rend="superscript"
-              >e</hi> siècle ? Qui en étaient les acteurs ? Dans quels réseaux professionnels et familiaux ces derniers s’inscrivaient-ils ? Où étaient situés les marchands de tableaux à Paris au siècle des Lumières ? A quoi ressemblait l’activité du marchande du Pont Notre Dame et la boutique de son plus célèbre occupant, François-Edmé Gersaint ?</p>
-              <p>La base de données et les applications de visualisation proposées ici visent à restituer sous une forme inédite les résultats d’une équipe de chercheurs qui se sont penchés – entre autres – sur ces questions, dans le cadre du projet Art Markets in Europe. Emergence, Development, Networks, 1500-1800, soutenu par l’ANR.</p>
+                  rend="superscript">e</hi> siècle ? Qui en étaient les acteurs ? Dans quels réseaux
+                professionnels et familiaux ces derniers s’inscrivaient-ils ? Où étaient situés les
+                marchands de tableaux à Paris au siècle des Lumières ? A quoi ressemblait l’activité
+                du marchande du Pont Notre Dame et la boutique de son plus célèbre occupant,
+                François-Edmé Gersaint ?</p>
+              <p>La base de données et les applications de visualisation proposées ici visent à
+                restituer sous une forme inédite les résultats d’une équipe de chercheurs qui se
+                sont penchés – entre autres – sur ces questions, dans le cadre du projet Art Markets
+                in Europe. Emergence, Development, Networks, 1500-1800, soutenu par l’ANR.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>The Royal Academy Summer Exhibition: A Chronicle, 1769-2018</title>
-            <principal> <persName> <forename>Mark</forename> <surname>Hallett</surname> </persName> </principal>
-            <principal> <forename>Sarah Victoria</forename> <surname>Turner</surname> </principal>
-            <principal> <forename>Jessica</forename> <surname>Feather</surname> </principal>
+            <principal>
+              <persName>
+                <forename>Mark</forename>
+                <surname>Hallett</surname>
+              </persName>
+            </principal>
+            <principal>
+              <forename>Sarah Victoria</forename>
+              <surname>Turner</surname>
+            </principal>
+            <principal>
+              <forename>Jessica</forename>
+              <surname>Feather</surname>
+            </principal>
           </titleStmt>
           <publicationStmt>
             <publisher>Paul Mellon Centre for Studies in British Art</publisher>
@@ -1368,16 +2179,33 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Picturing Places is a free educational resource providing unprecedented access to the British Library’s unrivalled holdings of topographical materials. The site highlights a selection of important items from our vast and varied collections, including prints, drawings, paintings, books, maps, letters, notes and ephemera. Users can examine high-resolution digitised images and read articles by emerging and established scholars exploring the history, context and significance of these images.</p>
-              <p>Picturing Places demonstrates that topography involves far more than straightforward ‘pictorial evidence’ of what a place looked like in the past. We showcase some of the Library’s most treasured topographical materials, including Tudor views collected by Robert Cotton and maps and views owned by George III. But much of this material remains uncharted, and is being brought to wider attention for the first time. The first phase of Picturing Places features over 500 collection items, most never published before, and over 100 articles providing fresh perspectives and new ideas.</p>
+              <p>Picturing Places is a free educational resource providing unprecedented access to
+                the British Library’s unrivalled holdings of topographical materials. The site
+                highlights a selection of important items from our vast and varied collections,
+                including prints, drawings, paintings, books, maps, letters, notes and ephemera.
+                Users can examine high-resolution digitised images and read articles by emerging and
+                established scholars exploring the history, context and significance of these
+                images.</p>
+              <p>Picturing Places demonstrates that topography involves far more than
+                straightforward ‘pictorial evidence’ of what a place looked like in the past. We
+                showcase some of the Library’s most treasured topographical materials, including
+                Tudor views collected by Robert Cotton and maps and views owned by George III. But
+                much of this material remains uncharted, and is being brought to wider attention for
+                the first time. The first phase of Picturing Places features over 500 collection
+                items, most never published before, and over 100 articles providing fresh
+                perspectives and new ideas.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>What Jane Saw</title>
-            <principal> <forename>Janine</forename> <surname>Barchas</surname> </principal>
-            <funder>Liberal Arts Instructional Technology Services (LAITS) at the University of Texas at Austin</funder>
+            <principal>
+              <forename>Janine</forename>
+              <surname>Barchas</surname>
+            </principal>
+            <funder>Liberal Arts Instructional Technology Services (LAITS) at the University of
+              Texas at Austin</funder>
           </titleStmt>
           <publicationStmt>
             <publisher>Department of English, The University of Texas at Austin</publisher>
@@ -1386,15 +2214,22 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>This website (www.whatjanesaw.org) offers digital reconstructions of two museum blockbusters attended by Jane Austen: the Boydell Shakespeare Gallery in 1796 and the Sir Joshua Reynolds retrospective in 1813.  The initial phase of “What Jane Saw” launched on 24 May 2013, or 200 years to the day that the Austens attended the Reynolds show.  The second phase of the website launched in 2015, on 16 December, Austen's birthday. If you would like to “hear” Professor Barchas talk about this project, the Folger Shakespeare Library hosts a 30-min interview with her in the form of a podcast called Recreating the Boydell Gallery.</p>
+              <p>This website (www.whatjanesaw.org) offers digital reconstructions of two museum
+                blockbusters attended by Jane Austen: the Boydell Shakespeare Gallery in 1796 and
+                the Sir Joshua Reynolds retrospective in 1813. The initial phase of “What Jane Saw”
+                launched on 24 May 2013, or 200 years to the day that the Austens attended the
+                Reynolds show. The second phase of the website launched in 2015, on 16 December,
+                Austen's birthday. If you would like to “hear” Professor Barchas talk about this
+                project, the Folger Shakespeare Library hosts a 30-min interview with her in the
+                form of a podcast called Recreating the Boydell Gallery.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>ARIES - ARt Image Exploration Space</title>
-            <title type="sub"
-              >An interactive image manipulation system that enables the exploration and organization of fine digital art</title>
+            <title type="sub">An interactive image manipulation system that enables the exploration
+              and organization of fine digital art</title>
           </titleStmt>
           <publicationStmt>
             <publisher>Frick</publisher>
@@ -1403,17 +2238,33 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Art historians have traditionally used physical light boxes to prepare exhibits or curate collections. On a light box, they can place slides or printed images, move the images around at will, group them as desired, and visually compare them. The transition to digital images has rendered this workflow obsolete. Now, art historians lack well-designed, unified interactive software tools that effectively support the operations they perform with physical light boxes.</p>
-              <p>To address this problem, we designed ARIES - ARt Image Exploration Space, an interactive image manipulation system that enables the exploration and organization of fine digital art. The system allows images to be compared in multiple ways, offering dynamic overlays analogous to a physical light box, and supporting advanced image comparisons and feature-matching functions, available through computational image processing.</p>
-              <p>ARIES: Enabling Visual Exploration and Organization of Art Image Collections Lhaylla Crissaff, Louisa Ruby, Samantha Deutch, Luke DuBois, Jean-Daniel Fekete, Juliana Freire and Cláudio T. Silva IEEE Computer Graphics and Applications, 38 (1), 2018, 91-108.</p> <p>The team includes:<list>
-              <item>Lhaylla Crissaff (Universidade Federal Fluminense, Brazil)</item>
-              <item>João Lucas Rullf (New York University, USA)</item>
-              <item>Marcos Lage (Universidade Federal Fluminense, Brazil)</item>
-              <item>Louisa Wood Ruby (The Frick Collection, USA)</item>
-              <item>Samantha Deutch (The Frick Collection, USA)</item>
-              <item>Juliana Freire (New York University, USA)</item>
-              <item>Cláudio Silva (New York University, USA)</item>
-              </list> </p> </note>
+              <p>Art historians have traditionally used physical light boxes to prepare exhibits or
+                curate collections. On a light box, they can place slides or printed images, move
+                the images around at will, group them as desired, and visually compare them. The
+                transition to digital images has rendered this workflow obsolete. Now, art
+                historians lack well-designed, unified interactive software tools that effectively
+                support the operations they perform with physical light boxes.</p>
+              <p>To address this problem, we designed ARIES - ARt Image Exploration Space, an
+                interactive image manipulation system that enables the exploration and organization
+                of fine digital art. The system allows images to be compared in multiple ways,
+                offering dynamic overlays analogous to a physical light box, and supporting advanced
+                image comparisons and feature-matching functions, available through computational
+                image processing.</p>
+              <p>ARIES: Enabling Visual Exploration and Organization of Art Image Collections
+                Lhaylla Crissaff, Louisa Ruby, Samantha Deutch, Luke DuBois, Jean-Daniel Fekete,
+                Juliana Freire and Cláudio T. Silva IEEE Computer Graphics and Applications, 38 (1),
+                2018, 91-108.</p>
+              <p>The team includes:<list>
+                  <item>Lhaylla Crissaff (Universidade Federal Fluminense, Brazil)</item>
+                  <item>João Lucas Rullf (New York University, USA)</item>
+                  <item>Marcos Lage (Universidade Federal Fluminense, Brazil)</item>
+                  <item>Louisa Wood Ruby (The Frick Collection, USA)</item>
+                  <item>Samantha Deutch (The Frick Collection, USA)</item>
+                  <item>Juliana Freire (New York University, USA)</item>
+                  <item>Cláudio Silva (New York University, USA)</item>
+                </list>
+              </p>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
@@ -1428,8 +2279,18 @@
           </publicationStmt>
           <notesStmt>
             <note>
-              <p>Initié en 2012, le programme ACoR a pour objectif de développer un atlas des techniques de la construction romaine, sur un large champ géographique et chronologique. Il s'est concrétisé dans la réalisation d'une base de données, consultable sur ce site web, qui établit un corpus de techniques, identifiées, classées et localisées dans un territoire, un site et un édifice.</p>
-              <p>À l'échelle de l'édifice, la caractérisation morphologique et technique des éléments de construction obéit à la logique des étapes d'un chantier, en distinguant les différentes interventions de construction : préparation du terrain, fondations, élévations, ouvertures, couvrements et couvertures, sols, structures de service et arcs (ces derniers pouvant être étudiés de façon autonome, ou en association avec une autre intervention). S'y ajoute une analyse spécifique des traces de chantier, communes à la plupart des interventions.</p>
+              <p>Initié en 2012, le programme ACoR a pour objectif de développer un atlas des
+                techniques de la construction romaine, sur un large champ géographique et
+                chronologique. Il s'est concrétisé dans la réalisation d'une base de données,
+                consultable sur ce site web, qui établit un corpus de techniques, identifiées,
+                classées et localisées dans un territoire, un site et un édifice.</p>
+              <p>À l'échelle de l'édifice, la caractérisation morphologique et technique des
+                éléments de construction obéit à la logique des étapes d'un chantier, en distinguant
+                les différentes interventions de construction : préparation du terrain, fondations,
+                élévations, ouvertures, couvrements et couvertures, sols, structures de service et
+                arcs (ces derniers pouvant être étudiés de façon autonome, ou en association avec
+                une autre intervention). S'y ajoute une analyse spécifique des traces de chantier,
+                communes à la plupart des interventions.</p>
             </note>
             <note>
               <p>Mise en ligne en 2021</p>
@@ -1442,8 +2303,8 @@
             <title type="sub">Linking Databases To Detect Looted Art</title>
           </titleStmt>
           <publicationStmt>
-            <publisher></publisher>
-            <date></date>
+            <publisher/>
+            <date/>
             <idno>https://www.openartdata.org</idno>
           </publicationStmt>
         </biblFull>
@@ -1459,7 +2320,7 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title></title>
+            <title/>
           </titleStmt>
           <publicationStmt>
             <publisher>The Provenance Lab</publisher>
@@ -1467,7 +2328,9 @@
             <idno>https://whatisapainting.com</idno>
           </publicationStmt>
           <noteStmt>
-            <note><p>The different definitions of 'painting' were retrieved from US museums classifications in the context of the project Modern Migrants: Paintings from Europe in US Museums  of The Provenance Lab  at Leuphana University.</p></note>
+            <note><p>The different definitions of 'painting' were retrieved from US museums
+                classifications in the context of the project Modern Migrants: Paintings from Europe
+                in US Museums of The Provenance Lab at Leuphana University.</p></note>
           </noteStmt>
         </biblFull>
         <biblFull>
@@ -1475,12 +2338,19 @@
             <title>Archival-city</title>
           </titleStmt>
           <publicationStmt>
-            <publisher></publisher>
+            <publisher/>
             <date from="2022">depuis 2022</date>
             <idno>https://archivalcity.hypotheses.org</idno>
           </publicationStmt>
           <noteStmt>
-            <note><p>ARCHIVAL-CITY aims to propose new ways of accessing, viewing and using the city archives. Therefore, it is slated to become a key resource for better understanding and exploiting urban archives, and also to imagine, debate and plan the city of the future by incorporating robust data from the past. It will serve as the bridge and communication link that was missing between those who are interested in the city’s past and those building its future. Used not only by researchers, historians and archivists, but also by local government, policy-makers and urban operators, as well as citizens eager to take part in their urban environment.</p></note>
+            <note><p>ARCHIVAL-CITY aims to propose new ways of accessing, viewing and using the city
+                archives. Therefore, it is slated to become a key resource for better understanding
+                and exploiting urban archives, and also to imagine, debate and plan the city of the
+                future by incorporating robust data from the past. It will serve as the bridge and
+                communication link that was missing between those who are interested in the city’s
+                past and those building its future. Used not only by researchers, historians and
+                archivists, but also by local government, policy-makers and urban operators, as well
+                as citizens eager to take part in their urban environment.</p></note>
           </noteStmt>
         </biblFull>
         <biblFull>
@@ -1488,12 +2358,15 @@
             <title>Vespera</title>
           </titleStmt>
           <publicationStmt>
-            <publisher></publisher>
+            <publisher/>
             <date from="2013">depuis 2013</date>
             <idno>https://verspera.hypotheses.org</idno>
           </publicationStmt>
           <noteStmt>
-            <note><p>Le projet de recherche VERSPERA, numérisation et modélisation des plans de Versailles sous l’Ancien Régime, vise à rendre accessibles à tous les plans du domaine de Versailles sous l’Ancien Régime et à en restituer certains espaces grâce à la numérisation et à la modélisation 3D.</p></note>
+            <note><p>Le projet de recherche VERSPERA, numérisation et modélisation des plans de
+                Versailles sous l’Ancien Régime, vise à rendre accessibles à tous les plans du
+                domaine de Versailles sous l’Ancien Régime et à en restituer certains espaces grâce
+                à la numérisation et à la modélisation 3D.</p></note>
           </noteStmt>
         </biblFull>
         <biblFull>
@@ -1501,12 +2374,12 @@
             <title>Paris Time-machine</title>
           </titleStmt>
           <publicationStmt>
-            <publisher></publisher>
+            <publisher/>
             <date from="2019">depuis </date>
             <idno>https://paris-timemachine.huma-num.fr</idno>
           </publicationStmt>
           <noteStmt>
-            <note><p></p></note>
+            <note><p/></note>
           </noteStmt>
         </biblFull>
         <biblFull>
@@ -1515,12 +2388,15 @@
             <title type="sub">Restituer la Rome antique</title>
           </titleStmt>
           <publicationStmt>
-            <publisher></publisher>
-            <date></date>
+            <publisher/>
+            <date/>
             <idno>https://rome.unicaen.fr</idno>
           </publicationStmt>
           <noteStmt>
-            <note><p>Le projet « Plan de Rome » est l’un des trois axes de l’ERLIS (Équipe de Recherche sur les Littératures, les Imaginaires et les Sociétés - EA 4254). L’objectif est de rendre toujours plus accessibles les sources anciennes à de larges publics en utilisant les technologies multimédias.</p></note>
+            <note><p>Le projet « Plan de Rome » est l’un des trois axes de l’ERLIS (Équipe de
+                Recherche sur les Littératures, les Imaginaires et les Sociétés - EA 4254).
+                L’objectif est de rendre toujours plus accessibles les sources anciennes à de larges
+                publics en utilisant les technologies multimédias.</p></note>
           </noteStmt>
         </biblFull>
         <biblFull>
@@ -1535,11 +2411,11 @@
           </titleStmt>
           <publicationStmt>
             <publisher>The University of Arizona</publisher>
-            <date></date>
+            <date/>
             <idno>https://www.digitalaugustanrome.org</idno>
           </publicationStmt>
           <noteStmt>
-            <note><p></p></note>
+            <note><p/></note>
           </noteStmt>
         </biblFull>
         <biblFull>
@@ -1575,7 +2451,8 @@
         <biblFull>
           <titleStmt>
             <title>Base de données du programme CIRCE</title>
-            <title>Constructions, Interprétations et Représentations Cultuelles de l’Espace dans les sociétés anciennes</title>
+            <title>Constructions, Interprétations et Représentations Cultuelles de l’Espace dans les
+              sociétés anciennes</title>
           </titleStmt>
           <publicationStmt>
             <idno>https://circe-antique.huma-num.fr</idno>
