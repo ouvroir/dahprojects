@@ -31,8 +31,37 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <p>L’encodage diverge de la TEI, la documentation du schema avec ODD est en cours.</p>
-    </encodingDesc>
+      <projectDesc>
+        <p>L’encodage diverge de la TEI, la documentation du schema avec ODD est en cours.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="TaDiRAH">
+          <bibl>
+            <title>The Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)</title>
+            <principal>
+              <persName>
+                <forename>Luise</forename>
+                <surname>Borek</surname>
+              </persName>
+              <persName>
+                <forename>Quinn</forename>
+                <surname>Dombrowski</surname>
+              </persName>
+              <persName>
+                <forename>Jody</forename>
+                <surname>Perkins</surname>
+              </persName>
+              <persName>
+                <forename>Christof</forename>
+                <surname>Schöch</surname>
+              </persName>
+            </principal>
+            <date when="2020">2020</date>
+            <idno type="url">https://tadirah.info/index.html</idno>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>    
   </teiHeader>
   <text>
     <body>
@@ -490,7 +519,7 @@
           <publicationStmt>
             <authority>Media Center for Art History</authority>
             <publisher>Columbia University</publisher>
-            <pubPlace>United States of America</pubPlace>
+            <pubPlace>New York</pubPlace>
             <date when="1996">1996</date>
             <idno>http://learn.columbia.edu/Mcahweb/index-frame.html</idno>
           </publicationStmt>
@@ -557,8 +586,13 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <!--<projectDesc> <creation when="1996">1996</creation> <country>États-Unis</country> <langUsage> <language ident="eng" usage="100">Anglais (langue principale)</language> </langUsage> <projectClass> <keywords xml:lang="fr" scheme="http://data.bnf.fr/liste-rameau"> <term url="http://catalogue.bnf.fr/ark:/12148/cb11934792v/PUBLIC" >Architecture gothique</term> <term>13e siècle</term> <term>France</term> </keywords> <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh"> <term url="http://id.loc.gov/authorities/subjects/sh85006792" >Architecture, Gothic</term> <term url="http://id.loc.gov/authorities/subjects/sh2002012456">13th century</term> <term url="http://id.loc.gov/authorities/names/n79006404" >France</term> </keywords> <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/"> <term>website</term> <!-\- TODO qualifier -\-> </classCode> </projectClass> -->
-        </biblFull>
+          <textClass>
+            <keywords scheme="#TaDiRAH">
+              <term><!-- NEED INFO --></term>
+            </keywords>
+          </textClass>  
+        </biblFull>  
+        <!--<projectDesc> <creation when="1996">1996</creation> <country>États-Unis</country> <langUsage> <language ident="eng" usage="100">Anglais (langue principale)</language> </langUsage> <projectClass> <keywords xml:lang="fr" scheme="http://data.bnf.fr/liste-rameau"> <term url="http://catalogue.bnf.fr/ark:/12148/cb11934792v/PUBLIC" >Architecture gothique</term> <term>13e siècle</term> <term>France</term> </keywords> <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh"> <term url="http://id.loc.gov/authorities/subjects/sh85006792" >Architecture, Gothic</term> <term url="http://id.loc.gov/authorities/subjects/sh2002012456">13th century</term> <term url="http://id.loc.gov/authorities/names/n79006404" >France</term> </keywords> <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/"> <term>website</term> <!-\- TODO qualifier -\-> </classCode> </projectClass> -->
         <biblFull>
           <titleStmt>
             <title type="main">Hachiman Digital Handscrolls</title>
@@ -971,7 +1005,8 @@
           <publicationStmt>
             <publisher>frischerconsulting</publisher>
             <idno>http://romereborn.frischerconsulting.com</idno>
-          </publicationStmt>t </biblFull>
+          </publicationStmt>
+        </biblFull>
         <!-- NEED INFO -->
         <biblFull>
           <titleStmt>
