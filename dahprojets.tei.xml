@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="style.css"?>
-<?xml-model href="./schema/dahprojects.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="./schema/dahprojetsLea.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -458,7 +458,7 @@
             <date from="2012" to="2027">2012-2027</date>
             <idno>https://mondrianpapers.org</idno>
           </publicationStmt>
-          <noteStmt>
+          <notesStmt>
             <note xml:lang="en">
               <p>The Mondrian Papers is an academic online edition of the entire correspondence and
                 theoretical writings of the Dutch artist Piet Mondrian (1872-1944). The edition will
@@ -470,14 +470,14 @@
                 background of the Mondrian Edition Project, of which The Mondrian Papers is the
                 result.</p>
             </note>
-          </noteStmt>
+          </notesStmt>
         </biblFull>
       </listBibl>
       <listBibl>
         <head>Projets en histoire de l'art numérique</head>
         <biblFull>
           <titleStmt>
-            <title>Amiens Cathedral Project</title>
+            <title type="main">Amiens Cathedral Project</title>
             <principal>
               <persName>
                 <forename>Stephen</forename>
@@ -561,7 +561,7 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Hachiman Digital Handscrolls</title>
+            <title type="main">Hachiman Digital Handscrolls</title>
             <principal>
               <persName>
                 <forename>Melanie</forename>
@@ -576,7 +576,7 @@
               fonds du responsable du projet.</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>Universität Heidelberg</publisher>
+            <publisher>Université de Heidelberg</publisher>
             <pubPlace>Allemagne</pubPlace>
             <date from="2014" to="2015">2014 à 2015</date>
             <idno>http://kjc-sv013.kjc.uni-heidelberg.de/hachiman/</idno>
@@ -599,7 +599,7 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Venus iconography</title>
+            <title type="main">Venus iconography</title>
             <principal>
               <persName>
                 <forename>K.</forename>
@@ -662,7 +662,7 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>The Digital Michelangelo Project</title>
+            <title type="main">The Digital Michelangelo Project</title>
             <principal>
               <persName>
                 <forename>Marc</forename>
@@ -728,8 +728,8 @@
               <p>Wired ! est un groupe de chercheurs de l’univeristé de Duke qui appliquent les
                 technologies de visualisation culturelle et historique et leurs méthodes à l’étude
                 de la culture matérielle, de l’art, de l’architecture et à l’histoire urbaine.</p>
-              <p>Le projet a changé de nom pour devenir le <title>Duke’s Digital Art History &amp; Visual
-                  Culture Research Lab</title>.</p>
+              <p>Le projet a changé de nom pour devenir le <title>Duke’s Digital Art History &amp;
+                  Visual Culture Research Lab</title>.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -769,11 +769,12 @@
                   <title type="j">Histoire Urbaine</title>
                   <imprint>
                     <date when="2007">2007</date>
-                    <biblScope unit="issue">3</biblScope>
                     <biblScope unit="volume">20</biblScope>
+                    <biblScope unit="issue">3</biblScope>
                   </imprint>
                 </monogr>
-                <ref type="url">https://www.cairn.info/revue-histoire-urbaine-2007-3-page-133.htm</ref>
+                <ref type="url"
+                  >https://www.cairn.info/revue-histoire-urbaine-2007-3-page-133.htm</ref>
               </biblStruct>
             </note>
           </notesStmt>
@@ -810,26 +811,158 @@
             <authority>Duke University</authority>
             <authority>Università luav di Venezia</authority>
             <authority>Università degli Studi di Padova</authority>
-            <pubPlace/>
-            <!-- NEED INFO -->
-            <date from="2009" to="2015">2015</date>
+            <pubPlace>Durham</pubPlace>
+            <pubPlace>Venise</pubPlace>
+            <pubPlace>Padoue</pubPlace>
+            <date from="2009" to="2015">2009 à 2015</date>
             <idno>http://www.visualizingvenice.org/visu/</idno>
           </publicationStmt>
-          <noteStmt>
-            <note type="abstract" xml:lang="">
-              <p/>
-              <!-- NEED INFO -->
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Visualizing Venice</title> is a Digital Humanities initiative that consists
+                of students, scholars and architects at all levels of their careers who are actively
+                involved in research projects to generate digital models and maps of the city of
+                Venice, its territories, and its lagoon. Our goals are two: – to enhance the
+                understanding of the city, the lagoon, and its region as an on-going process of
+                change and transformation over time, – to communicate new knowledge about place and
+                space to the public through portable devices and on the Visualizing Venice website.
+                Our research is based on archival and printed sources (documents, cartography,
+                images) from which we generate three-dimensional models and animations that address
+                questions of change and transformation. Begun in 2009, <title>Visualizing
+                  Venice</title> is collaboration between <orgName>Duke University</orgName>, the
+                  <orgName>Università Iuav di Venezia</orgName> (Iuav) and the <orgName>Università
+                  degli Studi di Padova</orgName>. The team now consists of approximately 30
+                faculty, post-docs and graduate students. Several of our initiatives involve
+                teaching undergraduate students about the history of Venice through the vehicle of
+                mapping and modeling projects and developing undergraduate-graduate research teams
+                such as the VIVA initiative.</p>
             </note>
-          </noteStmt>
+            <note type="projectBib">
+              <biblStruct>
+                <analytic>
+                  <title type="a">Visualizing Venice: A Series of Case Studies and a Museum on the
+                    Arsenale's Virtual History</title>
+                  <author>
+                    <persName>
+                      <forename>Alessandra</forename>
+                      <surname>Ferrighi</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="m">Built City, Designed City, Virtual City, The Museum of the
+                    City</title>
+                  <editor>
+                    <persName>
+                      <forename>Donatella</forename>
+                      <surname>Calabi</surname>
+                    </persName>
+                  </editor>
+                  <imprint>
+                    <date when="2013">2013</date>
+                    <publisher>Centro per lo studio di Roma (CROMA)</publisher>
+                    <pubPlace>Rome</pubPlace>
+                    <biblScope unit="page" from="137" to="152">137-152</biblScope>
+                  </imprint>
+                </monogr>
+              </biblStruct>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>ArtStor</title>
+            <title type="main">ArtStor</title>
+            <funder>ITHAKA</funder>
           </titleStmt>
           <publicationStmt>
+            <authority/>
             <publisher>JStor</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="2004">2004</date>
             <idno>http://www.artstor.org/index.shtml</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Artstor</title> provides faculty and students with a complete image resource
+                in a wide array of subjects with the breadth and depth to add context beyond the
+                confines of your discipline.</p>
+              <p>With approximately 300 collections composed of over 2 million images (and growing),
+                scholars can examine wide-ranging material such as Native American art from the
+                Smithsonian, treasures from the <orgName>Louvre</orgName>, and panoramic, 360-degree
+                views of the Hagia Sophia in a single, easy-to-use resource. <title>Artstor</title>
+                also supports study across disciplines, including anthropology from
+                  <orgName>Harvard’s Peabody Museum</orgName>, archaeology from <orgName>Erich
+                  Lessing Culture and Fine Art Archives</orgName>, and modern history from
+                  <orgName>Magnum Photos</orgName>, making it a resource for your whole
+                institution.</p>
+            </note>
+            <note type="projectBib">
+              <biblStruct>
+                <analytic>
+                  <title type="a">The ARTstor Digital Library: A case study in digital
+                    curation</title>
+                  <author>
+                    <persName>
+                      <forename>Max</forename>
+                      <surname>Marmor</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="m"> Paper presented at DigCCurr2007</title>
+                  <imprint>
+                    <date when="2007">2007</date>
+                    <pubPlace>New York</pubPlace>
+                    <publisher>Chapel Hill Press</publisher>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://web.archive.org/web/20101226103053/http://www.artstor.org/news/n-pdf/research-marmor-2007.pdf%20.pdf</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">ARTstor: Collections and the New Curatorial Workspace</title>
+                  <author>
+                    <persName>
+                      <forename>Christine</forename>
+                      <surname>Kuan</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="m">Paper presented at the International Federation of Library
+                    Associations and Institutions (IFLA) Pre-Conference at the Villa I Tatti</title>
+                  <imprint>
+                    <date when="2009">2009</date>
+                    <pubPlace>Florence</pubPlace>
+                    <publisher>ARTstor</publisher>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://web.archive.org/web/20101226104142/http://www.artstor.org/news/n-pdf/ifla-2009-en.pdf</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">ARTstor: A Cross-Campus Digital Image Library</title>
+                  <author>
+                    <persName>
+                      <forename>Barbara</forename>
+                      <surname>Rockenbach</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Art Library Journal</title>
+                  <imprint>
+                    <date when="2007">2006</date>
+                    <biblScope unit="volume">31</biblScope>
+                    <biblScope unit="issue">3</biblScope>
+                    <biblScope unit="page" from="42" to="45">42-45</biblScope>
+                  </imprint>
+                </monogr>
+              </biblStruct>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -838,16 +971,53 @@
           <publicationStmt>
             <publisher>frischerconsulting</publisher>
             <idno>http://romereborn.frischerconsulting.com</idno>
-          </publicationStmt>
-        </biblFull>
+          </publicationStmt>t </biblFull>
+        <!-- NEED INFO -->
         <biblFull>
           <titleStmt>
-            <title>Online Scholarly Catalogue Initiative</title>
+            <title type="main">Online Scholarly Catalogue Initiative</title>
+            <funder>The Getty Foundation</funder>
           </titleStmt>
           <publicationStmt>
             <publisher>Getty</publisher>
-            <idno>http://www.getty.edu/foundation/initiatives/current/osci/index.html</idno>
+            <pubPlace>Los Angeles</pubPlace>
+            <date from="2009" to="2017">2009 à 2017</date>
+            <idno type="url"
+              >http://www.getty.edu/foundation/initiatives/current/osci/index.html</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The <orgName>Getty Foundation</orgName>'s <title>Online Scholarly Catalogue
+                  Initiative (OSCI)</title> launched in 2009 with the goals of rethinking the museum
+                scholarly collection catalogue for the digital age and helping museums work together
+                to transition to online publishing. The publishing of scholarly collection
+                catalogues is a critical part of a museum's mission. Based on meticulous research,
+                such catalogues make available detailed information about the individual works in a
+                museum's collection, ensuring the contents a place in art history. Yet printed
+                volumes are costly to produce and difficult to update regularly; their potential
+                content often exceeds allotted space.</p>
+            </note>
+            <note type="projectBib">
+              <biblStruct>
+                <monogr>
+                  <title type="m">Museum Catalogues in the Digital Age, A Final Report on the Getty
+                    Foundation’s Online Scholarly Catalogue Initiative (OSCI)</title>
+                  <author>
+                    <persName>
+                      <forename>Deborah</forename>
+                      <surname>Marrow</surname>
+                    </persName>
+                  </author>
+                  <imprint>
+                    <date when="2017">2017</date>
+                    <pubPlace>Los Angeles</pubPlace>
+                    <publisher>The Getty Foundation</publisher>
+                  </imprint>
+                </monogr>
+                <ref type="url">https://www.getty.edu/publications/osci-report/assets/downloads/osci-report.pdf</ref>
+              </biblStruct>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -858,6 +1028,7 @@
             <idno>http://cima.ng-london.org.uk/documentation/</idno>
           </publicationStmt>
         </biblFull>
+        <!-- NEED INFO -->
         <biblFull>
           <titleStmt>
             <title>SmartHistory</title>
@@ -868,6 +1039,7 @@
             <idno>https://www.khanacademy.org/humanities/art-history-basics/beginners-art-history/a/cave-painting-contemporary-art-and-everything-in-between</idno>
           </publicationStmt>
         </biblFull>
+        <!-- NEED INFO -->
         <biblFull>
           <titleStmt>
             <title>Song and Yuan Dynasty Painting and Calligraphy</title>
@@ -878,6 +1050,7 @@
             <idno>http://www.asia.si.edu/SongYuan/</idno>
           </publicationStmt>
         </biblFull>
+        <!-- NEED INFO -->
         <biblFull>
           <titleStmt>
             <title>Mapping Gothic France</title>
@@ -901,8 +1074,14 @@
             <authority>Media Center for Art History, Columbia University</authority>
             <authority>Art Department, Vassar College</authority>
             <publisher>Columbia University</publisher>
+            <pubPlace>New York</pubPlace>
+            <date when=""/>
             <idno>http://mappinggothic.org</idno>
           </publicationStmt>
+          <notesStmt>
+            <note/>
+            <!-- NEED INFO -->
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -2327,11 +2506,11 @@
             <date when="2022">2022</date>
             <idno>https://whatisapainting.com</idno>
           </publicationStmt>
-          <noteStmt>
+          <notesStmt>
             <note><p>The different definitions of 'painting' were retrieved from US museums
                 classifications in the context of the project Modern Migrants: Paintings from Europe
                 in US Museums of The Provenance Lab at Leuphana University.</p></note>
-          </noteStmt>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -2342,7 +2521,7 @@
             <date from="2022">depuis 2022</date>
             <idno>https://archivalcity.hypotheses.org</idno>
           </publicationStmt>
-          <noteStmt>
+          <notesStmt>
             <note><p>ARCHIVAL-CITY aims to propose new ways of accessing, viewing and using the city
                 archives. Therefore, it is slated to become a key resource for better understanding
                 and exploiting urban archives, and also to imagine, debate and plan the city of the
@@ -2351,7 +2530,7 @@
                 past and those building its future. Used not only by researchers, historians and
                 archivists, but also by local government, policy-makers and urban operators, as well
                 as citizens eager to take part in their urban environment.</p></note>
-          </noteStmt>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -2362,12 +2541,12 @@
             <date from="2013">depuis 2013</date>
             <idno>https://verspera.hypotheses.org</idno>
           </publicationStmt>
-          <noteStmt>
+          <notesStmt>
             <note><p>Le projet de recherche VERSPERA, numérisation et modélisation des plans de
                 Versailles sous l’Ancien Régime, vise à rendre accessibles à tous les plans du
                 domaine de Versailles sous l’Ancien Régime et à en restituer certains espaces grâce
                 à la numérisation et à la modélisation 3D.</p></note>
-          </noteStmt>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -2378,9 +2557,9 @@
             <date from="2019">depuis </date>
             <idno>https://paris-timemachine.huma-num.fr</idno>
           </publicationStmt>
-          <noteStmt>
+          <notesStmt>
             <note><p/></note>
-          </noteStmt>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -2392,12 +2571,12 @@
             <date/>
             <idno>https://rome.unicaen.fr</idno>
           </publicationStmt>
-          <noteStmt>
+          <notesStmt>
             <note><p>Le projet « Plan de Rome » est l’un des trois axes de l’ERLIS (Équipe de
                 Recherche sur les Littératures, les Imaginaires et les Sociétés - EA 4254).
                 L’objectif est de rendre toujours plus accessibles les sources anciennes à de larges
                 publics en utilisant les technologies multimédias.</p></note>
-          </noteStmt>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -2414,9 +2593,9 @@
             <date/>
             <idno>https://www.digitalaugustanrome.org</idno>
           </publicationStmt>
-          <noteStmt>
+          <notesStmt>
             <note><p/></note>
-          </noteStmt>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
