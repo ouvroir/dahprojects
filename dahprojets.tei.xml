@@ -59,9 +59,12 @@
             <date when="2020">2020</date>
             <idno type="url">https://tadirah.info/index.html</idno>
           </bibl>
+          <category xml:id="Test">
+            <catDesc>Test</catDesc>
+          </category>
         </taxonomy>
       </classDecl>
-    </encodingDesc>    
+    </encodingDesc>
   </teiHeader>
   <text>
     <body>
@@ -586,12 +589,13 @@
               </biblStruct>
             </note>
           </notesStmt>
+          <!-- PROPOSITION POUR LES MOTS CLES
           <textClass>
             <keywords scheme="#TaDiRAH">
-              <term><!-- NEED INFO --></term>
+              <term></term>
             </keywords>
-          </textClass>  
-        </biblFull>  
+          </textClass> -->
+        </biblFull>
         <!--<projectDesc> <creation when="1996">1996</creation> <country>États-Unis</country> <langUsage> <language ident="eng" usage="100">Anglais (langue principale)</language> </langUsage> <projectClass> <keywords xml:lang="fr" scheme="http://data.bnf.fr/liste-rameau"> <term url="http://catalogue.bnf.fr/ark:/12148/cb11934792v/PUBLIC" >Architecture gothique</term> <term>13e siècle</term> <term>France</term> </keywords> <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh"> <term url="http://id.loc.gov/authorities/subjects/sh85006792" >Architecture, Gothic</term> <term url="http://id.loc.gov/authorities/subjects/sh2002012456">13th century</term> <term url="http://id.loc.gov/authorities/names/n79006404" >France</term> </keywords> <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/"> <term>website</term> <!-\- TODO qualifier -\-> </classCode> </projectClass> -->
         <biblFull>
           <titleStmt>
@@ -1049,43 +1053,213 @@
                     <publisher>The Getty Foundation</publisher>
                   </imprint>
                 </monogr>
-                <ref type="url">https://www.getty.edu/publications/osci-report/assets/downloads/osci-report.pdf</ref>
+                <ref type="url"
+                  >https://www.getty.edu/publications/osci-report/assets/downloads/osci-report.pdf</ref>
               </biblStruct>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Raphael Research Resource</title>
+            <title type="main">Raphael Research Resource</title>
+            <principal>
+              <persName>
+                <forename>Mara</forename>
+                <surname>Hofmann</surname>
+              </persName>
+              <persName>
+                <forename>Joseph</forename>
+                <surname>Padfield</surname>
+              </persName>
+            </principal>
+            <funder>The Andrew W. Mellon Foundation</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher/>
+            <publisher>The National Gallery</publisher>
+            <pubPlace>Londres</pubPlace>
+            <date when="2007">2007</date>
             <idno>http://cima.ng-london.org.uk/documentation/</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The study of paintings by Raphael has produced an exceptional collection of
+                material over the 500 years since their creation in the sixteenth century, covering
+                their history and provenance as well as the materials and techniques used in their
+                making.</p>
+            </note>
+            <note/>
+          </notesStmt>
         </biblFull>
-        <!-- NEED INFO -->
         <biblFull>
           <titleStmt>
             <title>SmartHistory</title>
+            <principal>
+              <persName>
+                <forename>Beth</forename>
+                <surname>Harris</surname>
+              </persName>
+              <persName>
+                <forename>Steven</forename>
+                <surname>Zucker</surname>
+              </persName>
+            </principal>
             <funder>Khan academy</funder>
           </titleStmt>
           <publicationStmt>
             <publisher>Khan Academy</publisher>
-            <idno>https://www.khanacademy.org/humanities/art-history-basics/beginners-art-history/a/cave-painting-contemporary-art-and-everything-in-between</idno>
+            <pubPlace>New York</pubPlace>
+            <date from="2005" to="2022">2005-2022</date>
+            <idno type="internetArchive"
+              >https://web.archive.org/web/20180509091052/https://www.khanacademy.org/humanities/art-history-basics/beginners-art-history/a/cave-painting-contemporary-art-and-everything-in-between</idno>
+            <idno>https://smarthistory.org/</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Smarthistory</title> is a leading resource for the study of art and cultural
+                heritage. Our growing collection of videos and essays are designed to be engaging
+                and conversational and cover art that ranges from the paleolithic to the present
+                across Africa, the Americas, Asia, Europe, and Oceania. Everything on Smarthistory
+                is completely free and our content is offered with no advertising. We are a tiny
+                non-profit organization based in New York, but we reach millions of learners around
+                the world.</p>
+            </note>
+          </notesStmt>
         </biblFull>
-        <!-- NEED INFO -->
         <biblFull>
           <titleStmt>
-            <title>Song and Yuan Dynasty Painting and Calligraphy</title>
+            <title type="main">Song and Yuan Dynasty Painting and Calligraphy</title>
+            <principal><persName>
+                <forename>Stephen D.</forename>
+                <surname>Allee</surname>
+              </persName>
+              <persName>
+                <forename>Joseph</forename>
+                <surname>Chang</surname>
+              </persName>
+              <persName>
+                <forename>Ingrid</forename>
+                <surname>Larsen</surname>
+              </persName></principal>
+            <funder>Freer Gallery of Art</funder>
           </titleStmt>
           <publicationStmt>
-            <authority>Freer Gallery of Art</authority>
             <publisher>The Smithsonian’s Museum of Asian Art</publisher>
+            <pubPlace>Washington</pubPlace>
             <idno>http://www.asia.si.edu/SongYuan/</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p> The <orgName>Freer Gallery of Art </orgName>possesses one of the most important
+                collections of Chinese painting outside Asia, and its holdings from the Song and
+                Yuan dynasties (10th–14th centuries) are particularly significant. The collection
+                includes an extraordinary group of eighty-two paintings—illustrating a range of
+                themes, compositions, and stylistic conventions—and three independent works of
+                calligraphy, two of which take the form of rubbings. More than ninety other examples
+                of Song and Yuan calligraphy are featured in frontispieces, inscriptions, or
+                colophons attached to paintings. Many of the eighty-five Freer works have assumed
+                near-iconic status in the study of Chinese brushwork in the West. Despite their
+                exceptional quality, however, most are being thoroughly published for the first time
+                on this website. This pioneering project enables web users around the globe to study
+                these artworks in their entirety and, through the comprehensive documentation of all
+                associated texts and accessories, gain a deeper understanding and appreciation for
+                one of the world’s great artistic traditions.</p>
+            </note>
+          </notesStmt>
         </biblFull>
-        <!-- NEED INFO -->
+        <biblFull>
+          <titleStmt>
+            <title type="main">Goryeo Buddhist Painting: A Closer Look</title>
+            <principal><persName>
+                <forename>Keith</forename>
+                <surname>Wilson</surname>
+              </persName></principal>
+            <funder>Freer Gallery of Art</funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>The Smithsonian’s Museum of Asian Art</publisher>
+            <pubPlace>Washington</pubPlace>
+            <idno>https://publications.asia.si.edu/publications/goryeo/en/default.php</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>International collaboration and modern research techniques reveal characteristic
+                details in thirteenth- and fourteenth-century Korean Buddhist paintings that
+                distinguish them from similar works painted elsewhere in Asia.</p>
+              <p>Exquisite silk scrolls created with ink, rich mineral pigments, and gold
+                characterize a distinctive school of Buddhist painting that emerged in Korea under
+                the patronage of the imperial court by the thirteenth century. Relatively small in
+                scale, these delicate works were made for intimate settings, such as private chapels
+                maintained by members of the elite class. Today, only about 160 of these exceptional
+                paintings dating from the second half of the Goryeo 고려 高麗 dynasty (918–1392) exist
+                worldwide. Three are in the collections of the Freer Gallery of Art and Arthur M.
+                Sackler Gallery, while thirteen more belong to other museums throughout the United
+                States. I would like to take this opportunity to thank these museums for their
+                cooperation in this collaborative undertaking. Photo of Prof. Chung Woothak, Dongguk
+                University, Seoul Chung Woothak, Professor Emeritus, Dongguk University, Seoul,
+                photographing Water-Moon Avalokiteshvara at the <orgName>Freer Gallery of
+                  Art</orgName> Scholarship on these paintings, which are chiefly Pure Land images
+                dominated by the Buddha Amitabha and deities associated with him, has developed
+                quickly since the first study was presented by the Yamato Bunkakan 大和文華館 in Nara,
+                Japan, in 1978. To help advance this research and deepen understanding of the
+                sixteen examples in American collections, the <orgName>Freer Gallery of
+                  Art</orgName> and <orgName>Arthur M. Sackler Gallery</orgName> approached the
+                Cultural Heritage Administration of Korea for assistance in creating this bilingual
+                digital catalogue. </p>
+            </note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Whistler in Watercolor</title>
+            <principal>
+              <persName>
+                <forename>Charles Lang</forename>
+                <surname>Freer</surname>
+              </persName>
+            </principal>
+            <funder>Freer Gallery of Art</funder>
+            <funder>Henry Luce Foundation</funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>The Smithsonian’s Museum of Asian Art</publisher>
+            <pubPlace>Washington</pubPlace>
+            <idno>https://publications.asia.si.edu/whistler-in-watercolor/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The <orgName>Freer Gallery of Art</orgName> is home to the world’s largest
+                collection of <persName>James McNeill Whistler</persName>’s watercolors. Originally
+                acquired by museum founder Charles Lang Freer (1854–1919), the collection comprises
+                more than fifty seascapes, figures, interiors, and nocturnes.</p>
+              <p>This online catalogue introduces visitors to the artist’s vast creative output in
+                watercolor and provides access to rarely seen works that have never left the
+                confines of the <orgName>Freer Gallery</orgName>. It incorporates collaborative
+                research by our museum’s curatorial, conservation, and scientific staff to
+                illuminate the artist’s techniques and materials. The Whistler in Watercolor online
+                scholarly catalogue invites visitors to explore the collection with state-of-the-art
+                technical imaging and archival documents, map the location where each artwork was
+                created, and more. Each object in the online catalogue is accompanied by tabs
+                detailing extensive curatorial information, including the work’s provenance and
+                exhibition history, technical analysis of the pigments and papers, and scientific
+                imaging using ultraviolet, infrared, and x-ray. For <persName>James McNeill
+                  Whistler</persName> (1834–1903), watercolor was the medium through which he
+                reinvented himself in the 1880s and painted his way into posterity. Although he used
+                watercolor for preparatory studies in his early years, he only embraced the medium
+                in earnest in the period that followed the scandals occasioned by a public
+                falling-out over the Peacock Room with his patron, Frederick Leyland, and a
+                financially disastrous libel suit against Victorian art critic John Ruskin.
+                Beginning in 1881, Whistler abandoned large-scale pictures in favor of diminutive,
+                quickly executed “notes” and “arrangements.” “I have done delightful things,” he
+                confided to a fellow artist, “and have a wonderful game to play.” Whistler’s “game”
+                had a dual purpose: to refer to both his latest work and his plans for selling it.
+                Whistler made arrangements with the Dowdeswell Gallery to exhibit his new work in
+                the spring of 1884. Presented as “Notes”—“Harmonies”—“Nocturnes,” the exhibition was
+                the first in a series of shows that Whistler orchestrated over the next five years
+                to highlight his small works, develop his presence in the British and American art
+                markets, and lay a foundation for his legacy.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
         <biblFull>
           <titleStmt>
             <title>Mapping Gothic France</title>
@@ -1110,82 +1284,304 @@
             <authority>Art Department, Vassar College</authority>
             <publisher>Columbia University</publisher>
             <pubPlace>New York</pubPlace>
-            <date when=""/>
             <idno>http://mappinggothic.org</idno>
           </publicationStmt>
           <notesStmt>
-            <note/>
-            <!-- NEED INFO -->
+            <note type="abstract" xml:lang="en">
+              <p>The <title>Mapping Gothic France project</title> was initiated by <persName>Stephen
+                  Murray</persName>, Professor of Art History and Archaeology at <orgName>Columbia
+                  University</orgName> and Andrew Tallon, Assistant Professor of Art at Vassar
+                College and funded through the generosity of the Andrew W. Mellon Foundation.
+                Mapping Gothic France was developed within the framework of collaboration between
+                the Media Center for Art History in the Department of Art History and Archaeology at
+                  <orgName>Columbia University</orgName>, the Visual Resources Library at Vassar
+                College, and the Columbia University Libraries. Whereas pictures can be
+                satisfactorily represented in two dimensions on a computer screen, space --
+                especially Gothic space -- demands a different approach, one which embraces not only
+                the architectonic volume but also time and narrative. Mapping Gothic France builds
+                upon a theoretical framework derived from the work of Henri Lefèbvre (The Production
+                of Space) that seeks to establish linkages between the architectural space of
+                individual buildings, geo-political space, and the social space resulting from the
+                interaction (collaboration and conflict) between multiple agents -- builders and
+                users. Our intention has been not just to develop a more appropriate way of
+                representing the spaciousness of individual monuments, but to provide the user of
+                the site with new ways to understand the relationship of hundreds of buildings
+                conventionally described as "Gothic" -- in terms of sameness and difference, found
+                in the forms of multiple buildings within a defined period of time and space that
+                corresponds to the advent of the nation of France. Mapping Gothic France will, we
+                hope, become a vital educational and research tool for both students and scholars.
+                We invite you to explore the site, and welcome both your comments and scholarly
+                contributions to the narratives.</p>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>FACES: Faces, Art, and Computerized Evaluation Systems, Phase II</title>
+            <title type="main">FACES: Faces, Art, and Computerized Evaluation Systems, Phase
+              II</title>
+            <principal>
+              <persName>
+                <forename>Conrad</forename>
+                <surname>Rudolph</surname>
+              </persName>
+            </principal>
+            <funder>National Endowment for the Humanities</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher/>
-            <idno><![CDATA[https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HD-51735-13]]></idno>
+            <publisher>University of California, Riverside</publisher>
+            <pubPlace>Riverside</pubPlace>
+            <date from="2013" to="2015">2013-2015</date>
+            <idno>https://securegrants.neh.gov/publicquery/main.aspx?f=1&amp;gn=HD-51735-13</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The refinement of additional techniques for using facial recognition software to
+                help with the identification of human subjects in portraiture for art historical
+                research. Before the advent of photography, portraits were, almost by definition,
+                depictions of people who were important in their own worlds. But, as a walk through
+                almost any major museum will show, a large number of these unidentified portraits
+                from before the nineteenth century--many of them great works of art--have lost the
+                identities of their subjects through the fortunes of time. Traditionally,
+                identification of many of these portraits has been limited to often quite variable
+                personal opinion. <title>FACES (Faces, Art, and Computerized Evaluation
+                  Systems)</title> proposes to establish the initial potential of face recognition
+                technology to this highly subjective aspect of art history while at the same time
+                retaining the human eye as the final arbiter.</p>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>The Digital Sculpture Project</title>
+            <title type="main">The Digital Sculpture Project</title>
+            <principal>
+              <persName>
+                <forename>Bernard</forename>
+                <surname>Frischer</surname>
+              </persName>
+            </principal>
+            <funder>Virtual World Heritage Laboratory</funder>
           </titleStmt>
           <publicationStmt>
             <publisher>University of Virginia</publisher>
-            <date from="2009" to="2013">2009 à 2013</date>
+            <pubPlace>Charlottesville</pubPlace>
+            <date from="2009" to="2013">2009-2013</date>
             <idno>http://www.digitalsculpture.org</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>3D digital modeling often encounters a barrier when confronted with the kind of
+                complex geometry that characterizes most sculpture. Through its Digital Sculpture
+                Project, the Virtual World Heritage Laboratory is pioneering new solutions and
+                applications in this important but neglected area of the digital humanities. This
+                website is devoted to studying ways in which 3D digital technologies can be applied
+                to the capture, representation and interpretation of sculpture from all periods and
+                cultures. Up to now, 3D technologies have been used in fruitful ways to represent
+                geometrically simple artifacts such as pottery or larger-scale structures such as
+                buildings and entire cities. With some notable exceptions, sculpture has been
+                neglected by digital humanists. The Digital Sculpture Project will fill this gap by
+                focusing on the following issues: - 3D data capture and documentation ; - Digital
+                restoration ; - Digital tools for the processing and analysis of digitized
+                sculpture, including colorization ; - Analysis of earlier forms of sculptural
+                reproduction, particularly the cast.</p>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Digging into Image Data to Answer Authorship-Related Questions (DID-ARQ)</title>
+            <title type="main">Digging into Image Data to Answer Authorship-Related Questions
+              (DID-ARQ)</title>
+            <principal>
+              <persName>
+                <forename>Peter</forename>
+                <surname>Bajcsy</surname>
+              </persName>
+            </principal>
             <funder>National Science Foundation</funder>
             <funder>National Endowment for the Humanities</funder>
             <funder>Humanities Research Council</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher/>
-            <idno>http://isda.ncsa.illinois.edu/DID/</idno>
+            <authority>Image Spatial Data Analyse Group</authority>
+            <publisher>University of Illinois</publisher>
+            <pubPlace>Urbana-Champaign</pubPlace>
+            <date from="2005" to="2011">2005-2011</date>
+            <idno>http://isda.ncsa.illinois.edu/DID</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Digging into Image Data to Answer Authorship Related Questions (DID-ARQ) seeks to
+                explore authorship studies of visual arts through computational image analyses.</p>
+              <p>Authorship Overview: In the past, authorship has been explored in terms of
+                attributions, typically of either individual masterpieces or small collections of
+                art from the same period, location, or school. Due to these localized strategies of
+                exploration and research, commonalities and shared characteristics are largely
+                unexplored. In fact, it is rare to find discussions beyond a single discrete
+                dataset. More significantly, to our knowledge, there have to date been no studies of
+                image analyses targeting the problem of authorship applied to very large collections
+                of images and evaluated in terms of accuracy over diverse datasets.</p>
+              <p>Addressing Authorship: DID-ARQ investigates the accuracy and computational
+                scalability of adaptive image analyses when they are applied to diverse collections
+                of image data. While identifying distinct characteristics of artists is
+                time-consuming for individual researchers using traditional methodologies,
+                computer-assisted techniques can help humanists discover salient characteristics and
+                increase the reliability of those findings over a large-volume corpus of digitized
+                images. Computer-assisted techniques can provide an initial bridge from the
+                low-level image units, such as color of pixels, to higher-level semantic concepts
+                such as brush strokes, compositions or patterns. This effort will utilize three
+                datasets of visual works -- 15th-century manuscripts, 17th and 18th-century maps,
+                and 19th and 20th-century quilts to investigate what might be revealed about the
+                authors and their artistic lineages by comparing manuscripts, maps, and quilts
+                across four centuries.</p>
+              <p>Problem Description: Based on the artistic, scientific or technological questions,
+                DID-ARQ intends to formulate and address the problem of finding salient
+                characteristics of artists from two-dimensional (2D) images of historical artifacts.
+                Given a set of 2D images of historical artifacts with known authors, our project
+                teams aim to discover what salient characteristics make an artist different from
+                others, and then to enable statistical learning about individual and collective
+                authorship. The objective of this effort is to learn what is unique about the style
+                of each artist, and to provide the results at a much higher level of confidence than
+                previously has been feasible by exploring a large search space in the semantic gap
+                of image understanding. As such, we would like to: (a) design image analysis
+                algorithms that will extract salient image features, group images based on
+                similarity of these features, classify groups according to a priori knowledge, and
+                optimize algorithmic steps and parameters; (b) apply the algorithms jointly
+                developed to the three collections of images; (c) report accuracy and computational
+                requirements over all of the image collections.</p>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Ceramics in Mainland Southeast Asia</title>
+            <title type="main">Ceramics in Mainland Southeast Asia</title>
+            <title type="sub">Collections in the Freer Gallery of Art and Arthur M. Sackler
+              Gallery</title>
+            <principal>
+              <persName>
+                <forename>Allison</forename>
+                <surname>Cort</surname>
+              </persName>
+              <persName>
+                <forename>George Ashley</forename>
+                <surname>Williams IV</surname>
+              </persName>
+              <persName>
+                <forename>David P.</forename>
+                <surname>Rehfuss</surname>
+              </persName>
+            </principal>
+            <funder>Freer Gallery of Art</funder>
+            <funder>Arthur M. Sackler Gallery</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>Smithsonian, Freer Gallery of Art and Arthur M. Sackler Gallery</publisher>
+            <publisher>The Smithsonian’s Museum of Asian Art</publisher>
+            <pubPlace>Washington</pubPlace>
             <date when="2008">2008</date>
             <idno>http://seasianceramics.asia.si.edu</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Historical ceramics made in or traded into (therefore in, not simply of) Mainland
+                Southeast Asia, principally between the tenth and twentieth centuries, are the focus
+                of this catalogue. The completed catalogue will present nearly 900 ceramics in the
+                collections of the Freer Gallery of Art and Arthur M. Sackler Gallery, the scope of
+                which encompasses places of production in Mainland Southeast Asia—the modern
+                countries of Vietnam, Cambodia, Laos, Thailand, and Burma (Myanmar)—as well as
+                southern China. Individual objects and regional ceramic groups also represent the
+                importance of the export of wares made in the mainland to insular Southeast Asia
+                (Malaysia, Indonesia, and the Philippines) as well as further afield to Japan and
+                West Asia. </p>
+              <p>The study of ceramics in Mainland Southeast Asia is a young field that has gained
+                critical momentum only within the past few decades. "Established" knowledge in the
+                field is regularly transformed by new work on associating wares with places of
+                production, characterizing technological lineages, defining chronology and stylistic
+                development, and charting patterns of distribution and trade. The fluidity of the
+                field and the wish to respond to evolving knowledge encouraged the decision to
+                publish this catalogue in online form. Its goal is to frame the objects in the
+                collections—and elsewhere—within evolving current knowledge based on archaeology of
+                production sites, consumption sites, and shipwrecks and reevaluation of historical
+                constructs, as well as within broad discussions of identity, technological
+                development and transfer, regional economics, and trade. The presentation emphasizes
+                the cultural, technological, and commercial roles of ceramics within the region,
+                with a goal of raising questions that might be addressed by future research. As a
+                medium, ceramics depend upon technology yet also participate in realms of
+                aesthetics, ritual, and collecting—in the cultures within the region as well as
+                beyond. Geology (local materials and their selection, processing, and use),
+                technology (lineages of production techniques, important for both stoneware and
+                earthenware), and geography (relationships of production sites to markets and trade
+                networks) take primacy over style. Like "ethnicity," "style" is a slippery category
+                and can change or be changed as necessary. As studies of contemporary earthenware in
+                Mainland Southeast Asia have shown, pots that look identical in finished form are
+                truly distinguished by core production processes-and these processes define
+                associations across space as well as through time, although it is not simple to
+                detect them in antique pieces (Cort et. al. 1997, Lefferts and Cort 2003).</p>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Cranach Digital Archive</title>
+            <title type="main">Cranach Digital Archive</title>
+            <title type="sub">The research source</title>
+            <principal>
+              <persName>
+                <forename>Martin</forename>
+                <surname>Schawe</surname>
+              </persName>
+              <persName>
+                <forename>Andreas</forename>
+                <surname>Burmester</surname>
+              </persName>
+              <persName>
+                <forename>Yvonne</forename>
+                <surname>Szafran</surname>
+              </persName>
+            </principal>
             <funder>Andrew W. Mellon Foundation</funder>
+            <funder>Ernst von Siemens Art Foundation</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>Stiftung Museum Kunstpalast, Düsseldorf</publisher>
-            <publisher>Cologne Institute of Conservation Sciences / Cologne University of Applied
-              Sciences</publisher>
-            <date from="2009" to="2018"/>
+            <publisher>Stiftung Museum Kunstpalast</publisher>
+            <publisher>Cologne Institute of Conservation Sciences</publisher>
+            <publisher>Cologne University of Applied Sciences</publisher>
+            <pubPlace>Düsseldorf</pubPlace>
+            <pubPlace>Cologne</pubPlace>
+            <date from="2009" to="2022">2009-2022</date>
             <idno>http://www.lucascranach.org</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p> In October 2009 eight major museums in Europe and the United States began working
+                together with the <orgName>Kunstpalast</orgName> in <orgName>Düsseldorf</orgName>
+                and the Fachhochschule Cologne on a research project to provide access in the
+                electronic environment to the paintings of an important protagonist of the German
+                Renaissance: Lucas Cranach the Elder. The project is funded by the <orgName>Andrew
+                  W. Mellon Foundation</orgName> as part of a larger initiative to develop new kinds
+                of research tools to facilitate transmission of art historical and conservation
+                information across institutions and international borders in order to advance
+                scholarship and learning. The comprehensive stock of image and text provides the
+                public with a deeper insight into the work of Lucas Cranach and will assist
+                researchers in the future to answer questions regarding attribution and workshop
+                organisation among other things. <title>The Cranach Research Project</title> is now
+                in its third phase (2015 – 2018). The object of this phase is to consolidate and
+                expand the existing network, to enhance the infrastructure and increase the content,
+                and in so doing lay the foundations for an innovative, comprehensive and
+                collaborative source of knowledge on Lucas Cranach and his workshop, which is
+                significantly different from the traditional model of the monographic catalogue.</p>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title>Chapelle numérique</title>
-            <principal>
-              <persName>Bibliothèque Vaclav Havel</persName>
-            </principal>
+            <funder>Bibliothèque Václav Havel</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>Bibliothèque Vaclav Havel</publisher>
+            <publisher>Bibliothèque Václav Havel</publisher>
+            <pubPlace>Paris</pubPlace>
             <date when="2015">c. 2015</date>
             <idno>http://umap.openstreetmap.fr/fr/map/chapelle-numerique_41723</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
+            <note type="abstract" xml:lang="fr">
               <p>La Chapelle numérique est un fonds documentaire sur le quartier de la Chapelle,
                 dans le dix-huitième arrondissement de Paris. Il s’agit d’un projet amateur de
                 collecte et de mise en commun de ressources numérisées libres de droits. Il s’agit
@@ -1199,41 +1595,29 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Hidden Florence</title>
+            <title type="main">Hidden Florence</title>
             <principal>
               <persName>
                 <forename>Fabrizio</forename>
                 <surname>Nevola</surname>
               </persName>
-              <orgName>University of Exeter</orgName>
-            </principal>
-            <respStmt>
-              <resp>auteur</resp>
-              <persName>
-                <forename>Fabrizio</forename>
-                <surname>Nevola</surname>
-              </persName>
-            </respStmt>
-            <respStmt>
-              <resp>auteur</resp>
               <persName>
                 <forename>David</forename>
                 <surname>Rosenthal</surname>
               </persName>
-            </respStmt>
-            <funder>the Arts &amp; Humanities Research Council (UK) (grant number
-              AH/K005138/1)</funder>
-            <funder>the HEFCE Higher Education Innovation Fund (HEIF) Open Innovation Fund pour le
-              support dans la promotion de l’application et la création des films courts.</funder>
+            </principal>
+            <funder>Arts &amp; Humanities Research Council (UK)</funder>
+            <funder>HEFCE Higher Education Innovation Fund (HEIF) Open Innovation Fund</funder>
             <funder>Commune di Firenze</funder>
           </titleStmt>
           <publicationStmt>
             <publisher>University of Exeter</publisher>
+            <pubPlace>Exeter</pubPlace>
             <date when="2014">2014</date>
             <idno>http://hiddenflorence.org</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
+            <note type="abstract" xml:lang="fr">
               <p><title>Hidden Florence</title> est une application gratuite pour téléphone
                 intelligent qui offre une visite de la ville à travers un guide fictif «
                 contemporain » des années 1490 qui serait un ouvrier de l’industrie lainière.</p>
@@ -1249,18 +1633,20 @@
             <title type="sub">Petite cartographie des périodes de construction du bâti parisien et
               des monuments historiques de la capitale</title>
             <principal>
-              <persName>@comeetie</persName>
+              <persName>
+                <forename>Etienne</forename>
+                <surname>Côme</surname>
+              </persName>
             </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher><ref target="http://www.comeetie.fr">Commeetie</ref>
-              <ref target="http://www.comeetie.fr">http://www.comeetie.fr</ref>
-            </publisher>
+            <publisher>Commeetie</publisher>
+            <pubPlace>Paris</pubPlace>
             <date when="2015">2015</date>
             <idno>http://www.comeetie.fr/galerie/BatiParis/</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
+            <note type="abstract" xml:lang="fr">
               <p>Carte qui permet de naviguer entre les différentes strates du bâti parisien conçue
                 à partir des données de l’<ref
                   target="http://www.apur.org/article/donnees-disponibles-open-data">APUR</ref>. Il
@@ -1274,7 +1660,7 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title type="main">The Paintings of Paul Cézanne</title>
+            <title type="main">The Paintings Watercolors and Drawings of Paul Cézanne</title>
             <title type="sub">An online catalogue raisonné under the direction of Walter
               Feilchenfeldt, Jayne Warman and David Nash</title>
             <principal>
@@ -1282,27 +1668,25 @@
                 <forename>Walter</forename>
                 <surname>Feilchenfeldt</surname>
               </persName>
-            </principal>
-            <principal>
               <persName>
                 <forename>Jayne</forename>
                 <surname>Warman</surname>
               </persName>
-            </principal>
-            <principal>
               <persName>
                 <forename>David</forename>
                 <surname>Nash</surname>
               </persName>
             </principal>
+            <funder>International Music and Art Foundation</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>Copyright 2016 Cézanne Online Catalogue, LLC. All Rights Reserved</publisher>
-            <date when="2014-10-06">6 octobre 2014</date>
+            <publisher>Cézanne Online Catalogue</publisher>
+            <pubPlace>Vaduz</pubPlace>
+            <date when="2014">2014</date>
             <idno>http://www.cezannecatalogue.com</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
+            <note type="abstract" xml:lang="en">
               <p>Ce catalogue raisonné est une tentative de rendre compte de l’œuvre complet du
                 peintre. Le projet tire parti de la versatilité des technologies numériques et
                 entend orienter la recherche sur le peintre dans de nouvelles voies. Le catalogue en
@@ -1321,18 +1705,52 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>QRator</title>
+            <title type="main">QRator: a digital dialogue on museum collections</title>
+            <funder>UCL Centre for Digital Humanities</funder>
+            <funder>Centre for Advanced Spatial Analysis</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>A joint project with UCL Centre for Digital Humanities, Centre for Advanced
-              Spatial Analysis and UCL Museums</publisher>
-            <date when="2011">2011</date>
-            <idno>http://www.qrator.org</idno>
+            <publisher>UCL Museums and Collections at the Grant Museum of Zoology</publisher>
+            <pubPlace>Londres</pubPlace>
+            <date from="2011" to="2015">2011-2105</date>
+            <idno>https://www.ucl.ac.uk/culture/projects/qrator</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>QRator was an iPad-based digital interpretation system that allowed visitors the to
+                Grant Museum of Zoology to be a curator and share their views on displays of
+                specimens about science in society and museum practice today. Visitors can input
+                their thoughts on the display directly onto the iPad creating a digital ‘living’
+                label that subsequent visitors can read and respond to in real time which then
+                become part of the display itself.</p>
+              <p>The traditional form of the museum is often one way: intended to instruct visitors
+                in a one-sided communication; a form of interaction which tends to alienate visitors
+                and distance curators from the needs and interests of the public they serve. QRator
+                develop a means of empowering museums visitors to think of exhibits as social
+                objects, and discuss them interactively with curators and other visitors. One of the
+                first current questions was entitled Conserve or Display? Asking visitors to
+                consider the following: “How do we balance the needs of our specimens and the
+                desires of our visitors? Most objects on display are irreversibly damaged by
+                exposure to light, dust and fluctuations in temperature and humidity. The longer
+                they are on display the shorter they will last. Instead, specimens in storage will
+                last longer without requiring conservation treatment and care; however, visitors
+                would not be able to readily see the specimens. Without specimens there wouldn’t be
+                a museum.”</p>
+              <p>Other questions included: Ecology or Exploitation - Is ecotourism an answer to
+                local environmental and biodiversity conservation? Should we only be conserving
+                things that have a potential human benefit? Should we clone extinct animals? Can we
+                lie about what a specimen is or where it came from? Is domestication ethical? Do you
+                find skeletons, taxidermy or specimens in fluid more interesting? Over the four
+                years QRator was on display at the Grant Museum the project aimed to create new
+                kinds of content, co-curated by the public, and museum staff, that enhanced museum
+                interpretation, public engagement and established new connections to museum exhibit
+                content.</p>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title type="main">Past visions</title>
+            <title type="main">Past Visions</title>
             <title type="sub">penned by Frederick William IV</title>
             <principal>
               <persName>
@@ -1340,14 +1758,17 @@
                 <surname>Dörk</surname>
               </persName>
             </principal>
+            <funder>Federal Ministry of Education and Research</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher/>
+            <publisher>Urban Complexity Lab (UCLAB)</publisher>
+            <publisher>Postdam University of Applied Sciences</publisher>
+            <pubPlace>Postdam</pubPlace>
             <date when="2016">2016</date>
             <idno>http://uclab.fh-potsdam.de/fw4/en/</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
+            <note type="abstract" xml:lang="en">
               <p>This website and the visualisation prototype are being developed within the
                 framework of the research project <ref
                   target="http://uclab.fh-potsdam.de/projects/vikus/">»VIKUS - Visualising Cultural
@@ -1381,24 +1802,30 @@
                 <forename>Pamela</forename>
                 <surname>Fletcher</surname>
               </persName>
-            </principal>
-            <respStmt>
-              <resp>Second Investigator and Technical Advisor</resp>
               <persName>
                 <forename>David</forename>
                 <surname>Israel</surname>
               </persName>
-            </respStmt>
-            <funder>Funding for the project was provided by the <ref target="http://nitle.org/"
-                  ><orgName>National Institute for Technology and Liberal Education</orgName></ref>,
-              with student support from the Gibbons Summer Research Internship Fund, and the Bowdoin
-              College Office of Information Technology.</funder>
+            </principal>
+            <funder>National Institute for Technology and Liberal Education</funder>
+            <funder>Gibbons Summer Research Internship Fund</funder>
+            <funder>Bowdoin College Office of Information Technology</funder>
           </titleStmt>
           <publicationStmt>
             <publisher>Bowdoin Art History Department</publisher>
+            <pubPlace>Bowdoin</pubPlace>
             <date from="2007" to="2012">2007-2012</date>
             <idno>http://19thc-artworldwide.org/fletcher/london-gallery/</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The London Gallery Project is a research repository and visualization of the
+                history of the commercial art gallery in London, c. 1850-1914. The project is based
+                at Bowdoin College, under the direction of Professor Pamela Fletcher. The research
+                and technological application are an on-going process, and we welcome scholarly
+                contributions and feedback.</p>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -1409,47 +1836,42 @@
                 <forename>Dana</forename>
                 <surname>Leibsohn</surname>
               </persName>
-            </principal>
-            <principal>
               <persName>
                 <forename>Barbara E.</forename>
                 <surname>Mundy</surname>
               </persName>
             </principal>
+            <funder>National Endowment for the Humanities in Washington, D.C.</funder>
+            <funder>Argosy Foundation of San Francisco</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher/>
+            <publisher>Smith College</publisher>
+            <publisher>Fordham University</publisher>
+            <pubPlace>Northampton</pubPlace>
+            <pubPlace>Fordham</pubPlace>
+            <date from="2005" to="2018">2005-2018</date>
             <idno>https://vistas.ace.fordham.edu</idno>
-            <date from="2005" to="2015">2005-2015</date>
           </publicationStmt>
           <notesStmt>
-            <note>
-              <p>The Vistas project seeks to bring an understanding of the visual culture of Spanish
-                America to a broad audience. Spanish America was an extensive region—covering much
-                of the Americas, running from California to Chile from the 16th century to the early
-                19th century. Its visual culture was forged in urban centers, religious and frontier
-                communities, and indigenous towns. The new Vistas website offers a gallery of
-                high-resolution color images, each of them fully annotated, videos and interpretive
-                essays on Vista’s six themes, along with discussion of related images. In the
-                “Library” and “Texts” sections are primary documents relating to visual culture,
-                with discussions and bibliography. Other features are seen in the sidebar.</p>
+            <note type="abstract" xml:lang="en">
+              <p>The <title>Vistas project</title> seeks to bring an understanding of the visual
+                culture of Spanish America to a broad audience. Spanish America was an extensive
+                region—covering much of the Americas, running from California to Chile from the 16th
+                century to the early 19th century. Its visual culture was forged in urban centers,
+                religious and frontier communities, and indigenous towns. The new Vistas website
+                offers a gallery of high-resolution color images, each of them fully annotated,
+                videos and interpretive essays on Vista’s six themes, along with discussion of
+                related images. In the “Library” and “Texts” sections are primary documents relating
+                to visual culture, with discussions and bibliography. Other features are seen in the
+                sidebar.</p>
               <p>This site was last updated in April 2015, with new design, addition of
                 library/texts and Luna galleries.</p>
-              <p>http://www.smith.edu/vistas/ Copyright 2005, Dana Leibsohn and Barbara Mundy Please
-                credit as: Leibsohn, Dana, and Barbara Mundy, Vistas: Visual Culture in Spanish
-                America, 1520-1820. http://www.smith.edu/vistas, 2005.</p>
-              <p>This website supersedes an earlier Spanish-English one, which remains visible at
-                www.smith.edu/vistas.</p>
-              <p> Vistas has been created with support from the <ref target="http://www.neh.fed.us/"
-                  >National Endowment for the Humanities</ref>, and the <ref
-                  target="http://www.inah.gob.mx/">Instituto Nacional de Antropología e
-                  Historia</ref>.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>The Corpus of Medieval Narrative Art</title>
+            <title type="main">The Corpus of Medieval Narrative Art</title>
             <principal>
               <persName>
                 <forename>Stuart</forename>
@@ -1458,62 +1880,241 @@
             </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher/>
-            <idno>http://www.medievalart.org.uk</idno>
-            <date from="2006" to="2010">2006 à 2010</date>
+            <publisher>Stuart Whatling</publisher>
+            <date from="2012" to="2016">2012-2016</date>
+            <idno type="internetArchive"
+              >https://web.archive.org/web/20180429193802/http://www.medievalart.org.uk/</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
-              <p>Ce site web est un entrepôt de photographies réalisées par l’auteur entre 2006 et
-                2010 dans le cadre de son travail de recherche doctorale.</p>
+            <note type="abstract" xml:lang="en">
+              <p>This Website is a repository for photographs of medieval art which the author shot
+                between 2006 and 2010, whilst working on his PhD at the <orgName>Courtauld Institute
+                  of art</orgName>. Since his doctoral research interest was visual narratology, the
+                emphasis here is very much on narrative art as it appears in stained glass and
+                portal sculpture. Although practical considerations meant that he had to give up on
+                academia after completing his PhD, he is still trying to find time to finish the
+                task of post-processing and uploading the best of the roughly 10,000 images he shot
+                on my various research trips to France.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Pompei. La fortuna visiva</title>
+            <title type="main">Pompei, La fortuna visiva</title>
             <title type="sub">Achivio di immagini e testi dal XVIII al XIX secolo</title>
+            <principal>
+              <persName>
+                <forename>Maria Emilia</forename>
+                <surname>Masci</surname>
+              </persName>
+              <persName>
+                <forename>Bruno</forename>
+                <surname>Benedetti</surname>
+              </persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher/>
-            <idno>http://pompei.sns.it</idno>
+            <publisher>Scuola Normale Superiore</publisher>
+            <pubPlace>Pise</pubPlace>
+            <date when="2011">2011</date>
+            <idno type="internetArchive"
+              >https://web.archive.org/web/20180528120412/http://pompei.sns.it/prado_front_end/index.php?page=Home&amp;id=1</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="it">
+              <p>L'identità culturale di Pompei è il risultato dei significati attribuiti alle sue
+                antichità da varie persone in epoche e con intenti diversi. "La Fortuna Visiva di
+                Pompei" raccoglie immagini e testi che documentano le varie interpretazioni e
+                percezioni dei monumenti di Pompei dal 1748, anno della sua scoperta, ai primi del
+                Novecento.</p>
+              <p>Il nome scelto per questo Progetto di ricerca, in corso dal 2002 presso la Scuola
+                Normale Superiore, dichiara immediatamente l'intento predominante di analizzare la
+                percezione dell'antica Pompei, nelle sue molteplici forme e variazioni nello spazio
+                e nel tempo, così come si coglie attraverso la documentazione grafica edita e
+                inedita, privilegiando le testimonianze più antiche e pregevoli.</p>
+              <p>Oggetti principali della ricerca sono dunque le rappresentazioni figurative in sé
+                (incisioni, disegni, acquerelli, etc.) e la "fortuna" dei soggetti che in queste
+                sono riprodotti, relativi al sito archeologico e ai suoi monumenti. Obiettivo
+                principale è la ricostruzione critica dell'identità culturale odierna di Pompei, che
+                si ottiene operando una sintesi delle forme e modalità di ricezione delle antichità
+                vesuviane.</p>
+              <p>Le attività di ricerca e analisi condotte su questa vasta documentazione sono
+                supportate da un Archivio e da una Biblioteca digitali, progettati con la duplice
+                funzione di offrire ai ricercatori uno strumento per l'archiviazione e la gestione
+                di informazioni complesse e risorse tipologicamente diverse (testi e immagini), e di
+                rendere consultabile per tutti attraverso questo sito web un patrimonio culturale e
+                artistico, spesso raro e difficilmente accessibile.</p>
+            </note>
+            <note type="projectBib">
+              <biblStruct>
+                <analytic>
+                  <title type="a">The Fortuna Visiva of Pompeii: a sample of integration of a
+                    scientific research project into the BRICKS Project</title>
+                  <author>
+                    <persName>
+                      <forename>Maria Emilia</forename>
+                      <surname>Masci</surname>
+                    </persName>
+                    <persName>
+                      <forename>Bruno</forename>
+                      <surname>Benedetti</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="m">EVA 2005 Moscow Proceedings - Electronic Imaging &amp; the Visual
+                    Arts</title>
+                  <imprint>
+                    <pubPlace>Moscou</pubPlace>
+                    <publisher>EVA Moscow</publisher>
+                    <date when="2005">2005</date>
+                    <biblScope unit="page" from="61" to="70">61-70</biblScope>
+                  </imprint>
+                </monogr>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">Un sistema informativo unificato per la gestione, conservazione e
+                    divulgazione del patrimonio archeologico: il progetto "Fortuna visiva di
+                    Pompei"</title>
+                  <author>
+                    <persName>
+                      <forename>Maria Emilia</forename>
+                      <surname>Masci</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="m">EARCOM07 Proceedings - Sistemi informativi per
+                    l'architettura</title>
+                  <imprint>
+                    <pubPlace>Florence</pubPlace>
+                    <publisher>Alinea</publisher>
+                    <date when="2007">2007</date>
+                    <biblScope unit="page" from="377" to="382">377-382</biblScope>
+                  </imprint>
+                </monogr>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">D in the CARARe Project. Provifing Europeana with 3D Content for
+                    the Archeological and Architectural heritage: the Pompeii Case Study</title>
+                  <author>
+                    <persName>
+                      <forename>Maria Emilia</forename>
+                      <surname>Masci</surname>
+                    </persName>
+                    <persName>et al.</persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="m">VSMM 2012 Conference Proceedings - 18th International Conference
+                    on Virtual Systems and Multimedia</title>
+                  <imprint>
+                    <pubPlace>Milan</pubPlace>
+                    <publisher>IEEE</publisher>
+                    <date when="2012">2012</date>
+                    <biblScope unit="page" from="227" to="234">227-234</biblScope>
+                  </imprint>
+                </monogr>
+              </biblStruct>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Verspera</title>
-            <author>
-              <orgName>Fondation des Sciences du Patrimoine</orgName>
-            </author>
-            <author>
+            <title type="main">Verspera</title>
+            <title type="sub">Numérisation et modélisation des plans de Versailles sous l’Ancien
+              Régime</title>
+            <principal>
               <persName>
                 <forename>Mathieu </forename>
                 <surname>da Vinha</surname>
               </persName>
-              <!-- ingénieur de recherche, directeur scientifique, Centre de recherche du château de Versailles -->
-            </author>
+            </principal>
+            <funder>Fondation des Sciences du Patrimoine</funder>
+            <funder>Ministère de la Culture</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>Fondation des Sciences du Patrimoine</publisher>
-            <pubPlace>France</pubPlace>
-            <date from="2012">2012-</date>
+            <publisher>Centre de recherche du château de Versailles</publisher>
+            <publisher>Archives nationales</publisher>
+            <publisher>Bibliothèque nationale de France</publisher>
+            <publisher>Laboratoire ETIS (Équipes Traitement de l’Information et Systèmes, UMR8051,
+              Cergy Paris Université / ENSEA Cergy / CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2012" to="2022">2012-2022</date>
             <idno>http://verspera.hypotheses.org</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
-              <p>Le projet de recherche « VERSPERA », porté par la Fondation des Sciences du
-                Patrimoine. Celui-ci vise à rendre publics les plans du domaine de Versailles sous
-                l’Ancien Régime et à en restituer certains espaces grâce à la modélisation 3D. Le
-                corpus numérisé est conservé aux Archives nationales (Paris), à la Bibliothèque
-                nationale de France et à l’Établissement public du château, du musée et du domaine
-                national de Versailles. Ce projet répond à trois objectifs : préserver des fonds
-                fragiles et difficilement accessibles, en faciliter l’accès via Internet à la
-                communauté internationale scientifique interdisciplinaire et permettre, grâce à la
-                modélisation, une réflexion sur l’utilisation qui pouvait être faite d’une résidence
-                royale à l’époque moderne.</p>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet de recherche <title>VERSPERA, numérisation et modélisation des plans de
+                  Versailles sous l’Ancien Régime</title>, vise à rendre accessibles à tous les
+                plans du domaine de Versailles sous l’Ancien Régime et à en restituer certains
+                espaces grâce à la numérisation et à la modélisation 3D.</p>
+              <p>Depuis 2013, le <orgName>Centre de recherche du château de Versailles</orgName>
+                pilote en partenariat avec les <orgName>Archives nationales</orgName>, la
+                  <orgName>Bibliothèque nationale de France</orgName> et le <orgName>laboratoire
+                  ETIS (Équipes Traitement de l’Information et Systèmes, UMR8051, Cergy Paris
+                  Université / ENSEA Cergy / CNRS), avec le soutien financier de la Fondation des
+                  sciences du patrimoine (EUR-17-EURE-0021)</orgName> et du<orgName> ministère de la
+                  Culture</orgName>, une vaste opération de numérisation de près de 9 000 documents
+                graphiques relatifs à Versailles (château, parc, domaine, administrations royales et
+                urbanisme). Ces plans sont essentiellement conservés dans les fonds des Archives
+                nationales (7 500 dessins du fonds du secrétariat d’État de la Maison du roi sous
+                l’Ancien Régime), mais également dans celui de la Bibliothèque nationale de France
+                (1 000 dessins de la collection Robert De Cotte) et de l’Établissement public du
+                château, du musée et du domaine national de Versailles (200 dessins).</p>
+              <p>Ce corpus documentaire, exceptionnel par son histoire, son homogénéité et son
+                volume, est principalement issu du travail des agences des premiers architectes du
+                roi, de Louis Le Vau à Richard Mique, en passant par Jules Hardouin-Mansart, Robert
+                De Cotte ou Ange-Jacques Gabriel, noms évoquant tous l’excellence de l’architecture
+                française aux XVIIe et XVIIIe siècles. Ce rassemblement constitue l’un des plus
+                grands fonds publics d’architecture, à l’instar des collections
+                Tessin-Cronsdedt-Härleman du musée national de Stockholm, et l’ensemble documentaire
+                le plus vaste sur l’architecture palatiale classique française des XVIIe et XVIIIe
+                siècles. Ce corpus a été établi à partir du catalogue de Danièle Gallet-Guerne et
+                Christian Baulez Versailles. Dessins d’architecture de la direction générale des
+                Bâtiments du roi, Paris, archives nationales, 1983 et 1989, 2 vol. Il a ensuite été
+                complété, révisé et augmenté par les chercheurs des différentes institutions
+                partenaires.</p>
+            </note>
+            <note type="projectBib">
+              <biblStruct>
+                <analytic>
+                  <title type="a">Le projet VERSPERA. Numérisation, recherche et modélisation 3D
+                    des plans d’Ancien Régime de Versailles</title>
+                  <author>
+                    <persName>
+                      <forename>Michel</forename>
+                      <surname>Jordan</surname>
+                    </persName>
+                    <persName>
+                      <forename>Benjamin</forename>
+                      <surname>Ringot</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="m">Les enjeux du numérique en sciences sociales et humaines. Vers un
+                    homo numericus ?</title>
+                  <editor>
+                    <persName>
+                      <forename>Stéphane</forename>
+                      <surname>Patin</surname>
+                    </persName>
+                  </editor>
+                  <imprint>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Éditions des archives contemporaines</publisher>
+                    <date when="2021">2021</date>
+                    <biblScope unit="page" from="145" to="157">145-157</biblScope>
+                  </imprint>
+                </monogr>
+              </biblStruct>
             </note>
           </notesStmt>
         </biblFull>
+        <!-- NEED -->
         <biblFull>
           <titleStmt>
             <title>Zeitreise</title>
