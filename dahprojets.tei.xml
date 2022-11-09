@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="style.css"?>
-<?xml-model href="./schema/dahprojetsLea.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- <?xml-model href="./schema/dahprojetsLea.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -590,11 +590,10 @@
             </note>
           </notesStmt>
           <!-- PROPOSITION POUR LES MOTS CLES
-          <textClass>
-            <keywords scheme="#TaDiRAH">
+          
+            <keywords> peut ajouter type si nécessaire
               <term></term>
             </keywords>
-          </textClass> -->
         </biblFull>
         <!--<projectDesc> <creation when="1996">1996</creation> <country>États-Unis</country> <langUsage> <language ident="eng" usage="100">Anglais (langue principale)</language> </langUsage> <projectClass> <keywords xml:lang="fr" scheme="http://data.bnf.fr/liste-rameau"> <term url="http://catalogue.bnf.fr/ark:/12148/cb11934792v/PUBLIC" >Architecture gothique</term> <term>13e siècle</term> <term>France</term> </keywords> <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh"> <term url="http://id.loc.gov/authorities/subjects/sh85006792" >Architecture, Gothic</term> <term url="http://id.loc.gov/authorities/subjects/sh2002012456">13th century</term> <term url="http://id.loc.gov/authorities/names/n79006404" >France</term> </keywords> <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/"> <term>website</term> <!-\- TODO qualifier -\-> </classCode> </projectClass> -->
         <biblFull>
@@ -792,7 +791,7 @@
                 Pianta di Roma incisa su rame ad acquaforte e bulino e stampata seguendo i
                 procedimenti tradizionali della calcografia.</p>
             </note>
-            <note type="projectBib">
+            <note type="biblio"> <!-- CHANGER -->
               <biblStruct>
                 <analytic>
                   <title type="a"> La Forma Urbis Romae, Bilan de vingt-cinq années de recherches </title>
@@ -1024,6 +1023,8 @@
             <idno type="url"
               >http://www.getty.edu/foundation/initiatives/current/osci/index.html</idno>
           </publicationStmt>
+          
+          
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p>The <orgName>Getty Foundation</orgName>'s <title>Online Scholarly Catalogue
@@ -1112,6 +1113,7 @@
             <idno type="internetArchive"
               >https://web.archive.org/web/20180509091052/https://www.khanacademy.org/humanities/art-history-basics/beginners-art-history/a/cave-painting-contemporary-art-and-everything-in-between</idno>
             <idno>https://smarthistory.org/</idno>
+            <idno></idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -2988,6 +2990,9 @@
             <funder>Roberta Bowman Denning Innovation in the Humanities Grant</funder>
             <funder>Stanford's Faculty Dean of Research</funder>
             <funder>New Directions Mellon Fellowship</funder>
+            <respStmt>
+              <
+            </respStmt>
             <!-- authority : University of Oxford ; CNRS ; CKCC ; DensityDesign Research Lab (Politecnico di Milano) -->
           </titleStmt>
           <publicationStmt>
@@ -3225,6 +3230,7 @@
             <funder>National Endowment for the Humanities</funder>
           </titleStmt>
           <publicationStmt>
+            <authority/>
             <publisher>University of South Carolina</publisher>
             <pubPlace>Columbia</pubPlace>
             <date from="2019" to="2022">2019-2022</date>
@@ -3272,29 +3278,31 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p><title>Mapping Paintings</title> is an open-source platform that allows users to tailor-make their
-                own individual scholarly mapping projects. The platform facilitates the realization
-                of these types of projects with an easy uploading of data collected and assembled by
-                scholars without the need for learning GIS or other technologies. Although we have
-                limited the platform in concept to paintings, users can include paintings, drawings,
-                and prints—and really any artwork. Users can make their projects private or public.
-                The uploaded data, once approved by our admin team, becomes part of the global
-                library, which is available to all users of the site.</p>
-              <p>The project is a scaled up version of <title>Mapping Titian</title> (<ref target="www.mappingtitian.org">www.mappingtitian.org</ref>), which
-                is still useable; the data from that site is also available on <title>Mapping Paintings</title>.
-                The data for the Titian project continues to be refined and edited, and users of
-                <title>Mapping Paintings</title> are similarly encouraged to submit their data for in-progress
-                projects.</p>
-              <p>The platform is created and administered by Jodi Cranston (<ref target="cranston@bu.edu">cranston@bu.edu</ref>),
-                Professor, <orgName>Department of History of Art &amp; Architecture</orgName>, <orgName>Boston University</orgName>;
-                developed by the software team at Prela, LLC; and generously funded by the <orgName>Kress
-                Foundation</orgName> and <orgName>Boston University</orgName>.</p>
+              <p><title>Mapping Paintings</title> is an open-source platform that allows users to
+                tailor-make their own individual scholarly mapping projects. The platform
+                facilitates the realization of these types of projects with an easy uploading of
+                data collected and assembled by scholars without the need for learning GIS or other
+                technologies. Although we have limited the platform in concept to paintings, users
+                can include paintings, drawings, and prints—and really any artwork. Users can make
+                their projects private or public. The uploaded data, once approved by our admin
+                team, becomes part of the global library, which is available to all users of the
+                site.</p>
+              <p>The project is a scaled up version of <title>Mapping Titian</title> (<ref
+                  target="www.mappingtitian.org">www.mappingtitian.org</ref>), which is still
+                useable; the data from that site is also available on <title>Mapping
+                  Paintings</title>. The data for the Titian project continues to be refined and
+                edited, and users of <title>Mapping Paintings</title> are similarly encouraged to
+                submit their data for in-progress projects.</p>
+              <p>The platform is created and administered by Jodi Cranston (<ref
+                  target="cranston@bu.edu">cranston@bu.edu</ref>), Professor, <orgName>Department of
+                  History of Art &amp; Architecture</orgName>, <orgName>Boston University</orgName>;
+                developed by the software team at Prela, LLC; and generously funded by the
+                  <orgName>Kress Foundation</orgName> and <orgName>Boston University</orgName>.</p>
               <p>We are always looking for collaborators, whether individuals or institutions!
                 Please join our community!</p>
             </note>
           </notesStmt>
         </biblFull>
-        <!--  -->
         <biblFull>
           <titleStmt>
             <title type="main">Images of Rome</title>
@@ -3304,62 +3312,56 @@
                 <forename>Giovanni</forename>
                 <surname>Svevo</surname>
               </persName>
-            </principal>
-            <respStmt>
-              <resp>curation of the selected material</resp>
               <persName>
                 <forename>Nicola</forename>
                 <surname>Camerlenghi</surname>
               </persName>
-            </respStmt>
-            <respStmt>
-              <resp>assistance</resp>
               <persName>
                 <forename>Erik</forename>
                 <surname>Steiner</surname>
               </persName>
-            </respStmt>
-            <funder ref="http://www.kressfoundation.org">Samuel H. Kress Foundation</funder>
-            <sponsor ref="http://www.inasa-roma.it">Istituto Nazionale di Archeologia e Storia
-              dell’Arte (INASA)</sponsor>
-            <sponsor ref="http://www.archeologica.librari.beniculturali.it">Polo Museale del Lazio -
-              Biblioteca di Archeologia e Storia dell’Arte (BIASA)</sponsor>
-            <sponsor ref="http://uoregon.edu">University of Oregon</sponsor>
-            <sponsor ref="http://dartmouth.edu">Dartmouth College</sponsor>
-            <sponsor ref="https://cesta.stanford.edu">Stanford University, Center for Spatial and
-              Textual Analysis (CESTA)</sponsor>
+              <persName>
+                <forename>James</forename>
+                <surname>Tice</surname>
+              </persName>
+            </principal>
+            <funder>Stanford University</funder>
+            <funder>Samuel H. Kress Foundation</funder>
+            <funder>Neukom Institute, Dartmouth College</funder>
           </titleStmt>
           <publicationStmt>
+            <!-- <authority : Istituto Nazionale di Archeologia e Storia dell'Arte (INASA) ; Biblioteca di Archeologia e Storia dell'Arte (BIASA) ; University of Oregon ; Dartmouth College -->
             <publisher>Stanford University Libraries (SUL)</publisher>
+            <publisher>Stanford</publisher>
             <date from="2014" to="2016">2015-2016</date>
-            <idno>https://exhibits.stanford.edu/lanciani/about/acknowledgements</idno>
+            <idno>https://exhibits.stanford.edu/lanciani</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
-              <quote><p>This website offers virtual access to a premier collection of historic
-                  depictions amassed by Rodolfo Lanciani (1845–1929). Archaeologist, professor of
-                  topography, and secretary of the Archaeological Commission, Lanciani was a pioneer
-                  in the systematic, modern study of the city of Rome. Beginning in the latter part
-                  of the nineteenth century and continuing into the first three decades of the
-                  twentieth century, his work profoundly influenced our understanding of the ancient
-                  city. Throughout his long career Lanciani collected a vast archive of his own
-                  notes and manuscripts, as well as works by others including rare prints and
-                  original drawings by artists and architects stretching back to the sixteenth
-                  century. After his death in 1929, his entire library was purchased by the Istituto
-                  Nazionale di Archeologia e Storia dell’Arte (INASA), on the recommendation of the
-                  Director Corrado Ricci (1858-1934).</p>
-                <p>To quote the librarian at the time of the accession, the Lanciani collection
-                  "enriched the Roman topography section by almost 3,000 volumes and printed
+            <note type="abstract" xml:base="en">
+              <p>This website offers virtual access to a premier collection of historic depictions
+                amassed by Rodolfo Lanciani (1845–1929). Archaeologist, professor of topography, and
+                secretary of the <orgName>Archaeological Commission</orgName>, Lanciani was a
+                pioneer in the systematic, modern study of the city of Rome. Beginning in the latter
+                part of the nineteenth century and continuing into the first three decades of the
+                twentieth century, his work profoundly influenced our understanding of the ancient
+                city. Throughout his long career Lanciani collected a vast archive of his own notes
+                and manuscripts, as well as works by others including rare prints and original
+                drawings by artists and architects stretching back to the sixteenth century. After
+                his death in 1929, his entire library was purchased by the <orgName>Istituto
+                  Nazionale di Archeologia e Storia dell’Arte (INASA)</orgName>, on the
+                recommendation of the Director Corrado Ricci (1858-1934).</p>
+              <p>To quote the librarian at the time of the accession, the Lanciani collection
+                  <quote> "enriched the Roman topography section by almost 3,000 volumes and printed
                   brochures; [and by] several folders containing valuable notes for the continuation
                   of the history of the excavations of Rome and Lazio, that the death of the
                   illustrious archaeologist left interrupted, as well as about 15,000 prints and
                   loose drawings, and some books of drawings and sketches in pen and pencil by
-                  artists such as Giani, Rossini and Caracciolo.” Lanciani considered this corpus
-                  his personal collection, unlike one of similar importance that he donated to the
-                  Vatican Library in 1925. Fittingly, the room that hosts the INASA collection is
-                  called the “Sala Lanciani” and is now located on the fourth floor of the
-                  Biblioteca di Archeologia and Storia dell’Arte (BIASA) in the historic Palazzo
-                  Venezia in Rome.</p></quote>
+                  artists such as Giani, Rossini and Caracciolo.”</quote> Lanciani considered this
+                corpus his personal collection, unlike one of similar importance that he donated to
+                the Vatican Library in 1925. Fittingly, the room that hosts the INASA collection is
+                called the “Sala Lanciani” and is now located on the fourth floor of the
+                  <orgName>Biblioteca di Archeologia and Storia dell’Arte (BIASA)</orgName> in the
+                historic Palazzo Venezia in Rome.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -3369,11 +3371,9 @@
             <title type="sub">Mapping the 18<hi rend="superscript">th</hi>-Century Art World</title>
             <principal>
               <persName>
-                <forename>Anna</forename>
+                <forename>Hannah</forename>
                 <surname>Williams</surname>
               </persName>
-            </principal>
-            <principal>
               <persName>
                 <forename>Chris</forename>
                 <surname>Sparks</surname>
@@ -3383,65 +3383,146 @@
           </titleStmt>
           <publicationStmt>
             <publisher>Queen Mary University of London</publisher>
+            <pubPlace>Londres</pubPlace>
             <date from="2013" to="2018">2015-2018</date>
             <idno>https://www.artistsinparis.org</idno>
           </publicationStmt>
-        </biblFull>
-        <biblFull>
-          <titleStmt>
-            <title>Fashion History Timeline</title>
-            <funder>Samuel H. Kress Foundation</funder>
-            <principal>
-              <persName>
-                <forename>Justine</forename>
-                <surname>De Young</surname>
-              </persName>
-            </principal>
-            <principal>
-              <persName>
-                <forename>Lourdes M.</forename>
-                <surname>Font</surname>
-              </persName>
-            </principal>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Fashion Institute of Technology, State University of New York</publisher>
-            <date from="2015">2015</date>
-            <idno>https://fashionhistory.fitnyc.edu</idno>
-          </publicationStmt>
           <notesStmt>
-            <note>
-              <p>The Fashion History Timeline is a project by FIT’s History of Art Department. The
-                Timeline offers scholarly contributions to the public knowledge of the history of
-                fashion and design. Consistent with this mission, the Timeline’s written commentary,
-                research, and analysis provided by FIT students, faculty, and other members of the
-                community is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
-                4.0 International License. Unless specifically noted, images used in the Timeline
-                are not subject to this Creative Commons License applied to the written work from
-                the Timeline. While every attempt at accuracy has been made, the Timeline is a work
-                in progress. If you have suggestions or corrections, please contact us.</p>
+            <note type="abstract" xml:lang="en">
+              <p>Paris is a city renowned for its artistic communities. Neighbourhoods like
+                Montmartre and Montparnasse in the nineteenth and twentieth centuries are familiar
+                spaces of artistic activity and sociability. But when it comes to earlier
+                generations of artists, we know strikingly little about how they inhabited the city.
+                Where did the artists of eighteenth-century Paris live? Which artists were
+                neighbours? What sub-communities formed within the city? Which neighbourhoods formed
+                the cultural geography of the eighteenth-century art world? And did that geography
+                change over the course of the century? This website provides answers to these
+                tantalising questions about the geography and demography of the Paris art world in
+                the eighteenth century. Based on original archival research retrieving the addresses
+                of hundreds of artists’ homes and studios, this website uses digital mapping
+                technologies to locate those spaces on georeferenced historical maps, making them
+                available for visitors to explore.</p>
+              <p><title>Artists in Paris</title> is the first project to map comprehensively where
+                artistic communities developed in the eighteenth-century city and offers rich scope
+                for subsequent investigations into how these communities worked and the impact they
+                had on art practice in the period. Yielding crucial new information and harnessing
+                the exciting possibilities of digital humanities for art-historical research, this
+                website is intended as a valuable resource for anyone studying or researching French
+                art, or for anyone with an interest in the history of Paris. With its two modes –
+                Year and Artist – the website accommodates searches either by date or by person. For
+                instance, visitors can explore where every artist was living at certain moments in
+                time, or they can select individual artists and explore all the addresses lived at
+                across their careers. Designed to be simultaneously inviting and informative, these
+                interactive data-enriched maps answer many questions about the Paris art world. But
+                they are also intended as an empirical base upon which to pose new kinds of
+                inquiries, inspiring continued explorations into networks of artistic sociability,
+                the role of the city in art production, the geography of the art world, and urban
+                experience more generally.</p>
+            </note>
+            <note type="projectBib">
+              <biblStruct>
+                <analytic>
+                  <title type="a">Artists’ Studios in Paris: Digitally Mapping the 18<hi
+                      rend="superscript">th</hi>-Century Art World</title>
+                  <author>
+                    <persName>
+                      <forename>Hannah</forename>
+                      <surname>Williams</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Journal18</title>
+                  <imprint>
+                    <date when="2018">2018</date>
+                    <biblScope unit="issue" n="5">5</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url">https://www.journal18.org/issue5_williams/</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">Artists and the City: Mapping the Art Worlds of 18<hi
+                      rend="superscript">th</hi>-Century Paris</title>
+                  <author>
+                    <persName>
+                      <forename>Hannah</forename>
+                      <surname>Williams</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Urban History</title>
+                  <imprint>
+                    <date when="2019">2019</date>
+                    <biblScope unit="volume" n="46">5</biblScope>
+                    <biblScope unit="issue" n="1">1</biblScope>
+                    <biblScope unit="page" from="106" to="131">106-131</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://www.cambridge.org/core/journals/urban-history/article/artists-and-the-city-mapping-the-art-worlds-of-eighteenthcentury-paris/D114B933BF2970B259744D0B2DAAFCF9</ref>
+              </biblStruct>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title type="main">Style Revolution, 1797-1804</title>
-            <title type="sub">Le Journal des dames et des modes</title>
+            <title type="main">Fashion History Timeline</title>
             <principal>
-              <forename>Anne</forename>
-              <surname>Higonnet</surname>
+              <persName>
+                <forename>Justine</forename>
+                <surname>De Young</surname>
+              </persName>
+              <persName>
+                <forename>Lourdes M.</forename>
+                <surname>Font</surname>
+              </persName>
             </principal>
+            <funder>Samuel H. Kress Foundation</funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Fashion Institute of Technology, State University of New York</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="2015" to="2022">2015-2022</date>
+            <idno>https://fashionhistory.fitnyc.edu</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>The Fashion History Timeline</title> is a project by <orgName>FIT’s History
+                  of Art Department</orgName>. The Timeline offers scholarly contributions to the
+                public knowledge of the history of fashion and design. Consistent with this mission,
+                the Timeline’s written commentary, research, and analysis provided by
+                  <orgName>FIT</orgName> students, faculty, and other members of the community is
+                licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+                International License. Unless specifically noted, images used in the
+                  <orgName>Timeline</orgName> are not subject to this Creative Commons License
+                applied to the written work from the <orgName>Timeline</orgName>. While every
+                attempt at accuracy has been made, the <orgName>Timeline</orgName> is a work in
+                progress. If you have suggestions or corrections, please contact us.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Style Revolution</title>
+            <title type="sub">Journal des Dames et des Modes (1797-1804) Digitized!</title>
             <principal>
-              <forename>Alex</forename>
-              <surname>Gil</surname>
+              <persName>
+                <forename>Anne</forename>
+                <surname>Higonnet</surname>
+              </persName>
             </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>Columbia University Libraries</publisher>
+            <publisher>State University of New York</publisher>
+            <pubPlace>New York</pubPlace>
+            <pubPlace/>
             <date when="2019">2019</date>
+            <idno>https://fashionhistory.fitnyc.edu/style-revolution/</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
+            <note type="abstract" xml:lang="en">
               <p>This project is dedicated to the world’s most original and influential style
                 magazine, the Journal des dames et des modes. The French Revolution of 1789 promised
                 that all people could reinvent themselves. Between 1797 and 1804, after the
@@ -3465,24 +3546,25 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Mapping Art Markets in Europe, 1500-1800</title>
+            <title type="main">Mapping Art Markets in Europe, 1500-1800</title>
             <principal>
               <persName>
                 <forename>Sophie</forename>
                 <surname>Raux</surname>
               </persName>
             </principal>
-            <funder>Agence nationale de recherche (France)</funder>
+            <funder>Agence nationale de recherche</funder>
             <funder>Partner University Fund de la Face Foundation (Washington DC)</funder>
-            <funder>FEDER</funder>
+            <funder>Université de Lille 3</funder>
           </titleStmt>
           <publicationStmt>
+            <!-- authority : Musée Carnavalet - Histoire de Paris (Paris Musées) ; Duker University -->
             <publisher>Université de Lille</publisher>
             <date from="2008" to="2015">2008-2015</date>
-            <idno>http://www.artmarkets.eu</idno>
+            <idno>https://pnd-artmarkets.huma-num.fr/</idno>
           </publicationStmt>
           <notesStmt>
-            <note xml:lang="fr">
+            <note type="abstract" xml:lang="fr">
               <p>Quels étaient les grands centres du marché de l’art en Europe au 18<hi
                   rend="superscript">e</hi> siècle ? Qui en étaient les acteurs ? Dans quels réseaux
                 professionnels et familiaux ces derniers s’inscrivaient-ils ? Où étaient situés les
@@ -3491,35 +3573,81 @@
                 François-Edmé Gersaint ?</p>
               <p>La base de données et les applications de visualisation proposées ici visent à
                 restituer sous une forme inédite les résultats d’une équipe de chercheurs qui se
-                sont penchés – entre autres – sur ces questions, dans le cadre du projet Art Markets
-                in Europe. Emergence, Development, Networks, 1500-1800, soutenu par l’ANR.</p>
+                sont penchés – entre autres – sur ces questions, dans le cadre du projet <title>Art
+                  Markets in Europe. Emergence, Development, Networks, 1500-1800</title>, soutenu
+                par l’<orgName>ANR</orgName>.</p>
+              <p>La base de données et les applications de visualisations présentées ici trouvent
+                leur origine dans le programme <title>Art Markets in Europe 1300-1800, Emergence,
+                  Development, Networks</title> qui fut soutenu de 2008 à 2012 par l’A<orgName>gence
+                  Nationale de la Recherche</orgName>. Porté par des chercheurs de
+                  l’<orgName>Université de Lille</orgName> en étroite collaboration avec des
+                chercheurs de <orgName>Duke University (NC)</orgName>, ce programme a permis de
+                réunir une équipe internationale et interdisciplinaire d’une quinzaine de chercheurs
+                en histoire de l’art, histoire économique et sociale, et sciences économiques venus
+                de douze institutions et organismes de recherches européens et américains.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>The Royal Academy Summer Exhibition: A Chronicle, 1769-2018</title>
+            <title type="main">The Royal Academy Summer Exhibition</title>
+            <title type="sub">A Chronicle, 1769-2018</title>
             <principal>
               <persName>
                 <forename>Mark</forename>
                 <surname>Hallett</surname>
               </persName>
-            </principal>
-            <principal>
-              <forename>Sarah Victoria</forename>
-              <surname>Turner</surname>
-            </principal>
-            <principal>
-              <forename>Jessica</forename>
-              <surname>Feather</surname>
+              <persName>
+                <forename>Sarah Victoria</forename>
+                <surname>Turner</surname>
+              </persName>
+              <persName>
+                <forename>Jessica</forename>
+                <surname>Feather</surname>
+              </persName>
             </principal>
           </titleStmt>
           <publicationStmt>
             <publisher>Paul Mellon Centre for Studies in British Art</publisher>
-            <pubPlace>London</pubPlace>
+            <pubPlace>Londres</pubPlace>
             <date when="2018">2018</date>
             <idno>https://chronicle250.com</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>The Royal Academy Summer Exhibition: A Chronicle, 1769–2018</title> was produced and
+                published by the <orgName>Paul Mellon Centre</orgName>. The <title>RA Chronicle </title>is a digital publication that
+                explores the history of the <title>Summer Exhibition at the Royal Academy of Arts in
+                London</title>. Essays examining key artists, artworks, and events from each individual
+                year’s Exhibition are accompanied by 250 completely digitised and searchable copies
+                of the accompanying Exhibition catalogues. This repository of original research and
+                primary source material is intended to shine new light on British art, its
+                exhibition histories, and its publics, and to encourage further innovative
+                study.</p>
+              <p>The <title>RA Chronicle</title> was launched on 30 May 2018 to coincide with the 250th anniversary
+                year of the annual exhibition of contemporary art at the <orgName>Royal Academy</orgName>, and with the
+                exhibition <title>The Great Spectacle: 250 Years of the Summer Exhibition</title>, which was
+                co-curated by Mark Hallett and Sarah Victoria Turner. </p>
+              <p>The RA Chronicle, which was conceived by Mark Hallett, has been developed and
+                produced by a team of Paul Mellon Centre staff, working with many partners,
+                including our authors, designers, and reviewers. It is important for us to
+                acknowledge that a publication of this size and complexity is only possible by
+                working collaboratively. The RA Chronicle entries have been edited by three content
+                specialist editors—Mark Hallett, Sarah Victoria Turner, and Jessica Feather—who each
+                took responsibility for different periods of this 250-year history, as well as
+                writing some entries themselves. The whole project was managed and edited by Baillie
+                Card. Tom Scutt managed the digital infrastructure and conceptualisation of the
+                project, from the digitisation of the Exhibition catalogues through to the website’s
+                publication. Maisoon Rehani managed all of the picture research and copyright
+                clearances.</p>
+              <p>The RA Chronicle was also peer-reviewed by three specialist readers, each of whom
+                took responsibility for a portion of the chronology matching their expertise. We are
+                deeply grateful to these readers for their advice and critical feedback. Most of the
+                entries were subject to double-blind peer review, while the rest underwent either
+                single-blind review or open review, depending on their unique formats and subject
+                matter.</p>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -3531,7 +3659,7 @@
             <idno>https://www.bl.uk/picturing-places</idno>
           </publicationStmt>
           <notesStmt>
-            <note>
+            <note type="abstract" xml:lang="en">
               <p>Picturing Places is a free educational resource providing unprecedented access to
                 the British Library’s unrivalled holdings of topographical materials. The site
                 highlights a selection of important items from our vast and varied collections,
