@@ -4307,62 +4307,325 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Digital Augustan Rome</title>
+            <title type="main">Digital Augustan Rome</title>
             <principal>
               <persName>
                 <forename>David</forename>
                 <surname>Gilman Romano</surname>
               </persName>
+              <persName>
+                <forename>Nicholas L.</forename>
+                <surname>Stapp</surname>
+              </persName>
+              <persName>
+                <forename>Mark</forename>
+                <surname>Davidson</surname>
+              </persName>
             </principal>
+            <funder>Parrhasian Heritage Foundation</funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>The University of Arizona</publisher>
-            <date/>
+            <publisher>Archaeological Mapping Lab, University of Arizona</publisher>
+            <pubPlace>Tucson</pubPlace>
+            <date from="2009" to="2013">2009-2013</date>
             <idno>https://www.digitalaugustanrome.org</idno>
           </publicationStmt>
           <notesStmt>
-            <note><p/></note>
+            <note type="abstract" xml:lang="en">
+              <p><title>Digital Augustan Rome</title> is a long term mapping project that is
+                prepared to provide a worthy digital successor to the published book and maps of
+                  <title>Mapping Augustan Rome</title> that appeared as <title type="j">Supplement
+                  50 in the Journal of Roman Archaeology Series</title>, 2002. The volume was
+                directed by <persName>Lothar Haselberger</persName> in collaboration with
+                  <persName>David Gilman Romano</persName> and edited by <persName>Elisha
+                  Dumser</persName>. The entries were written by over 12 authors.</p>
+              <p><title>Digital Augustan Rome</title> has also been a group effort and
+                  <persName>David Gilman Romano</persName> has been ably assisted in this endeavor
+                by Dr. <persName>Nicholas L. Stapp</persName> and <persName>Mark Davison</persName>
+                who were also his collaborators on the original map from the <date>2002</date>
+                publication. Their intentions were first signaled at the <title>Third Williams
+                  Symposium on Classical Architecture</title> held in <placeName>Rome</placeName> in
+                  <date>May of 2004</date> where we presented a brief summary of their thoughts and
+                plans on a successor to the <title>Mapping Augustan Rome volume 1</title>. Since the
+                earliest days of the <title>Mapping Augustan Rome</title> project, it has been their
+                intent to produce a digital version of the results and they have been working
+                towards this goal virtually from the outset. The work of this digital project is the
+                direct result of work carried out in the <orgName>Archaeological Mapping Lab of the
+                  University of Pennsylvania Museum of Archaeology and Anthropology</orgName>. The
+                work of the lab (formerly the Corinth Computer Project lab) since 1984 has been
+                devoted to using the most modern methods of digital cartography, remote sensing and
+                GIS in the field of ancient cities, landscapes and sanctuaries in order to study and
+                better understand their composition, organization and planning.</p>
+            </note>
+            <note type="biblio">
+              <biblStruct>
+                <analytic>
+                  <title type="a">Mapping Augustan Rome: towards the digital successor</title>
+                  <author>
+                    <persName>
+                      <forename>David</forename>
+                      <surname>Gilman Romano</surname>
+                    </persName>
+                    <persName>
+                      <forename>Nicholas L.</forename>
+                      <surname>Stapp</surname>
+                    </persName>
+                    <persName>
+                      <forename>Mark</forename>
+                      <surname>Davidson</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Journal of Roman Archaeology, Supplement</title>
+                  <editor>
+                    <persName>
+                      <forename>Lothar</forename>
+                      <surname>Haselberger</surname>
+                    </persName>
+                  </editor>
+                  <imprint>
+                    <date when="2006">2006</date>
+                    <biblScope unit="volume" n="61">61</biblScope>
+                    <biblScope unit="page" from="271" to="282">271-282</biblScope>
+                  </imprint>
+                </monogr>
+              </biblStruct>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Rennes et l’incendie de 1720</title>
+            <title type="main">Rennes et l’incendie de 1720</title>
             <principal>
               <persName>
                 <forename>Laurent</forename>
-                <surname>Gonthier</surname>
+                <surname>Gontier</surname>
               </persName>
             </principal>
           </titleStmt>
           <publicationStmt>
+            <publisher>Laurent Gontier</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2022">2022</date>
             <idno>https://www.laurentgontier.com/Rennes_Incendie/</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet <title>Rennes et l’incendie de 1720</title> présente une carte
+                intéractive de l'incendie de <placeName>Rennes</placeName> en <date>1720</date>.
+                Elle permet de visualiser la taille de l'incendie et les propriétés touchées par
+                celui-ci, aussi bien sur un plan de l'époque que sur un plan de la ville en
+                  <date>2022</date>.</p>
+            </note>
+            <note type="licence">OpenTopoMap (<ref
+                target="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</ref>)</note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Lyon en 1700</title>
+            <title type="main">Lyon en 1700</title>
+            <principal>
+              <persName>
+                <forename>Fabrice</forename>
+                <surname>Pothier</surname>
+              </persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
+            <publisher>Lyon en 1700</publisher>
+            <pubPlace>Lyon</pubPlace>
+            <date from="2009" to="2022">2009-2022</date>
             <idno>https://lyonen1700.fr</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p> Ce site propose la visite virtuelle d'une restitution numérique d'une partie de la
+                ville de <placeName>Lyon</placeName> en <date>1700</date>. Cette maquette est le
+                fruit de dix ans de travail réalisé membres de l'association <orgName>« Lyon en 1700
+                  »</orgName>. Elle est le résultat d'un travail de recherche avant tout
+                archivistique, possible grâce <orgName>archives départementales du Rhône</orgName>,
+                du <orgName>musée Gadagne</orgName>, de la <orgName>bibliothèque municipale de Lyon
+                  d'architecture</orgName>.</p>
+              <p>Néanmoins, le caractère nécessairement incomplet et parcellaire de ces sources nous
+                a amenés à nous interroger sur la manière de retranscrire ces incertitudes dans la
+                maquette numérique. La représentation de données suppose une part d'interprétation
+                qui interroge sans cesse sur sa validité historique. Nos réflexions sur cette
+                problématique nous ont amené à faire des choix.</p>
+              <p>Nous entendons par restitution une proposition de représenter par quelque moyen que
+                ce soit (dessin, maquette réelle ou virtuelle, etc) un pertinentes. Cette définition
+                implique que la restitution n'est qu'une proposition dont la caractéristique est
+                d'aller dans le sens des sources exploitées. La multiplicité des sources permet sans
+                doute d'approcher d'une réalité à jamais disparue, mais la restitution demeure en
+                toute hypothèse une simple interprétation.</p>
+              <p>Nous avons décidé, au niveau du rendu final, de traiter de la même manière les
+                zones peu sourcées et les zones plus sourcées afin de conserver à l'image une
+                cohérence d'ensemble. Le rendu final ne permet donc pas de distinguer les niveaux de
+                certitude dans la restitution. Pour autant, cela ne peut se défendre qu'à la
+                condition de donner un accès simple, visuel et immédiat aux sources et aux niveaux
+                de certitude grâce à des fiches réalisées pour chaque côté de bloc et accessibles
+                sur le plan attaché à chaque panoramique, ou dans la page « sources » du site. Si
+                vous souhaitez des informations sur la méthodologie adoptée pour réaliser cette
+                restitution, vous êtes invité à vous rendre sur la page « Méthodologie ».</p>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Imagine Rio</title>
+            <title type="main">Imagine Rio</title>
+            <principal>
+              <persName>
+                <forename>Farès</forename>
+                <surname>el-Dahdah</surname>
+              </persName>
+              <persName>
+                <forename>Alida C.</forename>
+                <surname>Metcalf</surname>
+              </persName>
+            </principal>
+            <funder>Getty Foundation</funder>
+            <funder>Rice University</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>AxisMaps</orgName>
+              <orgName>Instituto Moreira Salles</orgName>
+            </respStmt>
           </titleStmt>
           <publicationStmt>
+            <publisher>Center for Research Computing’s Spatial Studies Lab, Rice
+              University</publisher>
+            <pubPlace>Houston</pubPlace>
+            <date from="2019" to="2022">2019-2022</date>
             <idno>https://www.imaginerio.org</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>imagineRio</title> is a searchable atlas that illustrates the social and
+                urban evolution of <placeName>Rio de Janeiro</placeName> over its entire history, as
+                it has existed and as it has been imagined. Views of the city created by artists,
+                maps by cartographers, and site plans by architects or urbanists are all located in
+                both time and space. It is a web environment that offers creative new ways for
+                scholars, students, and residents to visualize the past by seeing historical and
+                modern imagery against an interactive map that accurately presents the city since
+                its founding. Historians can visualize specific sites of inquiry, architects and
+                urbanists may locate proposed design projects in situ, literary scholars are able to
+                map out novels, and residents can reconstruct the changes in their neighborhoods.
+                  <placeName>Rio de Janeiro</placeName>’s urban history is particularly well suited
+                to being captured in this way, considering how much the city’s natural environment,
+                urban fabric, and self-representation have changed over time.</p>
+            </note>
+            <note type="biblio">
+              <biblStruct>
+                <analytic>
+                  <title type="a">imagineRio</title>
+                  <author>
+                    <persName>
+                      <forename>Alida C.</forename>
+                      <surname>Metcalf</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="m">The Digital Urban Past: Exploring GIS Across the Centuries</title>
+                  <imprint>
+                    <pubPlace>York</pubPlace>
+                    <publisher>York University</publisher>
+                    <date when="2021">2021</date>
+                  </imprint>
+                </monogr>
+                <ref type="url">https://youtu.be/m1H6rWg9lSE</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">The imagineRio Project</title>
+                  <author>
+                    <persName>
+                      <forename>Farès</forename>
+                      <surname>El-Dahdah</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="m">Seminário Internacional: Niterói em Imagens, Laboratório
+                    Universitário de Preservação Audiovisual</title>
+                  <imprint>
+                    <pubPlace>Niterói</pubPlace>
+                    <publisher>Universidade Federal Fluminense</publisher>
+                    <date when="2021">2021</date>
+                  </imprint>
+                </monogr>
+                <ref type="url">https://youtu.be/xBTjya-zLIM</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">imagineRio</title>
+                  <author>
+                    <persName>
+                      <forename>Martim</forename>
+                      <surname>Passos</surname>
+                    </persName>
+                    <persName>
+                      <forename>David</forename>
+                      <surname>Heyman</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="m">Community Call: IIIF and Omeka</title>
+                  <imprint>
+                    <date when="2021">2021</date>
+                  </imprint>
+                </monogr>
+                <ref type="url">https://youtu.be/Jw9j3oRrS_I</ref>
+              </biblStruct>
+            </note>
+          </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Base de données du programme CIRCE</title>
-            <title>Constructions, Interprétations et Représentations Cultuelles de l’Espace dans les
-              sociétés anciennes</title>
+            <title type="main">Base de données du programme CIRCE</title>
+            <title type="sub">Constructions, Interprétations et Représentations Cultuelles de
+              l’Espace dans les sociétés anciennes</title>
+            <principal>
+              <persName>
+                <forename>Sonia</forename>
+                <surname>Darthou</surname>
+              </persName>
+              <persName>
+                <forename>François</forename>
+                <surname>de Polignac</surname>
+              </persName>
+              <persName>
+                <forename>Jea-Sébastien</forename>
+                <surname>Gros</surname>
+              </persName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Anthropologie et Histoire des Mondes Antiques (ANHIMA)</orgName>
+              <orgName>École Française d'Athènes (EFA)</orgName>
+              <orgName>Collège de France</orgName>
+              <orgName>École Pratique des Hautes Études (EPHE-PSL)</orgName>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
+              <orgName>Huma-Num</orgName>
+            </respStmt>
           </titleStmt>
           <publicationStmt>
+            <publisher>TGIR Huma-Num</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2008" to="2022">2008-2022</date>
             <idno>https://circe-antique.huma-num.fr</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Ce programme a pour objectif de constituer un inventaire topographique et
+                géolocalisable des lieux de culte connus par l’archéologie dans le monde grec,
+                région par région, de l’Age du Fer au <date>IIIe siècle ap. J.-C.</date>, afin de faciliter et
+                d’approfondir l’analyse de la répartition des cultes, des rites et des offrandes
+                dans l’espace et ses implications dans la signification et l’évolution du
+                polythéisme grec antique dans la diversité de ses manifestations.</p>
+            </note>
+          </notesStmt>
         </biblFull>
         <!-- https://hiddenflorence.org/about/ -->
         <!-- http://drc.usask.ca/projects/archbook/ -->
