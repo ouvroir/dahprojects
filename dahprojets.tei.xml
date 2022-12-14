@@ -527,10 +527,10 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
-              <p>Dirigé par Stephen Murray, professeur d’histoire de l’art et d’archéologie à
-                l’université de Columbia, le <title>Amiens project</title> consiste en une archive
-                de divers matériaux multimédias pour rendre compte de l’espace authentique de la
-                cathédrale.</p>
+              <p>Dirigé par <persName>Stephen Murray</persName>, professeur d’histoire de l’art et
+                d’archéologie à l’université de Columbia, le <title>Amiens project</title> consiste
+                en une archive de divers matériaux multimédias pour rendre compte de l’espace
+                authentique de la cathédrale.</p>
               <p>Plusieurs sections du site proposent des archives iconographiques de l’intérieur et
                 de l’extérieur de l’édifice accompagnées d’une riche documentation textuelle. Il
                 présente rassemble ainsi des clichés photographiques du bâtiment, des
@@ -544,7 +544,7 @@
                 quant à lui présenté au moyen d’animations interactives avec des références aux
                 sources religieuses textuelles. Enfin, une page du site accueillait des discussions
                 avec les utilisateurs au moyen du service HTML Gear Discussion Board offert par
-                Lycos jusqu’en avril 2012.</p>
+                  <orgName>Lycos</orgName> jusqu’en <date>avril 2012</date>.</p>
               <p>Le projet avait été conçu comme le prototype de ce que pourrait régulièrement
                 produire, à cette époque, le nouveau <orgName>Media Center for the Arts</orgName> en
                 tant que suppléments au programme d’art et d’humanités offert dans l’université.</p>
@@ -589,7 +589,6 @@
             </note>
           </notesStmt>
         </biblFull>
-        <!-- <projectDesc> <creation when="1996">1996</creation> <country>États-Unis</country> <langUsage> <language ident="eng" usage="100">Anglais (langue principale)</language> </langUsage> <projectClass> <keywords xml:lang="fr" scheme="http://data.bnf.fr/liste-rameau"> <term url="http://catalogue.bnf.fr/ark:/12148/cb11934792v/PUBLIC" >Architecture gothique</term> <term>13e siècle</term> <term>France</term> </keywords> <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh"> <term url="http://id.loc.gov/authorities/subjects/sh85006792" >Architecture, Gothic</term> <term url="http://id.loc.gov/authorities/subjects/sh2002012456">13th century</term> <term url="http://id.loc.gov/authorities/names/n79006404" >France</term> </keywords> <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/"> <term>website</term> <!-\- TODO qualifier -\-> </classCode> </projectClass> -->
         <biblFull>
           <titleStmt>
             <title type="main">Hachiman Digital Handscrolls</title>
@@ -598,30 +597,27 @@
                 <forename>Melanie</forename>
                 <surname>Trede</surname>
               </persName>
-              <roleName>Head of project</roleName>
-              <orgName>Heidelberg University</orgName>
             </principal>
-            <funder>Initiative d’excellence de l’université de Heidelberg, Field of Focus 3 Cultural
-              Dynamics in Globalised Worlds sponsorisé par la Fondation allemande de recherche entre
-              mars 2014 et février 2015. Le projet fut étendu et complété en octobre 2015 avec des
-              fonds du responsable du projet.</funder>
+            <funder>Université de Heidelberg</funder>
+            <funder>Fondation allemande de recherche</funder>
           </titleStmt>
           <publicationStmt>
             <publisher>Université de Heidelberg</publisher>
-            <pubPlace>Allemagne</pubPlace>
-            <date from="2014" to="2015">2014 à 2015</date>
+            <pubPlace>Heidelberg</pubPlace>
+            <date from="2014" to="2015">2014-2015</date>
             <idno>http://kjc-sv013.kjc.uni-heidelberg.de/hachiman/</idno>
+            <idno type="brokenLink" when="2022-01-20"
+              >https://web.archive.org/web/20220815000000*/http://kjc-sv013.kjc.uni-heidelberg.de/hachiman/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
-              <p>Le but du picturalprojet consistait à rendre possible la présentation numérique de
-                formats textuels et iconographiques longitudinaux et de pouvoir les les rendre
-                accessibles à une large audience. La présentation explore les possibilités de
-                visualisation simultanée d’un même thème iconographique ou textuel dans plusieurs
-                sources.</p>
+              <p>Le but du projet consistait à rendre possible la présentation numérique de formats
+                textuels et iconographiques longitudinaux et de pouvoir les rendre accessibles à une
+                large audience. La présentation explore les possibilités de visualisations
+                simultanées d’un même thème iconographique ou textuel dans plusieurs sources.</p>
               <p>Le contenu pictural et textuel des rouleaux est identifié par des zones et indexé.
                 Ce découpage permet une navigation hypertexteulle et de fournir des informations
-                supplémentaire. Une table lumineuses permet de rassemblée des ensembles pour les
+                supplémentaires. Une table lumineuse permet de rassembler des ensembles pour les
                 étudier de manière adéquate.</p>
               <p>Techniquement, le site utilise le logiciel <ref target="http://hyperimage.ws"
                   >HyperImage Reader</ref>.</p>
@@ -641,10 +637,10 @@
           <publicationStmt>
             <publisher>K. Bender</publisher>
             <pubPlace>s.l.</pubPlace>
-            <date from="2009" to="2014">2009 à 2014</date>
+            <date from="2009" to="2014">2009-2014</date>
             <idno>https://sites.google.com/site/venusiconography/</idno>
             <idno type="brokenLink" when="2020-10-19"
-              >https://sites.google.com/site/venusiconography/</idno>
+              >https://web.archive.org/web/20201001000000*/https://sites.google.com/site/venusiconography/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
@@ -708,7 +704,7 @@
             <authority>Stanford University</authority>
             <publisher>University of Washington</publisher>
             <pubPlace>Stanford</pubPlace>
-            <date from="1997" to="2004">1997 à 2004</date>
+            <date from="1997" to="2004">1997-2004</date>
             <idno>http://graphics.stanford.edu/projects/mich/</idno>
           </publicationStmt>
           <notesStmt>
@@ -720,20 +716,21 @@
                 artifacts, and design models for the manufacturing, moviemaking, and video game
                 industries. As an application of this technology, a team of 30 faculty, staff, and
                 students from <orgName>Stanford University</orgName> and <orgName>the University of
-                  Washington</orgName> spent the 1998-99 academic year in Italy scanning the
-                sculptures and architecture of Michelangelo. As a side project, we also scanned
-                1,163 fragments of the Forma Urbis Romae, a giant marble map of ancient Rome. We are
-                currently back in the United States processing the data we acquired. Our goal is to
-                produce a set of 3D computer models - one for each statue, architectural setting,
-                and map fragment we scanned - and to make these models available to scholars
-                worldwide. The motivations behind this project are to advance the technology of 3D
-                scanning, to place this technology in the service of the humanities, and to create a
-                long-term digital archive of some important cultural artifacts. Our sponsors are
-                  <orgName>Stanford University</orgName>, <orgName>Interval Research
-                  Corporation</orgName> and <orgName>the Paul G. Allen Foundation for the
-                  Arts</orgName>. Our collaborators, a mix of computer scientists and art
-                historians, include the Italian museums and institutions whose names are listed
-                below.</p>
+                  Washington</orgName> spent the <date>1998-99</date> academic year in
+                  <placeName>Italy</placeName> scanning the sculptures and architecture of
+                Michelangelo. As a side project, we also scanned 1,163 fragments of the <title>Forma
+                  Urbis Romae</title>, a giant marble map of ancient <placeName>Rome</placeName>. We
+                are currently back in the <placeName>United States</placeName> processing the data
+                we acquired. Our goal is to produce a set of 3D computer models - one for each
+                statue, architectural setting, and map fragment we scanned - and to make these
+                models available to scholars worldwide. The motivations behind this project are to
+                advance the technology of 3D scanning, to place this technology in the service of
+                the humanities, and to create a long-term digital archive of some important cultural
+                artifacts. Our sponsors are <orgName>Stanford University</orgName>,
+                  <orgName>Interval Research Corporation</orgName> and <orgName>the Paul G. Allen
+                  Foundation for the Arts</orgName>. Our collaborators, a mix of computer scientists
+                and art historians, include the Italian museums and institutions whose names are
+                listed below.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -751,14 +748,15 @@
           <publicationStmt>
             <publisher>Duke University</publisher>
             <pubPlace>Duhram</pubPlace>
-            <date from="2009" to="2015">2009 à 2015</date>
+            <date from="2009" to="2015">2009-2015</date>
             <idno>http://www.dukewired.org</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
-              <p>Wired ! est un groupe de chercheurs de l’univeristé de Duke qui appliquent les
-                technologies de visualisation culturelle et historique et leurs méthodes à l’étude
-                de la culture matérielle, de l’art, de l’architecture et à l’histoire urbaine.</p>
+              <p><title>Wired !</title> est un groupe de chercheurs de l’<orgName>univeristé de
+                  Duke</orgName> qui appliquent les technologies de visualisation culturelle et
+                historique et leurs méthodes à l’étude de la culture matérielle, de l’art, de
+                l’architecture et à l’histoire urbaine.</p>
               <p>Le projet a changé de nom pour devenir le <title>Duke’s Digital Art History &amp;
                   Visual Culture Research Lab</title>.</p>
             </note>
@@ -780,16 +778,17 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="it">
-              <p>La Biblioteca Apostolica Vaticana in collaborazione con l’Istituto Nazionale per la
-                Grafica ha realizzato, in occasione del Grande Giubileo dell'Anno Duemila, una
-                Pianta di Roma incisa su rame ad acquaforte e bulino e stampata seguendo i
-                procedimenti tradizionali della calcografia.</p>
+              <p>La <orgName>Biblioteca Apostolica Vaticana</orgName> in collaborazione con
+                  l’<orgName>Istituto Nazionale per la Grafica</orgName> ha realizzato, in occasione
+                del <title>Grande Giubileo dell'Anno Duemila</title>, una Pianta di Roma incisa su
+                rame ad acquaforte e bulino e stampata seguendo i procedimenti tradizionali della
+                calcografia.</p>
             </note>
             <note type="biblio">
-              <!-- CHANGER -->
               <biblStruct>
                 <analytic>
-                  <title type="a"> La Forma Urbis Romae, Bilan de vingt-cinq années de recherches </title>
+                  <title type="a">La Forma Urbis Romae, Bilan de vingt-cinq années de
+                    recherches</title>
                   <author>
                     <persName>
                       <forename>Charles</forename>
@@ -838,15 +837,16 @@
             <funder>Regione del Veneto</funder>
             <funder>Bass Connections, Duke University</funder>
             <funder>Humanities Writ Large, Duke University</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Università luav di Venezia</orgName>
+              <orgName>Università degli Studi di Padova</orgName>
+            </respStmt>
           </titleStmt>
           <publicationStmt>
             <authority>Duke University</authority>
-            <authority>Università luav di Venezia</authority>
-            <authority>Università degli Studi di Padova</authority>
             <pubPlace>Durham</pubPlace>
-            <pubPlace>Venise</pubPlace>
-            <pubPlace>Padoue</pubPlace>
-            <date from="2009" to="2015">2009 à 2015</date>
+            <date from="2009" to="2015">2009-2015</date>
             <idno>http://www.visualizingvenice.org/visu/</idno>
           </publicationStmt>
           <notesStmt>
@@ -854,20 +854,21 @@
               <p><title>Visualizing Venice</title> is a Digital Humanities initiative that consists
                 of students, scholars and architects at all levels of their careers who are actively
                 involved in research projects to generate digital models and maps of the city of
-                Venice, its territories, and its lagoon. Our goals are two: – to enhance the
-                understanding of the city, the lagoon, and its region as an on-going process of
-                change and transformation over time, – to communicate new knowledge about place and
-                space to the public through portable devices and on the Visualizing Venice website.
-                Our research is based on archival and printed sources (documents, cartography,
-                images) from which we generate three-dimensional models and animations that address
-                questions of change and transformation. Begun in 2009, <title>Visualizing
-                  Venice</title> is collaboration between <orgName>Duke University</orgName>, the
-                  <orgName>Università Iuav di Venezia</orgName> (Iuav) and the <orgName>Università
-                  degli Studi di Padova</orgName>. The team now consists of approximately 30
-                faculty, post-docs and graduate students. Several of our initiatives involve
-                teaching undergraduate students about the history of Venice through the vehicle of
-                mapping and modeling projects and developing undergraduate-graduate research teams
-                such as the VIVA initiative.</p>
+                  <placeName>Venice</placeName>, its territories, and its lagoon. Our goals are two:
+                – to enhance the understanding of the city, the lagoon, and its region as an
+                on-going process of change and transformation over time, – to communicate new
+                knowledge about place and space to the public through portable devices and on the
+                Visualizing Venice website. Our research is based on archival and printed sources
+                (documents, cartography, images) from which we generate three-dimensional models and
+                animations that address questions of change and transformation. Begun in
+                  <date>2009</date>, <title>Visualizing Venice</title> is collaboration between
+                  <orgName>Duke University</orgName>, the <orgName>Università Iuav di
+                  Venezia</orgName> (Iuav) and the <orgName>Università degli Studi di
+                  Padova</orgName>. The team now consists of approximately 30 faculty, post-docs and
+                graduate students. Several of our initiatives involve teaching undergraduate
+                students about the history of Venice through the vehicle of mapping and modeling
+                projects and developing undergraduate-graduate research teams such as the
+                  <title>VIVA initiative</title>.</p>
             </note>
             <note type="biblio">
               <biblStruct>
@@ -907,7 +908,6 @@
             <funder>ITHAKA</funder>
           </titleStmt>
           <publicationStmt>
-            <authority/>
             <publisher>JStor</publisher>
             <pubPlace>New York</pubPlace>
             <date from="2004">2004</date>
@@ -986,7 +986,7 @@
                 <monogr>
                   <title type="j">Art Library Journal</title>
                   <imprint>
-                    <date when="2007">2006</date>
+                    <date when="2006">2006</date>
                     <biblScope unit="volume" n="31">31</biblScope>
                     <biblScope unit="issue" n="3">3</biblScope>
                     <biblScope unit="page" from="42" to="45">42-45</biblScope>
@@ -998,14 +998,136 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Rome reborn</title>
+            <title type="main">Rome reborn</title>
+            <principal>
+              <persName>
+                <forename>Bernard</forename>
+                <surname>Frischer</surname>
+              </persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>frischerconsulting</publisher>
+            <publisher>Frischer Consulting</publisher>
+            <pubPlace>Konstanz</pubPlace>
+            <date from="2005" to="2018">2005-2018</date>
             <idno>http://romereborn.frischerconsulting.com</idno>
           </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Rome Reborn</title> is an international initiative whose goal is the
+                creation of 3D digital models illustrating the urban development of ancient
+                  <placeName>Rome</placeName> from the first settlement in the late Bronze Age (ca.
+                  <date>1000 B.C.</date>) to the depopulation of the city in the early Middle Ages
+                (ca. <date>A.D. 550</date>). With the advice of an international Scientific Advisory
+                Committee, the leaders of the project decided that <date>A.D. 320</date> was the
+                best moment in time to begin the work of modeling. At that time,
+                  <placeName>Rome</placeName> had reached the peak of its population, and major
+                Christian churches were just beginning to be built. After this date, few new civic
+                buildings were built. Much of what survives of the ancient city dates to this
+                period, making reconstruction less speculative than it must, perforce, be for
+                earlier phases. But having started with <date>A.D. 320</date>, the Rome Reborn team
+                intends to move both backwards and forwards in time until the entire span of time
+                foreseen by our mission has been covered.</p>
+            </note>
+            <note type="biblio">
+              <biblStruct>
+                <analytic>
+                  <title type="a">The Rome Reborn Project. How Technology is helping us to study
+                    history</title>
+                  <author>
+                    <persName>
+                      <forename>Bernard</forename>
+                      <surname>Frischer</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">OpEd</title>
+                  <imprint>
+                    <date when="2008">2008</date>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://web.archive.org/web/20131031052923if_/http://romereborn.frischerconsulting.com:80/rome_reborn_2_documents/papers/Frischer_OpEd_final2.pdf</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">Rome Reborn in Google Earth</title>
+                </analytic>
+                <monogr>
+                  <title type="m">AA 2009. Making History Interactive. 37th Proceedings of the CAA
+                    Conference March 22-26, 2009, Williamsburg, Virginia</title>
+                  <imprint>
+                    <pubPlace>Oxford</pubPlace>
+                    <publisher>Archaeopress</publisher>
+                    <date when="2009">2009</date>
+                    <biblScope unit="page" from="373" to="379">373-379</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://web.archive.org/web/20131031052923if_/http://romereborn.frischerconsulting.com:80/rome_reborn_2_documents/papers/Wells2_Frischer_Rome_Reborn.pdf</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">Rome Reborn 2.0: A Case Study of Virtual City Reconstruction Using
+                    Procedural Modeling Techniques</title>
+                </analytic>
+                <monogr>
+                  <title type="m">AA 2009. Making History Interactive. 37th Proceedings of the CAA
+                    Conference March 22-26, 2009, Williamsburg, Virginia</title>
+                  <imprint>
+                    <pubPlace>Oxford</pubPlace>
+                    <publisher>Archaeopress</publisher>
+                    <date when="2009">2009</date>
+                    <biblScope unit="page" from="62" to="66">62-66</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://web.archive.org/web/20131031052923if_/http://romereborn.frischerconsulting.com:80/rome_reborn_2_documents/papers/Dylla2_Frischer_Rome_Reborn.pdf</ref>
+              </biblStruct>
+            </note>
+          </notesStmt>
         </biblFull>
-        <!-- NEED INFO -->
+        <biblFull>
+          <titleStmt>
+            <title type="main">Flyover Zone</title>
+            <principal>
+              <persName>
+                <forename>Bernard</forename>
+                <surname>Frischer</surname>
+              </persName>
+              <persName>
+                <forename>Nathanel</forename>
+                <surname>Tavares</surname>
+              </persName>
+            </principal>
+            <funder/>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName/>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Flyover Zone</publisher>
+            <pubPlace>Bloomington</pubPlace>
+            <date from="2018" to="2022">2018-2022</date>
+            <idno>https://www.flyoverzone.com/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>We create curated virtual tours taking you across space and back in time to see the
+                world’s great cultural heritage sites. Published on our proprietary platform,
+                  <title>Yorescape</title>, the tours show you the sites as they appear today and,
+                when they have been damaged, we restore them digitally so you can see them in their
+                prime, hundreds or sometimes thousands of years ago. At each stop on a tour, you
+                hear one of the world’s leading experts explain what you are seeing. Our tours run
+                on devices ranging from smartphones and PCs to VR goggles. Whatever the device, the
+                content is the same.</p>
+              <p><title>Flyover Zone</title> est le projet qui fait suite à <title>Rome
+                  Reborn</title> à partir de <date>2018</date>.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">Online Scholarly Catalogue Initiative</title>
@@ -1014,23 +1136,21 @@
           <publicationStmt>
             <publisher>Getty</publisher>
             <pubPlace>Los Angeles</pubPlace>
-            <date from="2009" to="2017">2009 à 2017</date>
+            <date from="2009" to="2017">2009-2017</date>
             <idno type="url"
               >http://www.getty.edu/foundation/initiatives/current/osci/index.html</idno>
           </publicationStmt>
-
-
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p>The <orgName>Getty Foundation</orgName>'s <title>Online Scholarly Catalogue
-                  Initiative (OSCI)</title> launched in 2009 with the goals of rethinking the museum
-                scholarly collection catalogue for the digital age and helping museums work together
-                to transition to online publishing. The publishing of scholarly collection
-                catalogues is a critical part of a museum's mission. Based on meticulous research,
-                such catalogues make available detailed information about the individual works in a
-                museum's collection, ensuring the contents a place in art history. Yet printed
-                volumes are costly to produce and difficult to update regularly; their potential
-                content often exceeds allotted space.</p>
+                  Initiative (OSCI)</title> launched in <date>2009</date> with the goals of
+                rethinking the museum scholarly collection catalogue for the digital age and helping
+                museums work together to transition to online publishing. The publishing of
+                scholarly collection catalogues is a critical part of a museum's mission. Based on
+                meticulous research, such catalogues make available detailed information about the
+                individual works in a museum's collection, ensuring the contents a place in art
+                history. Yet printed volumes are costly to produce and difficult to update
+                regularly; their potential content often exceeds allotted space.</p>
             </note>
             <note type="biblio">
               <biblStruct>
@@ -1088,7 +1208,7 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>SmartHistory</title>
+            <title type="main">SmartHistory</title>
             <principal>
               <persName>
                 <forename>Beth</forename>
@@ -1115,10 +1235,10 @@
               <p><title>Smarthistory</title> is a leading resource for the study of art and cultural
                 heritage. Our growing collection of videos and essays are designed to be engaging
                 and conversational and cover art that ranges from the paleolithic to the present
-                across Africa, the Americas, Asia, Europe, and Oceania. Everything on Smarthistory
-                is completely free and our content is offered with no advertising. We are a tiny
-                non-profit organization based in New York, but we reach millions of learners around
-                the world.</p>
+                across Africa, the Americas, Asia, Europe, and Oceania. Everything on
+                  <title>Smarthistory</title> is completely free and our content is offered with no
+                advertising. We are a tiny non-profit organization based in <placeName>New
+                  York</placeName>, but we reach millions of learners around the world.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1148,12 +1268,12 @@
             <note type="abstract" xml:lang="en">
               <p> The <orgName>Freer Gallery of Art </orgName>possesses one of the most important
                 collections of Chinese painting outside Asia, and its holdings from the Song and
-                Yuan dynasties (10th–14th centuries) are particularly significant. The collection
-                includes an extraordinary group of eighty-two paintings—illustrating a range of
-                themes, compositions, and stylistic conventions—and three independent works of
-                calligraphy, two of which take the form of rubbings. More than ninety other examples
-                of Song and Yuan calligraphy are featured in frontispieces, inscriptions, or
-                colophons attached to paintings. Many of the eighty-five Freer works have assumed
+                Yuan dynasties (<date>10th–14th centuries</date>) are particularly significant. The
+                collection includes an extraordinary group of eighty-two paintings—illustrating a
+                range of themes, compositions, and stylistic conventions—and three independent works
+                of calligraphy, two of which take the form of rubbings. More than ninety other
+                examples of Song and Yuan calligraphy are featured in frontispieces, inscriptions,
+                or colophons attached to paintings. Many of the eighty-five Freer works have assumed
                 near-iconic status in the study of Chinese brushwork in the West. Despite their
                 exceptional quality, however, most are being thoroughly published for the first time
                 on this website. This pioneering project enables web users around the globe to study
@@ -1175,7 +1295,7 @@
           <publicationStmt>
             <publisher>The Smithsonian’s Museum of Asian Art</publisher>
             <pubPlace>Washington</pubPlace>
-            <idno>https://publications.asia.si.edu/publications/goryeo/en/default.php</idno>
+            <idno>https://asia.si.edu/goryeo-buddhist-painting-a-closer-look/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -1187,21 +1307,23 @@
                 the patronage of the imperial court by the thirteenth century. Relatively small in
                 scale, these delicate works were made for intimate settings, such as private chapels
                 maintained by members of the elite class. Today, only about 160 of these exceptional
-                paintings dating from the second half of the Goryeo 고려 高麗 dynasty (918–1392) exist
-                worldwide. Three are in the collections of the Freer Gallery of Art and Arthur M.
-                Sackler Gallery, while thirteen more belong to other museums throughout the United
-                States. I would like to take this opportunity to thank these museums for their
-                cooperation in this collaborative undertaking. Photo of Prof. Chung Woothak, Dongguk
-                University, Seoul Chung Woothak, Professor Emeritus, Dongguk University, Seoul,
-                photographing Water-Moon Avalokiteshvara at the <orgName>Freer Gallery of
+                paintings dating from the second half of the Goryeo 고려 高麗 dynasty
+                  (<date>918–1392</date>) exist worldwide. Three are in the collections of the
+                  <orgName>Freer Gallery of Art</orgName> and <orgName>Arthur M. Sackler
+                  Gallery</orgName>, while thirteen more belong to other museums throughout the
+                United States. I would like to take this opportunity to thank these museums for
+                their cooperation in this collaborative undertaking. Photo of Prof. <persName>Chung
+                  Woothak</persName>, <orgName>Dongguk University</orgName>, <persName>Seoul Chung
+                  Woothak</persName>, Professor Emeritus, <orgName>Dongguk University</orgName>,
+                Seoul, photographing Water-Moon Avalokiteshvara at the <orgName>Freer Gallery of
                   Art</orgName> Scholarship on these paintings, which are chiefly Pure Land images
                 dominated by the Buddha Amitabha and deities associated with him, has developed
-                quickly since the first study was presented by the Yamato Bunkakan 大和文華館 in Nara,
-                Japan, in 1978. To help advance this research and deepen understanding of the
-                sixteen examples in American collections, the <orgName>Freer Gallery of
-                  Art</orgName> and <orgName>Arthur M. Sackler Gallery</orgName> approached the
-                Cultural Heritage Administration of Korea for assistance in creating this bilingual
-                digital catalogue. </p>
+                quickly since the first study was presented by the Yamato Bunkakan 大和文華館 in
+                  <placeName>Nara</placeName>, Japan, in <date>1978</date>. To help advance this
+                research and deepen understanding of the sixteen examples in American collections,
+                the <orgName>Freer Gallery of Art</orgName> and <orgName>Arthur M. Sackler
+                  Gallery</orgName> approached the Cultural Heritage Administration of Korea for
+                assistance in creating this bilingual digital catalogue. </p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1226,40 +1348,42 @@
             <note type="abstract" xml:lang="en">
               <p>The <orgName>Freer Gallery of Art</orgName> is home to the world’s largest
                 collection of <persName>James McNeill Whistler</persName>’s watercolors. Originally
-                acquired by museum founder Charles Lang Freer (1854–1919), the collection comprises
-                more than fifty seascapes, figures, interiors, and nocturnes.</p>
+                acquired by museum founder <persName>Charles Lang Freer</persName>
+                  (<date>1854–1919</date>), the collection comprises more than fifty seascapes,
+                figures, interiors, and nocturnes.</p>
               <p>This online catalogue introduces visitors to the artist’s vast creative output in
                 watercolor and provides access to rarely seen works that have never left the
                 confines of the <orgName>Freer Gallery</orgName>. It incorporates collaborative
                 research by our museum’s curatorial, conservation, and scientific staff to
-                illuminate the artist’s techniques and materials. The Whistler in Watercolor online
-                scholarly catalogue invites visitors to explore the collection with state-of-the-art
-                technical imaging and archival documents, map the location where each artwork was
-                created, and more. Each object in the online catalogue is accompanied by tabs
-                detailing extensive curatorial information, including the work’s provenance and
-                exhibition history, technical analysis of the pigments and papers, and scientific
-                imaging using ultraviolet, infrared, and x-ray. For <persName>James McNeill
-                  Whistler</persName> (1834–1903), watercolor was the medium through which he
-                reinvented himself in the 1880s and painted his way into posterity. Although he used
-                watercolor for preparatory studies in his early years, he only embraced the medium
-                in earnest in the period that followed the scandals occasioned by a public
-                falling-out over the Peacock Room with his patron, Frederick Leyland, and a
-                financially disastrous libel suit against Victorian art critic John Ruskin.
-                Beginning in 1881, Whistler abandoned large-scale pictures in favor of diminutive,
-                quickly executed “notes” and “arrangements.” “I have done delightful things,” he
-                confided to a fellow artist, “and have a wonderful game to play.” Whistler’s “game”
-                had a dual purpose: to refer to both his latest work and his plans for selling it.
-                Whistler made arrangements with the Dowdeswell Gallery to exhibit his new work in
-                the spring of 1884. Presented as “Notes”—“Harmonies”—“Nocturnes,” the exhibition was
-                the first in a series of shows that Whistler orchestrated over the next five years
-                to highlight his small works, develop his presence in the British and American art
-                markets, and lay a foundation for his legacy.</p>
+                illuminate the artist’s techniques and materials. The <title>Whistler in
+                  Watercolor</title> online scholarly catalogue invites visitors to explore the
+                collection with state-of-the-art technical imaging and archival documents, map the
+                location where each artwork was created, and more. Each object in the online
+                catalogue is accompanied by tabs detailing extensive curatorial information,
+                including the work’s provenance and exhibition history, technical analysis of the
+                pigments and papers, and scientific imaging using ultraviolet, infrared, and x-ray.
+                For <persName>James McNeill Whistler</persName> (<date>1834–1903</date>), watercolor
+                was the medium through which he reinvented himself in the <date>1880s</date> and
+                painted his way into posterity. Although he used watercolor for preparatory studies
+                in his early years, he only embraced the medium in earnest in the period that
+                followed the scandals occasioned by a public falling-out over the Peacock Room with
+                his patron, Frederick Leyland, and a financially disastrous libel suit against
+                Victorian art critic John Ruskin. Beginning in <date>1881</date>, Whistler abandoned
+                large-scale pictures in favor of diminutive, quickly executed “notes” and
+                “arrangements.” “I have done delightful things,” he confided to a fellow artist,
+                “and have a wonderful game to play.” Whistler’s “game” had a dual purpose: to refer
+                to both his latest work and his plans for selling it. Whistler made arrangements
+                with the Dowdeswell Gallery to exhibit his new work in the spring of
+                  <date>1884</date>. Presented as “Notes”—“Harmonies”—“Nocturnes,” the exhibition
+                was the first in a series of shows that Whistler orchestrated over the next five
+                years to highlight his small works, develop his presence in the British and American
+                art markets, and lay a foundation for his legacy.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Mapping Gothic France</title>
+            <title type="main">Mapping Gothic France</title>
             <principal>
               <persName>
                 <forename>Stephen</forename>
@@ -1274,41 +1398,47 @@
                 <surname>O’Neill</surname>
               </persName>
             </principal>
-            <funder>The Mellon Foundation</funder>
+            <funder>The Andrew W. Mellon Foundation</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Vassar College</orgName>
+            </respStmt>
           </titleStmt>
           <publicationStmt>
-            <authority>Media Center for Art History, Columbia University</authority>
-            <authority>Art Department, Vassar College</authority>
+            <authority>Media Center for Art History</authority>
             <publisher>Columbia University</publisher>
             <pubPlace>New York</pubPlace>
+            <date when="2011">2011</date>
             <idno>http://mappinggothic.org</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p>The <title>Mapping Gothic France project</title> was initiated by <persName>Stephen
                   Murray</persName>, Professor of Art History and Archaeology at <orgName>Columbia
-                  University</orgName> and Andrew Tallon, Assistant Professor of Art at Vassar
-                College and funded through the generosity of the Andrew W. Mellon Foundation.
-                Mapping Gothic France was developed within the framework of collaboration between
-                the Media Center for Art History in the Department of Art History and Archaeology at
-                  <orgName>Columbia University</orgName>, the Visual Resources Library at Vassar
-                College, and the Columbia University Libraries. Whereas pictures can be
-                satisfactorily represented in two dimensions on a computer screen, space --
-                especially Gothic space -- demands a different approach, one which embraces not only
-                the architectonic volume but also time and narrative. Mapping Gothic France builds
-                upon a theoretical framework derived from the work of Henri Lefèbvre (The Production
-                of Space) that seeks to establish linkages between the architectural space of
-                individual buildings, geo-political space, and the social space resulting from the
-                interaction (collaboration and conflict) between multiple agents -- builders and
-                users. Our intention has been not just to develop a more appropriate way of
-                representing the spaciousness of individual monuments, but to provide the user of
-                the site with new ways to understand the relationship of hundreds of buildings
-                conventionally described as "Gothic" -- in terms of sameness and difference, found
-                in the forms of multiple buildings within a defined period of time and space that
-                corresponds to the advent of the nation of France. Mapping Gothic France will, we
-                hope, become a vital educational and research tool for both students and scholars.
-                We invite you to explore the site, and welcome both your comments and scholarly
-                contributions to the narratives.</p>
+                  University</orgName> and <persName>Andrew Tallon</persName>, Assistant Professor
+                of Art at <orgName>Vassar College</orgName> and funded through the generosity of the
+                  <orgName>Andrew W. Mellon Foundation</orgName>. <title> Mapping Gothic
+                  France</title> was developed within the framework of collaboration between the
+                Media Center for Art History in the Department of Art History and Archaeology at
+                  <orgName>Columbia University</orgName>, the Visual Resources Library at
+                  <title>Vassar College</title>, and the <title>Columbia University
+                  Libraries</title>. Whereas pictures can be satisfactorily represented in two
+                dimensions on a computer screen, space -- especially Gothic space -- demands a
+                different approach, one which embraces not only the architectonic volume but also
+                time and narrative. <title>Mapping Gothic France</title> builds upon a theoretical
+                framework derived from the work of <persName>Henri Lefèbvr</persName>e (<title>The
+                  Production of Space</title>) that seeks to establish linkages between the
+                architectural space of individual buildings, geo-political space, and the social
+                space resulting from the interaction (collaboration and conflict) between multiple
+                agents -- builders and users. Our intention has been not just to develop a more
+                appropriate way of representing the spaciousness of individual monuments, but to
+                provide the user of the site with new ways to understand the relationship of
+                hundreds of buildings conventionally described as "Gothic" -- in terms of sameness
+                and difference, found in the forms of multiple buildings within a defined period of
+                time and space that corresponds to the advent of the nation of France.
+                  <title>Mapping Gothic France</title> will, we hope, become a vital educational and
+                research tool for both students and scholars. We invite you to explore the site, and
+                welcome both your comments and scholarly contributions to the narratives.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1368,18 +1498,18 @@
             <note type="abstract" xml:lang="en">
               <p>3D digital modeling often encounters a barrier when confronted with the kind of
                 complex geometry that characterizes most sculpture. Through its Digital Sculpture
-                Project, the Virtual World Heritage Laboratory is pioneering new solutions and
-                applications in this important but neglected area of the digital humanities. This
-                website is devoted to studying ways in which 3D digital technologies can be applied
-                to the capture, representation and interpretation of sculpture from all periods and
-                cultures. Up to now, 3D technologies have been used in fruitful ways to represent
-                geometrically simple artifacts such as pottery or larger-scale structures such as
-                buildings and entire cities. With some notable exceptions, sculpture has been
-                neglected by digital humanists. The Digital Sculpture Project will fill this gap by
-                focusing on the following issues: - 3D data capture and documentation ; - Digital
-                restoration ; - Digital tools for the processing and analysis of digitized
-                sculpture, including colorization ; - Analysis of earlier forms of sculptural
-                reproduction, particularly the cast.</p>
+                Project, the <orgName>Virtual World Heritage Laboratory</orgName> is pioneering new
+                solutions and applications in this important but neglected area of the digital
+                humanities. This website is devoted to studying ways in which 3D digital
+                technologies can be applied to the capture, representation and interpretation of
+                sculpture from all periods and cultures. Up to now, 3D technologies have been used
+                in fruitful ways to represent geometrically simple artifacts such as pottery or
+                larger-scale structures such as buildings and entire cities. With some notable
+                exceptions, sculpture has been neglected by digital humanists. The Digital Sculpture
+                Project will fill this gap by focusing on the following issues: - 3D data capture
+                and documentation ; - Digital restoration ; - Digital tools for the processing and
+                analysis of digitized sculpture, including colorization ; - Analysis of earlier
+                forms of sculptural reproduction, particularly the cast.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1406,8 +1536,9 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>Digging into Image Data to Answer Authorship Related Questions (DID-ARQ) seeks to
-                explore authorship studies of visual arts through computational image analyses.</p>
+              <p><title>Digging into Image Data to Answer Authorship Related Questions
+                  (DID-ARQ</title>) seeks to explore authorship studies of visual arts through
+                computational image analyses.</p>
               <p>Authorship Overview: In the past, authorship has been explored in terms of
                 attributions, typically of either individual masterpieces or small collections of
                 art from the same period, location, or school. Due to these localized strategies of
@@ -1416,25 +1547,26 @@
                 dataset. More significantly, to our knowledge, there have to date been no studies of
                 image analyses targeting the problem of authorship applied to very large collections
                 of images and evaluated in terms of accuracy over diverse datasets.</p>
-              <p>Addressing Authorship: DID-ARQ investigates the accuracy and computational
-                scalability of adaptive image analyses when they are applied to diverse collections
-                of image data. While identifying distinct characteristics of artists is
-                time-consuming for individual researchers using traditional methodologies,
-                computer-assisted techniques can help humanists discover salient characteristics and
-                increase the reliability of those findings over a large-volume corpus of digitized
-                images. Computer-assisted techniques can provide an initial bridge from the
-                low-level image units, such as color of pixels, to higher-level semantic concepts
-                such as brush strokes, compositions or patterns. This effort will utilize three
-                datasets of visual works -- 15th-century manuscripts, 17th and 18th-century maps,
-                and 19th and 20th-century quilts to investigate what might be revealed about the
+              <p>Addressing Authorship: <title>DID-ARQ</title> investigates the accuracy and
+                computational scalability of adaptive image analyses when they are applied to
+                diverse collections of image data. While identifying distinct characteristics of
+                artists is time-consuming for individual researchers using traditional
+                methodologies, computer-assisted techniques can help humanists discover salient
+                characteristics and increase the reliability of those findings over a large-volume
+                corpus of digitized images. Computer-assisted techniques can provide an initial
+                bridge from the low-level image units, such as color of pixels, to higher-level
+                semantic concepts such as brush strokes, compositions or patterns. This effort will
+                utilize three datasets of visual works -- <date>15th-century</date> manuscripts,
+                  <date>17th</date> and <date>18th-century</date> maps, and <date>19th</date> and
+                  <date>20th-century</date> quilts to investigate what might be revealed about the
                 authors and their artistic lineages by comparing manuscripts, maps, and quilts
                 across four centuries.</p>
               <p>Problem Description: Based on the artistic, scientific or technological questions,
-                DID-ARQ intends to formulate and address the problem of finding salient
-                characteristics of artists from two-dimensional (2D) images of historical artifacts.
-                Given a set of 2D images of historical artifacts with known authors, our project
-                teams aim to discover what salient characteristics make an artist different from
-                others, and then to enable statistical learning about individual and collective
+                  <title>DID-ARQ</title> intends to formulate and address the problem of finding
+                salient characteristics of artists from two-dimensional (2D) images of historical
+                artifacts. Given a set of 2D images of historical artifacts with known authors, our
+                project teams aim to discover what salient characteristics make an artist different
+                from others, and then to enable statistical learning about individual and collective
                 authorship. The objective of this effort is to learn what is unique about the style
                 of each artist, and to provide the results at a much higher level of confidence than
                 previously has been feasible by exploring a large search space in the semantic gap
@@ -1480,13 +1612,16 @@
               <p>Historical ceramics made in or traded into (therefore in, not simply of) Mainland
                 Southeast Asia, principally between the tenth and twentieth centuries, are the focus
                 of this catalogue. The completed catalogue will present nearly 900 ceramics in the
-                collections of the Freer Gallery of Art and Arthur M. Sackler Gallery, the scope of
-                which encompasses places of production in Mainland Southeast Asia—the modern
-                countries of Vietnam, Cambodia, Laos, Thailand, and Burma (Myanmar)—as well as
-                southern China. Individual objects and regional ceramic groups also represent the
-                importance of the export of wares made in the mainland to insular Southeast Asia
-                (Malaysia, Indonesia, and the Philippines) as well as further afield to Japan and
-                West Asia. </p>
+                collections of the <orgName>Freer Gallery of Art</orgName> and <orgName>Arthur M.
+                  Sackler Gallery</orgName>, the scope of which encompasses places of production in
+                Mainland Southeast Asia—the modern countries of <placeName>Vietnam</placeName>,
+                  <placeName>Cambodia</placeName>, <placeName>Laos</placeName>,
+                  <placeName>Thailand</placeName>, and <placeName>Burma</placeName> (Myanmar)—as
+                well as southern <placeName>China</placeName>. Individual objects and regional
+                ceramic groups also represent the importance of the export of wares made in the
+                mainland to insular Southeast Asia (<placeName>Malaysia</placeName>,
+                  <placeName>Indonesia</placeName>, and the <placeName>Philippines</placeName>) as
+                well as further afield to Japan and West Asia. </p>
               <p>The study of ceramics in Mainland Southeast Asia is a young field that has gained
                 critical momentum only within the past few decades. "Established" knowledge in the
                 field is regularly transformed by new work on associating wares with places of
@@ -1537,7 +1672,6 @@
           </titleStmt>
           <publicationStmt>
             <publisher>Stiftung Museum Kunstpalast</publisher>
-            <publisher>Cologne Institute of Conservation Sciences</publisher>
             <publisher>Cologne University of Applied Sciences</publisher>
             <pubPlace>Düsseldorf</pubPlace>
             <pubPlace>Cologne</pubPlace>
@@ -1546,29 +1680,31 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p> In October 2009 eight major museums in Europe and the United States began working
-                together with the <orgName>Kunstpalast</orgName> in <orgName>Düsseldorf</orgName>
-                and the Fachhochschule Cologne on a research project to provide access in the
-                electronic environment to the paintings of an important protagonist of the German
-                Renaissance: Lucas Cranach the Elder. The project is funded by the <orgName>Andrew
-                  W. Mellon Foundation</orgName> as part of a larger initiative to develop new kinds
-                of research tools to facilitate transmission of art historical and conservation
-                information across institutions and international borders in order to advance
-                scholarship and learning. The comprehensive stock of image and text provides the
-                public with a deeper insight into the work of Lucas Cranach and will assist
-                researchers in the future to answer questions regarding attribution and workshop
-                organisation among other things. <title>The Cranach Research Project</title> is now
-                in its third phase (2015 – 2018). The object of this phase is to consolidate and
-                expand the existing network, to enhance the infrastructure and increase the content,
-                and in so doing lay the foundations for an innovative, comprehensive and
-                collaborative source of knowledge on Lucas Cranach and his workshop, which is
+              <p> In October 2009 eight major museums in <placeName>Europe</placeName> and the
+                  <placeName>United States</placeName> began working together with the
+                  <orgName>Kunstpalast</orgName> in <orgName>Düsseldorf</orgName> and the
+                  <orgName>Fachhochschule Cologne</orgName> on a research project to provide access
+                in the electronic environment to the paintings of an important protagonist of the
+                German Renaissance: <persName>Lucas Cranach the Elder</persName>. The project is
+                funded by the <orgName>Andrew W. Mellon Foundation</orgName> as part of a larger
+                initiative to develop new kinds of research tools to facilitate transmission of art
+                historical and conservation information across institutions and international
+                borders in order to advance scholarship and learning. The comprehensive stock of
+                image and text provides the public with a deeper insight into the work of
+                  <persName>Lucas Cranach</persName> and will assist researchers in the future to
+                answer questions regarding attribution and workshop organisation among other things.
+                  <title>The Cranach Research Project</title> is now in its third phase (<date>2015
+                  – 2018</date>). The object of this phase is to consolidate and expand the existing
+                network, to enhance the infrastructure and increase the content, and in so doing lay
+                the foundations for an innovative, comprehensive and collaborative source of
+                knowledge on <persName>Lucas Cranach</persName> and his workshop, which is
                 significantly different from the traditional model of the monographic catalogue.</p>
             </note>
           </notesStmt>
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>Chapelle numérique</title>
+            <title type="main">Chapelle numérique</title>
             <funder>Bibliothèque Václav Havel</funder>
           </titleStmt>
           <publicationStmt>
@@ -1579,11 +1715,11 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
-              <p>La Chapelle numérique est un fonds documentaire sur le quartier de la Chapelle,
-                dans le dix-huitième arrondissement de Paris. Il s’agit d’un projet amateur de
-                collecte et de mise en commun de ressources numérisées libres de droits. Il s’agit
-                de rendre justice de la richesse et de la diversité de ce quartier multiculturel et
-                populaire parisien.</p>
+              <p>La <title>Chapelle numérique</title> est un fonds documentaire sur le quartier de
+                la Chapelle, dans le dix-huitième arrondissement de <placeName>Paris</placeName>. Il
+                s’agit d’un projet amateur de collecte et de mise en commun de ressources numérisées
+                libres de droits. Il s’agit de rendre justice de la richesse et de la diversité de
+                ce quartier multiculturel et populaire parisien.</p>
               <p>Le projet utilise l’application <ref target="http://umap.openstreetmap.fr/"
                   >umap</ref> qui permet de créer des cartes personnalisées sur des fonds d’<ref
                   target="http://osm.org/">OpenStreetMap</ref></p>
@@ -1622,6 +1758,8 @@
                 est conçu avec WordPress. L’application a été développée par <ref
                   target="http://calvium.com">Calvium Ltd</ref></p>
             </note>
+            <note type="licence"><ref target="http://creativecommons.org/licenses/by/4.0/">Creative
+                Commons Attribution 4.0 International License</ref></note>
           </notesStmt>
         </biblFull>
         <biblFull>
@@ -1714,34 +1852,34 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>QRator was an iPad-based digital interpretation system that allowed visitors the to
-                Grant Museum of Zoology to be a curator and share their views on displays of
-                specimens about science in society and museum practice today. Visitors can input
-                their thoughts on the display directly onto the iPad creating a digital ‘living’
-                label that subsequent visitors can read and respond to in real time which then
-                become part of the display itself.</p>
+              <p><title>QRator</title> was an iPad-based digital interpretation system that allowed
+                visitors the to <orgName>Grant Museum of Zoology</orgName> to be a curator and share
+                their views on displays of specimens about science in society and museum practice
+                today. Visitors can input their thoughts on the display directly onto the iPad
+                creating a digital ‘living’ label that subsequent visitors can read and respond to
+                in real time which then become part of the display itself.</p>
               <p>The traditional form of the museum is often one way: intended to instruct visitors
                 in a one-sided communication; a form of interaction which tends to alienate visitors
-                and distance curators from the needs and interests of the public they serve. QRator
-                develop a means of empowering museums visitors to think of exhibits as social
-                objects, and discuss them interactively with curators and other visitors. One of the
-                first current questions was entitled Conserve or Display? Asking visitors to
-                consider the following: “How do we balance the needs of our specimens and the
-                desires of our visitors? Most objects on display are irreversibly damaged by
-                exposure to light, dust and fluctuations in temperature and humidity. The longer
-                they are on display the shorter they will last. Instead, specimens in storage will
-                last longer without requiring conservation treatment and care; however, visitors
-                would not be able to readily see the specimens. Without specimens there wouldn’t be
-                a museum.”</p>
+                and distance curators from the needs and interests of the public they serve.
+                  <title>QRator</title> develop a means of empowering museums visitors to think of
+                exhibits as social objects, and discuss them interactively with curators and other
+                visitors. One of the first current questions was entitled Conserve or Display?
+                Asking visitors to consider the following: “How do we balance the needs of our
+                specimens and the desires of our visitors? Most objects on display are irreversibly
+                damaged by exposure to light, dust and fluctuations in temperature and humidity. The
+                longer they are on display the shorter they will last. Instead, specimens in storage
+                will last longer without requiring conservation treatment and care; however,
+                visitors would not be able to readily see the specimens. Without specimens there
+                wouldn’t be a museum.”</p>
               <p>Other questions included: Ecology or Exploitation - Is ecotourism an answer to
                 local environmental and biodiversity conservation? Should we only be conserving
                 things that have a potential human benefit? Should we clone extinct animals? Can we
                 lie about what a specimen is or where it came from? Is domestication ethical? Do you
                 find skeletons, taxidermy or specimens in fluid more interesting? Over the four
-                years QRator was on display at the Grant Museum the project aimed to create new
-                kinds of content, co-curated by the public, and museum staff, that enhanced museum
-                interpretation, public engagement and established new connections to museum exhibit
-                content.</p>
+                years <title>QRator</title> was on display at the <orgName>Grant Museum</orgName>
+                the project aimed to create new kinds of content, co-curated by the public, and
+                museum staff, that enhanced museum interpretation, public engagement and established
+                new connections to museum exhibit content.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1751,11 +1889,20 @@
             <title type="sub">penned by Frederick William IV</title>
             <principal>
               <persName>
-                <forename>Marian</forename>
-                <surname>Dörk</surname>
+                <forename>Jörg</forename>
+                <surname>Meiner</surname>
               </persName>
             </principal>
             <funder>Federal Ministry of Education and Research</funder>
+            <funder>German Research Foundation (DFG)</funder>
+            <funder>Reinhold and Elisabeth-Schulze-Foundation</funder>
+            <funder>Scherping-Schulze-Foundation</funder>
+            <funder>Fritz Thyssen Foundation</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Prussian Palaces and Gardens Foundation Berlin-Brandenburg (SPSG)</orgName>
+              <orgName>Programmfabrik GmbH</orgName>
+            </respStmt>
           </titleStmt>
           <publicationStmt>
             <publisher>Urban Complexity Lab (UCLAB)</publisher>
@@ -1769,24 +1916,30 @@
               <p>This website and the visualisation prototype are being developed within the
                 framework of the research project <ref
                   target="http://uclab.fh-potsdam.de/projects/vikus/">»VIKUS - Visualising Cultural
-                  Collections«</ref> that is funded by the Federal Ministry of Education and
-                Research. Project partners are the Prussian Palaces and Gardens Foundation
-                Berlin-Brandenburg (SPSG) and the Programmfabrik GmbH.</p>
+                  Collections«</ref> that is funded by the <orgName>Federal Ministry of Education
+                  and Research</orgName>. Project partners are the <orgName>Prussian Palaces and
+                  Gardens Foundation Berlin-Brandenburg (SPSG)</orgName> and the
+                  <orgName>Programmfabrik GmbH</orgName>.</p>
               <p>The visualisation is based on an online inventory catalogue of the drawings by
-                Frederick William IV of Prussia. It was published in 2013 by the Prussian Palaces
-                and Gardens Foundation Berlin-Brandenburg (SPSG). The SPSG received funding for the
-                research and publishing of the online inventory catalogue by the German Research
-                Foundation (DFG) the Reinhold and Elisabeth-Schulze-Foundation, the
-                Scherping-Schulze-Foundation and the Fritz Thyssen Foundation.</p>
+                  <persName>Frederick William IV</persName> of <placeName>Prussia</placeName>. It
+                was published in <date>2013</date> by the <orgName>Prussian Palaces and Gardens
+                  Foundation Berlin-Brandenburg (SPSG)</orgName>. The <orgName>SPSG</orgName>
+                received funding for the research and publishing of the online inventory catalogue
+                by the <orgName>German Research Foundation (DFG)</orgName> the <orgName>Reinhold and
+                  Elisabeth-Schulze-Foundation</orgName>, the
+                  <orgName>Scherping-Schulze-Foundation</orgName> and the <orgName>Fritz Thyssen
+                  Foundation</orgName>.</p>
               <p>The digital copies, metadata, and texts used in the visualisation were created by
-                Dr. Jörg Meiner (project lead), Dr. Catharina Hasenclever (project lead 2006-2008),
-                Antje Adler, Astrid Fritsche, Klaus Dorst, Stefan Gehlen, Dr. Gabriele Horn, Dr.
-                Andreas Meinecke, Dr. Gerd-H. Zuchold, Dr. Rolf H. Johannsen, Prof. Dr. Harry Falk,
-                Dr. Rolf Th. Senn and Dr. Sepp-Gustav Gröschel. Editor: Dr. Carsten Dilba.</p>
+                Dr. Jörg Meiner (project lead), Dr. Catharina Hasenclever (project lead
+                  <date>2006-2008</date>), Antje Adler, Astrid Fritsche, Klaus Dorst, Stefan Gehlen,
+                Dr. Gabriele Horn, Dr. Andreas Meinecke, Dr. Gerd-H. Zuchold, Dr. Rolf H. Johannsen,
+                Prof. Dr. Harry Falk, Dr. Rolf Th. Senn and Dr. Sepp-Gustav Gröschel. Editor: Dr.
+                Carsten Dilba.</p>
               <p>The timeline information was supplemented with excerpts from the exhibition
-                catalogue »Unglaublich ist sein Genie fürs Zeichnen« Friedrich Wilhelm IV. von
-                Preußen (1795-1861) zum 150. Todestag, published on behalf of the Prussian Palaces
-                and Gardens Foundation Berlin-Brandenburg by Jörg Meiner, 2011.</p>
+                catalogue <title>»Unglaublich ist sein Genie fürs Zeichnen« Friedrich Wilhelm IV.
+                  von Preußen (1795-1861) zum 150</title>. Todestag, published on behalf of the
+                Prussian Palaces and Gardens Foundation Berlin-Brandenburg by Jörg Meiner,
+                  <date>2011</date>.</p>
               <p>TECHNOLOGY : HTML5, CSS3, Canvas/WebGL, pixi.js und d3.js</p>
             </note>
           </notesStmt>
@@ -1816,11 +1969,12 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>The London Gallery Project is a research repository and visualization of the
-                history of the commercial art gallery in London, c. 1850-1914. The project is based
-                at Bowdoin College, under the direction of Professor Pamela Fletcher. The research
-                and technological application are an on-going process, and we welcome scholarly
-                contributions and feedback.</p>
+              <p>The <title>London Gallery Project</title> is a research repository and
+                visualization of the history of the commercial art gallery in
+                  <placeName>London</placeName>, c. <date>1850-1914</date>. The project is based at
+                  <orgName>Bowdoin College</orgName>, under the direction of Professor
+                  <persName>Pamela Fletcher</persName>. The research and technological application
+                are an on-going process, and we welcome scholarly contributions and feedback.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1861,7 +2015,7 @@
                 related images. In the “Library” and “Texts” sections are primary documents relating
                 to visual culture, with discussions and bibliography. Other features are seen in the
                 sidebar.</p>
-              <p>This site was last updated in April 2015, with new design, addition of
+              <p>This site was last updated in <date>April 2015</date>, with new design, addition of
                 library/texts and Luna galleries.</p>
             </note>
           </notesStmt>
@@ -1884,13 +2038,13 @@
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p>This Website is a repository for photographs of medieval art which the author shot
-                between 2006 and 2010, whilst working on his PhD at the <orgName>Courtauld Institute
-                  of art</orgName>. Since his doctoral research interest was visual narratology, the
-                emphasis here is very much on narrative art as it appears in stained glass and
-                portal sculpture. Although practical considerations meant that he had to give up on
-                academia after completing his PhD, he is still trying to find time to finish the
-                task of post-processing and uploading the best of the roughly 10,000 images he shot
-                on my various research trips to France.</p>
+                between <date>2006</date> and <date>2010</date>, whilst working on his PhD at the
+                  <orgName>Courtauld Institute of art</orgName>. Since his doctoral research
+                interest was visual narratology, the emphasis here is very much on narrative art as
+                it appears in stained glass and portal sculpture. Although practical considerations
+                meant that he had to give up on academia after completing his PhD, he is still
+                trying to find time to finish the task of post-processing and uploading the best of
+                the roughly 10,000 images he shot on my various research trips to France.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -1921,13 +2075,14 @@
               <p>L'identità culturale di Pompei è il risultato dei significati attribuiti alle sue
                 antichità da varie persone in epoche e con intenti diversi. "La Fortuna Visiva di
                 Pompei" raccoglie immagini e testi che documentano le varie interpretazioni e
-                percezioni dei monumenti di Pompei dal 1748, anno della sua scoperta, ai primi del
-                Novecento.</p>
-              <p>Il nome scelto per questo Progetto di ricerca, in corso dal 2002 presso la Scuola
-                Normale Superiore, dichiara immediatamente l'intento predominante di analizzare la
-                percezione dell'antica Pompei, nelle sue molteplici forme e variazioni nello spazio
-                e nel tempo, così come si coglie attraverso la documentazione grafica edita e
-                inedita, privilegiando le testimonianze più antiche e pregevoli.</p>
+                percezioni dei monumenti di Pompei dal <date>1748</date>, anno della sua scoperta,
+                ai primi del Novecento.</p>
+              <p>Il nome scelto per questo Progetto di ricerca, in corso dal <date>2002</date>
+                presso la Scuola Normale Superiore, dichiara immediatamente l'intento predominante
+                di analizzare la percezione dell'antica Pompei, nelle sue molteplici forme e
+                variazioni nello spazio e nel tempo, così come si coglie attraverso la
+                documentazione grafica edita e inedita, privilegiando le testimonianze più antiche e
+                pregevoli.</p>
               <p>Oggetti principali della ricerca sono dunque le rappresentazioni figurative in sé
                 (incisioni, disegni, acquerelli, etc.) e la "fortuna" dei soggetti che in queste
                 sono riprodotti, relativi al sito archeologico e ai suoi monumenti. Obiettivo
@@ -2030,13 +2185,17 @@
             </principal>
             <funder>Fondation des Sciences du Patrimoine</funder>
             <funder>Ministère de la Culture</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Archives nationales</orgName>
+              <orgName>Bibliothèque nationale de France (BNF)</orgName>
+              <orgName>Laboratoire ETIS (Équipes Traitement de l’Information et Systèmes, UMR8051,
+                Cergy Paris Université / ENSEA Cergy / CNRS)</orgName>
+            </respStmt>
           </titleStmt>
           <publicationStmt>
             <publisher>Centre de recherche du château de Versailles</publisher>
-            <publisher>Archives nationales</publisher>
-            <publisher>Bibliothèque nationale de France</publisher>
-            <publisher>Laboratoire ETIS (Équipes Traitement de l’Information et Systèmes, UMR8051,
-              Cergy Paris Université / ENSEA Cergy / CNRS)</publisher>
+            <publisher>Hypothèses</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2012" to="2022">2012-2022</date>
             <idno>http://verspera.hypotheses.org</idno>
@@ -2062,14 +2221,17 @@
                 château, du musée et du domaine national de Versailles (200 dessins).</p>
               <p>Ce corpus documentaire, exceptionnel par son histoire, son homogénéité et son
                 volume, est principalement issu du travail des agences des premiers architectes du
-                roi, de Louis Le Vau à Richard Mique, en passant par Jules Hardouin-Mansart, Robert
-                De Cotte ou Ange-Jacques Gabriel, noms évoquant tous l’excellence de l’architecture
-                française aux XVIIe et XVIIIe siècles. Ce rassemblement constitue l’un des plus
-                grands fonds publics d’architecture, à l’instar des collections
-                Tessin-Cronsdedt-Härleman du musée national de Stockholm, et l’ensemble documentaire
-                le plus vaste sur l’architecture palatiale classique française des XVIIe et XVIIIe
-                siècles. Ce corpus a été établi à partir du catalogue de Danièle Gallet-Guerne et
-                Christian Baulez Versailles. Dessins d’architecture de la direction générale des
+                roi, de <persName>Louis Le Vau</persName> à <persName>Richard Mique</persName>, en
+                passant par <persName>Jules Hardouin-Mansart</persName>, <persName>Robert De
+                  Cotte</persName> ou <persName>Ange-Jacques Gabriel</persName>, noms évoquant tous
+                l’excellence de l’architecture française aux <date>XVIIe</date> et
+                  <date>XVIIIe</date> siècles. Ce rassemblement constitue l’un des plus grands fonds
+                publics d’architecture, à l’instar des collections Tessin-Cronsdedt-Härleman du
+                  <orgName>musée national de Stockholm</orgName>, et l’ensemble documentaire le plus
+                vaste sur l’architecture palatiale classique française des <date>XVIIe</date> et
+                  <date>XVIIIe</date> siècles. Ce corpus a été établi à partir du catalogue de
+                  <persName>Danièle Gallet-Guerne</persName> et <persName>Christian
+                  Baulez</persName> Versailles. Dessins d’architecture de la direction générale des
                 Bâtiments du roi, Paris, archives nationales, 1983 et 1989, 2 vol. Il a ensuite été
                 complété, révisé et augmenté par les chercheurs des différentes institutions
                 partenaires.</p>
@@ -2143,8 +2305,8 @@
                 that period compared to today. Each painting allows you the opportunity to click for
                 further information: from the provenance history to excerpts from current scholarly
                 catalogues. Additionally, with the free software for PC or the virtual reality
-                headset Gear VR, you can virtually observe the historical rooms of 1878 at the
-                Schaumainkai from inside - that's the closest you can possibly get! </p>
+                headset Gear VR, you can virtually observe the historical rooms of <date>1878</date>
+                at the Schaumainkai from inside - that's the closest you can possibly get! </p>
             </note>
           </notesStmt>
         </biblFull>
@@ -2330,20 +2492,20 @@
               <p>The aim of the project is to create a virtual combination of a representative
                 selection of items from the print collections of both institutions. These include
                 holdings which once belonged to the former ducal collections, but are now divided
-                between the HAUM and the HAB. The main focus will be on works dating from before
-                1850. In the first project phase more than 37,000 prints have been digitalised and
-                described. In this project phase additional 8,000 grafic sheets shall be digitalised
-                and described, among them sheets from volumes of the dukes Julius, Heinrich Julius
-                and August and of the graphic and topographic collections. Descriptions and linked
-                images will be entered into a database which will be freely available via the
-                internet. Formal descriptions will be based on international standards. In addition
-                all imprints will be indexed by Foto Marburg using Iconclass. The database will be
-                accessible via a common internet portal of the HAUM and HAB, as well as through the
-                indexes of the archives of Bildarchiv Foto Marburg.</p>
+                between the <orgName>HAUM</orgName> and the <orgName>HAB</orgName>. The main focus
+                will be on works dating from before <date>1850</date>. In the first project phase
+                more than 37,000 prints have been digitalised and described. In this project phase
+                additional 8,000 grafic sheets shall be digitalised and described, among them sheets
+                from volumes of the dukes Julius, Heinrich Julius and August and of the graphic and
+                topographic collections. Descriptions and linked images will be entered into a
+                database which will be freely available via the internet. Formal descriptions will
+                be based on international standards. In addition all imprints will be indexed by
+                Foto Marburg using Iconclass. The database will be accessible via a common internet
+                portal of the <orgName>HAUM</orgName> and <orgName>HAB</orgName>, as well as through
+                the indexes of the archives of <orgName>Bildarchiv Foto Marburg</orgName>.</p>
             </note>
           </notesStmt>
         </biblFull>
-        <!-- UN OU DEUX PROJETS -->
         <biblFull>
           <titleStmt>
             <title type="main">Virtual St. Paul’s Cross Project</title>
@@ -2365,11 +2527,11 @@
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p>The <title>Virtual Paul’s Cross Project</title> provides the experience of hearing
-                John Donne’s sermon for Gunpowder Day, November 5th, 1622 in Paul’s Churchyard, the
-                specific physical location for which it was composed. The user can hear Donne’s
-                sermon from 8 different positions in Paul’s Churchyard and in the presence of 4
-                different sizes of crowd. Using digital modeling technology, we can experience
-                preaching in Paul’s Churchyard as an event that unfolds over time.</p>
+                John Donne’s sermon for Gunpowder Day, <date>November 5th, 1622</date> in Paul’s
+                Churchyard, the specific physical location for which it was composed. The user can
+                hear Donne’s sermon from 8 different positions in Paul’s Churchyard and in the
+                presence of 4 different sizes of crowd. Using digital modeling technology, we can
+                experience preaching in Paul’s Churchyard as an event that unfolds over time.</p>
               <p>The <title>Virtual Paul’s Cross Project</title> received the John Donne Society’s
                 Award for Distinguished Publication in 2013.</p>
               <p>The <title>Virtual Paul’s Cross Project</title> helps us to explore public
@@ -2377,8 +2539,8 @@
                 a performance, as an event unfolding in real time in the context of an interactive
                 and collaborative occasion. This Project uses architectural modeling software and
                 acoustic simulation software to give us access experientially to a particular event
-                from the past – the Paul’s Cross sermon John Donne delivered on Tuesday, November
-                5th, 1622.</p>
+                from the past – the Paul’s Cross sermon John Donne delivered on <date>Tuesday,
+                  November 5th, 1622</date>.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -2395,20 +2557,22 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>By digitizing five decades of Ed Ruscha’s photographic project to document the
-                streets of Los Angeles, the <orgName>Getty Research Institute</orgName> provides a
-                crucial, publicly available resource to researchers of history, art, and
-                architecture. Through an ongoing research initiative with external scholars, the
-                project also contributes to current discourses in digital art history. It situates
-                Streets of Los Angeles archive within various historical frameworks, highlighting
-                what it can tell us about modern art, architecture, and the changing physical,
-                social, and cultural landscapes of Los Angeles.</p>
+              <p>By digitizing five decades of <persName>Ed Ruscha</persName>’s photographic project
+                to document the streets of Los Angeles, the <orgName>Getty Research
+                  Institute</orgName> provides a crucial, publicly available resource to researchers
+                of history, art, and architecture. Through an ongoing research initiative with
+                external scholars, the project also contributes to current discourses in digital art
+                history. It situates Streets of <placeName>Los Angeles</placeName> archive within
+                various historical frameworks, highlighting what it can tell us about modern art,
+                architecture, and the changing physical, social, and cultural landscapes of
+                  <placeName>Los Angeles</placeName>.</p>
               <p>Ruscha's collection includes several hundred thousand images, hundreds of contact
                 sheets, and the complete production archive for the artist's canonical book Every
-                Building on the Sunset Strip (1966). These materials were previously unavailable for
-                research, scholarship, or exhibition, and yet are a unique record of the gradual
-                evolution of Los Angeles's built environment. The project informed the development
-                of two public-facing interfaces and will generate a digital publication.</p>
+                Building on the Sunset Strip (<date>1966</date>). These materials were previously
+                unavailable for research, scholarship, or exhibition, and yet are a unique record of
+                the gradual evolution of <placeName>Los Angeles</placeName>'s built environment. The
+                project informed the development of two public-facing interfaces and will generate a
+                digital publication.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -2456,16 +2620,18 @@
             <idno>https://github.com/thegetty/mutual-muses</idno>
           </publicationStmt>
           <notesStmt>
-            <note type="abstract">
-              <p>Mutual Muses is a crowdsourced transcription project undertaken by the Digital Art
-                History program at the Getty Research Institute in 2017. The project crowdsourced
-                transcriptions of correspondence from the archives of art critic Lawrence Alloway
-                (1926-1990) and feminist artist Sylvia Sleigh (ca. 1916-2010), which are held at the
-                Getty Research Institute. These letters reveal the intimate early stages of their
-                respective careers and intertwined personal lives in postwar England from 1948-1953.
-                The results of this project include transcription data for 2,376 documents from
-                these archives, as well as code used for processing and analyzing the data results
-                and producing file outputs.</p>
+            <note type="abstract" xml:lang="en">
+              <p><title>Mutual Muses</title> is a crowdsourced transcription project undertaken by
+                the Digital Art History program at the <orgName>Getty Research Institute</orgName>
+                in <date>2017</date>. The project crowdsourced transcriptions of correspondence from
+                the archives of art critic <placeName>Lawrence Alloway</placeName>
+                  (<date>1926-1990</date>) and feminist artist <persName>Sylvia Sleigh</persName>
+                (ca. <date>1916-2010</date>), which are held at the Getty Research Institute. These
+                letters reveal the intimate early stages of their respective careers and intertwined
+                personal lives in postwar England from <date>1948-1953</date>. The results of this
+                project include transcription data for 2,376 documents from these archives, as well
+                as code used for processing and analyzing the data results and producing file
+                outputs.</p>
               <p>This publication uses data generated via the <ref
                   target="http://www.zooniverse.org">Zooniverse platform</ref>.</p>
             </note>
@@ -2535,9 +2701,10 @@
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p>This exhibition celebrates the 50th anniversary of the sister-city partnership
-                between Berlin and Los Angeles by exploring two iconic buildings: Hans Scharoun's
-                Berlin Philharmonic (Berliner Philharmonie, built 1960–1963) and Frank Gehry's Walt
-                Disney Concert Hall (built 1999–2003). Both buildings have captured the public's
+                between <placeName>Berlin</placeName> and <placeName>Los Angeles</placeName> by
+                exploring two iconic buildings: Hans Scharoun's Berlin Philharmonic (Berliner
+                Philharmonie, built <date>1960–1963</date>) and Frank Gehry's Walt Disney Concert
+                Hall (built <date>1999–2003</date>). Both buildings have captured the public's
                 imagination and become signature features of the landscape of each city. Focusing on
                 the buildings' extraordinary interiors and exteriors, <title>Berlin/Los Angeles:
                   Space for Music</title> brings together original drawings, sketches, prints,
@@ -2545,10 +2712,11 @@
                 demonstrate how the Berlin Philharmonic and the Walt Disney Concert Hall were
                 pivotal in fostering a strong resonance between architecture and the city.</p>
               <p>Using laser-scanning technology, this project examines Hans Scharoun’s iconic
-                Berlin Philharmonie (1960–1963) through 3-D renderings. The project’s first phase, a
-                collaboration with the <orgName>Fraunhofer Institute’s Competence Center for
-                  Cultural Heritage Digitization</orgName>, produced a physical model of the hall,
-                which was featured in the exhibition <title>Berlin/LA: Spaces for Music</title>.</p>
+                Berlin Philharmonie (<date>1960–1963</date>) through 3-D renderings. The project’s
+                first phase, a collaboration with the <orgName>Fraunhofer Institute’s Competence
+                  Center for Cultural Heritage Digitization</orgName>, produced a physical model of
+                the hall, which was featured in the exhibition <title>Berlin/LA: Spaces for
+                  Music</title>.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -2576,8 +2744,8 @@
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p>This website presents ten of these photographed panels, selected to exemplify both
-                the cosmographical and art-historical content of the Mnemosyne Atlas. Though
-                offering but fragments of a fragment, it is designed to show some of the
+                the cosmographical and art-historical content of the <title>Mnemosyne Atlas</title>.
+                Though offering but fragments of a fragment, it is designed to show some of the
                 Wanderstrassen that Warburg pursued in the Atlas. The <orgName>Warburg
                   Institute</orgName> has provided new, better scans of the surviving photographs –
                 better, that is, than the images seen in the Gesammelte Schriften volume and other
@@ -2616,9 +2784,9 @@
                   >http://www.artigo.org/</ref>). The dataset is compromised of 54.497 objects,
                 which are associated with 18.492 artists (11.519 of which are either anonymous or
                 unknown), 295.343 German-, French-, English-language tags, and 9.669.410 taggings.
-                It is based on a cleansed database dump dated November 15, 2018. The cleansing
-                concerned only the metadata of the objects; tags and taggings are provided „as is“.
-              </p>
+                It is based on a cleansed database dump dated <date>November 15, 2018</date>. The
+                cleansing concerned only the metadata of the objects; tags and taggings are provided
+                „as is“. </p>
             </note>
             <note type="biblio">
               <biblStruct>
@@ -2781,16 +2949,17 @@
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p>Travel played a pivotal role in the shaping of the intellectual and artistic
-                culture of eighteenth- and nineteenth-century Europe. While capital cities such as
-                Rome, Paris, and London served as major attractions for travelers, the increasing
-                specialization and ease of mobility over the course of these centuries drove
-                exploration into remote areas such as Greece, Egypt, and the Near East.
-                Simultaneously, an interest in “national” landscapes and antiquities made
-                infrequently trafficked local regions the focus of new forms of tourism. The
-                ramifications of this expansion of cultural tourism during the eighteenth and
-                nineteenth centuries have been the subject of recent scholarly debates since, and
-                Itinera offers a platform through which contemporary interests may engage with these
-                issues.</p>
+                culture of <date>eighteenth</date>- and <date>nineteenth-century</date>
+                <placeName>Europe</placeName>. While capital cities such as Rome, Paris, and London
+                served as major attractions for travelers, the increasing specialization and ease of
+                mobility over the course of these centuries drove exploration into remote areas such
+                as <placeName>Greece</placeName>, <placeName>Egypt</placeName>, and the
+                  <placeName>Near East</placeName>. Simultaneously, an interest in “national”
+                landscapes and antiquities made infrequently trafficked local regions the focus of
+                new forms of tourism. The ramifications of this expansion of cultural tourism during
+                the eighteenth and nineteenth centuries have been the subject of recent scholarly
+                debates since, and Itinera offers a platform through which contemporary interests
+                may engage with these issues.</p>
               <p>Visualizing, understanding, and generating new insights into the changing patterns
                 and objectives for these types of travel are the primary motivators of behind
                 Itinera. Designed to allow scholars and students to better comprehend the
@@ -2853,13 +3022,13 @@
                 legacy remains unclear. The project, in collaboration with <title>E.A.T.</title>
                 (represented by Julie Martin), is based on the organization’s numerous activities,
                 developed in art and non-art contexts, including realized and unrealized works and
-                projects from the 1960s to the present day. through a ‘datascape’. In the first
-                place, the aim is to describe as extensively as possible the stories of works of art
-                or projects, from their design and development stages to their different exhibitions
-                and receptions. One of the main challenges is to produce a digital archive
-                displaying the process of collaboration, not merely catalogue
-                <title>E.A.T.</title>’s productions. Secondly, the archive will map these works and
-                projects as networks of people, organizations, places and technologies, so as to
+                projects from the <date>1960s</date> to the present day. through a ‘datascape’. In
+                the first place, the aim is to describe as extensively as possible the stories of
+                works of art or projects, from their design and development stages to their
+                different exhibitions and receptions. One of the main challenges is to produce a
+                digital archive displaying the process of collaboration, not merely catalogue
+                  <title>E.A.T.</title>’s productions. Secondly, the archive will map these works
+                and projects as networks of people, organizations, places and technologies, so as to
                 better understand <title>E.A.T.</title>’s identity using the theories of Science and
                 Technology Studies. The aim is to develop an online archive built as a research tool
                 for humanities scholars in art and social art history. Their work, mapping the
@@ -2952,10 +3121,11 @@
                 photography). This employs the latest state-of-the art artificial intelligence
                 techniques, such as Deep Learning and Convolutional Neural Networks, for the search
                 and display of information.</p>
-              <p>In partnership with the Giorgio Cini Foundation in Venice and Factum Arte in
-                Madrid, the Replica project aims to digitize roughly one million artistic
-                reproductions using these images to populate the new search engine and as the basis
-                for new art historical inquiries.</p>
+              <p>In partnership with the Giorgio Cini Foundation in <placeName>Venice</placeName>
+                and Factum Arte in <placeName>Madrid</placeName>, the <title>Replica</title> project
+                aims to digitize roughly one million artistic reproductions using these images to
+                populate the new search engine and as the basis for new art historical
+                inquiries.</p>
               <p>Adam Lowe and Factum Arte have been collaborating with the <orgName>Fondazione
                   Giorgio Cini</orgName> for a long time and have now built a specially designed
                 circular scanning system, capable of recording 12 A3 sized double sided images at
@@ -3110,15 +3280,16 @@
                 published by the <orgName>University of York</orgName>.</p>
               <p>The catalogue identifies 1080 works by Towne and his circle, doubling
                 previously-described totals. Based on the author’s PhD thesis, it makes extensive
-                use of the papers of Paul Oppé (1878-1957) whose pioneering researches established
-                the artist’s reputation in the 1920s, after a century of neglect. Oppé had
-                discovered the contents of Towne's own studio in the possession of the Merivale
-                family of Barton Place near Exeter. Using the archives of Thomas Agnew &amp; Sons,
-                the Fine Art Society, Colnaghi and elsewhere, Stephens gives detailed provenances
-                for hundreds of the Merivales' Townes that have circulated on the London art market.
-                Towne's biography is established in greater detail than before, using much original
-                research. Resources published alongside the catalogue include an edition of Towne's
-                correspondence and a transcription of Oppé's Barton Place catalogue.</p>
+                use of the papers of Paul Oppé (<date>1878-1957</date>) whose pioneering researches
+                established the artist’s reputation in the <date>1920s</date>, after a century of
+                neglect. Oppé had discovered the contents of Towne's own studio in the possession of
+                the Merivale family of Barton Place near Exeter. Using the archives of Thomas Agnew
+                &amp; Sons, the Fine Art Society, Colnaghi and elsewhere, Stephens gives detailed
+                provenances for hundreds of the Merivales' Townes that have circulated on the London
+                art market. Towne's biography is established in greater detail than before, using
+                much original research. Resources published alongside the catalogue include an
+                edition of Towne's correspondence and a transcription of Oppé's Barton Place
+                catalogue.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -3325,9 +3496,15 @@
             <funder>Stanford University</funder>
             <funder>Samuel H. Kress Foundation</funder>
             <funder>Neukom Institute, Dartmouth College</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Istituto Nazionale di Archeologia e Storia dell'Arte (INASA)</orgName>
+              <orgName>Biblioteca di Archeologia e Storia dell'Arte (BIASA)</orgName>
+              <orgName>University of Oregon</orgName>
+              <orgName>Dartmouth College</orgName>
+            </respStmt>
           </titleStmt>
           <publicationStmt>
-            <!-- <authority : Istituto Nazionale di Archeologia e Storia dell'Arte (INASA) ; Biblioteca di Archeologia e Storia dell'Arte (BIASA) ; University of Oregon ; Dartmouth College -->
             <publisher>Stanford University Libraries (SUL)</publisher>
             <publisher>Stanford</publisher>
             <date from="2014" to="2016">2015-2016</date>
@@ -3336,17 +3513,19 @@
           <notesStmt>
             <note type="abstract" xml:base="en">
               <p>This website offers virtual access to a premier collection of historic depictions
-                amassed by Rodolfo Lanciani (1845–1929). Archaeologist, professor of topography, and
-                secretary of the <orgName>Archaeological Commission</orgName>, Lanciani was a
-                pioneer in the systematic, modern study of the city of Rome. Beginning in the latter
-                part of the nineteenth century and continuing into the first three decades of the
-                twentieth century, his work profoundly influenced our understanding of the ancient
-                city. Throughout his long career Lanciani collected a vast archive of his own notes
-                and manuscripts, as well as works by others including rare prints and original
-                drawings by artists and architects stretching back to the sixteenth century. After
-                his death in 1929, his entire library was purchased by the <orgName>Istituto
-                  Nazionale di Archeologia e Storia dell’Arte (INASA)</orgName>, on the
-                recommendation of the Director Corrado Ricci (1858-1934).</p>
+                amassed by <persName>Rodolfo Lanciani</persName> (<date>1845–1929</date>).
+                Archaeologist, professor of topography, and secretary of the <orgName>Archaeological
+                  Commission</orgName>, <persName>Lanciani</persName> was a pioneer in the
+                systematic, modern study of the city of <placeName>Rome</placeName>. Beginning in
+                the latter part of the nineteenth century and continuing into the first three
+                decades of the twentieth century, his work profoundly influenced our understanding
+                of the ancient city. Throughout his long career Lanciani collected a vast archive of
+                his own notes and manuscripts, as well as works by others including rare prints and
+                original drawings by artists and architects stretching back to the sixteenth
+                century. After his death in 1929, his entire library was purchased by the
+                  <orgName>Istituto Nazionale di Archeologia e Storia dell’Arte (INASA)</orgName>,
+                on the recommendation of the Director <persName>Corrado Ricci</persName>
+                  (<date>1858-1934</date>).</p>
               <p>To quote the librarian at the time of the accession, the Lanciani collection
                   <quote> "enriched the Roman topography section by almost 3,000 volumes and printed
                   brochures; [and by] several folders containing valuable notes for the continuation
@@ -3358,7 +3537,7 @@
                 the Vatican Library in 1925. Fittingly, the room that hosts the INASA collection is
                 called the “Sala Lanciani” and is now located on the fourth floor of the
                   <orgName>Biblioteca di Archeologia and Storia dell’Arte (BIASA)</orgName> in the
-                historic Palazzo Venezia in Rome.</p>
+                historic Palazzo Venezia in <placeName>Rome</placeName>.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -3386,35 +3565,37 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>Paris is a city renowned for its artistic communities. Neighbourhoods like
-                Montmartre and Montparnasse in the nineteenth and twentieth centuries are familiar
-                spaces of artistic activity and sociability. But when it comes to earlier
-                generations of artists, we know strikingly little about how they inhabited the city.
-                Where did the artists of eighteenth-century Paris live? Which artists were
-                neighbours? What sub-communities formed within the city? Which neighbourhoods formed
-                the cultural geography of the eighteenth-century art world? And did that geography
-                change over the course of the century? This website provides answers to these
-                tantalising questions about the geography and demography of the Paris art world in
-                the eighteenth century. Based on original archival research retrieving the addresses
-                of hundreds of artists’ homes and studios, this website uses digital mapping
-                technologies to locate those spaces on georeferenced historical maps, making them
-                available for visitors to explore.</p>
+              <p><placeName>Paris</placeName> is a city renowned for its artistic communities.
+                Neighbourhoods like Montmartre and Montparnasse in the nineteenth and twentieth
+                centuries are familiar spaces of artistic activity and sociability. But when it
+                comes to earlier generations of artists, we know strikingly little about how they
+                inhabited the city. Where did the artists of <date>eighteenth-century</date>
+                <placeName>Paris</placeName> live? Which artists were neighbours? What
+                sub-communities formed within the city? Which neighbourhoods formed the cultural
+                geography of the eighteenth-century art world? And did that geography change over
+                the course of the century? This website provides answers to these tantalising
+                questions about the geography and demography of the Paris art world in the
+                  <date>eighteenth century</date>. Based on original archival research retrieving
+                the addresses of hundreds of artists’ homes and studios, this website uses digital
+                mapping technologies to locate those spaces on georeferenced historical maps, making
+                them available for visitors to explore.</p>
               <p><title>Artists in Paris</title> is the first project to map comprehensively where
-                artistic communities developed in the eighteenth-century city and offers rich scope
-                for subsequent investigations into how these communities worked and the impact they
-                had on art practice in the period. Yielding crucial new information and harnessing
-                the exciting possibilities of digital humanities for art-historical research, this
-                website is intended as a valuable resource for anyone studying or researching French
-                art, or for anyone with an interest in the history of Paris. With its two modes –
-                Year and Artist – the website accommodates searches either by date or by person. For
-                instance, visitors can explore where every artist was living at certain moments in
-                time, or they can select individual artists and explore all the addresses lived at
-                across their careers. Designed to be simultaneously inviting and informative, these
-                interactive data-enriched maps answer many questions about the Paris art world. But
-                they are also intended as an empirical base upon which to pose new kinds of
-                inquiries, inspiring continued explorations into networks of artistic sociability,
-                the role of the city in art production, the geography of the art world, and urban
-                experience more generally.</p>
+                artistic communities developed in the <date>eighteenth-century</date> city and
+                offers rich scope for subsequent investigations into how these communities worked
+                and the impact they had on art practice in the period. Yielding crucial new
+                information and harnessing the exciting possibilities of digital humanities for
+                art-historical research, this website is intended as a valuable resource for anyone
+                studying or researching French art, or for anyone with an interest in the history of
+                  <placeName>Paris</placeName>. With its two modes – Year and Artist – the website
+                accommodates searches either by date or by person. For instance, visitors can
+                explore where every artist was living at certain moments in time, or they can select
+                individual artists and explore all the addresses lived at across their careers.
+                Designed to be simultaneously inviting and informative, these interactive
+                data-enriched maps answer many questions about the Paris art world. But they are
+                also intended as an empirical base upon which to pose new kinds of inquiries,
+                inspiring continued explorations into networks of artistic sociability, the role of
+                the city in art production, the geography of the art world, and urban experience
+                more generally.</p>
             </note>
             <note type="biblio">
               <biblStruct>
@@ -3488,15 +3669,7 @@
             <note type="abstract" xml:lang="en">
               <p><title>The Fashion History Timeline</title> is a project by <orgName>FIT’s History
                   of Art Department</orgName>. The Timeline offers scholarly contributions to the
-                public knowledge of the history of fashion and design. Consistent with this mission,
-                the Timeline’s written commentary, research, and analysis provided by
-                  <orgName>FIT</orgName> students, faculty, and other members of the community is
-                licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-                International License. Unless specifically noted, images used in the
-                  <orgName>Timeline</orgName> are not subject to this Creative Commons License
-                applied to the written work from the <orgName>Timeline</orgName>. While every
-                attempt at accuracy has been made, the <orgName>Timeline</orgName> is a work in
-                progress. If you have suggestions or corrections, please contact us.</p>
+                public knowledge of the history of fashion and design.</p>
             </note>
             <note type="licence">Creative Commons Attribution-NonCommercial-ShareAlike 4.0
               International Licence</note>
@@ -3523,23 +3696,23 @@
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p>This project is dedicated to the world’s most original and influential style
-                magazine, the Journal des dames et des modes. The French Revolution of 1789 promised
-                that all people could reinvent themselves. Between 1797 and 1804, after the
-                political crisis of the first revolutionary years subsided, and before Napoleon
-                demanded that women’s clothing become more conservative, the Journal des dames et
-                des modes offered Europeans a startlingly new way to dress. It rejected the rules,
-                shapes, and materials that had signaled static social rank in favor of mobile
-                self-expression through consumer choice. This dramatic experiment in individualism
-                freed men to dress as they have ever since, and for a brief time liberated women
-                too.</p>
+                magazine, the <title>Journal des dames et des modes</title>. The French Revolution
+                of <date>1789</date> promised that all people could reinvent themselves. Between
+                  <date>1797</date> and <date>1804</date>, after the political crisis of the first
+                revolutionary years subsided, and before <persName>Napoleon</persName> demanded that
+                women’s clothing become more conservative, the Journal des dames et des modes
+                offered Europeans a startlingly new way to dress. It rejected the rules, shapes, and
+                materials that had signaled static social rank in favor of mobile self-expression
+                through consumer choice. This dramatic experiment in individualism freed men to
+                dress as they have ever since, and for a brief time liberated women too.</p>
               <p>Here you will find, online for the first time, all the Journal des dames et des
-                modes plates from the magazine’s most surprising years, 1797-1804, together with
-                their transcribed and translated captions. The digital images were made from an
-                extremely rare, complete set of the engravings, in exceptionally good condition,
-                belonging to the Morgan Library and Museum—call numbers PML 5687, PML 5688, PML
-                5689. Work on the vocabulary, text descriptions, locations, patterns, and historical
-                context of the plates was begun by a faculty-student team based at Columbia
-                University, and is ongoing.</p>
+                modes plates from the magazine’s most surprising years, <date>1797-1804</date>,
+                together with their transcribed and translated captions. The digital images were
+                made from an extremely rare, complete set of the engravings, in exceptionally good
+                condition, belonging to the Morgan Library and Museum—call numbers PML 5687, PML
+                5688, PML 5689. Work on the vocabulary, text descriptions, locations, patterns, and
+                historical context of the plates was begun by a faculty-student team based at
+                  <orgName>Columbia University</orgName>, and is ongoing.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -3581,13 +3754,14 @@
                 par l’<orgName>ANR</orgName>.</p>
               <p>La base de données et les applications de visualisations présentées ici trouvent
                 leur origine dans le programme <title>Art Markets in Europe 1300-1800, Emergence,
-                  Development, Networks</title> qui fut soutenu de 2008 à 2012 par l’A<orgName>gence
-                  Nationale de la Recherche</orgName>. Porté par des chercheurs de
-                  l’<orgName>Université de Lille</orgName> en étroite collaboration avec des
-                chercheurs de <orgName>Duke University (NC)</orgName>, ce programme a permis de
-                réunir une équipe internationale et interdisciplinaire d’une quinzaine de chercheurs
-                en histoire de l’art, histoire économique et sociale, et sciences économiques venus
-                de douze institutions et organismes de recherches européens et américains.</p>
+                  Development, Networks</title> qui fut soutenu de <date>2008</date> à
+                  <date>2012</date> par l’<orgName>Agence Nationale de la Recherche</orgName>. Porté
+                par des chercheurs de l’<orgName>Université de Lille</orgName> en étroite
+                collaboration avec des chercheurs de <orgName>Duke University (NC)</orgName>, ce
+                programme a permis de réunir une équipe internationale et interdisciplinaire d’une
+                quinzaine de chercheurs en histoire de l’art, histoire économique et sociale, et
+                sciences économiques venus de douze institutions et organismes de recherches
+                européens et américains.</p>
             </note>
           </notesStmt>
         </biblFull>
@@ -3627,23 +3801,25 @@
                 accompanying Exhibition catalogues. This repository of original research and primary
                 source material is intended to shine new light on British art, its exhibition
                 histories, and its publics, and to encourage further innovative study.</p>
-              <p>The <title>RA Chronicle</title> was launched on 30 May 2018 to coincide with the
-                250th anniversary year of the annual exhibition of contemporary art at the
-                  <orgName>Royal Academy</orgName>, and with the exhibition <title>The Great
-                  Spectacle: 250 Years of the Summer Exhibition</title>, which was co-curated by
-                Mark Hallett and Sarah Victoria Turner. </p>
+              <p>The <title>RA Chronicle</title> was launched on <date>30 May 2018</date> to
+                coincide with the 250th anniversary year of the annual exhibition of contemporary
+                art at the <orgName>Royal Academy</orgName>, and with the exhibition <title>The
+                  Great Spectacle: 250 Years of the Summer Exhibition</title>, which was co-curated
+                by <persName> Mark Hallett</persName> and <persName>Sarah Victoria
+                Turner</persName>. </p>
               <p>The <title>RA Chronicle</title>, which was conceived by Mark Hallett, has been
                 developed and produced by a team of Paul Mellon Centre staff, working with many
                 partners, including our authors, designers, and reviewers. It is important for us to
                 acknowledge that a publication of this size and complexity is only possible by
                 working collaboratively. The <title>RA Chronicle</title> entries have been edited by
-                three content specialist editors—Mark Hallett, Sarah Victoria Turner, and Jessica
-                Feather—who each took responsibility for different periods of this 250-year history,
-                as well as writing some entries themselves. The whole project was managed and edited
-                by Baillie Card. Tom Scutt managed the digital infrastructure and conceptualisation
-                of the project, from the digitisation of the Exhibition catalogues through to the
-                website’s publication. Maisoon Rehani managed all of the picture research and
-                copyright clearances.</p>
+                three content specialist editors—<persName>Mark Hallett</persName>, <persName>Sarah
+                  Victoria Turner</persName>, and <persName>Jessica Feather</persName>—who each took
+                responsibility for different periods of this 250-year history, as well as writing
+                some entries themselves. The whole project was managed and edited by Baillie Card.
+                Tom Scutt managed the digital infrastructure and conceptualisation of the project,
+                from the digitisation of the Exhibition catalogues through to the website’s
+                publication. Maisoon Rehani managed all of the picture research and copyright
+                clearances.</p>
               <p>The <title>RA Chronicle</title> was also peer-reviewed by three specialist readers,
                 each of whom took responsibility for a portion of the chronology matching their
                 expertise. We are deeply grateful to these readers for their advice and critical
@@ -3700,7 +3876,7 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>What Jane Saw</title>
+            <title type="main">What Jane Saw</title>
             <principal>
               <persName>
                 <forename>Janine</forename>
@@ -3718,11 +3894,11 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>This website (<ref target="www.whatjanesaw.org">www.whatjanesaw.org</ref>) offers
-                digital reconstructions of two museum blockbusters attended by <orgName>Jane Austen:
-                  the Boydell Shakespeare Gallery</orgName> in 1796 and the <title>Sir Joshua
-                  Reynolds retrospective</title> in 1813. The initial phase of <title>“What Jane
-                  Saw”</title> launched on 24 May 2013, or 200 years to the day that the
+              <p>This website offers digital reconstructions of two museum blockbusters attended by
+                  <orgName>Jane Austen: the Boydell Shakespeare Gallery</orgName> in
+                  <date>1796</date> and the <title>Sir Joshua Reynolds retrospective</title> in
+                  <date>1813</date>. The initial phase of <title>“What Jane Saw”</title> launched on
+                  <date>24 May 2013</date>, or 200 years to the day that the
                   <persName>Austens</persName> attended the <title>Reynolds</title> show. The second
                 phase of the website launched in 2015, on 16 December, Austen's birthday. If you
                 would like to “hear” Professor Barchas talk about this project, the <orgName>Folger
@@ -3733,7 +3909,7 @@
         </biblFull>
         <biblFull>
           <titleStmt>
-            <title>ARIES - ARt Image Exploration Space</title>
+            <title type="main">ARIES - ARt Image Exploration Space</title>
             <title type="sub">An interactive image manipulation system that enables the exploration
               and organization of fine digital art</title>
             <principal>
@@ -3854,11 +4030,11 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
-              <p>Initié en 2012, le programme <title>ACoR</title> a pour objectif de développer un
-                atlas des techniques de la construction romaine, sur un large champ géographique et
-                chronologique. Il s'est concrétisé dans la réalisation d'une base de données,
-                consultable sur ce site web, qui établit un corpus de techniques, identifiées,
-                classées et localisées dans un territoire, un site et un édifice.</p>
+              <p>Initié en <date>2012</date>, le programme <title>ACoR</title> a pour objectif de
+                développer un atlas des techniques de la construction romaine, sur un large champ
+                géographique et chronologique. Il s'est concrétisé dans la réalisation d'une base de
+                données, consultable sur ce site web, qui établit un corpus de techniques,
+                identifiées, classées et localisées dans un territoire, un site et un édifice.</p>
               <p>À l'échelle de l'édifice, la caractérisation morphologique et technique des
                 éléments de construction obéit à la logique des étapes d'un chantier, en distinguant
                 les différentes interventions de construction : préparation du terrain, fondations,
@@ -3985,7 +4161,8 @@
               <p>The different definitions of 'painting' were retrieved from US museums
                 classifications in the context of the project <title>Modern Migrants: Paintings from
                   Europe US Museums</title> of <orgName>The Provenance Lab at Leuphana
-                  University</orgName>.</p></note>
+                  University</orgName>.</p>
+            </note>
           </notesStmt>
         </biblFull>
         <biblFull>
@@ -4335,8 +4512,8 @@
               <p><title>Digital Augustan Rome</title> is a long term mapping project that is
                 prepared to provide a worthy digital successor to the published book and maps of
                   <title>Mapping Augustan Rome</title> that appeared as <title type="j">Supplement
-                  50 in the Journal of Roman Archaeology Series</title>, 2002. The volume was
-                directed by <persName>Lothar Haselberger</persName> in collaboration with
+                  50 in the Journal of Roman Archaeology Series</title>, <date>2002</date>. The
+                volume was directed by <persName>Lothar Haselberger</persName> in collaboration with
                   <persName>David Gilman Romano</persName> and edited by <persName>Elisha
                   Dumser</persName>. The entries were written by over 12 authors.</p>
               <p><title>Digital Augustan Rome</title> has also been a group effort and
@@ -4352,10 +4529,10 @@
                 towards this goal virtually from the outset. The work of this digital project is the
                 direct result of work carried out in the <orgName>Archaeological Mapping Lab of the
                   University of Pennsylvania Museum of Archaeology and Anthropology</orgName>. The
-                work of the lab (formerly the Corinth Computer Project lab) since 1984 has been
-                devoted to using the most modern methods of digital cartography, remote sensing and
-                GIS in the field of ancient cities, landscapes and sanctuaries in order to study and
-                better understand their composition, organization and planning.</p>
+                work of the lab (formerly the Corinth Computer Project lab) since <date>1984</date>
+                has been devoted to using the most modern methods of digital cartography, remote
+                sensing and GIS in the field of ancient cities, landscapes and sanctuaries in order
+                to study and better understand their composition, organization and planning.</p>
             </note>
             <note type="biblio">
               <biblStruct>
@@ -4620,21 +4797,631 @@
             <note type="abstract" xml:lang="fr">
               <p>Ce programme a pour objectif de constituer un inventaire topographique et
                 géolocalisable des lieux de culte connus par l’archéologie dans le monde grec,
-                région par région, de l’Age du Fer au <date>IIIe siècle ap. J.-C.</date>, afin de faciliter et
-                d’approfondir l’analyse de la répartition des cultes, des rites et des offrandes
-                dans l’espace et ses implications dans la signification et l’évolution du
+                région par région, de l’Age du Fer au <date>IIIe siècle ap. J.-C.</date>, afin de
+                faciliter et d’approfondir l’analyse de la répartition des cultes, des rites et des
+                offrandes dans l’espace et ses implications dans la signification et l’évolution du
                 polythéisme grec antique dans la diversité de ses manifestations.</p>
             </note>
           </notesStmt>
         </biblFull>
-        <!-- https://hiddenflorence.org/about/ -->
-        <!-- http://drc.usask.ca/projects/archbook/ -->
-        <!--https://lkilroyewbank.org/tag/digital-art-history/-->
-        <!-- http://arthistorians.info/about -->
-        <!-- Dictionnaire critique des historiens de l’art actifs en France de la Révolution à la Première Guerre mondiale. Philippe Sénéchal et Claire Barbillon (dir.) https://www.inha.fr/fr/ressources/publications/publications-numeriques/dictionnaire-critique-des-historiens-de-l-art.html
-             -->
-        <!-- https://projectcornelia.be -->
+        <biblFull>
+          <titleStmt>
+            <title type="main">ArchBook</title>
+            <principal>
+              <persName>
+                <forename>Yin</forename>
+                <surname>Liu</surname>
+              </persName>
+              <persName>
+                <forename>Richard</forename>
+                <surname>Cunningham</surname>
+              </persName>
+              <persName>
+                <forename>Alan</forename>
+                <surname>Galey</surname>
+              </persName>
+              <persName>
+                <forename>Bonnie</forename>
+                <surname>Mak</surname>
+              </persName>
+              <persName>
+                <forename>Brent</forename>
+                <surname>Nelson</surname>
+              </persName>
+              <persName>
+                <forename>Scott</forename>
+                <surname>Schofield</surname>
+              </persName>
+              <persName>
+                <forename>Paul</forename>
+                <surname>Werstine</surname>
+              </persName>
+            </principal>
+            <funder>Social Sciences and Humanities Research Council of Canada (SSHRC)</funder>
+            <funder>University of Saskatchewan Humanities and Fine Arts Digital Research
+              Centre</funder>
+            <funder>University of Toronto's iSchool</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName/>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <authority/>
+            <publisher>Implementing New Knowledge Environment (INKE)</publisher>
+            <pubPlace>Canada</pubPlace>
+            <date from="2009" to="2013">2009-2013</date>
+            <idno>https://drc.usask.ca/projects/archbook/index.php</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>ArchBook</title> is an open-access, peer-reviewed collection of richly
+                illustrated essays about specific design features in the history of the book. Our
+                goal is to make the diverse history of the book -- especially the under-appreciated
+                parts of that history -- available to students, researchers, and the public.
+                ArchBook is designed to complement more definitive and encyclopedic resources like
+                the <title>Cambridge History of the Book in Britain</title> with essays that target
+                connections between the history and future of books and reading. A typical
+                  <title>ArchBook</title> entry will follow a specific textual feature through its
+                development (or disappearance) across historical periods, with an eye to the
+                continuities and discontinuities the feature might have with digital reading
+                environments. Each entry offers a definition of a textual feature and rationale for
+                its importance, an historical overview of that feature, and (optionally) one or more
+                spotlight sections offering critical arguments about that feature's digital
+                reinvention. <title>ArchBook</title> seeks to combine the public accessibility of
+                Wikipedia, the scholarly standards and original research of a peer-reviewed history
+                of the book, and the critical provocativeness of a project like <persName>Raymond
+                  Williams</persName>'s Keywords.</p>
+              <p>Although <title>ArchBook</title> makes no claim to exhaustiveness, the project can
+                serve as a reference resource for students and teachers of book history. However,
+                unlike entries in a traditional reference resource, <title>ArchBook</title> articles
+                are written specifically to provoke further thought, discussion, and practical
+                experimentation among all readers with a stake in the future of books and reading.
+                In the spirit of the blank pages for readers' notes that <persName>Raymond
+                  Williams</persName> includes at the end of Keywords, each <title>ArchBook</title>
+                entry contains a post-publication discussion section with links to the project blog
+                and related wikis, where readers are invited to continue the discussion. The visual
+                examples of textual features provided in the essays are supplemented by a larger
+                open-access image database. Researchers, students, and teachers are welcome to use
+                these images provided they respect the usage and attribution policies of the source
+                libraries (named in the image metadata).</p>
+            </note>
+            <note type="licence">Licensed under a <ref
+                target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons
+                Attribution-Noncommercial-No Derivative Works 3.0 License</ref>
+            </note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Dictionary of Art Historians</title>
+            <principal>
+              <persName>
+                <forename>Lee</forename>
+                <surname>Sorensen</surname>
+              </persName>
+              <persName>
+                <forename>Monique</forename>
+                <surname>Daniels</surname>
+              </persName>
+              <persName>
+                <forename>Hannah L.</forename>
+                <surname>Jacobs</surname>
+              </persName>
+            </principal>
+            <funder>Duke Digital Art History &amp; Visual Culture Research Lab</funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Drupal</publisher>
+            <publisher>Duke University</publisher>
+            <pubPlace>Durham</pubPlace>
+            <date from="1986" to="2022">1986-2022</date>
+            <idno>http://arthistorians.info/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The <title>Dictionary of Art Historians</title> is a free, privately funded
+                biographical dictionary of historians of western art written and maintained by
+                scholars for the benefit of the public. It became associated with the
+                  <orgName>Department of Art, Art History, and Visual Studies of Duke
+                  University</orgName> in January of <date>2010</date>. From <date>2016</date> on,
+                it has been sponsored by the <orgName>Duke Digital Art History &amp; Visual Culture
+                  Research Lab</orgName>.</p>
+              <p>Initially conceived as a methodologic tool for English-language readers, the
+                  <title>Dictionary of Art Historians</title> compiles the documented facts of an
+                historian's life, post-retirement or posthumously, in order to serve as a background
+                for understanding a specific text and the historiography of art. The
+                  <title>DAH</title> was begun in the fall of <date>1986</date> as a notecard
+                project by indexing the historians cited in <persName>Eugene Kleinbauer</persName>'s
+                  <title>Research Guide to the History of Western Art</title> (<date>1982</date>)
+                and his <title>Modern Perspectives in Western Art History</title>
+                (<date>1971</date>), <persName>Heinrich Dilly</persName>'s <title>Kunstgeschichte
+                  als Institution</title> (<date>1979</date>) and some of
+                  <persName>Kultermann</persName>'s <title>Geschichte der Kunstgeschichte</title>
+                  (<date>1966</date>). In <date>1996</date> it was input electronically and in
+                  <date>2002</date> migrated to the internet. In <date>2018</date>, the project
+                underwent a major redesign and is again in active development. Subjects selected for
+                inclusion are based solely by their reference in the historiographic literature (see
+                bibliography link) and are not the selection of the editors.</p>
+            </note>
+            <note type="licence">The Dictionary of Art Historians is licensed under <ref
+                target="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</ref>.</note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Dictionnaire critique des historiens de l’art actifs en France de la
+              Révolution à la Première Guerre mondiale</title>
+            <principal>
+              <persName>
+                <forename>Philippe</forename>
+                <surname>Sénéchal</surname>
+              </persName>
+              <persName>
+                <forename>Claire</forename>
+                <surname>Barbillon</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Insitut National d'Histoire de l'Art (INHA)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2000" to="2002">2000-2002</date>
+            <idno>https://www.inha.fr/fr/ressources/publications/publications-numeriques/dictionnaire-critique-des-historiens-de-l-art.html</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Ce dictionnaire comprendra à terme environ 400 notices, dont la taille varie en
+                fonction de l’importance que le comité scientifique leur a attribuée. Par historien
+                de l’art, on entend une personne qui, par ses écrits ou son enseignement, a voulu
+                écrire sur l’art avec une visée historique, sans nécessairement que cela ait
+                constitué son activité principale. À l’inverse, seront absents du dictionnaire les
+                personnages qui n’ont eu un rôle que dans l’administration des Beaux-Arts ou du
+                patrimoine et ceux qui ont écrit seulement sur l’art contemporain en exprimant un
+                jugement critique. Les essais qui forment la partie principale des notices tentent
+                d’offrir un bilan de l’apport et de la réception de chaque historien, en son temps
+                et aujourd’hui.</p>
+            </note>
+            <note type="licence">Tous les textes sont publiés sous licence <ref
+                target="http://creativecommons.org/licenses/">Creative Commons CC-BY</ref>.</note>
+            <note type="biblio">
+              <biblStruct>
+                <analytic>
+                  <title type="a">Avancement des recherches sur les historiens de l'art
+                    français</title>
+                  <author>
+                    <persName>
+                      <forename>Claire</forename>
+                      <surname>Barbillon</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Nouvelles de l'INHA</title>
+                  <imprint>
+                    <date when="2000">2000</date>
+                    <biblScope unit="volume" n="2">2</biblScope>
+                    <biblScope unit="page" from="7" to="8">7-8</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://www.inha.fr/_resources/RESSOURCES/Publications/Nouvelles/Nouvelles_02.pdf?download=true</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">Le Dictionnaire des historiens de l'art actifs en France</title>
+                  <author>
+                    <persName>
+                      <forename>Philippe</forename>
+                      <surname>Sénéchal</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Nouvelles de l'INHA</title>
+                  <imprint>
+                    <date when="2002">2002</date>
+                    <biblScope unit="volume" n="11/12">11/12</biblScope>
+                    <biblScope unit="page" from="4" to="5">4-5</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://www.inha.fr/_resources/RESSOURCES/Publications/Nouvelles/Nouvelles_11et12.pdf?download=true</ref>
+              </biblStruct>
+            </note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Project Cornelia</title>
+            <principal>
+              <persName>
+                <forename>Koenraad</forename>
+                <surname>Brosens</surname>
+              </persName>
+              <persName>
+                <forename>Frederik</forename>
+                <surname>Truyen</surname>
+              </persName>
+              <persName>
+                <forename>Katlijne</forename>
+                <surname>Van der Stighelen</surname>
+              </persName>
+            </principal>
+            <funder>Research Foundation – Flanders (FWO)</funder>
+            <funder>MIT International Science and Technology Initiatives Seed Fund</funder>
+            <funder>Europeana Research Grant</funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Katholieke Universiteit Leuven (KU Leuven)</publisher>
+            <pubPlace>Leuven</pubPlace>
+            <date from="2011" to="2022">2011-2022</date>
+            <idno>https://projectcornelia.be</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Project Cornelia</title> is a hybrid research engine bridging art history
+                and computer science. We study <date>17th-century</date> Flemish tapestry and
+                painting by using and developing datasets, data retrieval tools and data
+                visualization tools. In doing so, we also try to understand and facilitate the
+                dialog between the humanities scholar and the computer.</p>
+            </note>
+            <note type="licence">Source code licensed <ref
+                target="http://opensource.org/licenses/mit-license.php">MIT</ref>.</note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Project Cornelia</title>
+            <principal>
+              <persName>
+                <forename>Koenraad</forename>
+                <surname>Brosens</surname>
+              </persName>
+              <persName>
+                <forename>Frederik</forename>
+                <surname>Truyen</surname>
+              </persName>
+              <persName>
+                <forename>Katlijne</forename>
+                <surname>Van der Stighelen</surname>
+              </persName>
+            </principal>
+            <funder>Research Foundation – Flanders (FWO)</funder>
+            <funder>MIT International Science and Technology Initiatives Seed Fund</funder>
+            <funder>Europeana Research Grant</funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Katholieke Universiteit Leuven (KU Leuven)</publisher>
+            <pubPlace>Leuven</pubPlace>
+            <date from="2011" to="2022">2011-2022</date>
+            <idno>https://projectcornelia.be</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Project Cornelia</title> is a hybrid research engine bridging art history
+                and computer science. We study <date>17th-century</date> Flemish tapestry and
+                painting by using and developing datasets, data retrieval tools and data
+                visualization tools. In doing so, we also try to understand and facilitate the
+                dialog between the humanities scholar and the computer.</p>
+            </note>
+            <note type="licence">Source code licensed <ref
+                target="http://opensource.org/licenses/mit-license.php">MIT</ref>.</note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Digital Montagny</title>
+            <principal>
+              <persName>
+                <forename>Martine</forename>
+                <surname>Denoyelle</surname>
+              </persName>
+              <persName>
+                <forename>Delphine</forename>
+                <surname>Burlot</surname>
+              </persName>
+              <persName>
+                <forename>Murtha</forename>
+                <surname>Baca</surname>
+              </persName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Getty Research Institute</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Institut National d'Histoire de l'Art (INHA)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date>s.d.</date>
+            <idno>https://digitalmontagny.inha.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Conçu et réalisé en étroite collaboration par l’<orgName>Institut national
+                  d’histoire de l’art</orgName> et le <orgName>Getty Research Institute</orgName>,
+                le « <title>Digital Montagny</title> » porte sur le Recueil d’Antiquités
+                  d’<persName>Élie-Honoré Montagny</persName>, un rare album de dessins du début du
+                XIXe siècle conservé dans les Special Collections du <orgName>Getty Research
+                  Institute</orgName> (2004.M.12), qui documente des monuments antiques conservés à
+                  <placeName>Naples</placeName> et à <placeName>Rome</placeName> à cette époque.</p>
+              <p>Il s’agit d’une édition critique en ligne qui, après avoir elle-même bénéficié des
+                technologies de recherche numériques, offre à l’utilisateur des possibilités
+                étendues pour interroger les dessins et les œuvres antiques qu’ils reproduisent.
+                Tout en donnant librement accès à un document ancien, dont peu de chercheurs ou
+                d’amateurs peuvent consulter, le site permet les contributions des utilisateurs qui
+                souhaiteraient apporter des informations sur un dessin ou sur un objet.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">J. Burckhardt</title>
+            <title type="sub">OPenPal. Open Correspondence Publishing and Visualization
+              Platform</title>
+            <principal>
+              <persName>
+                <forename>Maurizio</forename>
+                <surname>Ghelardi</surname>
+              </persName>
+            </principal>
+            <funder>European Commission</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>European Research Council (ERC)</orgName>
+              <orgName>Universität Marburg</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Scuola Normale Superiore</publisher>
+            <pubPlace>Pise</pubPlace>
+            <date from="2010" to="2019">2010-2019</date>
+            <idno>https://burckhardtsource.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The platform hosts the critical edition of the letters written to <persName>Jacob
+                  Burckhardt</persName>, reconstructing in open access one of the most important
+                European correspondences of the <date>19th century</date>. Save a few exceptions,
+                these letters are all unpublished. On a later stage, the project aims to publish
+                also <persName>Jacob Burckhardt</persName>’s letters. The editing process has been
+                carried out using Muruca semantic digital library framework. The Muruca framework
+                has been modified over the project, as the requirements of the philological
+                researchers emerged more clearly. The results are stored in and accessible from the
+                front-end of the platform.</p>
+              <p>The platform also publishes paintings and photographies.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Artl@s</title>
+            <principal>
+              <persName>
+                <forename>Béatrice</forename>
+                <surname>Joyeux-Prunel</surname>
+              </persName>
+              <persName>
+                <forename>Catherine</forename>
+                <surname>Dossin</surname>
+              </persName>
+              <persName>
+                <forename>Léa</forename>
+                <surname>Saint-Raymond</surname>
+              </persName>
+            </principal>
+            <funder>Ecole universitaire de recherche TRANSLITTERAE</funder>
+            <funder>LABEX TransferS</funder>
+            <funder>Agence Nationale pour la Recherche (ANR)</funder>
+            <funder>École Normale Supérieure (ENS)</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Université de Genève</orgName>
+              <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
+              <orgName>Purdue University</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>École Normale Supérieure (ENS)</publisher>
+            <publisher>TGIR Huma-Num</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2009" to="2022">2009-2022</date>
+            <idno>https://artlas.huma-num.fr/map/#/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p><title>Artl@s</title> regroupe des projets de recherche sur la mondialisation
+                artistique et culturelle, engagés dans le décentrement des sources et des récits. Il
+                nourrit également une réflexion de fond sur les méthodologies numériques et sur la
+                circulation des images jusqu’à l’ère du digital.</p>
+              <p><title>Artl</title>@s met à votre disposition une base numérique de catalogues
+                d’expositions. Elle est destinée à contenir tous types de catalogues d’exposition,
+                de l’invention du catalogue (Salon de Paris, <date>1673</date>) jusqu’à nos jours.
+                Cette base est géoréférencée et datée. Elle permet de cartographier les expositions,
+                de retracer la circulation des oeuvres et les expositions des artistes. Elle permet
+                aussi, lorsque cette information est disponible, de relier les oeuvres exposées à
+                leurs lieux de localisation, leurs propriétaires, au lieu de naissance de leur
+                auteur, et à tous autres types d’information renseignée d’après les catalogues.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">GeoMap</title>
+            <title type="sub">Géographie du marché de l'art parisien</title>
+            <principal>
+              <persName>
+                <forename>Julien</forename>
+                <surname>Cavero</surname>
+              </persName>
+              <persName>
+                <forename>Félicie</forename>
+                <surname>Faizand de Maupeou</surname>
+              </persName>
+              <persName>
+                <forename>Léa</forename>
+                <surname>Saint-Raymond</surname>
+              </persName>
+            </principal>
+            <funder>LABEX TransferS</funder>
+            <funder>Agence Nationale pour la Recherche (ANR)</funder>
+            <funder>École Normale Supérieure (ENS)</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>École Normale Supérieure (ENS)</publisher>
+            <publisher>TGIR Huma-Num</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2009" to="2022">2009-2022</date>
+            <idno>https://paris-art-market.huma-num.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Depuis le début du <date>XIXe siècle</date>, à <placeName>Paris</placeName>, le
+                marché de l’art a connu un fort développement. Celui-ci s’est notamment traduit par
+                l’augmentation du nombre de marchands et par la spécialisation, mouvante, de
+                certains quartiers en “rues des tableaux”. Si quelques études analysent ce
+                phénomène, elles sont essentiellement monographiques ou consacrées à une courte
+                période. L'enjeu de ce projet est au contraire d'analyser l'évolution de la
+                géographie artistique parisienne d'un point de vue global et sur le temps long en
+                s'appuyant sur les méthodes issues de l’histoire de l’art quantitative et des
+                humanités numériques.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Dictionnaire biographique des pensionnaires de l’Académie de France à
+              Rome</title>
+            <principal>
+              <persName>
+                <forename>Béatrice</forename>
+                <surname>Joyeux-Prunel</surname>
+              </persName>
+            </principal>
+            <funder>LABEX TransferS</funder>
+            <funder>Agence Nationale pour la Recherche (ANR)</funder>
+            <funder>École Normale Supérieure (ENS)</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
+              <orgName>Purdue University</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>École Normale Supérieure (ENS)</publisher>
+            <publisher>TGIR Huma-Num</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2009" to="2022">2009-2022</date>
+            <idno>https://acad-artlas.huma-num.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Edité par <persName>Annie</persName> et <persName>Gabriel Verger</persName>,
+                  <title>Le Dictionnaire biographique des pensionnaires de l’Académie de France à
+                  Rome</title> recense les praticiens envoyés en <placeName>Italie</placeName> par
+                l’État, depuis <persName>Louis XIV</persName> en <date>1666</date> jusqu’à la
+                suppression du concours du Prix de Rome en <date>1968</date>. Les fiches
+                individuelles des pensionnaires offrent des informations biographiques et
+                professionnelles (lieux de naissance et de décès, études, Envois de Rome, métiers,
+                récompenses et honneurs, etc.). Des liens sont établis avec les institutions
+                détenant des documents de première main (<orgName>Archives de l’école nationale
+                  supérieure des Beaux-arts</orgName> ; portraits des pensionnaires de
+                  l’<orgName>Académie de France à Rome</orgName> ; Envois de Rome collectés par les
+                membres de l’<orgName>Institut national d’histoire de l’art</orgName>).</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Imago</title>
+            <title type="sub">Visual Contagions</title>
+            <principal>
+              <persName>
+                <forename>Béatrice</forename>
+                <surname>Joyeux-Prunel</surname>
+              </persName>
+            </principal>
+            <funder>Erasmus+ Programme of the European Union</funder>
+            <funder>École Normale Supérieure (ENS)</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
+              <orgName>Purdue University</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>École Normale Supérieure (ENS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2009" to="2022">2009-2022</date>
+            <idno>https://www.imago.ens.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The aim of the « <title>IMAGO</title> » Centre of Excellence is to understand how
+                European cultures have met through the international circulation of images. The
+                center hosts a collaboration between historians, art historians, cognitivists,
+                computer vision specialists and contemporary artists. We study, teach, and exhibit
+                to broader publics to what extent images have been the crucible of European cultural
+                homogenization, or reveal particular cultural and political differences.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Fictions de l'Artificel Postdigital</title>
+            <principal>
+              <persName>
+                <forename>Béatrice</forename>
+                <surname>Joyeux-Prunel</surname>
+              </persName>
+              <persName>
+                <forename>Léa</forename>
+                <surname>Saint-Raymond</surname>
+              </persName>
+              <persName>
+                <forename>Grégory</forename>
+                <surname>Chatonsky</surname>
+              </persName>
+            </principal>
+            <funder>École Normale Supérieure (ENS)</funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>École Normale Supérieure (ENS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2009" to="2022">2009-2022</date>
+            <idno>http://postdigital.ens.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p><title>Postdigital</title> invite les chercheurs, jeunes ou plus experts, en
+                sciences humaines ou en sciences «dures», à s’interroger en compagnie d’artistes et
+                de praticiens du numérique sur ce que le digital fait à l’époque contemporaine.
+                Après une année sur la question du temps organisée par le jeune entrepreneur
+                  <persName>Alexandre Cadain</persName>, ancien de l’<orgName>ENS</orgName>, une
+                autre sur l’intelligence artificielle, l’année <date>2017-2018</date> portera sur
+                «l’imagination artificielle». Le séminaire alterne entre conférences (mensuelles),
+                ateliers de pratique et de discussion (plus restreints), visites d’ateliers et
+                d’expositions, organisation d’expositions (« <title>A Rebours à la bibliothèque des
+                  Lettres</title>, <date>juin 2017</date>). Le projet se déploira pour
+                  <date>2017-2019</date> sous la direction de <persName>Béatrice
+                  Joyeux-Prunel</persName> à l’aide de l’artiste <persName>Grégory
+                  Chatonsky</persName>, postdoc financé par le Fonds national de Recherche du
+                Québec.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+
         <!-- https://gist.github.com/antoinecourtin/2a5c833d7f5c1baf093e8f29b640847d -->
+        <!-- https://medium.com/@seeksanusername/ce-quil-ne-fallait-pas-rater-en-2019-autour-des-projets-en-humanit%C3%A9s-num%C3%A9riques-glam-4feb55f5ea22 -->
       </listBibl>
     </body>
   </text>
