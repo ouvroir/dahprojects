@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="style.css"?>
 <?xml-model href="./out/dahprojects.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -98,7 +98,7 @@
                 resource materials on the legacy and reception of Leonardo's art theory. </p></note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -110,14 +110,14 @@
             <publisher>National Gallery of Art</publisher>
             <publisher>Center for Advanced Study in the Visual Arts</publisher>
             <pubPlace>Washington</pubPlace>
-            <date></date>
+            <date/>
             <idno type="url">http://www.nga.gov/casva/accademia/</idno>
           </publicationStmt>
           <notesStmt>
-            <note></note>
+            <note/>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -132,10 +132,10 @@
             <idno type="url">http://vangoghletters.org/vg/</idno>
           </publicationStmt>
           <notesStmt>
-            <note></note>
+            <note/>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -156,14 +156,14 @@
           <publicationStmt>
             <publisher>Getty</publisher>
             <pubPlace>Los Angeles</pubPlace>
-            <date></date>
+            <date/>
             <idno type="url">http://www.getty.edu/research/mellini/</idno>
           </publicationStmt>
           <notesStmt>
-            <note></note>
+            <note/>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -182,12 +182,12 @@
                 <surname>Burlot</surname>
               </persName>
               <orgName>Institut national d’histoire de l’art (INHA)</orgName>
-                <resp>directrice du département d’histoire de l’art numérique</resp>
-                <persName>
-                  <forename>Murtha</forename>
-                  <surname>Baca</surname>
-                </persName>
-                <orgName>Getty Research Institute (GRI)</orgName>
+              <resp>directrice du département d’histoire de l’art numérique</resp>
+              <persName>
+                <forename>Murtha</forename>
+                <surname>Baca</surname>
+              </persName>
+              <orgName>Getty Research Institute (GRI)</orgName>
             </principal>
           </titleStmt>
           <publicationStmt>
@@ -209,7 +209,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -257,10 +257,10 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
-        
+
         <biblFull>
           <titleStmt>
             <title>Manart</title>
@@ -268,7 +268,7 @@
           <publicationStmt>
             <publisher/>
             <pubPlace>France</pubPlace>
-            <date></date>
+            <date/>
             <idno type="url">http://www.basemanart.com</idno>
           </publicationStmt>
           <notesStmt>
@@ -285,7 +285,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -295,14 +295,14 @@
           <publicationStmt>
             <publisher>Université Panthéon-Sorbonne</publisher>
             <pubPlace>Paris (France)</pubPlace>
-            <date></date>
+            <date/>
             <idno type="url">http://critiquesdart.univ-paris1.fr</idno>
           </publicationStmt>
           <notesStmt>
-            <note></note>
+            <note/>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -313,7 +313,8 @@
             <publisher>Getty Researche Institute</publisher>
             <pubPlace>Los Angeles</pubPlace>
             <date from="2017-09">septembre 2017</date>
-            <idno type="url">https://www.getty.edu/research/scholars/digital_art_history/szeemann_digital_seminar/</idno>
+            <idno type="url"
+              >https://www.getty.edu/research/scholars/digital_art_history/szeemann_digital_seminar/</idno>
           </publicationStmt>
           <notesStmt>
             <note>
@@ -332,7 +333,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -382,7 +383,7 @@
             <note type="licence">CC BY-NC-SA</note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -408,7 +409,7 @@
                 institusjoner blir etter hvert tilgjengelig her i det digitale arkivet.</p></note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -442,7 +443,7 @@
                 are credited under the tab “Comments &amp; References”.</p></note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -466,10 +467,10 @@
             <idno type="url">https://sturm-edition.de</idno>
           </publicationStmt>
           <notesStmt>
-            <note></note>
+            <note/>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -514,7 +515,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -532,10 +533,10 @@
             <idno type="url">https://brieven-correspondenten-1900.huygens.knaw.nl</idno>
           </publicationStmt>
           <notesStmt>
-            <note></note>
+            <note/>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -576,7 +577,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
       </listBibl>
@@ -670,7 +671,7 @@
           <keywords scheme="#TaDiRAH">
             <term xml:lang="fr"/>
           </keywords>
-          
+
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -709,7 +710,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -719,7 +720,7 @@
               <persName>
                 <forename>K.</forename>
                 <surname>Bender</surname>
-              </persName> 
+              </persName>
             </principal>
           </titleStmt>
           <publicationStmt>
@@ -740,7 +741,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -780,7 +781,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -832,7 +833,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -863,7 +864,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -914,7 +915,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1011,7 +1012,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1110,7 +1111,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1205,7 +1206,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1248,7 +1249,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1300,7 +1301,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1336,7 +1337,7 @@
             <note/>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1376,13 +1377,14 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">Song and Yuan Dynasty Painting and Calligraphy</title>
-            <principal><persName>
+            <principal>
+              <persName>
                 <forename>Stephen D.</forename>
                 <surname>Allee</surname>
               </persName>
@@ -1393,7 +1395,8 @@
               <persName>
                 <forename>Ingrid</forename>
                 <surname>Larsen</surname>
-              </persName></principal>
+              </persName>
+            </principal>
             <funder>
               <orgName>Freer Gallery of Art</orgName>
             </funder>
@@ -1423,16 +1426,18 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
           <titleStmt>
             <title type="main">Goryeo Buddhist Painting: A Closer Look</title>
-            <principal><persName>
+            <principal>
+              <persName>
                 <forename>Keith</forename>
                 <surname>Wilson</surname>
-              </persName></principal>
+              </persName>
+            </principal>
             <funder>
               <orgName>Freer Gallery of Art</orgName>
             </funder>
@@ -1473,7 +1478,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1533,7 +1538,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1599,7 +1604,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1620,7 +1625,8 @@
             <publisher>University of California, Riverside</publisher>
             <pubPlace>Riverside</pubPlace>
             <date from="2013" to="2015">2013-2015</date>
-            <idno type="url">https://securegrants.neh.gov/publicquery/main.aspx?f=1&amp;gn=HD-51735-13</idno>
+            <idno type="url"
+              >https://securegrants.neh.gov/publicquery/main.aspx?f=1&amp;gn=HD-51735-13</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -1639,7 +1645,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1680,7 +1686,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1751,7 +1757,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1826,7 +1832,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1884,7 +1890,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1913,7 +1919,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1954,7 +1960,7 @@
                 Commons Attribution 4.0 International License</ref></note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -1988,7 +1994,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2038,7 +2044,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2087,8 +2093,8 @@
                 new connections to museum exhibit content.</p>
             </note>
           </notesStmt>
-          <keywords scheme="" >
-            <term></term>
+          <keywords scheme="">
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2154,7 +2160,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2193,7 +2199,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2240,7 +2246,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2272,7 +2278,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2399,7 +2405,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2504,7 +2510,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2545,7 +2551,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2705,7 +2711,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2744,7 +2750,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2787,7 +2793,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2824,7 +2830,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2852,7 +2858,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2896,7 +2902,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2951,7 +2957,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -2965,7 +2971,8 @@
             <publisher>Getty</publisher>
             <pubPlace>Los Angeles</pubPlace>
             <date when="2017">2017</date>
-            <idno type="url">http://www.getty.edu/research/exhibitions_events/exhibitions/space_for_music/</idno>
+            <idno type="url"
+              >http://www.getty.edu/research/exhibitions_events/exhibitions/space_for_music/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -2989,7 +2996,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3034,7 +3041,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3203,7 +3210,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3261,7 +3268,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3292,7 +3299,8 @@
             <publisher>SciencesPo Médialab</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2010" to="2014">2010-2014</date>
-            <idno type="url">https://medialab.sciencespo.fr/activites/the-experiments-in-art-and-technology-eat-datascape/</idno>
+            <idno type="url"
+              >https://medialab.sciencespo.fr/activites/the-experiments-in-art-and-technology-eat-datascape/</idno>
             <idno type="url">http://eat_datascape.medialab.sciences-po.fr/</idno>
           </publicationStmt>
           <notesStmt>
@@ -3352,7 +3360,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3426,7 +3434,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3503,7 +3511,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3549,7 +3557,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3592,7 +3600,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3645,7 +3653,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3696,7 +3704,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3740,7 +3748,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3790,7 +3798,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3865,7 +3873,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -3973,7 +3981,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4009,7 +4017,7 @@
               International Licence</note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4053,7 +4061,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4108,7 +4116,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4175,7 +4183,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4225,7 +4233,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4263,7 +4271,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4355,7 +4363,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4409,7 +4417,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4430,7 +4438,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4472,7 +4480,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4515,7 +4523,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4543,7 +4551,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4579,7 +4587,7 @@
               environment.</p></note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4670,7 +4678,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4798,7 +4806,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4875,7 +4883,7 @@
                 romaine.</p></note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -4969,7 +4977,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5000,7 +5008,7 @@
                 target="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</ref>)</note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5051,7 +5059,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5167,7 +5175,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5216,7 +5224,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5308,7 +5316,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5369,7 +5377,7 @@
                 target="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</ref>.</note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5391,7 +5399,8 @@
             <publisher>Insitut National d'Histoire de l'Art (INHA)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2000" to="2002">2000-2002</date>
-            <idno type="url">https://www.inha.fr/fr/ressources/publications/publications-numeriques/dictionnaire-critique-des-historiens-de-l-art.html</idno>
+            <idno type="url"
+              >https://www.inha.fr/fr/ressources/publications/publications-numeriques/dictionnaire-critique-des-historiens-de-l-art.html</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
@@ -5455,7 +5464,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5499,7 +5508,7 @@
                 target="http://opensource.org/licenses/mit-license.php">MIT</ref>.</note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5543,7 +5552,7 @@
                 target="http://opensource.org/licenses/mit-license.php">MIT</ref>.</note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5592,7 +5601,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5636,7 +5645,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5693,7 +5702,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5744,7 +5753,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5792,7 +5801,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5832,7 +5841,7 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull>
@@ -5885,9 +5894,749 @@
             </note>
           </notesStmt>
           <keywords scheme="">
-            <term></term>
+            <term/>
           </keywords>
         </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Ukiyo-e Search</title>
+            <title type="sub">Japanese Woodblock Print Search</title>
+            <principal>
+              <persName>
+                <forename>John</forename>
+                <surname>Resig</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>John Resig</publisher>
+            <pubPlace>Kyoto</pubPlace>
+            <date when="2012">2012</date>
+            <idno type="url">https://ukiyo-e.org</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The <title>Ukiyo-e.org</title> database and image similarity analysis engine,
+                created by <persName>John Resig</persName> to aide researchers in the study of
+                Japanese woodblock prints, was launched in <date>December 2012</date>. The database
+                currently contains over 213,000 prints from 24 institutions and, as of September
+                2013, has received 3.4 million page views from 150,000 people.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Inventing abstraction</title>
+            <title type="sub">1910-1925</title>
+            <principal>
+              <persName>
+                <forename>Leah</forename>
+                <surname>Dickerman</surname>
+              </persName>
+              <persName>
+                <forename>Masha</forename>
+                <surname>Chlenova</surname>
+              </persName>
+              <persName>
+                <forename>Paul</forename>
+                <surname>Ingram</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Anna-Maria and Stephen Kellen Foundation</orgName>
+              <orgName>Mimi and Peter Haas Fund</orgName>
+              <orgName>Blavatnik Family Foundation</orgName>
+              <orgName>Marie-Josée and Henrv Kravis</orgName>
+              <orgName>Sue and Edgar Wachenheim III</orgName>
+              <orgName>Federal Council on the Arts and the Humanities</orgName>
+            </funder>
+            <sponsor>
+              <orgName>Hanjin Shipping</orgName>
+            </sponsor>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Museem of Modern Art (MoMA)</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="2012" to="2013">2012-2013</date>
+            <idno type="url"
+              >https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?page=connections</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Abstraction was not the inspiration of a solitary genius but the product of network
+                thinking-of ideas moving through a nexus of artists and intellectuals working in
+                different mediums and in far-flung places. Its pioneers were more closely linked
+                than is generally understood. This diagram maps the relationships among the artists
+                represented in <title>Inventing Abstraction</title>, all of whom played a
+                significant role in the development of a new modern language for the arts. Vectors
+                connect individuals whose acquaintance with one another during these years could be
+                documented; the names in red are those with the most connections whithin this group.
+                This chart was produced as a collaboration between the exhibition's curatorial and
+                design team and <persName>Paul Ingram</persName>, Kravis Porfessor of Business, and
+                  <persName>Mitali Banerjee</persName>, doctoral candidate, <orgName>Columbia
+                  Business School</orgName>.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main" xml:lang="en">Research Database Continent Allegories in the Baroque
+              Age</title>
+            <title type="main" xml:lang="ge">Forschungsplattform Erdteilallegorien im
+              Barockzeitalter</title>
+            <principal>
+              <persName>
+                <forename>Wolfgang</forename>
+                <surname>Schmale</surname>
+              </persName>
+              <persName>
+                <forename>Marion</forename>
+                <surname>Romberg</surname>
+              </persName>
+              <persName>
+                <forename>Beate</forename>
+                <surname>Pamperl</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>FWF Der Wissenschaftsfonds</orgName>
+              <orgName>Institut für Geschichte</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Universität Wien</publisher>
+            <pubPlace>Vienne</pubPlace>
+            <date from="2013" to="2015">2013-2015</date>
+            <idno type="url">https://erdteilallegorien.univie.ac.at/#</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Allegories of the four continents – <placeName>Europe</placeName>,
+                  <placeName>Asia</placeName>, <placeName>Africa</placeName>, and
+                  <placeName>America</placeName> – were an extremely popular iconographic motive
+                during the baroque era. It was most prevalent in the Southern Parts of the Holy
+                Roman Empire. These allegories express/manifest/carry the
+                imagination/conception/vision of the baroque of the shape of the world, its
+                political, social, and spiritual order as well as of foreign and familiar things.
+                This unique collection documents depictions of four continents in frescoes, stucco,
+                paintings or sculptures in their place of origin. The historical contextualization
+                contains the building history as well as artists and principals.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Gen Studio</title>
+            <principal>
+              <persName>
+                <forename>Maria</forename>
+                <surname>Kessler</surname>
+              </persName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Microsoft</orgName>
+              <orgName>Massachusetts Institute for Technology (MIT)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>The Metropolitan Museum (MET)</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="2017" to="2022">2017-2022</date>
+            <idno type="url">https://gen.studio/</idno>
+            <idno type="brokenLink" when="2022-09-04"
+              >https://web.archive.org/web/20220904114347/https://gen.studio/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The <orgName>Metropolitan Museum of Art</orgName> launched their Open Access
+                platform in <date>2017</date>, making all images and data relating to public-domain
+                artworks in its vast collection available to everyone online. The
+                  <orgName>Met</orgName>’s Open Access Program seeks to make the museum’s collection
+                one of the most accessible, discoverable, and useful on the internet. Now, The
+                  <orgName>Met</orgName> is collaborating with <orgName>Microsoft</orgName> to take
+                this initiative to the next level, utilizing artificial intelligence to help
+                audiences better discover these artworks and develop meaningful connections with
+                them.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">RHIZOME</title>
+            <title type="sub">ArtBase</title>
+            <principal>
+              <persName>
+                <forename>Mark</forename>
+                <surname>Tribe</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>National Endowment For The Humanities</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Mark Tribe</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="1999" to="2022">1999-2022</date>
+            <idno type="url">https://artbase.rhizome.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>This is an archive of born-digital artworks from <date>1999</date> to the present
+                day. A small sample of artworks are shown below; you can also browse the archive by
+                date or by artist name.</p>
+              <p>Some entries in this archive include external links to artworks maintained by
+                artists or others. Some contain archived copies, hosted on Rhizome infrastructure.
+                All of these, as well as forms of documentation, are called variants—distinct
+                manifestations of the artwork, all accessible via the main artwork page.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">LexArt</title>
+            <title type="sub">Words for Art : The Rise of a Terminology (1600-1750)</title>
+            <principal>
+              <persName>
+                <forename>Michèle-Caroline</forename>
+                <surname>Heck</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>European Research Council (ERC)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Institut National d'Histoire de l'Art (INHA)</orgName>
+              <orgName>Commission européenne</orgName>
+              <orgName>Goethe Universität</orgName>
+              <orgName>Universiteit Leiden</orgName>
+              <orgName>Kompetenzzentrum – Trier Center for Digital Humanities</orgName>
+              <orgName>Fondation Custodia</orgName>
+              <orgName>Deutsches Forum für Kunstgeschichte</orgName>
+              <orgName>Getty</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Université Paul-Valéry</publisher>
+            <pubPlace>Montpellier</pubPlace>
+            <date from="2007" to="2007">2012-2018</date>
+            <idno type="url">http://www.lexart.fr</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet <title>LexArt | Words for Art: The Rise of a Terminology
+                  (1600-1750)</title> dirigé par <persName>Michèle-Caroline Heck</persName> et
+                hébergé par l’<orgName>Université Paul-Valéry de Montpellier</orgName> fait partie
+                des six projets de recherche français sélectionnés en <date>2012</date> par le
+                  <orgName>Conseil Européen de la Recherche dans le domaine des humanités (ERC –
+                  Advanced Grant 323761).</orgName></p>
+              <p>Le projet <title>LexArt - Words for Art</title> se propose d’interroger l’émergence
+                du vocabulaire artistique au <date>XVIIe siècle</date> et son développement au début
+                du <date>XVIIIe siècle</date> au Nord des <placeName>Alpes</placeName>. Il
+                privilégie une approche transverse des écrits sur l’art et une recherche exhaustive
+                et fondamentale à partir de l’ensemble des publications sur l’art éditées au Nord
+                des <placeName>Alpes</placeName> entre <date>1600</date> et <date>1750</date>
+                  (<persName>Van Mander</persName>, <persName>Félibien</persName>, <persName>de
+                  Piles</persName>, <persName>Goeree</persName>, <persName>Sandrart</persName>,
+                  <persName>Hoogstraten</persName>, <persName>Richardson</persName>,
+                  <persName>Coypel</persName>, <persName>Dolce</persName>,
+                  <persName>Turnbull</persName>, etc.) dans une démarche à la fois synchronique et
+                diachronique. L’étude n’est pas uniquement philologique, mais, s’appuyant sur la
+                dimension mouvante du mot, met l’accent d’une part sur les définitions des termes
+                resitués dans leur contexte d’utilisation en relation avec les pratiques artistiques
+                qu’ils décrivent, et d’autre part sur leur évolution dans la longue durée conforme
+                aux mutations artistiques qui s’opèrent entre le <date>XVIIe siècle</date> et le
+                Siècle des Lumières, ou leur adaptation dans les transferts géographiques.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">MEXICANA</title>
+            <title type="sub">Repositorio del patrimonio cultural de México</title>
+            <principal>
+              <persName>
+                <forename>Alejandra</forename>
+                <surname>Frausto Guerrero</surname>
+              </persName>
+              <persName>
+                <forename>Marina</forename>
+                <surname>Núñez Bespalova</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Secretaría de Cultura</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Secretaría de Cultura</publisher>
+            <pubPlace>Mexico</pubPlace>
+            <date when="2017">2017</date>
+            <idno type="url">https://mexicana.cultura.gob.mx/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="sp">
+              <p><title>Mexicana</title> es un proyecto coordinado por la <orgName>Dirección General
+                  de Tecnologías de la Información y Comunicaciones de la Secretaría de
+                  Cultura</orgName> en el marco de su Agenda Digital de Cultura que permite difundir
+                de manera óptima los valiosos recursos digitales de la institución, para brindar
+                acceso universal, libre y abierto al patrimonio cultural de
+                  <placeName>México</placeName> bajo esquemas internacionales de
+                interoperabilidad.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Art Track</title>
+            <title type="sub">The CMOA Digital Provenance Standard</title>
+            <principal>
+              <persName>
+                <forename>David</forename>
+                <surname>Newbury</surname>
+              </persName>
+              <persName>
+                <forename>Emily</forename>
+                <surname>Mirales</surname>
+              </persName>
+              <persName>
+                <forename>Akemi</forename>
+                <surname>May</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Carnegie Museum of Art</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>The Yale Center for British Art</orgName>
+              <orgName>Freer and Sackler Galleries</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Carnegie Museum of Art</publisher>
+            <pubPlace>Pittsburgh</pubPlace>
+            <date from="2014" to="2018">2014-2018</date>
+            <idno type="url">http://www.museumprovenance.org</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>At the <orgName>Carnegie Museum of Art</orgName>, as with many institutions,
+                provenance is recorded in a text field within our collections management system. As
+                such, there is no machine-readable structure, and it is cumbersome or difficult to
+                automatically analyze the data contained within.</p>
+              <p>One of the goals of the <title>Art Tracks</title> project has been to generate a
+                digital model for storing and capturing the data within provenance in a
+                machine-readable format. This document contains our best understanding of that
+                model, along with supporting information and examples.</p>
+              <p>There are three expressions of this standard. One is a textual model that functions
+                as an extension of the AAM recommended provenance text. The second is as an abstract
+                data model in JSON. The third is as a Linked Open Data, as an RDF model using the
+                CIDOC-CRM. All three expressions are compatible and can be converted to each
+                other.</p>
+            </note>
+            <note type="licence"><ref target="https://creativecommons.org/publicdomain/zero/1.0/"
+                >Creative Commons 1.0</ref></note>
+            <note type="biblio">
+              <biblStruct>
+                <analytic>
+                  <title type="a">Art Tracks: Modeling Provenance for Computers</title>
+                  <author>
+                    <persName>
+                      <forename>David</forename>
+                      <surname>Newbury</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Keystone DH Conference</title>
+                  <imprint>
+                    <date when="2015">2015</date>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://www.slideshare.net/TraceyBergFulton/art-tracks-at-keystone-dh</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">Art Tracks: Visualizing the Stories and Lifespan of an
+                    Artwork</title>
+                  <author>
+                    <persName>
+                      <forename>Tracey</forename>
+                      <surname>Berg-Fulton</surname>
+                    </persName>
+                    <persName>
+                      <forename>David</forename>
+                      <surname>Newbury</surname>
+                    </persName>
+                    <persName>
+                      <forename>Travis</forename>
+                      <surname>Snyder</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Museum Computer Network</title>
+                  <imprint>
+                    <date when="2015">2015</date>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >http://mw2015.museumsandtheweb.com/proposal/art-tracks-visualizing-the-stories-and-lifespan-of-an-artwork/</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">The Art Tracks Project at CMoA: Turning Provenance into Structured
+                    Data</title>
+                  <author>
+                    <persName>
+                      <forename>Tracey</forename>
+                      <surname>Berg-Fulton</surname>
+                    </persName>
+                    <persName>
+                      <forename>David</forename>
+                      <surname>Newbury</surname>
+                    </persName>
+                    <persName>
+                      <forename>Travis</forename>
+                      <surname>Snyder</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">The University of Pittsburgh's History of Art &amp; Architecture
+                    Colloquium</title>
+                  <imprint>
+                    <date when="2015">2015</date>
+                  </imprint>
+                </monogr>
+                <ref type="url">http://www.haa.pitt.edu/news-events/cmoa-art-tracks-colloquium</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">Visual(ized) Culture: Mapping Artists, Objects, and Institutions
+                    Across Time and Space </title>
+                  <author>
+                    <persName>
+                      <forename>Tracey</forename>
+                      <surname>Berg-Fulton</surname>
+                    </persName>
+                    <persName>
+                      <forename>David</forename>
+                      <surname>Newbury</surname>
+                    </persName>
+                    <persName>
+                      <forename>Travis</forename>
+                      <surname>Snyder</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">The Association of Art Museum Curators</title>
+                  <imprint>
+                    <date when="2015">2015</date>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >http://www.artcurators.org/events/EventDetails.aspx?id=525482&amp;group=</ref>
+              </biblStruct>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">The Experiments in Art and Technology (E.A.T.) Datascape</title>
+            <principal>
+              <persName>
+                <forename>Christophe</forename>
+                <surname>Leclercq</surname>
+              </persName>
+              <persName>
+                <forename>Patrick</forename>
+                <surname>Browne</surname>
+              </persName>
+              <persName>
+                <forename>Paul</forename>
+                <surname>Girard</surname>
+              </persName>
+              <persName>
+                <forename>Daniele</forename>
+                <surname>Guido</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Sciences Po</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>The Robert Rauschenberg Foundation</orgName>
+              <orgName>The Roy Lichtenstein Foundation</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Sciences Po Médialab</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2010" to="2014">2010-2014</date>
+            <idno type="url">http://eat_datascape.medialab.sciences-po.fr</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>A digital archive displaying the process of collaboration in the <title>Experiments
+                  in Art and Technology</title> association through maps of works and projects
+                depicted as networks of people, organizations, places and technologies.</p>
+              <p><title>Experiments in Art and Technology (<title>E.A.T.</title>)</title> is a
+                renowned example of interdisciplinarity at the intersection of Art, Science and
+                Technology, conceived by <persName>Rauschenberg</persName>, a co-founder of
+                  <title>E.A.T</title>., as a "map of engineers, money and equipment", facilitating
+                collaborations between artist, engineer and industry. Despite the amount of
+                information available, <title>E.A.T.</title>’s production and legacy remains
+                unclear. The project, in collaboration with <title>E.A.T.</title> (represented by
+                  <persName>Julie Martin</persName>), is based on the organization’s numerous
+                activities, developed in art and non-art contexts, including realized and unrealized
+                works and projects from the <date>1960s</date> to the present day. through a
+                'datascape'. In the first place, the aim is to describe as extensively as possible
+                the stories of works of art or projects, from their design and development stages to
+                their different exhibitions and receptions. One of the main challenges is to produce
+                a digital archive displaying the process of collaboration, not merely catalogue
+                  <title>E.A.T.</title>’s productions. Secondly, the archive will map these works
+                and projects as networks of people, organizations, places and technologies, so as to
+                better understand <title>E.A.T.</title>’s identity using the theories of Science and
+                Technology Studies. The aim is to develop an online archive built as a research tool
+                for humanities scholars in art and social art history. Their work, mapping the
+                material in the archive, will provide the project’s added value; historical
+                documents combined into information networks, revealed by various visualizations,
+                will make of the archive a veritable exploratory tool.</p>
+            </note>
+            <note type="biblio">
+              <biblStruct>
+                <analytic>
+                  <title type="a">Experiments in Art and Technology Datascape: An Exploration of the
+                    Experiments in Art and Technology Archives</title>
+                  <author>
+                    <persName>
+                      <forename>Christophe</forename>
+                      <surname>Leclercq</surname>
+                    </persName>
+                    <persName>
+                      <forename>Paul</forename>
+                      <surname>Girard</surname>
+                    </persName>
+                    <persName>
+                      <forename>Daniel</forename>
+                      <surname>Guido</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Datascape</title>
+                  <imprint>
+                    <date when="2012">2012</date>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://medialab.sciencespo.fr/productions/2012-05-experiments-in-art-and-technology-datascape-an-exploration-of-the-experiments-in-art</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">The Experiments in Art and Technology Datascape</title>
+                  <author>
+                    <persName>
+                      <forename>Christophe</forename>
+                      <surname>Leclercq</surname>
+                    </persName>
+                    <persName>
+                      <forename>Paul</forename>
+                      <surname>Girard</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Rewire 2011 : The fourth International Conference on the Histories
+                    of Media Art, Science and Technology</title>
+                  <imprint>
+                    <date when="2011">2011</date>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://medialab.sciencespo.fr/productions/2011-09-the-experiments-in-art-and-technology-datascape-christophe-leclercq-paul-girard/</ref>
+              </biblStruct>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Coins</title>
+            <title type="sub">A journey through a rich cultural collection</title>
+            <principal>
+              <persName>
+                <forename>Franziska</forename>
+                <surname>von Tenspolde</surname>
+              </persName>
+              <persName>
+                <forename>Daniela</forename>
+                <surname>Guhlmann</surname>
+              </persName>
+              <persName>
+                <forename>Marian</forename>
+                <surname>Dörk</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Staatliche Museen zu Berlin</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>University of Applied Sciences Potsdam</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Staatliche Museen zu Berlin</publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date when="2018">2018</date>
+            <idno type="url">https://uclab.fh-potsdam.de/coins/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>With over 500 000 coins the <orgName>Münzkabinett Berlin</orgName> has one of the
+                most significant and comprehensive numismatic collections in the world. You can
+                imagine how hard it is for the numismatists (the people who devote their lives to
+                coins) to bring them into order to make sense of them. Similarly it is difficult to
+                decide which coins to put on display in the museum and how to arrange them. The aim
+                of this experiment is to develop playful ways to explore these historical artefacts,
+                which are normally locked away in a vault or out of reach behind a glass pane. For a
+                start, this tool makes a selection of about 26 000 coins explorable along a series
+                of layouts and filters.</p>
+            </note>
+            <note type="biblio">
+              <biblStruct>
+                <analytic>
+                  <title type="a">Off the Grid: Visualizing a Numismatic Collection as Dynamic Piles
+                    and Streams</title>
+                  <author>
+                    <persName>
+                      <forename>Flavio</forename>
+                      <surname>Gortana</surname>
+                    </persName>
+                    <persName>
+                      <forename>Franziska</forename>
+                      <surname>von Tenspolde</surname>
+                    </persName>
+                    <persName>
+                      <forename>Daniela</forename>
+                      <surname>Guhlmann</surname>
+                    </persName>
+                    <persName>
+                      <forename>Marian</forename>
+                      <surname>Dörk</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Primary</title>
+                  <imprint>
+                    <date when="2018">2018</date>
+                    <biblScope unit="volume" n="4">4</biblScope>
+                    <biblScope unit="issue" n="2">2</biblScope>
+                    <biblScope unit="page" from="1" to="30">1-30</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url">https://olh.openlibhums.org/articles/10.16995/olh.280/</ref>
+              </biblStruct>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Collecta</title>
+            <title type="sub">Archive Numérique Géolocalisée - La collection Gaignières -
+              ANG-G</title>
+            <principal>
+              <persName>
+                <forename>Anne</forename>
+                <surname>Ritz-Guilbert</surname>
+              </persName>
+              <persName>
+                <forename>Sophie</forename>
+                <surname>Fétro</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName> Agence Nationale de la Recherche (ANR)</orgName>
+              <orgName>Investissements d'avenir</orgName>
+              <orgName>Ministère de la Culture</orgName>
+              <orgName>Sciences du texte et conaissances nouvelles (DIM)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Institut de Recherche et d'Histoire des Textes (IRHT)</orgName>
+              <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
+              <orgName>École du Louvre</orgName>
+              <orgName>Université Paris 1 Panthéon-Sorbonne </orgName>
+              <orgName>Biblissima</orgName>
+              <orgName>Hautes Études Sorbonne Art et Métiers Université (HESAM)</orgName>
+              <orgName>Bibliothèque nationale de France (BnF)</orgName>
+              <orgName>Institut acte (UMR 8218)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Collecta</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2014" to="2022">2014-2022</date>
+            <idno type="url">https://www.collecta.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p><title>Collecta</title> est une base de données et un site Internet qui
+                reconstituent virtuellement la collection de <persName>François-Roger de
+                  Gaignières</persName> (<date>1642-1715</date>) dispersée entre différents lieux de
+                conservation (plusieurs départements de la <orgName>Bibliothèque nationale de
+                  France</orgName> et la <orgName>Bibliothèque Bodléienne d’Oxford</orgName>). Elle
+                est construite à partir de l’inventaire complet des 5569 items (manuscrits,
+                portefeuilles de dessins et d’estampes, imprimés, tableaux et objets) dressé en
+                  <date>1711</date>, du vivant de l’antiquaire.</p>
+            </note>
+            <note type="licence"><ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                >Creative Commons</ref></note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+
+
         <!-- https://gist.github.com/antoinecourtin/2a5c833d7f5c1baf093e8f29b640847d -->
         <!-- https://medium.com/@seeksanusername/ce-quil-ne-fallait-pas-rater-en-2019-autour-des-projets-en-humanit%C3%A9s-num%C3%A9riques-glam-4feb55f5ea22 -->
         <!-- https://www.fabriquenumeriquedupasse.fr/pages/projets_filtres_v2/ -->
