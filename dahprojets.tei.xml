@@ -6635,11 +6635,700 @@
             <term/>
           </keywords>
         </biblFull>
-
+        <biblFull>
+          <titleStmt>
+            <title type="main">Visualizing Visions</title>
+            <title type="sub">Exploring the Rijksmuseum dataset</title>
+            <principal>
+              <persName>
+                <forename>Floor</forename>
+                <surname>Koeleman</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Floor Koeleman</publisher>
+            <pubPlace>Nimègue</pubPlace>
+            <date when="2017"/>
+            <idno type="url">http://visualizingvisions.com/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><persName>Floor Koeleman</persName>'s PhD project <title>Visualizing
+                  Visions</title> focuses on the use of digital tools for art historical research.
+                Yet, this is still considered a distinct and maybe even obscure sub-discipline:
+                'digital' art history. She explores this overarching theme through a series of case
+                studies related to the historic interior and museum collections.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Van Gogh</title>
+            <principal>
+              <persName>
+                <forename>Viktoria</forename>
+                <surname>Brüggemann</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Van Gogh Museum</publisher>
+            <pubPlace>Amsterdam</pubPlace>
+            <date>s.d.</date>
+            <idno type="url">https://vikusviewer.fh-potsdam.de/vangogh/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The <orgName>Van Gogh Museum</orgName> in <placeName>Amsterdam</placeName> owns the
+                world's largest collection of artworks by <persName>Vincent van Gogh</persName>.
+                Among the collection are world famous paintings like <title>"Sunflowers"</title>,
+                  <title>"Almond Blossom"</title> and <title>"The Potato Eaters"</title>.
+                  <persName>Vincent</persName> lived and worked in 14 different cities in the
+                  <placeName>Netherlands</placeName>, <placeName>Belgium</placeName> and
+                  <placeName>France</placeName>, where among the many famous paintings and
+                self-portraits he also created drawings of the people, animals and landscapes of the
+                region to improve his artistic skills.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Les sculptures de la villa romaine de Chiragan</title>
+            <title type="sub">Musée Saint-Raymond</title>
+            <principal>
+              <persName>
+                <forename>Pascal</forename>
+                <surname>Capus</surname>
+              </persName>
+              <persName>
+                <forename>Christelle</forename>
+                <surname>Molinié</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Mairie de Toulouse</orgName>
+              <orgName>Musée Saint-Raymond</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Musée Saint-Raymond</publisher>
+            <pubPlace>Toulouse</pubPlace>
+            <date when="2019">2019</date>
+            <idno type="url">https://villachiragan.saintraymond.toulouse.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>La découverte de dizaines de sculptures en marbre sur le site de la villa romaine
+                de Chiragan, à <placeName>Martres-Tolosane</placeName> au <date>XIX<hi
+                    rend="superscript">e</hi> siècle</date>, représente encore aujourd’hui l’un des
+                événements parmi les plus impressionnants de l’archéologie nationale. En
+                  <placeName>France</placeName>, aucun autre site antique n’a révélé autant d’œuvres
+                et bien peu de lieux des anciens territoires de l’Empire romain, sinon la villa
+                de l’empereur <persName>Hadrien</persName> à <placeName>Tivoli</placeName> ou
+                la villa des Papyrus à <placeName>Herculanum</placeName>, peuvent témoigner d’une
+                telle parure de marbres dans un contexte privé.</p>
+              <p>Ainsi, les collections publiques toulousaines peuvent-elles s’enorgueillir
+                de présenter une telle quantité de portraits et de sculptures mythologiques issues
+                d’un seul et même lieu. Ce catalogue numérique donnera, nous l’espérons, aux
+                amateurs, curieux et étudiants le désir de venir observer cette spectaculaire
+                collection au <orgName>musée Saint-Raymond</orgName>, musée d’Archéologie
+                de Toulouse.</p>
+            </note>
+            <note type="licence"><ref
+                target="https://www.etalab.gouv.fr/licence-ouverte-open-licence">Licence
+                ouverte</ref></note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Atlasmuseum</title>
+            <principal>
+              <persName>
+                <forename>Virginie</forename>
+                <surname>Pringuet</surname>
+              </persName>
+              <persName>
+                <forename>Magali</forename>
+                <surname>Guyon</surname>
+              </persName>
+              <persName>
+                <forename>Crystèle</forename>
+                <surname>Petit</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Ministère de la Culture</orgName>
+              <orgName>Centre national des Arts Plastiques</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Université Rennes 1</orgName>
+              <orgName>Université Rennes 2</orgName>
+              <orgName>Fiat Lux</orgName>
+              <orgName>chezpetitc</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>A-Pack</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2014">2014</date>
+            <idno type="url">http://www.atlasmuseum.net/</idno>
+            <idno type="brokenLink" when="2014-08-18"
+              >https://web.archive.org/web/20140818002126/http://www.atlasmuseum.net/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p><title>Atlasmuseum</title> est une plateforme en ligne de collaboration entre
+                artistes, commissaires, amateurs d’art, informaticiens, historiens de l’art,
+                professionnels de la documentation et de l’archivage, visant le développement de
+                différents outils d’inventaire et de documentation de l’art public et
+                d’historicisation des œuvres d’art public.</p>
+              <p>A travers un processus d’inventaire fondé sur la contribution des professionnels
+                mais aussi du public, les œuvres d’art public sont répertoriées, géolocalisées et
+                documentées au sein d’un atlas Wiki.</p>
+            </note>
+            <note type="licence"><ref
+                target="https://web.archive.org/web/20141002021222/http://creativecommons.org/licenses/by/4.0/"
+                >Creative Commmons 4.0</ref></note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Ocapi (Outil de Captcha et d'Annotation du Patrimoine en
+              Image)</title>
+            <title type="old">CaptchAN</title>
+            <principal>
+              <orgName>Teklia</orgName>
+              <persName>
+                <forename>Christopher</forename>
+                <surname>Kermorvant</surname>
+              </persName>
+              <persName>
+                <forename>Karl</forename>
+                <surname>Pineau</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Ministère de la Culture</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Decalog</orgName>
+              <orgName>Archives Nationales de France</orgName>
+              <orgName>Bibliothèque Nationale de France (BNF)</orgName>
+              <orgName>Musée de Bretagne</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Teklia</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2018" to="2022">2018-2022</date>
+            <idno type="url">https://docs.ocapi.teklia.com/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Ocapi</title> is the French acronym for <title>Outil de Captcha et
+                  d'Annotation du Patrimoine en Image</title> or "<title>Other Captcha to Annotate
+                  Patrimonial Images</title>" in English. It was previously named
+                  <title>CaptchAN</title>. It aims to provide web developers with a user validation
+                system whose content comes from digitized cultural heritage corpora and where the
+                user's action on the challenge allows to validate the annotation and analysis of
+                these corpora.</p>
+              <p>The objective of <title>Ocapi</title> is to ensure that the user filling in the
+                form on a website is a human user, and not a robot trying to validate the form
+                automatically. It serve a secondary objective, that of validating automatically
+                generated data such as OCRized corpora, indexed photographs, etc. The website users
+                who fill in the challenge then validate the data transparently.</p>
+              <p>The idea of the <title>CaptchAN</title> project first originated during the
+                  <orgName>Archives Nationales</orgName>' <date>2018</date> hackathon, and
+                  <orgName>TEKLIA</orgName> then joined in to develop a prototype and work on the
+                security and ethics sides of the project.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Google Arts &amp; Culture</title>
+            <title type="old">Google Art Project</title>
+            <principal>
+              <orgName>Google</orgName>
+            </principal>
+            <funder>
+              <orgName>Google</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Google</publisher>
+            <pubPlace>Californie</pubPlace>
+            <date from="2011">2011-</date>
+            <idno type="url">https://artsandculture.google.com/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p><title>Google Arts &amp; Culture</title> (anciennement <title>Google Art
+                  Project</title>) est un service mis en ligne par <orgName>Google</orgName> en
+                  <date>février 2011</date>, permettant notamment de visiter virtuellement
+                différents musées ou projets à caractère culturels et patrimoniaux, et de visualiser
+                des images en haute définition dans des thématiques très variées.</p>
+              <p>Grâce à la technologie Street View, <orgName>Google</orgName> a permis la
+                numérisation en 3D, de 32 000 œuvres de 151 musées ou lieux différents à travers 40
+                pays.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">ArtLens AI</title>
+            <title type="sub">Share Your View</title>
+            <principal>
+              <orgName>The Cleveland Museum of Art</orgName>
+            </principal>
+            <funder>
+              <orgName>The Cleveland Museum of Art</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Design I/O</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>The Cleveland Museum of Art</publisher>
+            <pubPlace>Cleveland</pubPlace>
+            <date from="2019">2019-</date>
+            <idno type="url">https://www.clevelandart.org/artlens-ai</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>With <title>ArtLens AI</title>, instead of life imitating art, art imitates your
+                life. Upload an image from your device to see matches from the
+                  <orgName>CMA</orgName>'s collection. Don't love your match? Shuffle to cycle
+                through additional matches, or Upload another to choose a new starting image. Found
+                a good match? Add to the gallery to share it here with the world. <title>Artlens
+                  AI</title> works great on landscapes, objects, animals, and plants. It's not a
+                facial recognition tool.</p>
+              <p><title>ArtLens AI: Share Your View</title> uses an AI (Artificial Intelligence)
+                engine, trained on <orgName>CMA</orgName>'s collection, to recognize the shapes,
+                colors, and patterns in your image, and then find the most visually similar images
+                from <orgName>CMA</orgName>'s world-class collection. The <orgName>CMA</orgName>
+                never saves your uploaded images unless you choose to add to our gallery.</p>
+            </note>
+            <note type="licence"><ref target="https://www.clevelandart.org/open-access">Open
+                Access</ref></note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Diamond</title>
+            <principal>
+              <persName>
+                <forename>Frederic</forename>
+                <surname>Kaplan</surname>
+              </persName>
+              <persName>
+                <forename>Isabella</forename>
+                <surname>di Lenardo</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Time Machine Organisation</orgName>
+              <orgName>European Union</orgName>
+              <orgName>Republic of Austria</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Time Machine Organisation</publisher>
+            <pubPlace>Vienne</pubPlace>
+            <date from="2020">2020-</date>
+            <idno type="url">https://diamond.timemachine.eu/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Diamond</title> is a prototype of a spatiotemporal search engine. It
+                includes search functionalities based on machine transcription of ancient
+                handwriting, iconographic search based on deep learning technology and a
+                spatiotemporal interface for exploring the structure of cities in the past. This
+                "might-work-some-of-the-time" prototype is intended to bootstrap a collective effort
+                towards the building of an open-source, free and scalable search engine. It permits
+                now to search through a couple of millions documents but this number is expected to
+                hugely grow in the coming months, as part of the <title>Time Machine project</title>
+                  (<ref target="http://timemachine.eu">http://timemachine.eu</ref>)</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Time Machine</title>
+            <principal>
+              <persName>
+                <forename>Frederic</forename>
+                <surname>Kaplan</surname>
+              </persName>
+              <persName>
+                <forename>Harry</forename>
+                <surname>Verwayen</surname>
+              </persName>
+              <persName>
+                <forename>Julia</forename>
+                <surname>Noordegraaf</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Time Machine Organisation</orgName>
+              <orgName>European Union</orgName>
+              <orgName>Republic of Austria</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Time Machine Organisation</publisher>
+            <pubPlace>Vienne</pubPlace>
+            <date from="2020">2020-</date>
+            <idno type="url">https://www.timemachine.eu/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Time Machine</title> is aiming to join <placeName>Europe</placeName>’s rich
+                past with up-to-date digital technologies and infrastructures, creating a collective
+                digital information system mapping the European economic, social, cultural and
+                geographical evolution across times. In the proposed approach, digitisation is only
+                the first step of a long series of extraction processes, including document
+                segmentation and understanding enhanced by Augmented/Virtual Reality (AR/VR)
+                applications, leading to simulations of hypothetical spatiotemporal 4D
+                reconstructions.</p>
+              <p><title>Time Machine</title> aims to develop the Big Data of the Past, creating a
+                huge distributed digital information system mapping the European social, cultural
+                and geographical evolution across times. This large-scale digitisation and computing
+                infrastructure will enable <placeName>Europe</placeName> to turn its long history,
+                as well as its multilingualism and interculturalism, into a living social and
+                economic resource.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Odeuropa</title>
+            <principal>
+              <persName>
+                <forename>Inger</forename>
+                <surname>Leemans</surname>
+              </persName>
+              <persName>
+                <forename>Marieke</forename>
+                <surname>van Erp</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>European Union</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Odeuropa</publisher>
+            <pubPlace>Amsterdam</pubPlace>
+            <date from="2021" to="2023">2021-2023</date>
+            <idno type="url">https://odeuropa.eu/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Our senses are our gateways to the past. Much more so than any other sense, our
+                sense of smell is linked directly to our emotions and our memories. While museums
+                are slowly discovering the power of multi-sensory presentations, we lack the
+                scientific standards, tools, and data to effectively identify, consolidate, and
+                promote the wide-ranging role scents and smelling have in our cultural heritage. For
+                these reasons, olfactory heritage remains severely under-valued as a resource in
+                both tangible and intangible cultural heritage contexts. Fortunately, some key
+                prerequisites for addressing this problem are already in place. In recent years,
+                European cultural heritage institutions have invested heavily in large-scale
+                digitisation: we now hold a wealth of object, text and image data which can now be
+                analysed using sophisticated computer science techniques. What remains missing is a
+                broader awareness of the wealth of historical olfactory descriptions, experiences
+                and memories contained within them. We recognize this as both a challenge and an
+                opportunity.</p>
+              <p><title>Odeuropa</title> will apply state-of-the-art AI techniques to cultural
+                heritage text and image datasets spanning four centuries of European history, to
+                identify and trace how ‘smell’ was expressed in different languages, with what
+                places it was associated, what kinds of events and practices it characterised, and
+                to what emotions it was linked. This multi-modal information will be curated,
+                following semantic web standards, stored in the ‘European Olfactory Knowledge Graph’
+                (EOKG), and then drawn on to create new ‘storylines’ informed by cultural history
+                research. The storyline resources will be prepared in different formats for
+                different audiences: as an online ‘Encyclopaedia of European Smell Heritage’, as
+                ‘interactive notebook’ demonstrators, and in the form of toolkits and training
+                documentation describing best-practices in olfactory museology. We will develop new,
+                evidence-based methodologies to quantify the impact of multisensory visitor
+                engagement, and use this data to support the implementation of policy
+                recommendations for the recognition, promotion, presentation and safe-guarding of
+                our olfactory heritage.</p>
+            </note>
+            <note type="biblio">
+              <biblStruct>
+                <analytic>
+                  <title type="a">Geur in Immaterieel Erfgoed. Een Deelonderzoek van
+                    Odeuropa</title>
+                  <author>
+                    <persName>
+                      <forename>Sophie</forename>
+                      <surname>Elpers</surname>
+                    </persName>
+                    <persName>et al.</persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">Volkskunde</title>
+                  <imprint>
+                    <date when="2021">2021</date>
+                    <biblScope unit="volume" n="122">122</biblScope>
+                    <biblScope unit="issue" n="3">3</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://pure.knaw.nl/portal/files/451193406/Elpers_Volkskunde_122_2021_3_Geur.pdf</ref>
+              </biblStruct>
+              <biblStruct>
+                <analytic>
+                  <title type="a">Capturing the Semantics of Smell: The Odeuropa Data Model for
+                    Olfactory Heritage Information</title>
+                  <author>
+                    <persName>
+                      <forename>Pasquale</forename>
+                      <surname>Lisena</surname>
+                    </persName>
+                    <persName>et al.</persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="m">19th Extended Semantic Web Conference (ESWC)</title>
+                  <imprint>
+                    <pubPlace>Hernosissos</pubPlace>
+                    <publisher>ESWC-Conferences</publisher>
+                    <date when="2022">2022</date>
+                    <biblScope unit="page" from="1" to="19">1-19</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://pure.knaw.nl/portal/files/451193406/Elpers_Volkskunde_122_2021_3_Geur.pdf</ref>
+              </biblStruct>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">DatArt_Asie</title>
+            <principal>
+              <persName>
+                <forename>Léa</forename>
+                <surname>Saint-Raymon</surname>
+              </persName>
+              <persName>
+                <forename>Torahiko</forename>
+                <surname>Terada</surname>
+              </persName>
+              <persName>
+                <forename>Quentin</forename>
+                <surname>Bernet</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>École Normale Supérieure (ENS-PSL)</orgName>
+              <orgName>EUR Translitteræ</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
+              <orgName>The University of Tokyo</orgName>
+              <orgName>École des Hautes Études en Sciences Sociales (EHESS)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2022">2022</date>
+            <idno type="url">https://datart.huma-num.fr/Datart_asie.html</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>L’ouverture économique forcée de la <placeName>Chine</placeName> et du
+                  <placeName>Japon</placeName>, en <date>1860</date>, a suscité l’essor du commerce
+                avec l’Occident et, dès les années <date>1870</date>, la vogue du « japonisme ». Si
+                ce phénomène est largement documenté par des études, essentiellement monographiques
+                ou consacrées à une courte période, il est nécessaire d’analyser, sur un temps long,
+                l’évolution de ces relations commerciales avec l’<placeName>Asie</placeName> en
+                s’appuyant sur des données homogènes et diachroniques. Le projet
+                  <title>DatArt_Asie</title> s’appuie sur une double source : • <title>Le Bottin du
+                  commerce</title>, publié annuellement à partir de <date>1815</date>, qui présente
+                les différentes sociétés implantées à <placeName>Paris</placeName> selon une
+                classification par catégories, en mentionnant leurs adresses et, de manière
+                facultative, une courte description de l’activité. L’intégralité des rubriques «
+                chinoiseries (marchands de) » et « japoneries (marchands de) » a été dépouillée et
+                géoréférencée, formant ainsi un corpus de 432 sociétés entre <date>1868</date> et
+                  <date>1954</date> • Du côté japonais, le <title>Japan Directory</title>, publié
+                dès <date>1868</date>, en cours de dépouillement aux archives départementales de
+                  <placeName>Yokohama</placeName>.</p>
+              <p>Les données de <title>DatArt_Asie</title> sont affichées sur une carte interactive.
+                Chaque point correspond à un marchand unique, à une adresse et à une date donnée. La
+                description de son activité dans le Bottin du commerce, s’affiche dans un pop-up. Il
+                est possible de filtrer les marchands selon leur rubrique (« chinoiseries » et / ou
+                « japoneries »). Leurs comptoirs en <placeName>Asie</placeName> sont également
+                affichés, lorsque le Bottin du commerce les mentionne. Lorsqu’une société dispose,
+                pour une même période, de plusieurs boutiques ou de comptoirs, ces différentes
+                adresses sont reliées entre elles par une ligne sur la carte. Enfin, les adresses
+                localisées à la rue sont distinguées de celles qui sont localisées à la ville.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">DatArt_Bordeaux</title>
+            <principal>
+              <persName>
+                <forename>Léa</forename>
+                <surname>Saint-Raymon</surname>
+              </persName>
+              <persName>
+                <forename>Paul</forename>
+                <surname>Jean</surname>
+              </persName>
+              <persName>
+                <forename>Quentin</forename>
+                <surname>Bernet</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>École Normale Supérieure (ENS-PSL)</orgName>
+              <orgName>EUR Translitteræ</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
+              <orgName>École des Hautes Études en Sciences Sociales (EHESS)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2022">2022</date>
+            <idno type="url">https://datart.huma-num.fr/Datart_bordeaux.html</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet <title>DatArt_Bordeaux</title> vise à comprendre le fonctionnement de
+                cette initiative locale, entre <date>1928</date> et <date>1950</date>. Il s’appuie
+                sur la documentation du musée des beaux-arts de <placeName>Bordeaux</placeName>,
+                disponible en ligne. Chaque catalogue d’exposition des Artistes indépendants
+                bordelais a été retranscrit et les données géoréférencées. La cartographie présente
+                alors trois modes d’affichage : le lieu de naissance de l’artiste, le lieu de
+                résidence de l’exposant et le lieu représenté dans l’œuvre exposée.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">DatArt_Toulouse</title>
+            <principal>
+              <persName>
+                <forename>Léa</forename>
+                <surname>Saint-Raymon</surname>
+              </persName>
+              <persName>
+                <forename>Hadrien</forename>
+                <surname>Viraben</surname>
+              </persName>
+              <persName>
+                <forename>Paul</forename>
+                <surname>Jean</surname>
+              </persName>
+              <persName>
+                <forename>Quentin</forename>
+                <surname>Bernet</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>École Normale Supérieure (ENS-PSL)</orgName>
+              <orgName>EUR Translitteræ</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
+              <orgName>École des Hautes Études en Sciences Sociales (EHESS)</orgName>
+              <orgName>Laboratoiire TEMOS (Temps, Mondes, Sociétés - CNRS UMR 9016)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2022">2022</date>
+            <idno type="url">https://datart.huma-num.fr/Datart_toulouse.html</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>« Encourager le progrès des Arts et en propager le goût par des expositions
+                publiques de peinture, sculpture, dessin et gravure » : telle est la mission que se
+                donne l’<orgName>Union artistique de Toulouse (UAT)</orgName>, fondée à
+                  <placeName>Toulouse</placeName> en <date>1861</date>. Réunissant des artistes
+                principalement toulousains, elle vise à lutter contre la domination de la capitale
+                en créant un marché artistique régional : des expositions annuelles sont organisées
+                jusqu’en <date>1864</date> puis entre <date>1885</date> et <date>1909</date>.</p>
+              <p>En <date>1905</date>, une autre société artistique est créée à
+                  <placeName>Toulouse</placeName>, la <orgName>Société des Artistes méridionaux
+                  (SAM)</orgName>, et se place en rupture avec Paris, dans une forte affirmation
+                régionaliste – les expositions des <orgName>UAT</orgName>, en effet, reposaient sur
+                le modèle du Salon officiel parisien, avec un jury et un système de récompenses. Les
+                  <orgName>Artistes Occitans Indépendants (AOI)</orgName> poursuivent ce mouvement,
+                et exposent pour la première fois en <date>1936</date>.</p>
+              <p>Le projet <title>DatArt_Toulouse</title> vise à comprendre le fonctionnement de
+                cette triple initiative locale, entre <date>1861</date> et <date>1939</date>, et
+                visualise ce triple ensemble d’expositions organisées à
+                  <placeName>Toulouse</placeName>. Chaque catalogue d’exposition a été retranscrit
+                et les données, géoréférencées. La cartographie présente alors trois modes
+                d’affichage : le lieu de naissance de l’artiste, le lieu de résidence de l’exposant
+                et le lieu représenté dans l’œuvre exposée.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
 
         <!-- https://gist.github.com/antoinecourtin/2a5c833d7f5c1baf093e8f29b640847d -->
         <!-- https://medium.com/@seeksanusername/ce-quil-ne-fallait-pas-rater-en-2019-autour-des-projets-en-humanit%C3%A9s-num%C3%A9riques-glam-4feb55f5ea22 -->
         <!-- https://www.fabriquenumeriquedupasse.fr/pages/projets_filtres_v2/ -->
+
+        <!-- https://memexproject.eu/fr/ ?? -->
       </listBibl>
     </body>
   </text>
