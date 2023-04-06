@@ -5668,7 +5668,7 @@
             <funder>
               <orgName>Ecole universitaire de recherche TRANSLITTERAE</orgName>
               <orgName>LABEX TransferS</orgName>
-              <orgName>Agence Nationale pour la Recherche (ANR)</orgName>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
               <orgName>École Normale Supérieure (ENS)</orgName>
             </funder>
             <respStmt>
@@ -5724,7 +5724,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName>LABEX TransferS Agence Nationale pour la Recherche (ANR) </orgName>
+              <orgName>LABEX TransferS Agence Nationale de la Recherche (ANR) </orgName>
               <orgName>École Normale Supérieure (ENS)</orgName>
             </funder>
             <respStmt>
@@ -5768,7 +5768,7 @@
             </principal>
             <funder>
               <orgName>LABEX TransferS</orgName>
-              <orgName>Agence Nationale pour la Recherche (ANR)</orgName>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
               <orgName>École Normale Supérieure (ENS)</orgName>
             </funder>
             <respStmt>
@@ -6594,7 +6594,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName> Agence Nationale de la Recherche (ANR)</orgName>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
               <orgName>Investissements d'avenir</orgName>
               <orgName>Ministère de la Culture</orgName>
               <orgName>Sciences du texte et conaissances nouvelles (DIM)</orgName>
@@ -7285,7 +7285,7 @@
               <resp>Partenaires scientifiques</resp>
               <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
               <orgName>École des Hautes Études en Sciences Sociales (EHESS)</orgName>
-              <orgName>Laboratoiire TEMOS (Temps, Mondes, Sociétés - CNRS UMR 9016)</orgName>
+              <orgName>Laboratoire TEMOS (Temps, Mondes, Sociétés - CNRS UMR 9016)</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
@@ -7323,12 +7323,554 @@
             <term/>
           </keywords>
         </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Archipédie</title>
+            <principal>
+              <persName>
+                <forename>Marie-Christine</forename>
+                <surname>Labourdette</surname>
+              </persName>
+              <persName>
+                <forename>Enora</forename>
+                <surname>Prioul</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Cité de l'Architecture et du Patrimoine</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2016" to="2020">2016-2020</date>
+            <idno type="url">http://archipedie.citedelarchitecture.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p><title>Archipédie</title> est une encyclopédie numérique collaborative sur
+                l’architecture moderne et contemporaine portée par la <orgName>Cité de
+                  l’architecture et du patrimoine</orgName>. Projet éditorial pédagogique et
+                expérimental, <title>Archipédie</title> est un lieu de partage et de diffusion de
+                connaissances sur l’architecture moderne et contemporaine.</p>
+              <p>Conçu en collaboration avec les enseignants et les étudiants des écoles nationales
+                supérieures d’architecture et des universités et ayant vocation à s'ouvrir aux
+                chercheurs du domaine, le projet entend s'adresser au plus grand nombre.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Below the Surface</title>
+            <principal>
+              <persName>
+                <forename>Jerzy</forename>
+                <surname>Gawronski</surname>
+              </persName>
+              <persName>
+                <forename>Peter</forename>
+                <surname>Kranendonk</surname>
+              </persName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Chief Technology Office (CTO)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Department of Archaeology, Monuments and Archaeology (MenA)</publisher>
+            <pubPlace>Amsterdam</pubPlace>
+            <date when="2019">2019</date>
+            <idno type="url">https://belowthesurface.amsterdam/en</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The website provides access to more than 27,000 photographs of 19,000 finds and the
+                complete dataset (135,000 records) of all (700,000) finds of the archaeological
+                project of the North/South Metro Line. With belowthesurface.amsterdam you can do
+                your own archaeological research. You can discover the stories behind the finds,
+                explore the 10,000 artefacts on display at Rokin Station and create your own
+                showcases or catalogues of finds.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Portail Biblissima</title>
+            <principal>
+              <orgName>ÉquipEx Biblissima+</orgName>
+            </principal>
+            <funder>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Archives nationales</orgName>
+              <orgName>Bibliothèque nationale de France (BnF)</orgName>
+              <orgName>Centre d'Études Supérieures de la Renaissance (CESR) (UMR7323, CNRS -
+                Université de Tours - Ministère de la Culture)</orgName>
+              <orgName>Histoire, Archéologie, Littérature des Mondes Chrétiens et Musulmans
+                Médiévaux (CIHAM) (UMR5648, CNRS - Université Lyon 2 - EHESS - ENS - Avigon
+                Université - Université Lyon 3))</orgName>
+              <orgName>Centre Jean Mabillon (CJM) (EA 3624, ENC - PSL)</orgName>
+              <orgName>Centre de Recherches Archéologiques et Historiques Anciennes et Médiévales.
+                Centre Michel de Boüard (CRAHAM) (UMR6273, CNRS - Université de Caen
+                Normandie)</orgName>
+              <orgName>Savoirs et Pratiques du Moyen Âge à l'époque contemporaine (SARPAT) (EA4116,
+                EPHE - PSL)</orgName>
+              <orgName>Institut de Recherche et d'Histoire des Textes (IRHT) (CNRS)</orgName>
+              <orgName>Maison de la Recherche en Sciences Humaines (MRSH) (Université de Caen
+                Normandie)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>ÉquipEx Biblissima+</publisher>
+            <pubPlace>Aubervilliers</pubPlace>
+            <date from="2012">2012-</date>
+            <idno type="url">https://portail.biblissima.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Un point d'accès au patrimoine écrit du Moyen Âge et de la Renaissance en Occident,
+                du VIII<hi rend="superscript">e</hi> au XVIII<hi rend="superscript">e</hi> siècle.
+                </p><p>Le <title>Portail Biblissima</title> offre un accès unifié à un ensemble de
+                données numériques sur les manuscrits, incunables et imprimés anciens produites par
+                les partenaires du consortium <orgName>Biblissima+</orgName>.</p><p>Il permet de
+                visualiser, de consulter et d'interroger des documents numérisés, des catalogues et
+                bases de données spécialisées portant sur divers aspects de l'étude du patrimoine
+                écrit : histoire des collections et des provenances, transmission des textes,
+                iconographie, reliures, fragments etc.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Biblissima+</title>
+            <title type="sub">Observatoire des cultures écrites anciennes, de l’argile à
+              l’imprimé</title>
+            <principal>
+              <persName>
+                <forename>Anne-Marie</forename>
+                <surname>Turvan-Verkerk</surname>
+              </persName>
+              <persName>
+                <forename>François</forename>
+                <surname>Bougard</surname>
+              </persName>
+              <persName>
+                <forename>Marie-Agnès</forename>
+                <surname>Lucas-Avenel</surname>
+              </persName>
+              <persName>
+                <forename>Emmanuelle</forename>
+                <surname>Morlock</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Archives nationales</orgName>
+              <orgName>Archéologie et philologie d’Orient et d’Occident (AOrOc) (UMR8546, CNRS –
+                EPHE – ENS - PSL)</orgName>
+              <orgName>Bibliothèque nationale de France (BnF)</orgName>
+              <orgName>Centre d'Études Supérieures de Civilisation Médiévale (CESCM) (UMR7302,
+                Université de Poitiers – CNRS)</orgName>
+              <orgName>Centre d'Études Supérieures de la Renaissance (CESR) (UMR7323, CNRS -
+                Université de Tours - Ministère de la Culture)</orgName>
+              <orgName>Centre de Recherche sur la Conservation (CRC) (USR3224, Muséum national
+                d’histoire naturelle – CNRS – Ministère de la Culture)</orgName>
+              <orgName>Centre de Recherches Historiques (CRH) (UMR8558, CNRS - EHESS)</orgName>
+              <orgName>Histoire, Archéologie, Littérature des Mondes Chrétiens et Musulmans
+                Médiévaux (CIHAM) (UMR5648, CNRS - Université Lyon 2 - EHESS - ENS - Avigon
+                Université - Université Lyon 3))</orgName>
+              <orgName>Histoire et Sources des Mondes Antiques (HiSoMA) (UMR5189, CNRS – ENS de Lyon
+                – Université Lyon 3 – Université Lyon 2 – Université Jean-Monnet
+                Saint-Étienne)</orgName>
+              <orgName>Centre Jean Mabillon (CJM) (EA 3624, ENC - PSL)</orgName>
+              <orgName>Persée</orgName>
+              <orgName>Teklia</orgName>
+              <orgName>Centre de Recherches Archéologiques et Historiques Anciennes et Médiévales.
+                Centre Michel de Boüard (CRAHAM) (UMR6273, CNRS - Université de Caen
+                Normandie)</orgName>
+              <orgName>Savoirs et Pratiques du Moyen Âge à l'époque contemporaine (SARPAT) (EA4116,
+                EPHE - PSL)</orgName>
+              <orgName>Institut de Recherche et d'Histoire des Textes (IRHT) (CNRS)</orgName>
+              <orgName>Maison de la Recherche en Sciences Humaines (MRSH) (Université de Caen
+                Normandie)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>ÉquipEx Biblissima+</publisher>
+            <pubPlace>Aubervilliers</pubPlace>
+            <date from="2021">2021-</date>
+            <idno type="url">https://projet.biblissima.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p><title>Biblissima+</title> est une infrastructure numérique multipolaire de
+                recherche fondamentale et de service consacrée à l’histoire de la transmission des
+                textes anciens, de l’Antiquité à la Renaissance en Orient comme en Occident.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Mirador</title>
+            <principal>
+              <persName>
+                <forename>María A.</forename>
+                <surname>Matienzo</surname>
+              </persName>
+              <persName>
+                <forename>Jessie</forename>
+                <surname>Keck</surname>
+              </persName>
+              <persName>
+                <forename>Marlo</forename>
+                <surname>Longley</surname>
+              </persName>
+              <persName>
+                <forename>Nick</forename>
+                <surname>Budak</surname>
+              </persName>
+              <persName>
+                <forename>Camille</forename>
+                <surname>Villa</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>ProjectMirador</publisher>
+            <pubPlace>s.l.</pubPlace>
+            <date from="2015">2015-</date>
+            <idno type="url">https://projectmirador.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Mirador</title> is a configurable, extensible, and easy-to-integrate image
+                viewer, which enables image annotation and comparison of images from repositories
+                dispersed around the world. <title>Mirador</title> has been optimized to display
+                resources from repositories that support the International Image Interoperability
+                Framework (IIIF) API's. <title>Mirador</title> provides several workspaces for
+                comparing image-based resources, suitable for use in both cultural heritage and
+                research settings.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Mirador</title>
+            <principal>
+              <persName>
+                <forename>María A.</forename>
+                <surname>Matienzo</surname>
+              </persName>
+              <persName>
+                <forename>Jessie</forename>
+                <surname>Keck</surname>
+              </persName>
+              <persName>
+                <forename>Marlo</forename>
+                <surname>Longley</surname>
+              </persName>
+              <persName>
+                <forename>Nick</forename>
+                <surname>Budak</surname>
+              </persName>
+              <persName>
+                <forename>Camille</forename>
+                <surname>Villa</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>MiradorProject</publisher>
+            <pubPlace>s.l.</pubPlace>
+            <date from="2015">2015-</date>
+            <idno type="url">https://projectmirador.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Mirador</title> is a configurable, extensible, and easy-to-integrate image
+                viewer, which enables image annotation and comparison of images from repositories
+                dispersed around the world. <title>Mirador</title> has been optimized to display
+                resources from repositories that support the International Image Interoperability
+                Framework (IIIF) API's. <title>Mirador</title> provides several workspaces for
+                comparing image-based resources, suitable for use in both cultural heritage and
+                research settings.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Digitales Storytelling in der Kunstgeschichte</title>
+            <principal>
+              <persName>
+                <forename>Samuel</forename>
+                <surname>Fickinger</surname>
+              </persName>
+              <persName>
+                <forename>Leslie</forename>
+                <surname>Zimmermann</surname>
+              </persName>
+              <persName>
+                <forename>Jochen</forename>
+                <surname>Sander</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Digitally supported teaching and learning in Hesse (digLL)</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Université Goethe</publisher>
+            <pubPlace>Francfort</pubPlace>
+            <date from="2020">2020-</date>
+            <idno type="url">https://leszimmermann.github.io/digitales-storytelling/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>After an introduction, a story and a storyboard are developed in the workshop,
+                which are then converted into a digital story. The individual steps are supplemented
+                with clear examples and provide useful references for each topic. The aim of the
+                workshop is to create a digital story.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Wikidata Image Positions</title>
+            <principal>
+              <persName>
+                <forename>Lucas</forename>
+                <surname>Werkmeister</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Wikidata</publisher>
+            <pubPlace>s.l.</pubPlace>
+            <date when="2018">2018-</date>
+            <idno type="url">https://wd-image-positions.toolforge.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>This tool shows relative position within image qualifiers of depicts or named place
+                on map statements as areas on the relevant image. For statements on Wikidata items,
+                they are shown on the item’s image (or other property). For statements on Structured
+                Data on Commons files, they are shown on the file itself.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Schweizer Kleinmeister: An Unexpected Journey</title>
+            <principal>
+              <persName>
+                <forename>Sonja</forename>
+                <surname>Gasser</surname>
+              </persName>
+              <persName>
+                <forename>Nikola</forename>
+                <surname>Marincic</surname>
+              </persName>
+              <persName>
+                <forename>Jorge</forename>
+                <surname>Orozco</surname>
+              </persName>
+              <persName>
+                <forename>Mathias</forename>
+                <surname>Bernard</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Mathias Bernhard</publisher>
+            <pubPlace>Berne</pubPlace>
+            <date when="2015">2015</date>
+            <idno type="url"
+              >http://www.mathiasbernhard.ch/schweizer-kleinmeister-an-unexpected-journey/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The project shows a large image collection in an interactive 3D-visualisation.
+                About 2300 prints and drawings from “Schweizer Kleinmeister” from the Gugelmann
+                Collection of the <orgName>Swiss National Library</orgName> form a cloud in the
+                virtual space.</p>
+              <p>The images are grouped according to specific parameters that are automatically
+                calculated by image analysis and based on metadata. The goal is to provide a fast
+                and intuitive access to the entire collection, all at once. And this not
+                accomplished by means of a simple list or slideshow, where items can only linearly
+                be sorted along one axis like time or alphabet. Instead, many more dimensions are
+                taken into account. These dimensions (22 for techniques, 300 for image features or
+                even 2300 for descriptive text analysis) are then projected onto 3D space, while
+                preserving topological neighborhoods in the original space.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Sur la piste des oeuvres antiques</title>
+            <principal>
+              <persName>
+                <forename>Cécile</forename>
+                <surname>Colonna</surname>
+              </persName>
+              <persName>
+                <forename>Antoine</forename>
+                <surname>Courtin</surname>
+              </persName>
+              <persName>
+                <forename>Isabelle</forename>
+                <surname>Decise</surname>
+              </persName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Musée du Louvre</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Institut National d'Histoire de l'Art (INHA)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2017" to="2018">2017-2018</date>
+            <idno type="url">https://ventesdantiques.inha.fr/index.php#fr</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Depuis 2011, l’<orgName>Institut National d’Histoire de l’Art</orgName> et le
+                  <orgName>musée du Louvre</orgName> travaillent à un programme de recherche
+                intitulé <title>Répertoire des ventes d'antiques</title> en
+                  <placeName>France</placeName> au <date>XIX<hi rend="superscript">e</hi>
+                  siècle</date>. Grâce à un repérage et un dépouillement critique des catalogues de
+                vente ainsi que de diverses sources d’archives (dont les archives des
+                commissaires-priseurs), les informations sur les œuvres, les vendeurs, les acheteurs
+                sont collectées et croisées. Cela permet d’analyser la biographie (origine,
+                parcours, évolution des prix) et la réception des objets antiques (vases, statues,
+                statuettes, peintures murales, gemmes, bijoux...), la formation des collections
+                françaises et étrangères, l'activité des grands et petits collectionneurs, des
+                institutions, des marchands et intermédiaires. Cela révèle le contexte de création
+                des oeuvres et met aussi en évidence le rayonnement du marché français, en grande
+                partie parisien, à l’échelle européenne, permettant ainsi de reconstituer une
+                véritable histoire culturelle et sociale du <date>XIX<hi rend="superscript">e</hi>
+                  siècle</date>.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Géo RETIF</title>
+            <principal>
+              <persName>
+                <forename>Michel</forename>
+                <surname>Laclotte</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Institut National d'Histoire de l'Art (INHA)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2001">2001-</date>
+            <idno type="url">https://georetif.inha.fr</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le <title>RETIF</title> est la suite naturelle d’un ensemble d’entreprises pour
+                l’étude du patrimoine italien dans les collections françaises, depuis les travaux de
+                  <persName>Bernard Berenson</persName> et de <persName>Roberto Longhi</persName>
+                jusqu’aux expositions qui ont fait date telles <title>De Giotto à Bellini et Venise
+                  au XVIII<hi rend="superscript">e</hi></title> (<orgName>Orangerie</orgName>,
+                  <date>1956</date> et <date>1971</date>), <title>Le XVI<hi rend="superscript"
+                    >e</hi> siècle européen</title> (<orgName>Petit Palais</orgName>,
+                  <date>1965</date>), <title>Seicento. Le siècle de Caravage</title> (<orgName>Grand
+                  Palais</orgName>, <date>1988</date>), <title>Escales du Baroque</title>
+                  (<placeName>Marseille</placeName>, <date>1988</date>), <title>Settecento, le
+                  siècle de Tiepolo</title> (<placeName>Lille</placeName> et
+                  <placeName>Lyon</placeName>, <date>2000</date>). L’une des sources essentielles du
+                  <title>RETIF</title> fut le répertoire publié à la suite de l’exposition
+                  <title>Seicento</title>, par <persName>Arnauld Brejon de Lavergnée</persName> et
+                  <persName>Nathalie Volle</persName>, qui précisait les attributions récentes et
+                les provenances des œuvres, deux champs qui composent la base en ligne du
+                  <title>RETIF</title> et sur lesquelles portent encore les recherches. Un peu plus
+                d’une quinzaine d’années après son lancement, riche d’environ 14.000 notices, le
+                  <title>RETIF</title> poursuit ses mises à jour et ses enquêtes, en se nourrissant
+                des publications et des échanges avec les musées et les spécialistes. Un comité se
+                réunit régulièrement à l’<orgName>INHA</orgName> pour passer en revue les tableaux
+                en quête d’attribution. En cas de doutes ou d'incertitudes les attributions
+                successives sont signalées, témoignant de la « fortune critique » des artistes au
+                cours du temps. Pour un grand nombre d’œuvres inédites, des noms d'artistes et des
+                foyers de création sont proposés après consultation des spécialistes français et
+                étrangers. Pour chaque œuvre, l'accent est porté sur quatre éléments : changements
+                d’attribution, provenance, bibliographie sommaire et reproduction de la meilleure
+                qualité possible. Les clichés ont été choisis dans les différents fonds publics qui
+                ont généreusement autorisé leur mise en ligne (musées, <orgName>Réunion des musées
+                  nationaux</orgName>, <orgName>services régionaux de l'Inventaire</orgName>,
+                  <orgName>conservations des Antiquités et Objets d'Art</orgName>, du
+                  <orgName>Centre de Recherche et de Restauration des musées de France
+                  (C2RMF)</orgName>, <orgName>conservations des Monuments Historiques</orgName>,
+                  <orgName>médiathèque de l'Architecture et du Patrimoine</orgName>).</p>
+              <p>L’ambition du <title>RETIF</title> est d’être exhaustif, actualisé, libre d’accès
+                et exploitable par tous afin de mettre en valeur le patrimoine et de faire découvrir
+                des tableaux oubliés ou inédits. Il a parfois donné naissance à des projets
+                d’envergure comme les expositions <title>Heures italiennes. Trésors de la peinture
+                  italienne en Picardie</title> (<date>XIV<hi rend="superscript">e</hi>-XVIII<hi
+                    rend="superscript">e</hi> siècles</date>) à <placeName>Amiens</placeName>,
+                  <placeName>Beauvais</placeName>, <placeName>Chantilly</placeName> et
+                  <placeName>Compiègne</placeName>, sous le commissariat de <persName>Nathalie
+                  Volle</persName> et <persName>Christophe Brouard</persName> en <date>2017</date>.
+                à l’occasion de cette exposition, la Cellule d’ingénierie documentaire de
+                  l’<orgName>INHA</orgName> avait créé une application cartographique des données du
+                  <title>RETIF</title> pour la région Hauts-de-France. Après plus de six ans de
+                saisie dans <title>AGORHA</title>, il avait semblé nécessaire d’expérimenter
+                d’autres formats d’exploitation numérique des données de la recherche, notamment à
+                des fins de médiation. Profitant de l’approche territoriale de l’exposition Heures
+                italiennes, la réalisation d’une carte interactive où l’usager pouvait visualiser la
+                répartition géographique des tableaux italiens s’était révélée être une approche
+                pertinente.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+
 
         <!-- https://gist.github.com/antoinecourtin/2a5c833d7f5c1baf093e8f29b640847d -->
         <!-- https://medium.com/@seeksanusername/ce-quil-ne-fallait-pas-rater-en-2019-autour-des-projets-en-humanit%C3%A9s-num%C3%A9riques-glam-4feb55f5ea22 -->
         <!-- https://www.fabriquenumeriquedupasse.fr/pages/projets_filtres_v2/ -->
+        <!-- http://dhawards.org/dhawards2019/results/ -->
 
         <!-- https://memexproject.eu/fr/ ?? -->
+        <!-- https://www.getty.edu/publications/ambers/ : Catalogue ?? -->
       </listBibl>
     </body>
   </text>
