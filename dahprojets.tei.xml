@@ -760,11 +760,11 @@
               </persName>
             </principal>
             <funder>
-              <orgName>Kress Foundation</orgName>
+              <orgName>Samuel H. Kress Foundation</orgName>
             </funder>
           </titleStmt>
           <publicationStmt>
-            <authority>Department of History of Art &amp; Architecture at Boston
+            <authority>Department of History of Art and Architecture at Boston
               University</authority>
             <publisher>Boston University</publisher>
             <pubPlace>Boston</pubPlace>
@@ -2425,10 +2425,10 @@
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
-              <orgName>Archives nationales</orgName>
-              <orgName>Bibliothèque nationale de France (BNF)</orgName>
-              <orgName>Laboratoire ETIS (Équipes Traitement de l’Information et Systèmes, UMR8051,
-                Cergy Paris Université / ENSEA Cergy / CNRS)</orgName>
+              <orgName>Archives nationales de France</orgName>
+              <orgName>Bibliothèque nationale de France (BnF)</orgName>
+              <orgName>Laboratoire Équipes Traitement de l’Information et Systèmes (ETIS) (UMR8051,
+                Cergy Paris Université - ENSEA Cergy - CNRS)</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
@@ -3390,7 +3390,7 @@
             </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>DHLAB</publisher>
+            <authority>Digital Humanities Laboratory (DHLAB)</authority>
             <publisher>École Polytechnique Fédérale de Lausanne</publisher>
             <pubPlace>Lausanne</pubPlace>
             <date from="2015" to="2019">2015-2019</date>
@@ -3456,7 +3456,7 @@
             <respStmt>
               <resp>Partenaires scientfiques</resp>
               <orgName>University of Oxford</orgName>
-              <orgName>CNRS</orgName>
+              <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
               <orgName>CKCC</orgName>
               <orgName>DensityDesign Research Lab (Politecnico di Milano)</orgName>
             </respStmt>
@@ -3531,8 +3531,8 @@
             </funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>Stanford’s Center for Spatial and Textual Analysis (Stanford
-              University)</publisher>
+            <authority>Stanford’s Center for Spatial and Textual Analysis</authority>
+            <publisher>Stanford University</publisher>
             <pubPlace>Stanford</pubPlace>
             <date from="2017" to="2022">2017-2022</date>
             <idno type="url">https://grandtour.stanford.edu</idno>
@@ -3627,8 +3627,7 @@
             <funder>
               <orgName>Social Sciences and Humanities Research Council of Canada</orgName>
               <orgName>Queen’s University Libraries</orgName>
-              <orgName>Department of Art History and Art Conservation at Queen’s
-                University</orgName>
+              <orgName>Department of Art History and Art Conservation (Queen’s University)</orgName>
             </funder>
           </titleStmt>
           <publicationStmt>
@@ -3761,7 +3760,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName>Kress foundation</orgName>
+              <orgName>Samuel H. Kress foundation</orgName>
               <orgName>Boston University</orgName>
             </funder>
           </titleStmt>
@@ -4074,7 +4073,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName>Agence nationale de recherche</orgName>
+              <orgName>Agence Nationale de Recherche (ANR)</orgName>
               <orgName>Partner University Fund de la Face Foundation (Washington DC)</orgName>
               <orgName>Université de Lille 3</orgName>
             </funder>
@@ -4085,7 +4084,7 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>Université de Lille</publisher>
+            <publisher>Université de Lille 3</publisher>
             <pubPlace>Lille</pubPlace>
             <date from="2008" to="2015">2008-2015</date>
             <idno type="url">https://pnd-artmarkets.huma-num.fr/</idno>
@@ -4384,7 +4383,9 @@
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
-              <orgName>Laboratoire IRAA (USR 3155)</orgName>
+              <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
+              <orgName>Institut de Recherche sur l'Architecture Antique (IRAA) (USR 3155,
+                Aix-Marseille Université)</orgName>
               <orgName>Université de Padoue</orgName>
               <orgName>Université de Trente</orgName>
               <orgName>Université de Rome III</orgName>
@@ -4395,7 +4396,9 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>Laboratoire AOROC (UMR 8546), CNRS-Université PSL (ENS-EPHE)</publisher>
+            <authority>Archéologie et philologie d’Orient et d’Occident (AOrOc) (UMR 8546, CNRS –
+              EPHE – ENS - PSL)</authority>
+            <publisher>Université Paris Sciences et Lettres (PSL)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2012" to="2022">2012-2022</date>
             <idno type="url">https://acor.huma-num.fr</idno>
@@ -4494,7 +4497,8 @@
             </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>The Provenance Lab, Leuphana Universität Lüneburg</publisher>
+            <authority>The Provenance Lab</authority>
+            <publisher>Leuphana Universität Lüneburg</publisher>
             <pubPlace>Lüneburg</pubPlace>
             <date when="2022">2022</date>
             <idno type="url">https://whatisapainting.com</idno>
@@ -4537,7 +4541,8 @@
             </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>The Provenance Lab, Leuphana Universität Lüneburg</publisher>
+            <authority>The Provenance Lab</authority>
+            <publisher>Leuphana Universität Lüneburg</publisher>
             <pubPlace>Lüneburg</pubPlace>
             <date when="2022">2022</date>
             <idno type="url">https://whatisapainting.com</idno>
@@ -4569,7 +4574,7 @@
             </funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>Hypotheses</publisher>
+            <publisher>Hypothèses</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2022">2022</date>
             <idno type="url">https://archivalcity.hypotheses.org</idno>
@@ -4629,17 +4634,24 @@
             </principal>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
-              <orgName>MSH – Maison de l’archéologie et de l’ethnologie</orgName>
-              <orgName>Archéologies et Sciences de l’Antiquité (ArScan)</orgName>
-              <orgName>Laboratoire de Médiévistique occidentale de Paris (LaMOP)</orgName>
-              <orgName>Laboratoire de recherche historique Rhône-Alpes (LARHRA)</orgName>
-              <orgName>Laboratoire Analyse Comparée des Pouvoirs (ACP)</orgName>
-              <orgName>École des Hautes Études en Sciences Sociales (EHESS)</orgName>
+              <orgName>Maison de l’archéologie et de l’ethnologie (MSH)</orgName>
+              <orgName>Archéologies et Sciences de l’Antiquité (ArScan) (UMR 7041, CNRS - Université
+                Paris 1 - Université Paris Nanterre - Ministère de la Culture - Université Paris 8 -
+                INRAP)</orgName>
+              <orgName>Laboratoire de Médiévistique occidentale de Paris (LaMOP) (UMR 8589, CNRS -
+                Université Paris 1) </orgName>
+              <orgName>Laboratoire de recherche historique Rhône-Alpes (LARHRA) (UMR 5190, CNRS -
+                Université Lumière-Lyon 2 - Université Jean Moulin-Lyon 3 - Université
+                Grenoble-Alpes - ENS)</orgName>
+              <orgName>Laboratoire Analyse Comparée des Pouvoirs (ACP) (EA 3350, Université Gustave
+                Eiffel)</orgName>
+              <orgName>École des Hautes Études en Sciences Sociales (EHESS-PSL)</orgName>
               <orgName>Dynamiques patrimoniales et culturelles (DYPAC)</orgName>
-              <orgName>École Nationale des Chartes</orgName>
-              <orgName>Centre de recherches historiques : Histoire des Pouvoirs, Savoirs et
-                Sociétés, Paris VIII</orgName>
-              <orgName>Laboratoire Lattice</orgName>
+              <orgName>École Nationale des Chartes (ENC-PSL)</orgName>
+              <orgName>Centre de recherches historiques : Histoire des Pouvoirs, Savoirs et Sociétés
+                (HISPOSS) (EA 1571, Université Paris 8)</orgName>
+              <orgName>Laboratoire Laboratoire Lattice (Lattice) (UMR 8094, ENS - CNRS - Université
+                Paris 3)</orgName>
               <orgName>Atelier Parisien d’Urbanisme (APUR)</orgName>
               <orgName>Département d’Histoire de l’Architecture et de l’Archéologie de Paris
                 (DHAAP)</orgName>
@@ -4727,7 +4739,7 @@
                 University of Virginia</orgName>
               <orgName>Musée de la Civilisation Romaine, Rome</orgName>
               <orgName>Musée des Forums Impériaux, Rome</orgName>
-              <orgName>CNRS</orgName>
+              <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
@@ -4851,11 +4863,11 @@
 
               <orgName>Sapienza - Università di Roma, Dipartimento di Scienze dell'Antichità,
                 Sistemo Informativo Archeologica</orgName>
-              <orgName>Projet « Rome Reborn », Institute for Advanced Technology in the Humanities,
-                University of Virginia</orgName>
+              <orgName>Institute for Advanced Technology in the Humanities, University of
+                Virginia</orgName>
               <orgName>Musée de la Civilisation Romaine, Rome</orgName>
               <orgName>Musée des Forums Impériaux, Rome</orgName>
-              <orgName>CNRS</orgName>
+              <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
@@ -6608,7 +6620,7 @@
               <orgName>Biblissima</orgName>
               <orgName>Hautes Études Sorbonne Art et Métiers Université (HESAM)</orgName>
               <orgName>Bibliothèque nationale de France (BnF)</orgName>
-              <orgName>Institut acte (UMR 8218)</orgName>
+              <orgName>Institut Arts Créations Théories Esthétique (ACTE) (UMR 8218, Université Paris 1)</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
@@ -6827,8 +6839,8 @@
             <respStmt>
               <resp>Partenaires scientifiques</resp>
               <orgName>Decalog</orgName>
-              <orgName>Archives Nationales de France</orgName>
-              <orgName>Bibliothèque Nationale de France (BNF)</orgName>
+              <orgName>Archives nationales de France</orgName>
+              <orgName>Bibliothèque nationale de France (BnF)</orgName>
               <orgName>Musée de Bretagne</orgName>
             </respStmt>
           </titleStmt>
@@ -6953,7 +6965,7 @@
             </principal>
             <funder>
               <orgName>Time Machine Organisation</orgName>
-              <orgName>European Union</orgName>
+              <orgName>Union européenne</orgName>
               <orgName>Republic of Austria</orgName>
             </funder>
           </titleStmt>
@@ -6999,7 +7011,7 @@
             </principal>
             <funder>
               <orgName>Time Machine Organisation</orgName>
-              <orgName>European Union</orgName>
+              <orgName>Union européenne</orgName>
               <orgName>Republic of Austria</orgName>
             </funder>
           </titleStmt>
@@ -7045,7 +7057,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName>European Union</orgName>
+              <orgName>Union européenne</orgName>
             </funder>
           </titleStmt>
           <publicationStmt>
@@ -7165,7 +7177,7 @@
               <resp>Partenaires scientifiques</resp>
               <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
               <orgName>The University of Tokyo</orgName>
-              <orgName>École des Hautes Études en Sciences Sociales (EHESS)</orgName>
+              <orgName>École des Hautes Études en Sciences Sociales (EHESS-PSL)</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
@@ -7232,7 +7244,7 @@
             <respStmt>
               <resp>Partenaires scientifiques</resp>
               <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
-              <orgName>École des Hautes Études en Sciences Sociales (EHESS)</orgName>
+              <orgName>École des Hautes Études en Sciences Sociales (EHESS-PSL)</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
@@ -7284,8 +7296,8 @@
             <respStmt>
               <resp>Partenaires scientifiques</resp>
               <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
-              <orgName>École des Hautes Études en Sciences Sociales (EHESS)</orgName>
-              <orgName>Laboratoire TEMOS (Temps, Mondes, Sociétés - CNRS UMR 9016)</orgName>
+              <orgName>École des Hautes Études en Sciences Sociales (EHESS-PSL)</orgName>
+              <orgName>Laboratoire Temps, Mondes, Sociétés (TEMOS) (UMR 9016, CNRS)</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
@@ -7408,12 +7420,12 @@
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
-              <orgName>Archives nationales</orgName>
+              <orgName>Archives nationales de France</orgName>
               <orgName>Bibliothèque nationale de France (BnF)</orgName>
               <orgName>Centre d'Études Supérieures de la Renaissance (CESR) (UMR7323, CNRS -
                 Université de Tours - Ministère de la Culture)</orgName>
               <orgName>Histoire, Archéologie, Littérature des Mondes Chrétiens et Musulmans
-                Médiévaux (CIHAM) (UMR5648, CNRS - Université Lyon 2 - EHESS - ENS - Avigon
+                Médiévaux (CIHAM) (UMR5648, CNRS - Université Lyon 2 - EHESS-PSL - ENS-PSL - Avigon
                 Université - Université Lyon 3))</orgName>
               <orgName>Centre Jean Mabillon (CJM) (EA 3624, ENC - PSL)</orgName>
               <orgName>Centre de Recherches Archéologiques et Historiques Anciennes et Médiévales.
@@ -7477,28 +7489,28 @@
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
-              <orgName>Archives nationales</orgName>
-              <orgName>Archéologie et philologie d’Orient et d’Occident (AOrOc) (UMR8546, CNRS –
+              <orgName>Archives nationales de France</orgName>
+              <orgName>Archéologie et philologie d’Orient et d’Occident (AOrOc) (UMR 8546, CNRS –
                 EPHE – ENS - PSL)</orgName>
               <orgName>Bibliothèque nationale de France (BnF)</orgName>
-              <orgName>Centre d'Études Supérieures de Civilisation Médiévale (CESCM) (UMR7302,
+              <orgName>Centre d'Études Supérieures de Civilisation Médiévale (CESCM) (UMR 7302,
                 Université de Poitiers – CNRS)</orgName>
-              <orgName>Centre d'Études Supérieures de la Renaissance (CESR) (UMR7323, CNRS -
+              <orgName>Centre d'Études Supérieures de la Renaissance (CESR) (UMR 7323, CNRS -
                 Université de Tours - Ministère de la Culture)</orgName>
-              <orgName>Centre de Recherche sur la Conservation (CRC) (USR3224, Muséum national
+              <orgName>Centre de Recherche sur la Conservation (CRC) (USR 3224, Muséum national
                 d’histoire naturelle – CNRS – Ministère de la Culture)</orgName>
-              <orgName>Centre de Recherches Historiques (CRH) (UMR8558, CNRS - EHESS)</orgName>
+              <orgName>Centre de Recherches Historiques (CRH) (UMR 8558, CNRS - EHESS-PSL)</orgName>
               <orgName>Histoire, Archéologie, Littérature des Mondes Chrétiens et Musulmans
-                Médiévaux (CIHAM) (UMR5648, CNRS - Université Lyon 2 - EHESS - ENS - Avigon
+                Médiévaux (CIHAM) (UMR 5648, CNRS - Université Lyon 2 - EHESS-PSL - ENS-PSL - Avigon
                 Université - Université Lyon 3))</orgName>
-              <orgName>Histoire et Sources des Mondes Antiques (HiSoMA) (UMR5189, CNRS – ENS de Lyon
-                – Université Lyon 3 – Université Lyon 2 – Université Jean-Monnet
+              <orgName>Histoire et Sources des Mondes Antiques (HiSoMA) (UMR 5189, CNRS – ENS de
+                Lyon – Université Lyon 3 – Université Lyon 2 – Université Jean-Monnet
                 Saint-Étienne)</orgName>
-              <orgName>Centre Jean Mabillon (CJM) (EA 3624, ENC - PSL)</orgName>
+              <orgName>Centre Jean Mabillon (CJM) (EA 3624, ENC-PSL)</orgName>
               <orgName>Persée</orgName>
               <orgName>Teklia</orgName>
               <orgName>Centre de Recherches Archéologiques et Historiques Anciennes et Médiévales.
-                Centre Michel de Boüard (CRAHAM) (UMR6273, CNRS - Université de Caen
+                Centre Michel de Boüard (CRAHAM) (UMR 6273, CNRS - Université de Caen
                 Normandie)</orgName>
               <orgName>Savoirs et Pratiques du Moyen Âge à l'époque contemporaine (SARPAT) (EA4116,
                 EPHE - PSL)</orgName>
@@ -7598,7 +7610,7 @@
             </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>MiradorProject</publisher>
+            <publisher>ProjectMirador</publisher>
             <pubPlace>s.l.</pubPlace>
             <date from="2015">2015-</date>
             <idno type="url">https://projectmirador.org/</idno>
