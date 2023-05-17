@@ -1268,7 +1268,7 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>The <orgName>Getty Foundation</orgName>'s <title>Online Scholarly Catalogue
+              <p><orgName>The Getty Foundation</orgName>'s <title>Online Scholarly Catalogue
                   Initiative (OSCI)</title> launched in <date>2009</date> with the goals of
                 rethinking the museum scholarly collection catalogue for the digital age and helping
                 museums work together to transition to online publishing. The publishing of
@@ -5088,7 +5088,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName>Getty Foundation</orgName>
+              <orgName>The Getty Foundation</orgName>
               <orgName>Rice University</orgName>
             </funder>
             <respStmt>
@@ -6620,7 +6620,8 @@
               <orgName>Biblissima</orgName>
               <orgName>Hautes Études Sorbonne Art et Métiers Université (HESAM)</orgName>
               <orgName>Bibliothèque nationale de France (BnF)</orgName>
-              <orgName>Institut Arts Créations Théories Esthétique (ACTE) (UMR 8218, Université Paris 1)</orgName>
+              <orgName>Institut Arts Créations Théories Esthétique (ACTE) (UMR 8218, Université
+                Paris 1)</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
@@ -7874,7 +7875,677 @@
             <term/>
           </keywords>
         </biblFull>
-
+        <biblFull n="126">
+          <titleStmt>
+            <title type="main">Recording the Grandeur of the Qing</title>
+            <title type="sub">The Southern Inspection Tour Scrolls of the Kangxi and Quianlong
+              Emperors</title>
+            <principal>
+              <persName>
+                <forename>Robert</forename>
+                <surname>Carlucci</surname>
+              </persName>
+              <persName>
+                <forename>Roberta</forename>
+                <surname>Martin</surname>
+              </persName>
+              <persName>
+                <forename>Maxwell K.</forename>
+                <surname>Hearn</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>The National Endowment for the Humanities</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>The Metropolitan Museum of Art</orgName>
+              <orgName>The Asia for Educators Program at Columbia University</orgName>
+              <orgName>The Visual Media Center at Columbia University</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Columbia Universtiy</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="2005" to="2009">2005-2009</date>
+            <idno type="url">http://afe.easia.columbia.edu/qing/index.html</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>These monumental scrolls, commissioned by the <persName>Kangxi</persName> and
+                  <persName>Quinlong</persName> Emperors of the Qing Dynasty to record their
+                multiple inspection tours, provide a unique and vivid glimpse into the grandeur of
+                late imperial <placeName>China</placeName> and are the focus of this web site.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="127">
+          <titleStmt>
+            <title type="main">Mapping the Art and Architecture of Renaissance Venice</title>
+            <principal>
+              <persName>
+                <forename>David</forename>
+                <surname>Rosand</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>The National Endowment for the Humanities</orgName>
+              <orgName>ArtStor</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Columbia Universtiy</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="2002" to="2007">2002-2007</date>
+            <idno type="url">http://projects.mcah.columbia.edu/venice/map_main.html</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>This digital learning environment offers students the opportunity to engage the art
+                and architecture of Renaissance <placeName>Venice</placeName>. Prof. <persName>David
+                  Rosand</persName> is developing a program devoted to building a web space where
+                students may explore one of the most complex cultural centers of the
+                  <date>fifteenth</date> and <date>sixteenth centuries</date> in
+                  <placeName>Italy</placeName>.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="128">
+          <titleStmt>
+            <title type="main">Monet's Rouen Cathedral</title>
+            <principal>
+              <orgName>Columbia Universtiy</orgName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Columbia Universtiy</publisher>
+            <pubPlace>New York</pubPlace>
+            <date>s.d.</date>
+            <idno type="url">http://projects.mcah.columbia.edu/monet/swf/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Scans of 26 of <persName>Monet</persName>'s Rouen Cathedral paintings, viewable in
+                color or monochrome. The site also has a sun wheel feature that organizes ten of the
+                paintings by approximate time of day they were made.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="129">
+          <titleStmt>
+            <title type="main">Parthenon Frieze</title>
+            <principal>
+              <orgName>Columbia Universtiy</orgName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Columbia Universtiy</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="2001" to="2002">2001-2002</date>
+            <idno type="url">http://projects.mcah.columbia.edu/parthenon/flash/main.htm</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Annotated floorplans and images of the Parthenon frieze, organized by facade.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="130">
+          <titleStmt>
+            <title type="main">Mapping Architecture in Medieval and Renaissance Naples</title>
+            <principal>
+              <orgName>Columbia Universtiy</orgName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Columbia Universtiy</publisher>
+            <pubPlace>New York</pubPlace>
+            <date>s.d.</date>
+            <idno type="url">http://projects.mcah.columbia.edu/naples/index.html</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>An unfinished website on the growth of <placeName>Naples</placeName> from the
+                Classical Era to the Renaissance, with historical maps and paintings and a brief
+                history of the city.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="131">
+          <titleStmt>
+            <title type="main">Paris, Notre-Dame Cathedral Animated Ground Plan</title>
+            <principal>
+              <orgName>Columbia Universtiy</orgName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Columbia Universtiy</publisher>
+            <pubPlace>New York</pubPlace>
+            <date>s.d.</date>
+            <idno type="url">http://projects.mcah.columbia.edu/ndparis_imap/imap.html#</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Flash animations of floorplan and elevation.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="132">
+          <titleStmt>
+            <title type="main">Durham Cathedral Interactive Ground Plan</title>
+            <principal>
+              <orgName>Columbia Universtiy</orgName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Columbia Universtiy</publisher>
+            <pubPlace>New York</pubPlace>
+            <date>s.d.</date>
+            <idno type="url"
+              >https://learn.columbia.edu/custom/warning.html?f&amp;durham_imap/imap.html</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Black-and-white photographs of <placeName>Durham</placeName> Cathedral plotted in a
+                building floorplan.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="133">
+          <titleStmt>
+            <title type="main">Shahnama (Book of Kings) of Safavid Shah Tahmasp (The Feast of
+              Sadah)</title>
+            <principal>
+              <orgName>Columbia Universtiy</orgName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Columbia Universtiy</publisher>
+            <pubPlace>New York</pubPlace>
+            <date>s.d.</date>
+            <idno type="url">http://projects.mcah.columbia.edu/nehasian/shahnamah/index.html</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>This site features a high-resolution, zoomable image of the <title>"Feast of
+                  Sadah"</title> page of this <date>16<hi rend="superscript">th</hi> century</date>
+                Iranian illuminated manuscript, along with descriptions of the iconography, history,
+                and historical figures found therein.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="134">
+          <titleStmt>
+            <title type="main">The Great Mosque of Mopti</title>
+            <principal>
+              <persName>
+                <forename>James</forename>
+                <surname>Conlon</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Columbia Universtiy</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="2008" to="2009">2008-2009</date>
+            <idno type="url">http://projects.mcah.columbia.edu/mopti/qtvr.html</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Created by late Media Center Director <persName>James Conlon</persName> following
+                the Terra <date>2008</date> conference in <placeName>Bamako</placeName>,
+                  <placeName>Mali</placeName>, this site features panoramas and images of this
+                classic African Islamic mud monument dating from <date>1935</date>. There is also a
+                brief history and bibliography of the region and building.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="135">
+          <titleStmt>
+            <title type="main">Les Netsuke</title>
+            <title type="sub">Au bout des doigts</title>
+            <principal>
+              <orgName>Musée des Beaux-Arts de Montréal</orgName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Musée des Beaux-Arts de Montréal</publisher>
+            <pubPlace>Montréal</pubPlace>
+            <date when="2022">2022</date>
+            <idno type="url">https://echo.mbam.qc.ca</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Avec cette initiative numérique, les objets de petite dimension, tels que les
+                netsuke, sortent de leur vitrine pour revendiquer leur juste place au Musée. Leur
+                nouvelle visibilité permet au public d’en apprendre plus, de façon ludique et
+                amusante, sur leur contexte social et leur parcours, du <placeName>Japon</placeName>
+                d’Edo (<date>1615-1868</date>) au <placeName>Montréal</placeName> d’aujourd’hui.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="136">
+          <titleStmt>
+            <title type="main">Perpetuity | Palmyra</title>
+            <principal>
+              <persName>
+                <forename>Brian</forename>
+                <surname>Pope</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Arc/k Project</publisher>
+            <pubPlace>Los Angeles</pubPlace>
+            <date when="2016">2016</date>
+            <idno type="url">https://the-arckives.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>It is our great hope that all the high-minded citizens of the world, our
+                beleaguered brothers and sisters in <placeName>Syria</placeName>, and all the
+                researchers, photographers, archaeologists, anthropologists and other academicians
+                of the world will use this safe place, this ark, as an oasis of art and science and
+                free thought…. The purpose of this effort, and the ones to come, is to keep alive a
+                glorious icon of culture and history, to defy the forces of nihilistic violence and
+                fragmentation which would have us believe that a brother is actually an enemy, and
+                to provide hope and inspiration for all people as they see that every individual can
+                take an active and important role in the preservation and perpetuation of their own
+                cultural heritage. The virtual can never take the place of the real, but the virtual
+                can inform the real, just as the real informs the virtual. Using technologies such
+                as photogrammetry, 3D printing and 3D milling, we are now able to complete the
+                informational to experiential/experiential to informational loop, and enable the
+                “re-encoding” of physical reality as well as virtual. The <orgName>Arc/k
+                  Project</orgName> is proud to be at the forefront of the efforts which will define
+                the next age of man, when the achievements of humanity will no longer be subject to
+                the slings and arrows of outrageous fortune, nor even the bombs and missiles of the
+                criminally insane nor the technologically over-empowered.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="137">
+          <titleStmt>
+            <title type="main">Closer to Van Eyck</title>
+            <title type="sub">Rediscovering the Ghent Altarpiece</title>
+            <principal>
+              <persName>
+                <forename>Bart</forename>
+                <surname>Fransen</surname>
+              </persName>
+              <persName>
+                <forename>Susan</forename>
+                <surname>Jones</surname>
+              </persName>
+              <persName>
+                <forename>Christina</forename>
+                <surname>Currie</surname>
+              </persName>
+              <persName>
+                <forename>Ron</forename>
+                <surname>Spronk</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>The Getty Foundation</orgName>
+              <orgName>Gieskes-Strijbis Fonds</orgName>
+              <orgName>Flemish Government</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Kathedrale Kerkfabriek Sint Baafs (KKSB)</orgName>
+              <orgName>Art in Flanders</orgName>
+              <orgName>Royal Institute for Cultural Heritage (KIK/IRPA)</orgName>
+              <orgName>Universum Digitalis (UD)</orgName>
+              <orgName>Visscher and Van Rijckevorsel filmproducties</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Vrije Universiteit</publisher>
+            <pubPlace>Bruxelles</pubPlace>
+            <date from="2010" to="2020">2010-2020</date>
+            <idno type="url">http://closertovaneyck.kikirpa.be/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Closer to Van Eyck</title> was an interdisciplinary research project to
+                assess the structural condition of the Ghent Altarpiece. The site contains
+                high-resolution images and digital macrophotography of the piece. The site allows
+                users to zoom into individual sections of the altarpiece and take a virtual peek
+                under the paint surface by means of infrared reflectography (IRR) and x-radiography,
+                examining the altarpiece in ways never before possible.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="138">
+          <titleStmt>
+            <title type="main">Whistler's Peacock Room</title>
+            <principal>
+              <persName>
+                <forename>Kerry</forename>
+                <surname>Roeder</surname>
+              </persName>
+              <persName>
+                <forename>Amelia</forename>
+                <surname>Meyer</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>The Smithsonian Web 2.0 Fund</orgName>
+              <orgName>The Mr. and Mrs. Raymond J. Horowitz Foundation for the Arts</orgName>
+              <orgName>The Henry Luce Foundation</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>The Freer Gallery of Art and Arthur M. Sackler Gallery</orgName>
+              <orgName>The Smithsonian’s National Museum of Asian Art</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Wayne State University</publisher>
+            <pubPlace>Detroit</pubPlace>
+            <date from="2010" to="2020">2010-2020</date>
+            <idno type="url">http://www.peacockroom.wayne.edu/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The site functions both as a digital archive and as an immersive virtual
+                environment in which users can explore the Peacock Room, learn about the objects it
+                has contained, and see how the places and faces associated with the room contributed
+                to its history. Anchored by the two virtual tours, the site offers users a deeply
+                contextualized way to navigate the collections: some 400 digital objects, among them
+                the room itself, the objects it has contained, as well as archival materials such as
+                photographs, bills of sale, and correspondence.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="139">
+          <titleStmt>
+            <title type="main">Mapping the Frick Photograph Campaigns, 1922–1967</title>
+            <principal>
+              <persName>
+                <forename>Eileen</forename>
+                <surname>Ogle</surname>
+              </persName>
+              <persName>
+                <forename>Liliana</forename>
+                <surname>Morales</surname>
+              </persName>
+              <persName>
+                <forename>Ava</forename>
+                <surname>Katz</surname>
+              </persName>
+              <persName>
+                <forename>Paul</forename>
+                <surname>Bendernagel</surname>
+              </persName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>The Center for Advanced Research of Spatial Information</orgName>
+              <orgName>The City University of New York</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>The Frick Collection</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="2014">2014</date>
+            <idno type="url">https://www.frick.org/map_photograph_campaigns</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><orgName>The Digital Art History Lab</orgName> and <orgName>the Center for Advanced
+                  Research of Spatial Information</orgName> at Hunter College, CUNY, are
+                collaborating on an online, interactive tool that uses Geographic Information
+                Systems (GIS) technologies to document the movement of Frick Art Reference Library
+                photographers across the United States as they recorded paintings and sculptures in
+                private collections and little-known public collections. Several such expeditions
+                were completed between 1922 and 1967. The resulting 35,000 negatives from these
+                photograph campaigns, all of which have been digitized, are one of the most valuable
+                resources in the Photoarchive, documenting many objects that either remain
+                inaccessible to the general public or have been lost, destroyed, or altered in the
+                intervening decades. </p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="140">
+          <titleStmt>
+            <title type="main">Map Search</title>
+            <title type="sub">Archives Directory for the History of Collecting</title>
+            <principal>
+              <persName>
+                <forename>Eric</forename>
+                <surname>Brelsford</surname>
+              </persName>
+              <persName>
+                <forename>Samantha</forename>
+                <surname>Deutch</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>The Gladys Krieble Delmas Foundation</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>The Frick Collection</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="2010">2010</date>
+            <idno type="url">https://research.frick.org/directory/mapsearch</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>The Map Search</title> feature allows users of the Archives Directory for
+                the History of Collecting to search over time and space using filters and keywords.
+                The Directory is a resource created to help researchers locate primary source
+                material about American art collectors, dealers, agents and advisors, and the
+                repositories that hold these records.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="141">
+          <titleStmt>
+            <title type="main">The Life of the Buddha</title>
+            <principal>
+              <persName>
+                <forename>Andrew</forename>
+                <surname>Quintman</surname>
+              </persName>
+              <persName>
+                <forename>Kurtis R.</forename>
+                <surname>Schaeffer</surname>
+              </persName>
+              <persName>
+                <forename>Ariana</forename>
+                <surname>Maki</surname>
+              </persName>
+            </principal>
+            <sponsor>
+              <orgName>American Council of Learned Societies (ACLS)</orgName>
+              <orgName>Wesleyan University</orgName>
+              <orgName>The Robert H. N. Ho Family Foundation</orgName>
+            </sponsor>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>University of Virginia</publisher>
+            <pubPlace>Charlottesville</pubPlace>
+            <date from="2016">2016</date>
+            <idno type="url">http://lotb.iath.virginia.edu/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Explore the Life of the <persName>Buddha</persName> in image and text from the
+                  <date>seventeenth-century</date> Tibetan monastery Takten Puntsokling. Produced by
+                the famed scholar of the Jonang School Tāranātha, these murals are closely related
+                to narrative, poetic, and artistic literature evoking the story of the
+                  <persName>Buddha</persName>. The LOTB project offers unprecedented digital access
+                to one of Tibet's greatest retellings of the <persName>Buddha</persName>'s life.
+              </p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="142">
+          <titleStmt>
+            <title type="main">Paris Past &amp; Present</title>
+            <principal>
+              <persName>
+                <forename>Meredith</forename>
+                <surname>Cohen</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>The Samuel H. Kress Foundation</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>University of California (UCLA)</publisher>
+            <pubPlace>Berkeley</pubPlace>
+            <date from="2014">2014</date>
+            <idno type="url">http://paris.cdh.ucla.edu/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Paris Past and Present</title> is a digital project that aims to create
+                interactive 3D-digital models of great ‘lost’ monuments, architectural complexes,
+                and diverse quartiers of medieval <placeName>Paris</placeName>. Through such
+                reconstructions, we hope to make aspects of medieval architecture and urban life
+                more accessible for the classroom and also to facilitate historical research
+                requiring accurate virtual environments.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="143">
+          <titleStmt>
+            <title type="main">Mapping Video Art</title>
+            <principal>
+              <persName>
+                <forename>Eve</forename>
+                <surname>Survilo</surname>
+              </persName>
+              <persName>
+                <forename>Shilpan</forename>
+                <surname>Bhagat</surname>
+              </persName>
+              <persName>
+                <forename>Jason</forename>
+                <surname>Varone</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>The Andrew W. Mellon Foundation</orgName>
+              <orgName>Ernst von Siemens Art Foundation</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>New York University</publisher>
+            <pubPlace>New York</pubPlace>
+            <date from="2016">2016</date>
+            <idno type="url">https://ifa.nyu.edu/research/projects/mappingvideoart/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>'Mapping Video Art'</title> is an experiment in data visualization created
+                at the <orgName>Institute of Fine Arts</orgName>. The project allows the user to see
+                the movement of video art as it crossed continents and decades. Information about
+                specific exhibitions is visible in mouse-over of each circle. The lines of movement
+                are color-coded for each artist, and move in the direction of the art--if an artist
+                showed work in <placeName>New York</placeName> and then in
+                  <placeName>Paris</placeName>, the lines will move from one city to the next in the
+                proper direction. The chronology slider at the bottom ties this movement into a
+                specific timeframe. The map is zoomable, which allows more information about
+                important exhibition sites (such as <placeName>New York City</placeName>) to be
+                visible. This project is currently in its second phase of development, and
+                additional artists' exhibition records are being prepared for inclusion in the
+                visualization.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="144">
+          <titleStmt>
+            <title type="main">What Jane Saw</title>
+            <principal>
+              <persName>
+                <forename>Janine</forename>
+                <surname>Barchas</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>The University of Texas at Austin</publisher>
+            <pubPlace>Austin</pubPlace>
+            <date from="2013">2013</date>
+            <idno type="url">http://www.whatjanesaw.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>A website where the user is invited to explore two art exhibitions witnessed by
+                  <persName>Jane Austen</persName>: <title>the Sir Joshua Reynolds
+                  retrospective</title> in <date>1813</date> or <placeName>the Shakespeare
+                  Gallery</placeName> as it looked in <date>1796</date>. These two Georgian
+                blockbusters took place, years apart, in the same <placeName>London</placeName>
+                exhibition space at 52 Pall Mall (it no longer exists). When
+                  <persName>Austen</persName> visited in <date>1813</date>, the building housed the
+                British Institution, an organization promoting native artists. On her earlier
+                  <placeName>London</placeName> visit in <date>1796</date>, it was the first-ever
+                museum dedicated to <persName>William Shakespeare</persName>.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
 
         <!-- https://gist.github.com/antoinecourtin/2a5c833d7f5c1baf093e8f29b640847d -->
         <!-- https://medium.com/@seeksanusername/ce-quil-ne-fallait-pas-rater-en-2019-autour-des-projets-en-humanit%C3%A9s-num%C3%A9riques-glam-4feb55f5ea22 -->
