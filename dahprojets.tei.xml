@@ -583,7 +583,7 @@
       </listBibl>
       <listBibl>
         <head>Projets en histoire de l'art numérique</head>
-        <biblFull>
+        <biblFull n="1">
           <titleStmt>
             <title type="main">Amiens Cathedral Project</title>
             <principal>
@@ -673,7 +673,7 @@
           </keywords>
 
         </biblFull>
-        <biblFull>
+        <biblFull n="2">
           <titleStmt>
             <title type="main">Hachiman Digital Handscrolls</title>
             <principal>
@@ -713,7 +713,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="3">
           <titleStmt>
             <title type="main">Venus iconography</title>
             <principal>
@@ -744,7 +744,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="4">
           <titleStmt>
             <title type="main">Mapping Titian</title>
             <title type="sub">See the history of art by mapping Titian’s paintings across time and
@@ -784,7 +784,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="5">
           <titleStmt>
             <title type="main">The Digital Michelangelo Project</title>
             <principal>
@@ -836,7 +836,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="6">
           <titleStmt>
             <title type="main">Wired !</title>
             <title type="sub">Digital art history &amp; visual culture</title>
@@ -867,7 +867,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="7">
           <titleStmt>
             <title type="main">Forma Urbis Romae</title>
             <title type="sub">Pianta monumentale di Roma per il grande giubileo del 2000</title>
@@ -918,7 +918,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="8">
           <titleStmt>
             <title type="main">Visualizing Venice</title>
             <title type="sub">Exploring the city’s past</title>
@@ -1015,7 +1015,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="9">
           <titleStmt>
             <title type="main">ArtStor</title>
             <funder>
@@ -1114,7 +1114,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="10">
           <titleStmt>
             <title type="main">Rome reborn</title>
             <principal>
@@ -1209,7 +1209,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="11">
           <titleStmt>
             <title type="main">Flyover Zone</title>
             <principal>
@@ -1252,7 +1252,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="12">
           <titleStmt>
             <title type="main">Online Scholarly Catalogue Initiative</title>
             <funder>
@@ -1304,7 +1304,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="13">
           <titleStmt>
             <title type="main">Raphael Research Resource</title>
             <principal>
@@ -1340,7 +1340,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="14">
           <titleStmt>
             <title type="main">SmartHistory</title>
             <principal>
@@ -1380,7 +1380,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="15">
           <titleStmt>
             <title type="main">Song and Yuan Dynasty Painting and Calligraphy</title>
             <principal>
@@ -1429,7 +1429,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="16">
           <titleStmt>
             <title type="main">Goryeo Buddhist Painting: A Closer Look</title>
             <principal>
@@ -1481,7 +1481,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="17">
           <titleStmt>
             <title type="main">Whistler in Watercolor</title>
             <principal>
@@ -1541,7 +1541,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="18">
           <titleStmt>
             <title type="main">Mapping Gothic France</title>
             <principal>
@@ -1607,7 +1607,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="19">
           <titleStmt>
             <title type="main">FACES: Faces, Art, and Computerized Evaluation Systems, Phase
               II</title>
@@ -1648,7 +1648,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="20">
           <titleStmt>
             <title type="main">The Digital Sculpture Project</title>
             <principal>
@@ -1689,7 +1689,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="21">
           <titleStmt>
             <title type="main">Digging into Image Data to Answer Authorship-Related Questions
               (DID-ARQ)</title>
@@ -1760,7 +1760,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="22">
           <titleStmt>
             <title type="main">Ceramics in Mainland Southeast Asia</title>
             <title type="sub">Collections in the Freer Gallery of Art and Arthur M. Sackler
@@ -1835,7 +1835,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="23">
           <titleStmt>
             <title type="main">Cranach Digital Archive</title>
             <title type="sub">The research source</title>
@@ -1893,7 +1893,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="24">
           <titleStmt>
             <title type="main">Chapelle numérique</title>
             <funder>
@@ -1922,7 +1922,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="25">
           <titleStmt>
             <title type="main">Hidden Florence</title>
             <principal>
@@ -1963,7 +1963,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="26">
           <titleStmt>
             <title type="main">Histoire du bâti Parisien</title>
             <title type="sub">Petite cartographie des périodes de construction du bâti parisien et
@@ -1997,7 +1997,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="27">
           <titleStmt>
             <title type="main">The Paintings Watercolors and Drawings of Paul Cézanne</title>
             <title type="sub">An online catalogue raisonné under the direction of Walter
@@ -2047,7 +2047,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="28">
           <titleStmt>
             <title type="main">QRator: a digital dialogue on museum collections</title>
             <funder>
@@ -2097,7 +2097,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="29">
           <titleStmt>
             <title type="main">Past Visions</title>
             <title type="sub">penned by Frederick William IV</title>
@@ -2163,7 +2163,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="30">
           <titleStmt>
             <title type="main">London Gallery Project</title>
             <principal>
@@ -2202,7 +2202,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="31">
           <titleStmt>
             <title type="main">Vistas</title>
             <title type="sub">Visual Culture in Spanish America, 1520-1820</title>
@@ -2249,7 +2249,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="32">
           <titleStmt>
             <title type="main">The Corpus of Medieval Narrative Art</title>
             <principal>
@@ -2281,7 +2281,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="33">
           <titleStmt>
             <title type="main">Pompei, La fortuna visiva</title>
             <title type="sub">Achivio di immagini e testi dal XVIII al XIX secolo</title>
@@ -2408,7 +2408,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="34">
           <titleStmt>
             <title type="main">Verspera</title>
             <title type="sub">Numérisation et modélisation des plans de Versailles sous l’Ancien
@@ -2513,7 +2513,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="35">
           <titleStmt>
             <title type="main">Zeitreise</title>
             <title type="sub">Das Städel Museum im 19. jahrundert</title>
@@ -2554,7 +2554,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="36">
           <titleStmt>
             <title type="main">Emblematica</title>
             <title type="sub">Online</title>
@@ -2714,7 +2714,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="37">
           <titleStmt>
             <title xml:lang="de">Kupferstichkabinett online</title>
             <title xml:lang="en">Virtual Printroom online</title>
@@ -2753,7 +2753,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="38">
           <titleStmt>
             <title type="main">Virtual St. Paul’s Cross Project</title>
             <title type="sub">A Digital Re-creation of John Donne's Gunpowder Day Sermon</title>
@@ -2796,7 +2796,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="39">
           <titleStmt>
             <title type="main">Ed Ruscha's Streets of Los Angeles</title>
             <funder>
@@ -2833,7 +2833,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="40">
           <titleStmt>
             <title type="main">Getty Scholars’ Workspace™</title>
             <funder>
@@ -2861,7 +2861,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="41">
           <titleStmt>
             <title type="main">Mutual Muses</title>
             <principal>
@@ -2905,7 +2905,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="42">
           <titleStmt>
             <title type="main">Digital Serlio Project</title>
             <principal>
@@ -2960,7 +2960,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="43">
           <titleStmt>
             <title type="main">Berlin/Los Angeles: Space for Music</title>
             <funder>
@@ -2999,7 +2999,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="44">
           <titleStmt>
             <title type="main">Mnemosyne</title>
             <title type="sub">Meanderings through Aby Warburg’s Atlas</title>
@@ -3044,7 +3044,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="45">
           <titleStmt>
             <title type="main">ARTigo</title>
             <title type="sub">Social Image Tagging</title>
@@ -3213,7 +3213,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="46">
           <titleStmt>
             <title type="main">Itinera</title>
             <principal>
@@ -3271,7 +3271,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="47">
           <titleStmt>
             <title type="main">E.A.T. DATASCAPE</title>
             <title type="sub">1962-TODAY An Exploration of the Experiments in Art and Technology
@@ -3363,7 +3363,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="48">
           <titleStmt>
             <title type="main">Replica</title>
             <principal>
@@ -3437,7 +3437,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="49">
           <titleStmt>
             <title type="main">Mapping the Republic of Letters</title>
             <title type="sub">British Architects on the Grand Tour</title>
@@ -3514,7 +3514,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="50">
           <titleStmt>
             <title type="main">The Grand Tour Project</title>
             <principal>
@@ -3560,7 +3560,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="51">
           <titleStmt>
             <title type="main">Francis Towne</title>
             <title type="sub">A Catalogue Raisonné of Francis Towne (1739-1816)</title>
@@ -3603,7 +3603,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="52">
           <titleStmt>
             <title type="main">Renaissance Polychrome Sculpture in Tuscany</title>
             <principal>
@@ -3655,7 +3655,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="53">
           <titleStmt>
             <title type="main">The Watercolour World</title>
             <title type="sub">The known world before photography</title>
@@ -3706,7 +3706,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="54">
           <titleStmt>
             <title type="main">The Digital Piranesi</title>
             <principal>
@@ -3750,7 +3750,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="55">
           <titleStmt>
             <title type="main">Mapping Paintings</title>
             <principal>
@@ -3800,7 +3800,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="56">
           <titleStmt>
             <title type="main">Images of Rome</title>
             <title type="sub">The Rodolfo Lanciani Digital Archive</title>
@@ -3875,7 +3875,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="57">
           <titleStmt>
             <title type="main">Artists in Paris</title>
             <title type="sub">Mapping the 18<hi rend="superscript">th</hi>-Century Art World</title>
@@ -3983,7 +3983,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="58">
           <titleStmt>
             <title type="main">Fashion History Timeline</title>
             <principal>
@@ -4019,7 +4019,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="59">
           <titleStmt>
             <title type="main">Style Revolution</title>
             <title type="sub">Journal des Dames et des Modes (1797-1804) Digitized!</title>
@@ -4063,7 +4063,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="60">
           <titleStmt>
             <title type="main">Mapping Art Markets in Europe, 1500-1800</title>
             <principal>
@@ -4118,7 +4118,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="61">
           <titleStmt>
             <title type="main">The Royal Academy Summer Exhibition</title>
             <title type="sub">A Chronicle, 1769-2018</title>
@@ -4185,7 +4185,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="62">
           <titleStmt>
             <title type="main">Picturing Places</title>
             <principal>
@@ -4235,7 +4235,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="63">
           <titleStmt>
             <title type="main">What Jane Saw</title>
             <principal>
@@ -4273,7 +4273,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="64">
           <titleStmt>
             <title type="main">ARIES - ARt Image Exploration Space</title>
             <title type="sub">An interactive image manipulation system that enables the exploration
@@ -4365,7 +4365,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="65">
           <titleStmt>
             <title type="main">Atlas des techniques de la Construction Romaine</title>
             <principal>
@@ -4423,7 +4423,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="66">
           <titleStmt>
             <title type="main">Open Art Data</title>
             <title type="sub">Linking Databases To Detect Looted Art</title>
@@ -4444,7 +4444,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="67">
           <titleStmt>
             <title type="main">BlakeTint</title>
             <title type="sub">Quantizing Color in William Blake’s Illuminated Books</title>
@@ -4486,7 +4486,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="68">
           <titleStmt>
             <title type="main">Modern Migrants: Paintings from Europe in US Museums</title>
             <principal>
@@ -4530,7 +4530,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="69">
           <titleStmt>
             <title type="main">What is a painting?</title>
             <principal>
@@ -4559,7 +4559,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="70">
           <titleStmt>
             <title type="main">Archival city</title>
             <title type="sub">Bridging Urban Past and Future</title>
@@ -4595,7 +4595,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="71">
           <titleStmt>
             <title type="main">Paris Time-machine</title>
             <principal>
@@ -4693,7 +4693,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="72">
           <titleStmt>
             <title type="main">Le plan de Rome</title>
             <title type="sub">Restituer la Rome antique</title>
@@ -4821,7 +4821,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="73">
           <titleStmt>
             <title type="main">Restitution virtuelle des machines de l'Antiquité</title>
             <principal>
@@ -4898,7 +4898,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="74">
           <titleStmt>
             <title type="main">Digital Augustan Rome</title>
             <principal>
@@ -4992,7 +4992,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="75">
           <titleStmt>
             <title type="main">Rennes et l’incendie de 1720</title>
             <principal>
@@ -5023,7 +5023,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="76">
           <titleStmt>
             <title type="main">Lyon en 1700</title>
             <principal>
@@ -5074,7 +5074,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="77">
           <titleStmt>
             <title type="main">Imagine Rio</title>
             <principal>
@@ -5190,7 +5190,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="78">
           <titleStmt>
             <title type="main">Base de données du programme CIRCE</title>
             <title type="sub">Constructions, Interprétations et Représentations Cultuelles de
@@ -5239,7 +5239,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="79">
           <titleStmt>
             <title type="main">ArchBook</title>
             <principal>
@@ -5331,7 +5331,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="80">
           <titleStmt>
             <title type="main">Dictionary of Art Historians</title>
             <principal>
@@ -5392,7 +5392,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="81">
           <titleStmt>
             <title type="main">Dictionnaire critique des historiens de l’art actifs en France de la
               Révolution à la Première Guerre mondiale</title>
@@ -5408,7 +5408,7 @@
             </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>Institut National d'Histoire de l'Art (INHA)</publisher>
+            <publisher>Insitut National d'Histoire de l'Art (INHA)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2000" to="2002">2000-2002</date>
             <idno type="url"
@@ -5479,7 +5479,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="82">
           <titleStmt>
             <title type="main">Project Cornelia</title>
             <principal>
@@ -5523,7 +5523,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="83">
           <titleStmt>
             <title type="main">Project Cornelia</title>
             <principal>
@@ -5567,7 +5567,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="84">
           <titleStmt>
             <title type="main">Digital Montagny</title>
             <principal>
@@ -5616,7 +5616,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="85">
           <titleStmt>
             <title type="main">J. Burckhardt</title>
             <title type="sub">OPenPal. Open Correspondence Publishing and Visualization
@@ -5660,7 +5660,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="86">
           <titleStmt>
             <title type="main">Artl@s</title>
             <principal>
@@ -5717,7 +5717,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="87">
           <titleStmt>
             <title type="main">GeoMap</title>
             <title type="sub">Géographie du marché de l'art parisien</title>
@@ -5768,7 +5768,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="88">
           <titleStmt>
             <title type="main">Dictionnaire biographique des pensionnaires de l’Académie de France à
               Rome</title>
@@ -5816,7 +5816,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="89">
           <titleStmt>
             <title type="main">Imago</title>
             <title type="sub">Visual Contagions</title>
@@ -5856,7 +5856,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="90">
           <titleStmt>
             <title type="main">Fictions de l'Artificel Postdigital</title>
             <principal>
@@ -5909,7 +5909,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="91">
           <titleStmt>
             <title type="main">Ukiyo-e Search</title>
             <title type="sub">Japanese Woodblock Print Search</title>
@@ -5939,7 +5939,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="92">
           <titleStmt>
             <title type="main">Inventing abstraction</title>
             <title type="sub">1910-1925</title>
@@ -5996,7 +5996,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="93">
           <titleStmt>
             <title type="main" xml:lang="en">Research Database Continent Allegories in the Baroque
               Age</title>
@@ -6045,7 +6045,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="94">
           <titleStmt>
             <title type="main">Gen Studio</title>
             <principal>
@@ -6085,7 +6085,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="95">
           <titleStmt>
             <title type="main">RHIZOME</title>
             <title type="sub">ArtBase</title>
@@ -6120,7 +6120,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="96">
           <titleStmt>
             <title type="main">LexArt</title>
             <title type="sub">Words for Art : The Rise of a Terminology (1600-1750)</title>
@@ -6182,7 +6182,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="97">
           <titleStmt>
             <title type="main">MEXICANA</title>
             <title type="sub">Repositorio del patrimonio cultural de México</title>
@@ -6221,7 +6221,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="98">
           <titleStmt>
             <title type="main">Art Track</title>
             <title type="sub">The CMOA Digital Provenance Standard</title>
@@ -6382,7 +6382,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="99">
           <titleStmt>
             <title type="main">The Experiments in Art and Technology (E.A.T.) Datascape</title>
             <principal>
@@ -6505,7 +6505,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="100">
           <titleStmt>
             <title type="main">Coins</title>
             <title type="sub">A journey through a rich cultural collection</title>
@@ -6590,7 +6590,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="101">
           <titleStmt>
             <title type="main">Collecta</title>
             <title type="sub">Archive Numérique Géolocalisée - La collection Gaignières -
@@ -6647,7 +6647,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="102">
           <titleStmt>
             <title type="main">Visualizing Visions</title>
             <title type="sub">Exploring the Rijksmuseum dataset</title>
@@ -6677,7 +6677,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="103">
           <titleStmt>
             <title type="main">Van Gogh</title>
             <principal>
@@ -6710,7 +6710,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="104">
           <titleStmt>
             <title type="main">Les sculptures de la villa romaine de Chiragan</title>
             <title type="sub">Musée Saint-Raymond</title>
@@ -6761,7 +6761,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="105">
           <titleStmt>
             <title type="main">Atlasmuseum</title>
             <principal>
@@ -6817,7 +6817,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="106">
           <titleStmt>
             <title type="main">Ocapi (Outil de Captcha et d'Annotation du Patrimoine en
               Image)</title>
@@ -6874,7 +6874,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="107">
           <titleStmt>
             <title type="main">Google Arts &amp; Culture</title>
             <title type="old">Google Art Project</title>
@@ -6907,7 +6907,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="108">
           <titleStmt>
             <title type="main">ArtLens AI</title>
             <title type="sub">Share Your View</title>
@@ -6950,7 +6950,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="109">
           <titleStmt>
             <title type="main">Diamond</title>
             <principal>
@@ -6992,7 +6992,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="110">
           <titleStmt>
             <title type="main">Time Machine</title>
             <principal>
@@ -7043,7 +7043,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="111">
           <titleStmt>
             <title type="main">Odeuropa</title>
             <principal>
@@ -7152,7 +7152,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="112">
           <titleStmt>
             <title type="main">DatArt_Asie</title>
             <principal>
@@ -7220,7 +7220,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="113">
           <titleStmt>
             <title type="main">DatArt_Bordeaux</title>
             <principal>
@@ -7268,7 +7268,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="114">
           <titleStmt>
             <title type="main">DatArt_Toulouse</title>
             <principal>
@@ -7335,7 +7335,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="115">
           <titleStmt>
             <title type="main">Archipédie</title>
             <principal>
@@ -7371,7 +7371,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="116">
           <titleStmt>
             <title type="main">Below the Surface</title>
             <principal>
@@ -7409,7 +7409,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="117">
           <titleStmt>
             <title type="main">Portail Biblissima</title>
             <principal>
@@ -7461,7 +7461,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="118">
           <titleStmt>
             <title type="main">Biblissima+</title>
             <title type="sub">Observatoire des cultures écrites anciennes, de l’argile à
@@ -7536,7 +7536,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="119">
           <titleStmt>
             <title type="main">Mirador</title>
             <principal>
@@ -7583,7 +7583,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="120">
           <titleStmt>
             <title type="main">Mirador</title>
             <principal>
@@ -7630,7 +7630,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="121">
           <titleStmt>
             <title type="main">Digitales Storytelling in der Kunstgeschichte</title>
             <principal>
@@ -7669,7 +7669,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="122">
           <titleStmt>
             <title type="main">Wikidata Image Positions</title>
             <principal>
@@ -7697,7 +7697,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="123">
           <titleStmt>
             <title type="main">Schweizer Kleinmeister: An Unexpected Journey</title>
             <principal>
@@ -7746,7 +7746,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="124">
           <titleStmt>
             <title type="main">Sur la piste des oeuvres antiques</title>
             <principal>
@@ -7798,7 +7798,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull>
+        <biblFull n="125">
           <titleStmt>
             <title type="main">Géo RETIF</title>
             <principal>
