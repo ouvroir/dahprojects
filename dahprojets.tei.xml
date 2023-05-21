@@ -8546,6 +8546,286 @@
             <term/>
           </keywords>
         </biblFull>
+        <biblFull n="145">
+          <titleStmt>
+            <title type="main">Saint George on a Bike</title>
+            <principal>
+              <persName>
+                <forename>Maria Cristina</forename>
+                <surname>Marinescu</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>European Union</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Europeana</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Barcelona Supercomputing Center (BSC)</publisher>
+            <pubPlace>Barcelone</pubPlace>
+            <date from="2020">2020</date>
+            <idno type="url">https://saintgeorgeonabike.eu/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Saint George on a Bike (SGoaB)</title> aims to improve the quality and
+                quantity of open metadata associated with European Cultural Heritage (CH) imagery.
+                To achieve that goal <title>SGoaB</title> addresses two challenges: (i) to
+                transcribe insights about culture, symbols and centuries of evolving iconographic
+                traditions in a knowledge representation accessible to machine learning and
+                artificial intelligence, (ii) to expand conventional machine learning approaches,
+                centered on image recognition, with the ability to decipher the complex pictorial
+                language that characterises iconographic symbols and sacred imagery.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="146">
+          <titleStmt>
+            <title type="main">What Jane Saw</title>
+            <principal>
+              <persName>
+                <forename>Janine</forename>
+                <surname>Barchas</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>The University of Texas at Austin</publisher>
+            <pubPlace>Austin</pubPlace>
+            <date from="2013">2013</date>
+            <idno type="url">http://www.whatjanesaw.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>A website where the user is invited to explore two art exhibitions witnessed by
+                  <persName>Jane Austen</persName>: <title>the Sir Joshua Reynolds
+                  retrospective</title> in <date>1813</date> or <placeName>the Shakespeare
+                  Gallery</placeName> as it looked in <date>1796</date>. These two Georgian
+                blockbusters took place, years apart, in the same <placeName>London</placeName>
+                exhibition space at 52 Pall Mall (it no longer exists). When
+                  <persName>Austen</persName> visited in <date>1813</date>, the building housed the
+                British Institution, an organization promoting native artists. On her earlier
+                  <placeName>London</placeName> visit in <date>1796</date>, it was the first-ever
+                museum dedicated to <persName>William Shakespeare</persName>.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="147">
+          <titleStmt>
+            <title type="main">Photogrammar</title>
+            <principal>
+              <persName>
+                <forename>Lauren</forename>
+                <surname>Tilton</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>National Endowment for the Arts</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Yale University</publisher>
+            <pubPlace>New Haven</pubPlace>
+            <date from="2010">2010</date>
+            <idno type="url">http://photogrammar.yale.edu/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Photogrammar</title> provides a web-based visualization platform for
+                exploring the 170,000 photographs taken by the <orgName>FSA</orgName> and
+                  <orgName>OWI</orgName> agencies of the <orgName>U.S. Federal Government</orgName>
+                between <date>1935</date> and <date>1943</date>. The project is maintained by the
+                  <orgName>Digital Scholarship Lab (DSL)</orgName> and <orgName> Distant Viewing Lab
+                  (DV Lab)</orgName> at the <orgName>University of Richmond</orgName>.
+                  <orgName>Lauren Tilton</orgName> is the director of the project. <persName>Taylor
+                  Arnold</persName> leads the data curation and analysis. <persName>Rob
+                  Nelson</persName> develops and maintains the web-based application.
+                  <persName>Nathaniel Ayers</persName> designed the site and <persName>Justin
+                  Madron</persName> provided GIS support. <persName>Laura Wexler</persName> managed
+                the grants. Publications, additional contributors, and major milestones of the
+                project are described in the sections below. The project has been supported by
+                grants from the <orgName>National Endowment for the Humanities</orgName> (NEH — any
+                views, findings, conclusions, or recommendations expressed in Photogrammar do not
+                necessarily represent those of the NEH), <orgName>American Council of Learned
+                  Societies (ACLS)</orgName>, and <orgName>Yale University</orgName> with ongoing
+                support from the University of Richmond. The <orgName>FSA-OWI</orgName> archive is
+                housed at the <orgName>Library of Congress</orgName>, which digitized and maintains
+                the collection including details about rights and restrictions.</p>
+            </note>
+            <note type="licence"><ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+                >Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+                License</ref></note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="148">
+          <titleStmt>
+            <title type="main">PixPlot</title>
+            <principal>
+              <persName>
+                <forename>Gavi Levy</forename>
+                <surname>Haskell</surname>
+              </persName>
+              <persName>
+                <forename>Kayla</forename>
+                <surname>Shipp</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Yale University</publisher>
+            <pubPlace>New Haven</pubPlace>
+            <date from="2016">2016</date>
+            <idno type="url">https://dhlab.yale.edu/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>PixPlot</title> facilitates the dynamic exploration of tens of thousands of
+                images. Inspired by <persName>Benoît Seguin</persName> et al.’s paper at <title>DH
+                  Krakow</title> (<date>2016</date>), <title>PixPlot</title> uses the penultimate
+                layer of a pre-trained convolutional neural network for image captioning to derive a
+                robost featurization space in 2,048 dimensions. Initial projects at
+                  <orgName>Yale</orgName> have used the software to visualize cultural heritage
+                images held in the <orgName>Beinecke Rare Book</orgName> &amp; <orgName>Manuscript
+                  Library</orgName>, <orgName>Yale Center for British Art</orgName>, and the
+                  <orgName>Medical Historical Library</orgName>.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="149">
+          <titleStmt>
+            <title type="main">The Khosro Cup Replication Project</title>
+            <principal>
+              <persName>
+                <forename>Philippa</forename>
+                <surname>Adrych</surname>
+              </persName>
+              <persName>
+                <forename>Nadia</forename>
+                <surname>Ali</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Empires of Faith</publisher>
+            <pubPlace>Oxford</pubPlace>
+            <date when="2017">2017</date>
+            <idno type="url">https://empiresoffaith.com/exhibition/the-khosro-cup/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The Khosro Cup, also known as the Cup of Solomon, is a stunning and intricate
+                Sasanian Persian vessel made of gold, garnets, rock crystal, and glass. It probably
+                dates to the sixth century AD, in the later period of Sasanian rule. At the centre
+                is an enthroned king, most likely <persName>Khosro I</persName>
+                  (r.<date>531-579</date>), under whose reign the Sasanian empire underwent its last
+                great flourishing of prosperity and cultural attainment before its collapse in the
+                  <date>mid seventh century</date>. The Cup is one of the star objects in the
+                Cabinet des Médailles – the department of coins, medals, and antiques in the
+                  <orgName>Bibliothèque nationale de France (BnF)</orgName>, arriving in the
+                collection among the many precious objects and antiquities from the Abbey of St
+                Denis given to the Cabinet des Médailles after the French Revolution.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="150">
+          <titleStmt>
+            <title type="main">Jheronimus Bosch, the Garden of Earthly Delights</title>
+            <principal>
+              <persName>
+                <forename>Pieter</forename>
+                <surname>van Huijstee</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>NPO2</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>NTR</publisher>
+            <pubPlace>Hilversum</pubPlace>
+            <date>s.d.</date>
+            <idno type="url">https://archief.ntr.nl/tuinderlusten/en.html#</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The interactive documentary <title>Jheronimus Bosch, the Garden of Earthly
+                  Delights</title> provides an in-depth tour though <title>The Garden of Earthly
+                  Delights</title>. In a web interface the visitor will be taken on an audio-visual
+                journey, including sound, music, video and images to enrich the storytelling.</p>
+              <p>Besides the exploration of the art historical story of the painting we will give
+                insight to the creative process of <persName>Jheronimus Bosch</persName>. In a web
+                interface the visitor will be taken on an audio-visual journey, including sound,
+                music, video and images to enrich the storytelling. The visitor of the interactive
+                documentary will get a better understanding of what it was like to live in the Late
+                Middle Ages, and for example of what importance religion was in daily life. The
+                interactive documentary can be read like a book, one can come back after a visit and
+                pick up the book again from the shelf to further explore.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="151">
+          <titleStmt>
+            <title type="main">Mapping the Medieval Woman</title>
+            <principal>
+              <persName>
+                <forename>Mariah</forename>
+                <surname>Proctor-Tiffany</surname>
+              </persName>
+              <persName>
+                <forename>Tracy</forename>
+                <surname>Chapman Hamilton</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Tracy Chapman Hamilton</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <date>s.d.</date>
+            <idno type="url">https://mappingthemedievalwoman.com/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>Histories of the architecture and urban landscape of medieval
+                  <placeName>Paris</placeName> have often concentrated on the impressive works of
+                patronage of male rulers, for example <persName>Louis IX</persName>
+                  (<date>1214–1270</date>) and <persName>Charles V</persName>
+                  (<date>1338–1380</date>). But the paradigms we inherit are inflected with
+                centuries of male-focused policies, histories, and social conceptions, often leading
+                scholars to overlook or even erase women’s important contributions to the cityscape
+                of <placeName>Paris</placeName>. This project seeks to undo this erasure and
+                demonstrate that women, their bodies, their commissions, and their interactions were
+                not only there, but were simply everywhere. It was not at all exceptional to see
+                their marks on the urban landscape, their presence in work spaces, their bodies in
+                processions in the streets, their tombs in the chapels of ecclesiastical spaces, and
+                their generosity on display throughout the city. By mapping these sites, the many
+                women patrons, workers, residents, and monastics come into view together.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
 
         <!-- https://gist.github.com/antoinecourtin/2a5c833d7f5c1baf093e8f29b640847d -->
         <!-- https://medium.com/@seeksanusername/ce-quil-ne-fallait-pas-rater-en-2019-autour-des-projets-en-humanit%C3%A9s-num%C3%A9riques-glam-4feb55f5ea22 -->
