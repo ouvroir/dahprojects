@@ -4073,7 +4073,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName>Agence Nationale de Recherche (ANR)</orgName>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
               <orgName>Partner University Fund de la Face Foundation (Washington DC)</orgName>
               <orgName>Université de Lille 3</orgName>
             </funder>
@@ -4379,7 +4379,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName>TransferS</orgName>
+              <orgName>Labex TransferS (ENS - PSL - Collège de France - CNRS)</orgName>
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
@@ -4659,7 +4659,7 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>TGIR Huma-num</publisher>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2019" to="2022">2019-2022</date>
             <idno type="url">https://paris-timemachine.huma-num.fr</idno>
@@ -5216,11 +5216,11 @@
               <orgName>Collège de France</orgName>
               <orgName>École Pratique des Hautes Études (EPHE-PSL)</orgName>
               <orgName>Agence Nationale de la Recherche (ANR)</orgName>
-              <orgName>Huma-Num</orgName>
+              <orgName>TGIR Huma-Num (UAR3598, CNRS)</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>TGIR Huma-Num</publisher>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2008" to="2022">2008-2022</date>
             <idno type="url">https://circe-antique.huma-num.fr</idno>
@@ -5679,9 +5679,9 @@
             </principal>
             <funder>
               <orgName>Ecole universitaire de recherche TRANSLITTERAE</orgName>
-              <orgName>LABEX TransferS</orgName>
+              <orgName>Labex TransferS (ENS - PSL - Collège de France - CNRS)</orgName>
               <orgName>Agence Nationale de la Recherche (ANR)</orgName>
-              <orgName>École Normale Supérieure (ENS)</orgName>
+              <orgName>École Normale Supérieure (ENS-PSL)</orgName>
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
@@ -5691,8 +5691,8 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>École Normale Supérieure (ENS)</publisher>
-            <publisher>TGIR Huma-Num</publisher>
+            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2009" to="2022">2009-2022</date>
             <idno type="url">https://artlas.huma-num.fr/map/#/</idno>
@@ -5736,8 +5736,9 @@
               </persName>
             </principal>
             <funder>
-              <orgName>LABEX TransferS Agence Nationale de la Recherche (ANR) </orgName>
-              <orgName>École Normale Supérieure (ENS)</orgName>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
+              <orgName>Labex TransferS (ENS - PSL - Collège de France - CNRS)</orgName>
+              <orgName>École Normale Supérieure (ENS-PSL)</orgName>
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
@@ -5745,8 +5746,8 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>École Normale Supérieure (ENS)</publisher>
-            <publisher>TGIR Huma-Num</publisher>
+            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2009" to="2022">2009-2022</date>
             <idno type="url">https://paris-art-market.huma-num.fr/</idno>
@@ -5779,9 +5780,9 @@
               </persName>
             </principal>
             <funder>
-              <orgName>LABEX TransferS</orgName>
+              <orgName>Labex TransferS (ENS - PSL - Collège de France - CNRS)</orgName>
               <orgName>Agence Nationale de la Recherche (ANR)</orgName>
-              <orgName>École Normale Supérieure (ENS)</orgName>
+              <orgName>École Normale Supérieure (ENS-PSL)</orgName>
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
@@ -5790,8 +5791,8 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>École Normale Supérieure (ENS)</publisher>
-            <publisher>TGIR Huma-Num</publisher>
+            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2009" to="2022">2009-2022</date>
             <idno type="url">https://acad-artlas.huma-num.fr/</idno>
@@ -5828,7 +5829,7 @@
             </principal>
             <funder>
               <orgName>Erasmus+ Programme of the European Union</orgName>
-              <orgName>École Normale Supérieure (ENS)</orgName>
+              <orgName>École Normale Supérieure (ENS-PSL)</orgName>
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
@@ -5837,7 +5838,7 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>École Normale Supérieure (ENS)</publisher>
+            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2009" to="2022">2009-2022</date>
             <idno type="url">https://www.imago.ens.fr/</idno>
@@ -5874,7 +5875,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName>École Normale Supérieure (ENS)</orgName>
+              <orgName>École Normale Supérieure (ENS-PSL)</orgName>
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
@@ -5882,7 +5883,7 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>École Normale Supérieure (ENS)</publisher>
+            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2017" to="2022">2017-2022</date>
             <idno type="url">http://postdigital.ens.fr/</idno>
@@ -8826,6 +8827,526 @@
             <term/>
           </keywords>
         </biblFull>
+        <biblFull n="152">
+          <titleStmt>
+            <title type="main">Le Monde en Musée</title>
+            <title type="sub">Cartographie des collections d'objets d'Afrique et d'Océanie en
+              France</title>
+            <principal>
+              <persName>
+                <forename>Claire</forename>
+                <surname>Bosc-Tiessé</surname>
+              </persName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Institut National d'Histoire de l'Art (INHA)</orgName>
+              <orgName>Musées d'Angoulême Archives Municipales (MAAM)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Institut National d'Histoire de l'Art (INHA)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2017">2017</date>
+            <idno type="url">https://monde-en-musee.inha.fr/inha.fr</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Cette cartographie propose de faire mieux connaître les collections d'objets
+                  d'<placeName>Afrique</placeName> et d'<placeName>Océanie</placeName> en
+                  <placeName>France</placeName> afin de faciliter leur étude. Elle signale les fonds
+                ouverts au public qu'ils soient publics ou privés, elle décrit rapidement l'histoire
+                de la collection et donne quelques éléments sur son contenu. Elle indique l'état des
+                connaissances et donne les informations pour aller plus loin.</p>
+              <p>Cette cartographie a été réalisée dans le cadre du projet <title>"Vestiges,
+                  indices, paradigmes : lieux et temps des objets d’Afrique (XIV<hi
+                    rend="superscript">e</hi>-XIX<hi rend="superscript">e</hi> siècle)"</title> mis
+                en place à l’<orgName>Institut National d'Histoire de l’Art</orgName> par
+                  <persName>Claire Bosc-Tiessé</persName>, qui propose des outils conceptuels et
+                pratiques pour renouveler l’histoire de l’art des objets d’Afrique entre le
+                    <date>14<hi rend="superscript">e</hi></date> et le <date>19<hi
+                    rend="superscript">e</hi> siècle</date>.</p>
+              <p>Cette cartographie est pensée comme outil de recherche et passerelle entre musées
+                et institutions de recherche (quelle que soit leur localisation dans le monde).
+                Cette cartographie est un travail "fait main" : elle n'a pas moissonné des bases de
+                données existantes, même si nous nous en sommes aidés, mais nous avons regroupé et
+                recoupé les informations bibliographiques (les bulletins de musée et de sociétés
+                scientifiques régionales comme les études académiques) en regard d’une consultation
+                des responsables de collection, toujours en cours, et des sites web des musées et
+                des bases de données en ligne. Surtout, nous avons analysé les inventaires quand
+                cela a été possible.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="153">
+          <titleStmt>
+            <title type="main">BAnDITI</title>
+            <title type="sub">Les "badigeonneurs" italiens itinérants, entre Haut-Languedoc et
+              Gascogne </title>
+            <principal>
+              <persName>
+                <forename>Sophie</forename>
+                <surname>Duhem</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Université de Toulouse Jean Jaurès (UT2J)</publisher>
+            <publisher>Hypothèses</publisher>
+            <pubPlace>Toulouse</pubPlace>
+            <date from="2015" to="2022">2015-2022</date>
+            <idno type="url">https://banditi.hypotheses.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>L’enquête que nous proposons d’entreprendre sur le milieu des peintres italiens
+                itinérants s’ouvre à un champ d’analyse interdisciplinaire : en effet, il s’agit de
+                s’intéresser à l’histoire d’un réseau construit dans le cadre d’une immigration
+                artistique qui a été continue en <placeName>France</placeName>, entre les
+                    <date>XVI<hi rend="superscript">e</hi> et XX<hi rend="superscript">e</hi>
+                  siècles</date>.</p>
+              <p>L’apport des historiens de l’émigration et des diasporas est nécessaire pour
+                documenter l’arrivée de ces populations en <placeName>France</placeName>. Si le
+                mouvement migratoire du <date>XIX<hi rend="superscript">e</hi></date> est déjà bien
+                cerné historiquement, les prémisses sont moins renseignées, notamment l’installation
+                italienne en territoire français au <date>XVIII<hi rend="superscript">e</hi>
+                  siècle</date>. Pourtant, avant la Révolution, les villes situées entre Dauphiné et
+                Provence à l’image de <placeName>Gap</placeName>, <placeName>Toulon</placeName> et
+                  <placeName>Marseille</placeName> étaient déjà des lieux d’accueil et de rencontre
+                des peintres et des artisans, comme des marchés d’échange et de commerce des
+                matériaux ou des objets en provenance d’<placeName>Italie</placeName> (marbres,
+                mobilier d’églises – autels, tabernacles – sculptures, etc.). Beaucoup d’Italiens
+                qui s’installèrent dans le sud-ouest au lendemain de la Révolution venaient du
+                  <placeName>Piémont</placeName>, de <placeName>Sardaigne</placeName>, de
+                  <placeName>Lombardie</placeName>, d’<placeName>Emilie</placeName>, de
+                  <placeName>Campanie</placeName>, fuyant la guerre et la misère issues des guerres
+                d’indépendance. Dans quelles conditions voyageaient-ils (place des « familles-relais
+                »), quelles furent les procédures d’accueil mises en place par les institutions
+                françaises sur le territoire et le contexte de leur intégration dans les paroisses
+                ?</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="154">
+          <titleStmt>
+            <title type="main">DataVirgo</title>
+            <principal>
+              <persName>
+                <forename>Quentin</forename>
+                <surname>Bernet</surname>
+              </persName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>École Normale Supérieure (ENS-PSL)</orgName>
+              <orgName>Paris Sciences et Lettres (PSL)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2022">2022</date>
+            <idno type="url">https://datavirgo.huma-num.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet <title>DataVirgo</title> analyse la diffusion d'un motif iconographique
+                entre le XIVe et le <date>XVI<hi rend="superscript">e</hi> siècle</date> : la Vierge
+                d'Humilité. Il mobilise la cartographie numérique au service de l'analyse formelle
+                des œuvres, en histoire de l'art. A l’origine du projet se trouve la volonté
+                d’interroger les potentialités qu'offrent les outils numériques pour l’analyse
+                iconographique, en tentant de modéliser la dynamique d’un sujet iconographique, ses
+                déplacements, sa densité par régions et ses variations, grâce à une carte
+                interactive. L’objectif étant, dans un premier temps, d’avoir une idée des axes de
+                circulation des modèles iconographiques, entre plusieurs foyers de dynamisme
+                artistique. Il a pour cela été décidé de choisir un phénomène iconographique concret
+                et limité dans le temps : La Vierge d’Humilité. Soudainement apparue vers
+                  <date>1340</date>, cette variante de la Vierge à l’enfant est caractérisée par le
+                fait qu’au lieu d’être sur un trône, Marie est assise sur un coussin ou un support
+                léger comme une pierre, ou encore à même le sol. Ce phénomène a connu un
+                développement rapide en l’<placeName>Europe</placeName>, avant de décliner au cours
+                du <date>XVI<hi rend="superscript">e</hi> siècle</date>.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="155">
+          <titleStmt>
+            <title type="main">Les Guides de Paris</title>
+            <principal>
+              <persName>
+                <forename>Marianne Cojannot-Le Blanc</forename>
+                <surname>Bernet</surname>
+              </persName>
+              <persName>
+                <forename>Emmanuel</forename>
+                <surname>Château-Dutier</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2012" to="2024">2012-2024</date>
+            <idno type="url">www.guidesdeparis.fr</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet repose sur l’encodage en XML-TEI de quatre textes majeurs sur
+                  <placeName>Paris</placeName> ancien et ses monuments, publiés entre la fin du
+                    <date>XVII<hi rend="superscript">e</hi> siècle</date> et la première moitié du
+                    <date>XVIII<hi rend="superscript">e</hi> siècle</date> : <persName>Henri
+                  Sauval</persName>, <title>Histoire et recherches des antiquités de la ville de
+                  Paris</title>, 3 tomes, <placeName>Paris</placeName>, <date>1724</date> ;
+                  <persName>Germain Brice</persName>, <title>Description nouvelle de ce qu’il y a de
+                  plus remarquable dans la ville de Paris</title>, 2 tomes,
+                  <placeName>Paris</placeName>, <date>1684</date> ; <persName>Lemaire</persName>,
+                  <title>Paris ancien et nouveau</title>, 3 tomes, <placeName>Paris</placeName>,
+                  <date>1685</date> et <persName>Piganiol de La Force</persName>, <title>Description
+                  de Paris, de Versailles, de Marly, de Meudon</title>, 8 tomes,
+                  <placeName>Paris</placeName>, <date>1742</date>. La publication de ces textes sur
+                le web vise à faciliter la consultation de ces « guides de Paris », sources majeures
+                pour l’histoire des arts de la période moderne en <placeName>France</placeName>.
+                Depuis le début du projet, bon nombre de guides de Paris ont été numérisés par la
+                  <orgName>BnF</orgName> qui était partenaire. L’océrisation étant insuffisante pour
+                ce type de documents et la nature des requêtes auxquels les chercheurs les
+                soumettent, une édition en TEI, le plus souvent réservée aux textes complexes, a été
+                choisie pour autoriser les requêtes traditionnelles (recherches plein-texte), mais
+                aussi bâtir des index de référence sur <placeName>Paris</placeName> (index des
+                lieux, monuments/œuvres, noms d’artiste, de commanditaire etc.). La mise à
+                disposition de tous les contenus sous licence libre par l’intermédiaire d’une
+                interface programmable qui sert à la publication du site permet leur réutilisation
+                dans d’autres applications.</p>
+            </note>
+            <note type="licence"><ref target="https://creativecommons.org/licenses/by/4.0/">Creative
+                Common Attribution (CC-BY)</ref></note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="156">
+          <titleStmt>
+            <title type="main">La Sculpture en son lieu</title>
+            <title type="sub">Chapiteaux romans d'Auvergne</title>
+            <principal>
+              <persName>
+                <forename>Jérôme</forename>
+                <surname>Baschet</surname>
+              </persName>
+              <persName>
+                <forename>Jean-Claude</forename>
+                <surname>Bonne</surname>
+              </persName>
+              <persName>
+                <forename>Pierre-Olivier</forename>
+                <surname>Dittmar</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Centre de Recherches Historiques (UMR8558, CNRS - EHESS - PSL)</orgName>
+              <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
+              <orgName>École des Hautes Études en Sciences Sociales (EHESS) </orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2007" to="2012">2007-2012</date>
+            <idno type="url">http://auvergne.huma-num.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le site comporte deux volets distincts, relevant d'une problématique commune visant
+                à comprendre l'œuvre sculptée dans son lieu et à éclairer la distribution générale
+                des chapiteaux au sein de l'espace ecclésial. Le Corpus topo-photographique des
+                chapiteaux permet de s'interroger sur l'agencement des chapiteaux en les localisant
+                et en les visualisant à leurs emplacements respectifs pour mieux saisir leurs
+                relations. Jusqu'à présent, il n'existait pas d'outil répondant de manière
+                satisfaisante à une telle exigence. Il nous a donc fallu l'élaborer, ce que nous
+                avons fait en adaptant et en intégrant les logiciels libres Image Markup Tool et
+                Albulle, avec l'aide de <persName>Marjorie Burghart</persName>, de <persName>Rubi
+                  Cortes</persName> (de la société des Mots &amp; des Mains) et de <persName>Martin
+                  Holmes</persName> (<orgName>IMT</orgName>). La mise en œuvre du site a été
+                réalisée par <persName>Chloé Maillet</persName>. Depuis <date>2020</date>,
+                  <persName>Jean-Damien Généro</persName> (<orgName>CNRS</orgName>) assure
+                l'administration du site et de la base de données iconographiques. Nos études,
+                regroupées sous le titre <title>« Iter et Locus. Lieu rituel et agencement du décor
+                  sculpté dans les églises romanes d'Auvergne »</title>, sont accueillies sur le
+                site d'<title>Images Re-vues</title>. Elles reposent essentiellement sur une méthode
+                carto- et info-graphique, recourant à diverses formes de codification thématique et
+                topographique dont l'analyse aide à rendre compte, d'une façon aussi globale que
+                possible, de l'agencement des chapiteaux et de leurs relations dans l'édifice.
+                D'emblée, nous nous sommes proposé de rendre accessible cette enquête par une
+                publication en ligne, afin que nos études puissent être accompagnées de la
+                présentation intégrale du corpus topo-photographique. L'édition numérique nous a
+                aussi semblé le moyen le plus pertinent et le plus économique de mettre notre
+                travail à la disposition tant des spécialistes que d'un public passionné ou
+                simplement curieux de la sculpture romane.</p>
+            </note>
+            <note type="licence"><ref
+                target="https://www.etalab.gouv.fr/licence-ouverte-open-licence">Licence Ouverte
+                2.0</ref></note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="157">
+          <titleStmt>
+            <title type="main">Villa Diomedes Project</title>
+            <title type="sub">Archives de la villa de Diomède à Pompéi (1771-2019)</title>
+            <principal>
+              <persName>
+                <forename>Hélène</forename>
+                <surname>Dessales</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <authority>Labex TransferS (ENS - PSL - Collège de France - CNRS)</authority>
+            <authority>Archéologie et philologie d’Orient et d’Occident (AOrOc) (UMR 8546, CNRS –
+              EPHE – ENS - PSL)</authority>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2015" to="2020">2015-2020</date>
+            <idno type="url">http://villadiomede.huma-num.fr/bdd/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Ce site donne accès aux archives de la Villa de Diomède à
+                  <placeName>Pompéi</placeName> sur <date>250</date> ans, depuis la documentation de
+                la fouille initiale menée par <persName>Francesco La Vega</persName>
+                  (<date>1771-1775</date>), jusqu'aux données de terrain produites par le programme
+                international Villa Diomedes Project, sous la direction d'<persName>Hélène
+                  Dessales</persName> (<date>2012-2019</date>).</p>
+              <p>Il comprend toute la documentation graphique (plans, coupes, élévations, vues en
+                perspective et copies de peintures) et photographique, depuis la fin du
+                    <date>XVIII<hi rend="superscript">e</hi> siècle</date> jusqu'au milieu du
+                    <date>XX<hi rend="superscript">e</hi> siècle</date>. Au total, ce sont plus de
+                550 documents, de nature très diverse, qui ont pu être réunis à ce jour. Il s’agit
+                du corpus de réalisations d’architectes et d’artistes le plus considérable accumulé
+                sur un édifice pompéien.</p>
+            </note>
+            <note type="biblio">
+              <biblStruct>
+                <monogr>
+                  <title type="m">The Villa of Diomedes: the making of a Roman villa in
+                    Pompeii</title>
+                  <editor>
+                    <persName>
+                      <forename>Hélène</forename>
+                      <surname>Desales</surname>
+                    </persName>
+                  </editor>
+                  <imprint>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Hermann</publisher>
+                    <date when="2020">2020</date>
+                  </imprint>
+                </monogr>
+              </biblStruct>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="158">
+          <titleStmt>
+            <title type="main">LittéPub</title>
+            <title type="sub">Lis tes pubs ? Littérature publicitaire et publicité littéraire de
+              1830 à nos jours</title>
+            <principal>
+              <persName>
+                <forename>Myriam</forename>
+                <surname>Boucharenc</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <authority>Université Sorbonne Nouvelle Paris 3</authority>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2015" to="2019">2015-2019</date>
+            <idno type="url">http://littepub.huma-num.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Lire les pubs, c’est la proposition que formule le programme <orgName>ANR
+                  LITTéPUB</orgName>, grâce à ses collections numériques et aux travaux de ses
+                chercheurs : donner à lire et à voir les collaborations des écrivains à la publicité
+                commerciale, et plus généralement donner sens aux échanges entre la culture lettrée
+                et les univers marchands depuis le <date>XIX<hi rend="superscript">e</hi>
+                  siècle</date>.</p>
+              <p>Associer littérature et publicité pourra sembler paradoxal. La publicité
+                commerciale livre des arguments de vente, construit l'image des marques, met le
+                produit en mots, en images, en histoires, elle "conditionne" la réception des
+                propositions marchandes. C'est, comme le disait Cassandre de l'affiche, une "machine
+                à annoncer". Le publicitaire, rédacteur ou graphiste, "n'émet pas de messages, il
+                les transmet. On ne lui demande pas son avis, on lui demande d'établir une
+                communication claire, puissante, précise". A l’inverse, la littérature, "système
+                délibérément réflexif" (<persName>Roland Barthes</persName>), prête à
+                interprétation. Elle s'est d’ailleurs emparée de la publicité comme sujet.
+                  <persName>Balzac</persName>, <persName>Zola</persName>,
+                  <persName>Salacrou</persName>, <persName>Perec</persName>,
+                  <persName>Beauvoir</persName>, <persName>Beigbeder</persName>,
+                  <persName>Ernaux</persName> ont traité la question de la publicité sur le mode du
+                réalisme, de la sotie, de la chronique. Les fictions satiriques sont informées par
+                l'expérience de l'édition et les seconds métiers des écrivains : journalistes, chefs
+                de publicité, concepteurs rédacteurs, sondeurs d'opinion... Mais l’affaire se
+                complique lorsque, sollicités par les commerçants, les firmes, les laboratoires, ils
+                ont collaboré à la "littérature industrielle", accordé avec leur image un peu de
+                leur notoriété (<persName>Sand</persName> pour un parfum, <persName>Hugo</persName>
+                pour de l'encre, <persName>Dumas</persName> pour de la moutarde,
+                  <persName>Colette</persName> pour Lucky Strike) ou œuvré dans l'ombre, par
+                nécessité, au service des marques et des agences.</p>
+            </note>
+            <note type="licence">Tous droits réservés.</note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="159">
+          <titleStmt>
+            <title type="main">Perso-Indica</title>
+            <title type="sub">An Analytical Survey of Persian Works on Indian Learned
+              Traditions</title>
+            <principal>
+              <persName>
+                <forename>Fabrizio</forename>
+                <surname>Speziale</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
+              <orgName>Deutsche Forschungsgemeinschaft (DFG)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Université Sorbonne Nouvelle Paris 3</orgName>
+              <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
+              <orgName>Institut Français de Recherche en Iran (IFRI)</orgName>
+              <orgName>Mondes Iranien et Indien (M2I) (UMR7528, Paris3 - EPHE - PSL -
+                CNRS)</orgName>
+              <orgName>Iran Heritage Foundation</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <authority>École des Hautes Études en Sciences Sociales (EHESS-PSL)</authority>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2010">2010-</date>
+            <idno type="url">http://perso-indica.net/index.faces</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Perso-Indica</title> is a research and publishing project that will produce
+                a comprehensive Analytical Survey of Persian Works on Indian Learned Traditions,
+                encompassing the treatises and translations produced in India between the
+                    <date>13<hi rend="superscript">th</hi> and the 19<hi rend="superscript">th</hi>
+                  century</date>. <title>Perso-Indica</title> intends to become the first reference
+                work for this domain of studies and will offer a unique and innovative contribution
+                to our understanding of the history of Persianate and Indic intellectual and
+                literary traditions and their cross-cultural interactions, as well as of modern
+                South Asian identity construction.</p>
+            </note>
+            <note type="licence">Tous droits réservés.</note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="160">
+          <titleStmt>
+            <title type="main">Problemata</title>
+            <title type="sub">ZNAK! Logotypes ukrainiens. 1910-2019</title>
+            <principal>
+              <persName>
+                <forename>Karine</forename>
+                <surname>Bomel</surname>
+              </persName>
+              <persName>
+                <forename>Claire</forename>
+                <surname>Brunet</surname>
+              </persName>
+              <persName>
+                <forename>Jérémy</forename>
+                <surname>De Barros</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Maison des Sciences de l’Homme Paris-Saclay</orgName>
+              <orgName>Centre National des Arts Plastiques (CNAP)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Cité du Design</orgName>
+              <orgName>Strate, École de Design</orgName>
+              <orgName>Approches contemporaines de la création et de la réflexion artistique (ACCRA) (UR3402, Université de Strasbourg)</orgName>
+              <orgName>Bibliothèque de recherche et de documentation Kandinsky – Beaubourg</orgName>
+              <orgName>Bibliothèque de recherche du musée des Arts décoratifs de Paris</orgName>
+              <orgName>Centre de Recherche en Design (ENSCI-Les Ateliers – ENS-PSL)</orgName>
+              <orgName>École Nationale Supérieure des Arts Décoratifs de Paris (EnsAD)</orgName>
+              <orgName>Études du Contemporain en Littératures, Langues et Arts (ECLLA) (EA3068 et EA3069, Université Jean Monnet Saint-Étienne)</orgName>
+              <orgName>École Supérieure d’Art et de Design de Reims (ESAD)</orgName>
+              <orgName>École supérieure d’art et de design Valence Grenoble (ESAD)</orgName>
+              <orgName>Fonds de dotations Enseigne des Oudin</orgName>
+              <orgName>Fonds régional d’art contemporain – Grand Large – Hauts de France</orgName>
+              <orgName>La Graduate School Humanités - Sciences du Patrimoine (Université Paris-Saclay)</orgName>
+              <orgName>Institut Supérieur des Arts de Toulouse (isdaT)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <authority>École Nationale Supérieure d’Art et de Design de Nancy
+              (ENSAD-Nancy)</authority>
+            <authority>Atelier National de Recherche Typographique (ANRT)</authority>
+            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2021">2021</date>
+            <idno type="url">http://www.problemata.org/fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p><title>Problemata</title> est une plateforme en ligne de ressources et de publication autour des
+                disciplines du design (design industriel, graphisme, mode, histoire matérielle,
+                histoire des techniques et des arts, photographie, études visuelles et
+                cinématographiques, scénographie, architecture etc.). Entreprise de stimulation d’un
+                champ de recherche en cours de constitution académique, elle est un projet de
+                recherche en humanités numériques. Son objectif est de valoriser le patrimoine et la
+                recherche francophone documentaire à un niveau international. La traduction vers
+                l’anglais d’un certain nombre de textes actuels, et vers le français de textes
+                fondamentaux y participe. Enfin, en partenariat avec les bibliothèques et les
+                départements de recherches des musées, Problemata contribue à stimuler l’exploration
+                et les recherches sur des fonds déposés dans des institutions francophones.</p>
+            </note>
+            <note type="licence"><ref
+                target="https://creativecommons.org/about/cclicenses/#by-nc-nd">Creative Commons
+                CC-BY_NC_ND</ref></note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+
 
         <!-- https://gist.github.com/antoinecourtin/2a5c833d7f5c1baf093e8f29b640847d -->
         <!-- https://medium.com/@seeksanusername/ce-quil-ne-fallait-pas-rater-en-2019-autour-des-projets-en-humanit%C3%A9s-num%C3%A9riques-glam-4feb55f5ea22 -->
