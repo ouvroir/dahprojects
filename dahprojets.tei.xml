@@ -12,14 +12,15 @@
             <forename>Emmanuel</forename>
             <surname>Château-Dutier</surname>
           </persName>
-          <orgName>Université de Montréal</orgName>
+          <orgName>Université de Montréal (UdeM)</orgName>
         </editor>
         <editor>
           <persName>
             <forename>Léa</forename>
             <surname>Maronet</surname>
           </persName>
-          <orgName>Université de Montréal</orgName>
+          <orgName>Université de Montréal (UdeM)</orgName>
+          <orgName>École Pratique des Hautes Études (EPHE)</orgName>
         </editor>
       </titleStmt>
       <publicationStmt>
@@ -59,7 +60,13 @@
             <date when="2020">2020</date>
             <idno type="url">https://tadirah.info/index.html</idno>
           </bibl>
-          <category> </category>
+          <category></category>
+        </taxonomy>
+        <taxonomy xml:id="Subject">
+          <bibl>
+            <title>Taxonomie pour la description (sujet, aire géographique, période, etc.) des projets.</title>
+          </bibl>
+          <category></category>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -175,13 +182,13 @@
                 <forename>Martine</forename>
                 <surname>Denoyelle</surname>
               </persName>
-              <orgName>Institut national d’histoire de l’art (INHA)</orgName>
+              <orgName>Institut National d’Histoire de l’Art (INHA)</orgName>
               <resp>éditeur scientifique, direction du projet</resp>
               <persName>
                 <forename>Delphine</forename>
                 <surname>Burlot</surname>
               </persName>
-              <orgName>Institut national d’histoire de l’art (INHA)</orgName>
+              <orgName>Institut National d’Histoire de l’Art (INHA)</orgName>
               <resp>directrice du département d’histoire de l’art numérique</resp>
               <persName>
                 <forename>Murtha</forename>
@@ -191,7 +198,7 @@
             </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>Institut national d’histoire de l’art (INHA)</publisher>
+            <publisher>Institut National d’Histoire de l’Art (INHA)</publisher>
             <pubPlace>Paris</pubPlace>
             <date when="2015-09">septembre 2015</date>
             <idno type="url">http://digitalmontagny.inha.fr</idno>
@@ -671,7 +678,6 @@
           <keywords scheme="#TaDiRAH">
             <term xml:lang="fr"/>
           </keywords>
-
         </biblFull>
         <biblFull n="2">
           <titleStmt>
@@ -684,7 +690,7 @@
             </principal>
             <funder>
               <orgName>Université de Heidelberg</orgName>
-              <orgName>Fondation allemande de recherche</orgName>
+              <orgName>German Research Foundation (DFG)</orgName>
             </funder>
           </titleStmt>
           <publicationStmt>
@@ -944,8 +950,7 @@
               <orgName>Gladys Krieble Delmas Foundation</orgName>
               <orgName>Fondazione di Venezia</orgName>
               <orgName>Regione del Veneto</orgName>
-              <orgName>Bass Connections, Duke University</orgName>
-              <orgName>Humanities Writ Large, Duke University</orgName>
+              <orgName>Duke University</orgName>
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
@@ -954,7 +959,7 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <authority>Duke University</authority>
+            <publisher>Duke University</publisher>
             <pubPlace>Durham</pubPlace>
             <date from="2009" to="2015">2009-2015</date>
             <idno type="url">http://www.visualizingvenice.org/visu/</idno>
@@ -1116,7 +1121,7 @@
         </biblFull>
         <biblFull n="10">
           <titleStmt>
-            <title type="main">Rome reborn</title>
+            <title type="main">Rome Reborn</title>
             <principal>
               <persName>
                 <forename>Bernard</forename>
@@ -1223,10 +1228,6 @@
               </persName>
             </principal>
             <funder/>
-            <respStmt>
-              <resp>Partenaires scientifiques</resp>
-              <orgName/>
-            </respStmt>
           </titleStmt>
           <publicationStmt>
             <publisher>Flyover Zone</publisher>
@@ -1936,7 +1937,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName>Arts &amp; Humanities Research Council (UK)</orgName>
+              <orgName>Arts and Humanities Research Council (UK)</orgName>
               <orgName>HEFCE Higher Education Innovation Fund (HEIF) Open Innovation Fund</orgName>
               <orgName>Commune di Firenze</orgName>
             </funder>
@@ -2056,7 +2057,7 @@
             </funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>UCL Museums and Collections at the Grant Museum of Zoology</publisher>
+            <publisher>University College London</publisher>
             <pubPlace>Londres</pubPlace>
             <date from="2011" to="2015">2011-2105</date>
             <idno type="url">https://www.ucl.ac.uk/culture/projects/qrator</idno>
@@ -2183,7 +2184,8 @@
             </funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>Bowdoin Art History Department</publisher>
+            <authority>Bowdoin Art History Department</authority>
+            <publisher>Bowdoin College</publisher>
             <pubPlace>Bowdoin</pubPlace>
             <date from="2007" to="2012">2007-2012</date>
             <idno type="url">http://19thc-artworldwide.org/fletcher/london-gallery/</idno>
@@ -2566,7 +2568,7 @@
             </principal>
             <funder>
               <orgName>National Endowment for the Humanities</orgName>
-              <orgName>Deutsche Forschungsgemeinschaft</orgName>
+              <orgName>German Research Foundation (DFG)</orgName>
             </funder>
           </titleStmt>
           <publicationStmt>
@@ -2719,7 +2721,7 @@
             <title xml:lang="de">Kupferstichkabinett online</title>
             <title xml:lang="en">Virtual Printroom online</title>
             <funder>
-              <orgName>Niedersächsisches Ministerium für Wissenschaft und Kultur </orgName>
+              <orgName>Niedersächsisches Ministerium für Wissenschaft und Kultur</orgName>
             </funder>
           </titleStmt>
           <publicationStmt>
@@ -3526,8 +3528,8 @@
               <orgName>Stanford Presidential Fund for Innovation in the Humanities grants</orgName>
               <orgName>Center for Spatial and Textual Analysis (CESTA)</orgName>
               <orgName>Roberta Bowman Denning Innovation in the Humanities Grant</orgName>
-              <orgName> Stanford's Faculty Dean of Research</orgName>
-              <orgName> New Directions MellonFellowship</orgName>
+              <orgName>Stanford's Faculty Dean of Research</orgName>
+              <orgName>New Directions MellonFellowship</orgName>
             </funder>
           </titleStmt>
           <publicationStmt>
@@ -4001,7 +4003,8 @@
             </funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>Fashion Institute of Technology, State University of New York</publisher>
+            <authority>Fashion Institute of Technology</authority>
+            <publisher>State University of New York</publisher>
             <pubPlace>New York</pubPlace>
             <date from="2015" to="2022">2015-2022</date>
             <idno type="url">https://fashionhistory.fitnyc.edu</idno>
@@ -4074,7 +4077,7 @@
             </principal>
             <funder>
               <orgName>Agence Nationale de la Recherche (ANR)</orgName>
-              <orgName>Partner University Fund de la Face Foundation (Washington DC)</orgName>
+              <orgName>Face Foundation, Washington DC</orgName>
               <orgName>Université de Lille 3</orgName>
             </funder>
             <respStmt>
@@ -4201,7 +4204,7 @@
             <funder>
               <orgName>Marc Fitch Fund</orgName>
               <orgName>Thriplow Charitable Trust, Coles Medlock Foundation</orgName>
-              <orgName> Finnis ScottFoundation</orgName>
+              <orgName>Finnis ScottFoundation</orgName>
               <orgName>SP Lohia Foundation</orgName>
             </funder>
           </titleStmt>
@@ -4659,7 +4662,7 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2019" to="2022">2019-2022</date>
             <idno type="url">https://paris-timemachine.huma-num.fr</idno>
@@ -5216,11 +5219,11 @@
               <orgName>Collège de France</orgName>
               <orgName>École Pratique des Hautes Études (EPHE-PSL)</orgName>
               <orgName>Agence Nationale de la Recherche (ANR)</orgName>
-              <orgName>TGIR Huma-Num (UAR3598, CNRS)</orgName>
+              <orgName>TGIR Huma-Num (UAR 3598, CNRS)</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2008" to="2022">2008-2022</date>
             <idno type="url">https://circe-antique.huma-num.fr</idno>
@@ -5678,7 +5681,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName>Ecole universitaire de recherche TRANSLITTERAE</orgName>
+              <orgName>École universitaire de recherche TRANSLITTERAE</orgName>
               <orgName>Labex TransferS (ENS - PSL - Collège de France - CNRS)</orgName>
               <orgName>Agence Nationale de la Recherche (ANR)</orgName>
               <orgName>École Normale Supérieure (ENS-PSL)</orgName>
@@ -5691,8 +5694,8 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <authority>École Normale Supérieure (ENS-PSL)</authority>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2009" to="2022">2009-2022</date>
             <idno type="url">https://artlas.huma-num.fr/map/#/</idno>
@@ -5746,8 +5749,8 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <authority>École Normale Supérieure (ENS-PSL)</authority>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2009" to="2022">2009-2022</date>
             <idno type="url">https://paris-art-market.huma-num.fr/</idno>
@@ -5791,8 +5794,8 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <authority>École Normale Supérieure (ENS-PSL)</authority>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2009" to="2022">2009-2022</date>
             <idno type="url">https://acad-artlas.huma-num.fr/</idno>
@@ -6617,7 +6620,7 @@
               <orgName>Institut de Recherche et d'Histoire des Textes (IRHT)</orgName>
               <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
               <orgName>École du Louvre</orgName>
-              <orgName>Université Paris 1 Panthéon-Sorbonne </orgName>
+              <orgName>Université Paris 1 Panthéon-Sorbonne</orgName>
               <orgName>Biblissima</orgName>
               <orgName>Hautes Études Sorbonne Art et Métiers Université (HESAM)</orgName>
               <orgName>Bibliothèque nationale de France (BnF)</orgName>
@@ -7013,7 +7016,7 @@
             </principal>
             <funder>
               <orgName>Time Machine Organisation</orgName>
-              <orgName>Union européenne</orgName>
+              <orgName>Union Européenne (UE)</orgName>
               <orgName>Republic of Austria</orgName>
             </funder>
           </titleStmt>
@@ -7059,7 +7062,7 @@
               </persName>
             </principal>
             <funder>
-              <orgName>Union européenne</orgName>
+              <orgName>Union Européenne (UE)</orgName>
             </funder>
           </titleStmt>
           <publicationStmt>
@@ -7092,13 +7095,13 @@
                 following semantic web standards, stored in the ‘European Olfactory Knowledge Graph’
                 (EOKG), and then drawn on to create new ‘storylines’ informed by cultural history
                 research. The storyline resources will be prepared in different formats for
-                different audiences: as an online ‘Encyclopaedia of European Smell Heritage’, as
-                ‘interactive notebook’ demonstrators, and in the form of toolkits and training
-                documentation describing best-practices in olfactory museology. We will develop new,
-                evidence-based methodologies to quantify the impact of multisensory visitor
-                engagement, and use this data to support the implementation of policy
-                recommendations for the recognition, promotion, presentation and safe-guarding of
-                our olfactory heritage.</p>
+                different audiences: as an online ‘<title>Encyclopaedia of European Smell
+                  Heritage</title>’, as ‘interactive notebook’ demonstrators, and in the form of
+                toolkits and training documentation describing best-practices in olfactory
+                museology. We will develop new, evidence-based methodologies to quantify the impact
+                of multisensory visitor engagement, and use this data to support the implementation
+                of policy recommendations for the recognition, promotion, presentation and
+                safe-guarding of our olfactory heritage.</p>
             </note>
             <note type="biblio">
               <biblStruct>
@@ -7514,7 +7517,7 @@
               <orgName>Centre de Recherches Archéologiques et Historiques Anciennes et Médiévales.
                 Centre Michel de Boüard (CRAHAM) (UMR 6273, CNRS - Université de Caen
                 Normandie)</orgName>
-              <orgName>Savoirs et Pratiques du Moyen Âge à l'époque contemporaine (SARPAT) (EA4116,
+              <orgName>Savoirs et Pratiques du Moyen Âge à l'époque contemporaine (SARPAT) (EA 4116,
                 EPHE - PSL)</orgName>
               <orgName>Institut de Recherche et d'Histoire des Textes (IRHT) (CNRS)</orgName>
               <orgName>Maison de la Recherche en Sciences Humaines (MRSH) (Université de Caen
@@ -8404,11 +8407,11 @@
                 <surname>Maki</surname>
               </persName>
             </principal>
-            <sponsor>
+            <funder>
               <orgName>American Council of Learned Societies (ACLS)</orgName>
               <orgName>Wesleyan University</orgName>
               <orgName>The Robert H. N. Ho Family Foundation</orgName>
-            </sponsor>
+            </funder>
           </titleStmt>
           <publicationStmt>
             <publisher>University of Virginia</publisher>
@@ -8996,7 +8999,7 @@
             </funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2012" to="2024">2012-2024</date>
             <idno type="url">www.guidesdeparis.fr</idno>
@@ -9055,13 +9058,13 @@
               </persName>
             </principal>
             <funder>
-              <orgName>Centre de Recherches Historiques (UMR8558, CNRS - EHESS - PSL)</orgName>
+              <orgName>Centre de Recherches Historiques (UMR 8558, CNRS - EHESS - PSL)</orgName>
               <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
               <orgName>École des Hautes Études en Sciences Sociales (EHESS) </orgName>
             </funder>
           </titleStmt>
           <publicationStmt>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2007" to="2012">2007-2012</date>
             <idno type="url">http://auvergne.huma-num.fr/</idno>
@@ -9121,7 +9124,7 @@
             <authority>Labex TransferS (ENS - PSL - Collège de France - CNRS)</authority>
             <authority>Archéologie et philologie d’Orient et d’Occident (AOrOc) (UMR 8546, CNRS –
               EPHE – ENS - PSL)</authority>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2015" to="2020">2015-2020</date>
             <idno type="url">http://villadiomede.huma-num.fr/bdd/</idno>
@@ -9183,7 +9186,7 @@
           </titleStmt>
           <publicationStmt>
             <authority>Université Sorbonne Nouvelle Paris 3</authority>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2015" to="2019">2015-2019</date>
             <idno type="url">http://littepub.huma-num.fr/</idno>
@@ -9238,21 +9241,21 @@
             </principal>
             <funder>
               <orgName>Agence Nationale de la Recherche (ANR)</orgName>
-              <orgName>Deutsche Forschungsgemeinschaft (DFG)</orgName>
+              <orgName>German Research Foundation (DFG)</orgName>
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
               <orgName>Université Sorbonne Nouvelle Paris 3</orgName>
               <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
               <orgName>Institut Français de Recherche en Iran (IFRI)</orgName>
-              <orgName>Mondes Iranien et Indien (M2I) (UMR7528, Paris3 - EPHE - PSL -
+              <orgName>Mondes Iranien et Indien (M2I) (UMR 7528, Paris3 - EPHE - PSL -
                 CNRS)</orgName>
               <orgName>Iran Heritage Foundation</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
             <authority>École des Hautes Études en Sciences Sociales (EHESS-PSL)</authority>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date from="2010">2010-</date>
             <idno type="url">http://perso-indica.net/index.faces</idno>
@@ -9301,17 +9304,20 @@
               <resp>Partenaires scientifiques</resp>
               <orgName>Cité du Design</orgName>
               <orgName>Strate, École de Design</orgName>
-              <orgName>Approches contemporaines de la création et de la réflexion artistique (ACCRA) (UR3402, Université de Strasbourg)</orgName>
+              <orgName>Approches contemporaines de la création et de la réflexion artistique (ACCRA)
+                (UR3402, Université de Strasbourg)</orgName>
               <orgName>Bibliothèque de recherche et de documentation Kandinsky – Beaubourg</orgName>
               <orgName>Bibliothèque de recherche du musée des Arts décoratifs de Paris</orgName>
               <orgName>Centre de Recherche en Design (ENSCI-Les Ateliers – ENS-PSL)</orgName>
               <orgName>École Nationale Supérieure des Arts Décoratifs de Paris (EnsAD)</orgName>
-              <orgName>Études du Contemporain en Littératures, Langues et Arts (ECLLA) (EA3068 et EA3069, Université Jean Monnet Saint-Étienne)</orgName>
+              <orgName>Études du Contemporain en Littératures, Langues et Arts (ECLLA) (EA 3068 et
+                EA3069, Université Jean Monnet Saint-Étienne)</orgName>
               <orgName>École Supérieure d’Art et de Design de Reims (ESAD)</orgName>
               <orgName>École supérieure d’art et de design Valence Grenoble (ESAD)</orgName>
               <orgName>Fonds de dotations Enseigne des Oudin</orgName>
               <orgName>Fonds régional d’art contemporain – Grand Large – Hauts de France</orgName>
-              <orgName>La Graduate School Humanités - Sciences du Patrimoine (Université Paris-Saclay)</orgName>
+              <orgName>La Graduate School Humanités - Sciences du Patrimoine (Université
+                Paris-Saclay)</orgName>
               <orgName>Institut Supérieur des Arts de Toulouse (isdaT)</orgName>
             </respStmt>
           </titleStmt>
@@ -9319,24 +9325,25 @@
             <authority>École Nationale Supérieure d’Art et de Design de Nancy
               (ENSAD-Nancy)</authority>
             <authority>Atelier National de Recherche Typographique (ANRT)</authority>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date when="2021">2021</date>
             <idno type="url">http://www.problemata.org/fr/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
-              <p><title>Problemata</title> est une plateforme en ligne de ressources et de publication autour des
-                disciplines du design (design industriel, graphisme, mode, histoire matérielle,
-                histoire des techniques et des arts, photographie, études visuelles et
-                cinématographiques, scénographie, architecture etc.). Entreprise de stimulation d’un
-                champ de recherche en cours de constitution académique, elle est un projet de
-                recherche en humanités numériques. Son objectif est de valoriser le patrimoine et la
-                recherche francophone documentaire à un niveau international. La traduction vers
-                l’anglais d’un certain nombre de textes actuels, et vers le français de textes
-                fondamentaux y participe. Enfin, en partenariat avec les bibliothèques et les
-                départements de recherches des musées, Problemata contribue à stimuler l’exploration
-                et les recherches sur des fonds déposés dans des institutions francophones.</p>
+              <p><title>Problemata</title> est une plateforme en ligne de ressources et de
+                publication autour des disciplines du design (design industriel, graphisme, mode,
+                histoire matérielle, histoire des techniques et des arts, photographie, études
+                visuelles et cinématographiques, scénographie, architecture etc.). Entreprise de
+                stimulation d’un champ de recherche en cours de constitution académique, elle est un
+                projet de recherche en humanités numériques. Son objectif est de valoriser le
+                patrimoine et la recherche francophone documentaire à un niveau international. La
+                traduction vers l’anglais d’un certain nombre de textes actuels, et vers le français
+                de textes fondamentaux y participe. Enfin, en partenariat avec les bibliothèques et
+                les départements de recherches des musées, Problemata contribue à stimuler
+                l’exploration et les recherches sur des fonds déposés dans des institutions
+                francophones.</p>
             </note>
             <note type="licence"><ref
                 target="https://creativecommons.org/about/cclicenses/#by-nc-nd">Creative Commons
@@ -9346,15 +9353,310 @@
             <term/>
           </keywords>
         </biblFull>
-
+        <biblFull n="161">
+          <titleStmt>
+            <title type="main">Qallaline</title>
+            <title type="sub">Catalogue raisonné des carreaux de céramique tunisois</title>
+            <principal>
+              <persName>
+                <forename>Clara Ilham</forename>
+                <surname>Alvarez Dopico</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Marie Curie - Clarin Cofund</orgName>
+              <orgName>Fundacion para el Fomento en Asturias de la Investigacion Cientifica Aplicada
+                y la Tecnologia (FICYT)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>InVisu (UAR 3103, CNRS - INHA)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <authority>Université d'Oviedo</authority>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2010">2010</date>
+            <idno type="url">http://qallaline.huma-num.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p><title>Qallaline</title> est un catalogue raisonné des modèles de carreaux de
+                céramique produits par les ateliers de la médina de <placeName>Tunis</placeName>
+                entre les premières décennies du <date>xvii<hi rend="superscript">e</hi></date> et
+                la fin du <date>xix<hi rend="superscript">e</hi> siècle</date>.</p>
+              <p>Ce catalogue vise la mise en valeur d’une production méconnue comme celle des
+                carreaux sériés tunisois avec la recension des différents modèles sortis des
+                ateliers de <title>Qallaline</title> tout au long de trois siècles : plus de
+                deux-cents vingt compositions différentes qui se déclinent avec des variations dans
+                le dessin et les couleurs. Le catalogue propose l’analyse stylistique de cette
+                production en identifiant l’origine et l’évolution des modèles, ce qui permet
+                d’établir une chronologie argumentée pour chaque composition. La classification
+                établie tient compte des origines des compositions. On relève ainsi un premier
+                groupe de compositions d’inspiration maghrébine, un deuxième groupe de tradition
+                hafside, un troisième groupe de compositions renaissantes castillanes, un quatrième
+                groupe de compositions baroques du Levant espagnol et un sixième ensemble de modèles
+                d’influence ottomane. Le catalogue permet ainsi d’apprécier la proportion
+                quantitative des différentes influences qui marquent la production tunisoise et les
+                rapports entre ces différents ensembles.</p>
+              <p><title>Qallaline</title> fournit un véritable outil de travail. Il contribue à la
+                mise en contexte et l’inscription dans l’espace de la céramique de
+                  <title>Qallaline</title> et, partant de là, il porte un regard large sur les arts
+                tunisiens d’époque ottomane, privilégiant des questions liées aux relations
+                artistiques et culturelles entre les deux rives de la
+                  <placeName>Méditerranée</placeName> à l’époque moderne, à l’empreinte occidentale
+                dans les arts beylicaux et aux questions de l’identité.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="162">
+          <titleStmt>
+            <title type="main">BaOIA</title>
+            <title type="sub">Boîte à Outils d’Intelligence Artificielle</title>
+            <principal>
+              <persName>
+                <forename>Cécile</forename>
+                <surname>Tardy</surname>
+              </persName>
+              <persName>
+                <forename>Julien</forename>
+                <surname>Schuh</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>GIS CollEx-Persée</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Centre des Sciences des Littératures en langue Française (CSLF) (EA 1586,
+                Université Paris Nanterre)</orgName>
+              <orgName>MoDyCo (Modèles, Dynamiques, Corpus) (UMR 7114, CNRS - S2CH - Université
+                Paris Nanterre - Université Paris Lumières)</orgName>
+              <orgName>La Contemporaine (BDIC)</orgName>
+              <orgName>Bibliothèque nationale de France (BnF)</orgName>
+              <orgName>LabEx Les Passés dans le présent (Université Paris Nanterre)</orgName>
+              <orgName>Cambridge University Library</orgName>
+              <orgName>Oxford Visual Geometry Group</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2020">2020-</date>
+            <idno type="url">https://baoia.huma-num.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet <title>BaOIA (Boîte à Outils d’Intelligence Artificielle)</title>
+                s’inscrit dans les projets de numérisation de masse des institutions patrimoniales
+                et vise à créer un panel d’outils dédiés à l’apprentissage profond en sciences
+                humaines et sociales. L’accès est rendu possible à une grande masse d’archives, mais
+                celle-ci est encore sous-explorée.</p>
+              <p>Les outils développés intègrent des modèles adaptés aux différents types de sources
+                et aux différents usages et besoins de la communauté des chercheurs et
+                professionnels de la documentation. Le projet s’intègre dans l’environnement de
+                recherche en lien avec d’autres projets existants et vise à produire des modèles
+                réutilisables ultérieurement pour d’autres projets à venir.</p>
+              <p>Les progrès dans le domaine de l’intelligence artificielle et en particulier dans
+                l’apprentissage profond (<hi rend="italic">deep learning</hi>) ont permis le
+                développement de réseaux de neuronaux récurrents (RNN) pour le traitement du langage
+                et de réseaux neuronaux convolutifs (CNN) pour l’analyse des images. Le
+                développement de ces divers outils numériques vise à reconfigurer les
+                questionnements sur l’histoire de la culture ainsi qu’à proposer des outils aisément
+                adaptables par la communauté scientifique.</p>
+            </note>
+            <note type="licence">Tous droits réservés.</note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="163">
+          <titleStmt>
+            <title type="main">Spiridon</title>
+            <title type="sub">Céramique Médiévales et Modernes en Méditerranée</title>
+            <principal>
+              <orgName>Laboratoire d'Archéologie Médiévale et Moderne en Méditerranée (LA3M) (UMR
+                7298, CNRS)</orgName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Institut d'Archéologie Méditerranéenne ARKAIA</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <authority>Laboratoire d'Archéologie Médiévale et Moderne en Méditerranée (LA3M) (UMR
+              7298, CNRS)</authority>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2021">2021-</date>
+            <idno type="url">https://spiridon.huma-num.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le <orgName>Laboratoire d’Archéologie Médiévale et Moderne en Méditerranée
+                  (LA3M)</orgName> mène des études céramologiques sur le pourtour méditerranéen
+                depuis les <date>années 60</date>. À ce titre, il conserve, exploite et produit des
+                archives de recherche dont la forme a nécessairement évolué avec les méthodes et
+                technologies en soixante ans. La base de données <title>Spiridon</title>, fondée en
+                  <date>2021</date>, permet de rendre accessible cette documentation – qui concerne
+                plusieurs dizaines de milliers de céramiques – afin d’en assurer la pérennité et de
+                la valoriser grâce aux outils numériques.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="164">
+          <titleStmt>
+            <title type="main">Sculpturo</title>
+            <title type="sub">Plateforme de recherche sur la sculpture romaine en Gaules et en
+              Méditerranée</title>
+            <principal>
+              <persName>
+                <forename>Stéphanie</forename>
+                <surname>Satre</surname>
+              </persName>
+              <persName>
+                <forename>Bruno</forename>
+                <surname>Baudoin</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Région Sud Provence Alpes Côte d'Azur</orgName>
+              <orgName>LabexMed</orgName>
+              <orgName>Programme Investissements d'Avenir (Gouvernement français)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Institut de Recherche sur l'Architecture Antique (IRAA) (UAR 3155)</orgName>
+              <orgName>Musée d'Histoire de Marseille</orgName>
+              <orgName>Musée départemental Arles Antique</orgName>
+              <orgName>Frantiq</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <authority>Centre Camille Jullian (UMR 7299, CNRS)</authority>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2018">2018-</date>
+            <idno type="url">https://sculpturo.huma-num.fr/base/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Les bases de données de sculpture antique, <title>NEsp (Nouvel Espérandieu)</title>
+                constituant l’accompagnement documentaire des publications traditionnelles du même
+                nom et <title>RBR (Recueil des Bas-Reliefs)</title> conservant et valorisant les
+                archives de l’ancien Recueil d’<persName>Emile Espérandieu</persName>, mises en
+                ligne en <date>2006</date>, doivent être pérennisées et modernisées pour répondre au
+                paysage actuel de la recherche et s’inscrire dans les pratiques de la communauté des
+                humanités numériques.</p>
+              <p>Nous souhaitons dépasser le cadre du <title>NEsp</title> pour créer un espace
+                collaboratif de recherche sur la sculpture romaine en <placeName>Gaule</placeName>
+                et dans un contexte euro-méditerranéen, dont la réalisation s’appuiera sur les
+                compétences scientifiques et les savoir-faire techniques présents au <orgName>Centre
+                  Camille Jullian (CCJ)</orgName> et à l’<orgName>Institut de recherche sur
+                  l’Architecture Antique (IRAA)</orgName>. Il a pour ambition de proposer à la
+                communauté scientifique une seule plateforme complète, outil de mutualisation, issue
+                de l’évolution des bases existantes, depuis la collecte des données jusqu’à leur
+                publication, en prenant également en compte les questions de sécurité et de
+                pérennité des données. Techniquement, la plateforme reposera sur des protocoles et
+                standards nationaux et internationaux qui assurent l’interopérabilité et la
+                structuration des informations, en particulier sur l’utilisation du vocabulaire
+                pivot PACTOLS du partenaire <orgName>Frantiq</orgName>. La plateforme proposée
+                servira de support de formation (thématique et technique) et occupera une place
+                privilégiée dans le réseau de diffusion de la culture scientifique et technique
+                auprès d’un public plus large. Nous mettrons l’accent sur les collections lapidaires
+                régionales grâce aux liens forts existants avec les institutions muséales et
+                culturelles de <placeName>Marseille</placeName> et d’<placeName>Arles</placeName>,
+                partenaires de ce projet. Des actions de médiation culturelle seront menées
+                conjointement. Ce projet associe des organismes d’enseignement et de recherche
+                spécialisés et des musées autour de la construction d’un instrument d’analyse, de
+                référencement, et de valorisation du patrimoine régional, dans lequel enjeux
+                scientifiques et culturels sont étroitement liés.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
+        </biblFull>
+        <biblFull n="165">
+          <titleStmt>
+            <title type="main">SIAMESE</title>
+            <principal>
+              <persName>
+                <forename>Melvin</forename>
+                <surname>Wevers</surname>
+              </persName>
+              <persName>
+                <forename>Juliette</forename>
+                <surname>Lonij</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <authority>KB Lab</authority>
+            <publisher>National Library of the Netherlands</publisher>
+            <pubPlace>La Haye</pubPlace>
+            <date when="2017">2017</date>
+            <idno type="url">https://lab.kb.nl/tool/siamese</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Delpher</title> contains millions of advertisements in digital form.
+                However, querying for advertisements with a specific visual style or ads for a
+                particular product is more cumbersome than one would expect. First, advertisements
+                regularly contain logo’s or stylishly formatted text, which have not been probably
+                identified by OCR-software during digitisation. This makes it difficult to locate
+                ads for particular brands or products using full-text search. Second, a researcher
+                does not always know all the relevant keywords related to a product in a particular
+                time. Text mining techniques can help to extract significant keywords that express
+                historic brand names or products. However, the brand name might not always appear as
+                part of the OCR-ed text. How can we then find advertisements based on their visual
+                features, and possibly detect trends in these visual features?</p>
+              <p><title>SIAMESE</title> uses a Convolutional Neural Network (CNN) to identify
+                similar visual trends in advertisements. A neural network comprises a set of layers
+                of algorithms that work similar to how neurons work in our brains. They can filter
+                out patterns in visual data, which can aid researchers in identifying visual trends.
+                Researchers can analyse these visual trends or use them to dive deeper into the
+                textual content of a specific group of advertisements to identify specific keywords
+                related to products with a strong visual character. This is an approach similar to
+                  <orgName>Yale</orgName>’s Neural Neighbors project.</p>
+              <p><title>SIAMESE</title> presents users with the ten most similar images to a source
+                images and a timeline view consisting of the most similar image in every year
+                between <date>1948</date> and <date>1995</date>. Since the first three years after
+                the war contained very few advertisements, we start at <date>1948</date>. The ten
+                most similar images to a source allows users to detect whether the source image was
+                part of identifiable visual style. The timeline view allows users to study a visual
+                trend’s development.</p>
+            </note>
+            <note type="licence"><ref target="https://www.apache.org/licenses/LICENSE-2.0">Apache
+                Licence 2.0</ref></note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term>vision par ordinateur ou apprentissage machine / machine learning</term>
+            <term>visualisation de données/ data visualization</term>
+            <term>distance measures / mesures de distance</term>
+            <!-- CORIGGER -->
+          </keywords>
+          <keywords scheme="#Subject">
+            <term>réseau de neurones convolutif</term>
+            <term>journal</term>
+            <term>20e siècle</term>
+          </keywords>
+        </biblFull>
 
         <!-- https://gist.github.com/antoinecourtin/2a5c833d7f5c1baf093e8f29b640847d -->
         <!-- https://medium.com/@seeksanusername/ce-quil-ne-fallait-pas-rater-en-2019-autour-des-projets-en-humanit%C3%A9s-num%C3%A9riques-glam-4feb55f5ea22 -->
-        <!-- https://www.fabriquenumeriquedupasse.fr/pages/projets_filtres_v2/ -->
-        <!-- http://dhawards.org/dhawards2019/results/ -->
 
         <!-- https://memexproject.eu/fr/ ?? -->
         <!-- https://www.getty.edu/publications/ambers/ : Catalogue ?? -->
+        <!-- http://sespoa.huma-num.fr/ ?? -->
       </listBibl>
     </body>
   </text>
