@@ -60,13 +60,168 @@
             <date when="2020">2020</date>
             <idno type="url">https://tadirah.info/index.html</idno>
           </bibl>
-          <category></category>
+          <category>
+            <catDesc xml:lang="en">Analyzing</catDesc>
+            <catDesc xml:lang="fr">Analyse</catDesc>
+            <catDesc xml:lang="en">Analyzing refers to the activity of examining any kind of
+              information from collections of data, of discovering recurring phenomena, units,
+              elements, patterns, groupings, and the like. This can refer to structural, formal or
+              semantic aspects of data.</catDesc>
+            <category xml:id="ConrentAnalysis">
+              <term xml:lang="en">Content analysis</term>
+              <term xml:lang="fr">Analyse de contenu</term>
+              <catDesc xml:lang="en">Content analysis includes researching/studying aspects of
+                objects relating to their meaning, such as identifying concepts or meaningful
+                units.</catDesc>
+
+              <!-- Propositions n'existant pas dans Tadirah à cet endroit -->
+              <category xml:id="MachineLearning">
+                <term xml:lang="en">Machine learning</term>
+                <term xml:lang="fr">Apprentissage machine</term>
+              </category>
+              <category xml:id="ComputerVision">
+                <term xml:lang="en">Computer vision</term>
+                <term xml:lang="fr">Vision par ordinateur </term>
+              </category>
+              <category xml:id="NeuralNetwork">
+                <term xml:lang="en">Neural network</term>
+                <term xml:lang="fr">Réseau de neurones</term>
+              </category>
+              <category xml:id="PatternRecognition">
+                <term xml:lang="en">Pattern recognition</term>
+                <term xml:lang="fr">Reconnaissance de formes</term>
+              </category>
+              <!--  -->
+
+            </category>
+            <category xml:id="NetworkAnalysis">
+              <term xml:lang="en">Network analysis</term>
+              <term xml:lang="fr">Analyse de réseau</term>
+            </category>
+            <category xml:id="RelationAnalysis">
+              <term xml:lang="en">Relational analysis</term>
+              <term xml:lang="fr">Analyse relationnelle</term>
+              <category xml:id="Clustering">
+                <term xml:lang="en">Cluster analysis</term>
+                <term xml:lang="fr">Partitionnement de données</term>
+              </category>
+              <category xml:id="PCA">
+                <term xml:lang="en">Principal component analysis</term>
+                <term xml:lang="fr">Analyse en composantes principales</term>
+              </category>
+            </category>
+            <category xml:id="SpatialAnalysis">
+              <term xml:lang="en">Spatial analysis</term>
+              <term xml:lang="fr">Analyse spatiale</term>
+            </category>
+            <category xml:id="StylisticAnalysis">
+              <term xml:lang="en">Stylistic analysis</term>
+              <term xml:lang="fr">Analyse stylistique</term>
+              <category xml:id="AuthorshipAttribution">
+                <term xml:lang="en">Authorship attribution</term>
+                <term xml:lang="fr">Attribution de la paternité</term>
+              </category>
+              <category xml:id="GenreRecognition">
+                <term xml:lang="en">Genre recognition</term>
+                <term xml:lang="fr">Reconnaissance du genre <!-- Revoir la traduction --></term>
+              </category>
+            </category>
+            <category xml:id="Visualization">
+              <term xml:lang="en">Visual analysis</term>
+              <term xml:lang="fr">Visualisation</term>
+              <category xml:id="Map">
+                <term xml:lang="en">Mapping</term>
+                <term xml:lang="fr">Cartographie</term>
+              </category>
+              <category xml:id="Mindmap">
+                <term xml:lang="en">Mind mapping</term>
+                <term xml:lang="fr">Cartographie mentale</term>
+              </category>
+              <category xml:id="Plot">
+                <term xml:lang="en">Plotting</term>
+                <term xml:lang="en">Production graphique <!-- Revoir la traduction --></term>
+              </category>
+            </category>
+          </category>
+          <category>
+            <catDesc xml:lang="en">Capturing</catDesc>
+            <catDesc xml:lang="fr">Acquisition</catDesc>
+            <catDesc xml:lang="en">Capturing generally refers to the activity of creating digital
+              surrogates of real world objects, or expressing existing artifacts in a digital
+              representation. This refers basically to learning and noticing something (as in
+              discovering) and could be enhanced by a manual process (as in transcribing) or an
+              automated procedure (as in imaging, data recognition or recording). This also includes
+              aggregating resources, information and data (as in gathering).</catDesc>
+            <category xml:id="Recognition">
+              <term xml:lang="en">Data recognition</term>
+              <term xml:lang="fr">Reconnaissance de données</term>
+            </category>
+            <category xml:id="Imaging">
+              <term xml:lang="en">Imaging</term>
+              <term xml:lang="fr">Imagerie</term>
+            </category>
+          </category>
         </taxonomy>
         <taxonomy xml:id="Subject">
           <bibl>
-            <title>Taxonomie pour la description (sujet, aire géographique, période, etc.) des projets.</title>
+            <title>Taxonomy for projects description (subject, period, geographic era, ...).</title>
           </bibl>
-          <category></category>
+          <category>
+            <catDesc xml:lang="en">Studied object</catDesc>
+            <catDesc xml:lang="fr">Objet étudié</catDesc>
+            <category xml:id="Painting">
+              <term xml:lang="en">Painting</term>
+              <term xml:lang="fr">Peinture</term>
+            </category>
+            <category xml:id="Sculpture">
+              <term xml:lang="en">Sculpture</term>
+              <term xml:lang="fr">Sculpture</term>
+            </category>
+            <category xml:id="Photography">
+              <term xml:lang="en">Photography</term>
+              <term xml:lang="fr">Photographie</term>
+            </category>
+            <category xml:id="Journal">
+              <term xml:lang="en">Journal</term>
+              <term xml:lang="fr">Journal/revue</term>
+            </category>
+            <category xml:id="Monument">
+              <term xml:lang="en">Monument</term>
+              <term xml:lang="fr">Monument</term>
+            </category>
+            <category xml:id="Ceramic">
+              <term xml:lang="en">Ceramic</term>
+              <term xml:lang="fr">Céramique</term>
+            </category>
+            <category xml:id="Coin">
+              <term xml:lang="en">Coin</term>
+              <term xml:lang="fr">Monnaie</term>
+            </category>
+            <category xml:id="Figurine">
+              <term xml:lang="en">Figurine</term>
+              <term xml:lang="fr">Figurine</term>
+            </category>
+            <category xml:id="Weapon">
+              <term xml:lang="en">Weapon</term>
+              <term xml:lang="fr">Arme</term>
+            </category>
+          </category>
+          <category>
+            <catDesc xml:lang="en">Period</catDesc>
+            <catDesc xml:lang="fr">Période</catDesc>
+            <category xml:id="XXthCentury">
+              <term xml:lang="en">20th century</term>
+              <term xml:lang="fr">XX<hi rend="superscript">ème</hi> siècle</term>
+            </category>
+          </category>
+          <category>
+            <catDesc xml:lang="en">Geographical area</catDesc>
+            <catDesc xml:lang="fr">Aire géographique</catDesc>
+            <category xml:id="Asia">
+              <term xml:lang="en">Asia</term>
+              <term xml:lang="fr">Asie</term>
+            </category>
+          </category>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -9638,16 +9793,17 @@
             <note type="licence"><ref target="https://www.apache.org/licenses/LICENSE-2.0">Apache
                 Licence 2.0</ref></note>
           </notesStmt>
+
+          <!-- Exemple d'usages de tags -->
           <keywords scheme="#TaDiRAH">
-            <term>vision par ordinateur ou apprentissage machine / machine learning</term>
-            <term>visualisation de données/ data visualization</term>
-            <term>distance measures / mesures de distance</term>
-            <!-- CORIGGER -->
+            <term ref="#ComputerVision">Vision par ordinateur</term>
+            <term ref="#MachineLearning">Apprentissage machine</term>
+            <term ref="#Visualization">visualisation de données</term>
+            <term ref="#NeuralNetwork">Réseau de neurones</term>
           </keywords>
           <keywords scheme="#Subject">
-            <term>réseau de neurones convolutif</term>
-            <term>journal</term>
-            <term>20e siècle</term>
+            <term ref="#Journal">Journal</term>
+            <term ref="#XXthCentury">XXème siècle</term>
           </keywords>
         </biblFull>
 
