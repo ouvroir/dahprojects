@@ -6220,7 +6220,7 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>The Metropolitan Museum (MET)</publisher>
+            <publisher>The Metropolitan Museum of Art (MET)</publisher>
             <pubPlace>New York</pubPlace>
             <date from="2017" to="2022">2017-2022</date>
             <idno type="url">https://gen.studio/</idno>
@@ -8058,7 +8058,7 @@
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
-              <orgName>The Metropolitan Museum of Art</orgName>
+              <orgName>The Metropolitan Museum of Art (MET)</orgName>
               <orgName>The Asia for Educators Program at Columbia University</orgName>
               <orgName>The Visual Media Center at Columbia University</orgName>
             </respStmt>
@@ -9798,7 +9798,7 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#ComputerVision">Vision par ordinateur</term>
             <term ref="#MachineLearning">Apprentissage machine</term>
-            <term ref="#Visualization">visualisation de données</term>
+            <term ref="#Visualization">Visualisation de données</term>
             <term ref="#NeuralNetwork">Réseau de neurones</term>
           </keywords>
           <keywords scheme="#Subject">
@@ -9806,13 +9806,213 @@
             <term ref="#XXthCentury">XXème siècle</term>
           </keywords>
         </biblFull>
+        <!-- fin exemple -->
 
-        <!-- https://gist.github.com/antoinecourtin/2a5c833d7f5c1baf093e8f29b640847d -->
-        <!-- https://medium.com/@seeksanusername/ce-quil-ne-fallait-pas-rater-en-2019-autour-des-projets-en-humanit%C3%A9s-num%C3%A9riques-glam-4feb55f5ea22 -->
-
-        <!-- https://memexproject.eu/fr/ ?? -->
-        <!-- https://www.getty.edu/publications/ambers/ : Catalogue ?? -->
-        <!-- http://sespoa.huma-num.fr/ ?? -->
+        <biblFull n="166">
+          <titleStmt>
+            <title type="main">Where Uncertainty Falls</title>
+            <title type="sub">The incidence of the word "uncertain" in the Met's collection</title>
+            <principal>
+              <persName>
+                <forename>Clare</forename>
+                <surname>Churchouse</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Clare Churchouse</publisher>
+            <pubPlace>New York</pubPlace>
+            <date>s.d.</date>
+            <idno type="url"
+              >https://churc.github.io/MajorStudio1/MetProjectsQual/uncertainty/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>This qualitative project uses public domain images from the whole of <orgName>The
+                  Met</orgName> database using ‘uncertain’ and ‘uncertainty’ as a search term and
+                organizing principle to view what is assessed in the text as ‘uncertain.’ The
+                visualization focuses on the relation of text and image. The word uncertain/ty is
+                depicted where it occurs within the web label text, on titles or on dates. Titles,
+                dates and descriptions are hidden, visible on hover. Click on red ‘uncertainty’ text
+                in the header (where uncertainty falls) to view the text. 204 artworks have
+                uncertain/ty in their web label descriptions. Click on the green button for random
+                reload.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <!-- BDD, musée -->
+          </keywords>
+        </biblFull>
+        <biblFull n="167">
+          <titleStmt>
+            <title type="main">Digital Muret</title>
+            <principal>
+              <persName>
+                <forename>Cécile</forename>
+                <surname>Colonna</surname>
+              </persName>
+              <persName>
+                <forename>Mathilde</forename>
+                <surname>Avisseau-Broustet</surname>
+              </persName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Bibliothèque nationale de France (BnF)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Insitut National d'Histoire de l'Art (INHA)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2017">2017</date>
+            <idno type="url">https://www.zooniverse.org/projects/inha/digital-muret</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>L’<orgName>Institut national d’Histoire de l’Art (INHA)</orgName> en partenariat
+                avec la <orgName>Bibliothèque nationale de France (BnF)</orgName> propose à la
+                communauté de <orgName>Zooniverse</orgName> de participer à l’identification des
+                œuvres antiques dessinées par <persName>Jean-Baptiste Muret</persName>.</p>
+              <p>Le but de ce projet est de décrire et d’identifier un maximum d’oeuvres antiques
+                “orphelines” dessinées par <persName>Jean-Baptiste Muret</persName> au <date>XIX<hi
+                    rend="superscript">e</hi> siècle</date>. Le premier corpus publié est composé
+                d’images de céramiques grecques antiques, de tous types et de toutes époques. Elles
+                ne sont pas décrites, et leur lieu de conservation actuel n’est pas encore retrouvé.
+                Grâce à ces descriptions et identifications, nous pourrons avancer dans la
+                publication en ligne de l’ensemble des planches dessinées, le <title>Digital
+                  Muret</title>.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+            <!-- dessin, XIXe siècle, Antiquité, identification d'images, BDD, publication -->
+          </keywords>
+        </biblFull>
+        <biblFull n="168">
+          <titleStmt>
+            <title type="main">Gender &amp; Medium</title>
+            <principal>
+              <persName>
+                <forename>Clare</forename>
+                <surname>Churchouse</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Clare Churchouse</publisher>
+            <pubPlace>New York</pubPlace>
+            <date when="2018">2018</date>
+            <idno type="url"
+              >https://churc.github.io/MajorStudio1/Interactive/genderObj/index.html</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>A data visualization project by <persName>Clare Churchouse</persName> that
+                investigates who are the most collected female and male artists in <orgName>The
+                  Metropolitan Museum of Art’s Modern and Contemporary Art Collection</orgName> -
+                and looks at connections between particular mediums and gender.</p>
+              <p>Two visualizations from the <title>Gender at The Met</title> project are included
+                here and connections between medium and gender in the collection are explored. -
+                Gender: using total numbers, wrapped bar visualization, 1 pixel represents 2
+                artworks - What year were these artworks made?: timeline visualization, years
+                1850-2017 (14,284 artworks) - What medium are being collected by gender?: vertical
+                bar visualization of medium by gender using the 'Classification' column identifying
+                105 mediums - Who are the most collected women and men in the Modern and
+                Contemporary Art Collection and what did they make?: showing the top ten collected
+                women and the top ten collected men in the Collection, and drawing connections
+                between the artwork medium collected in the case of the top female artists and the
+                top male artists.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+            <!-- musée, études de genre, visualisation -->
+          </keywords>
+        </biblFull>
+        <biblFull n="169">
+          <titleStmt>
+            <title type="main">RePAIR</title>
+            <principal>
+              <persName>
+                <forename>Marcello</forename>
+                <surname>Pelillo</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Union Européenne (UE)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Ben-Gurion University of the Negev</orgName>
+              <orgName>Universität Bonn</orgName>
+              <orgName>Istituto Italiano di Tecnologia</orgName>
+              <orgName>IST-ID Técnico Lisboa</orgName>
+              <orgName>Pompeii Parco Archeologico di Pompei</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Università Ca'Foscari</publisher>
+            <pubPlace>Venise</pubPlace>
+            <date from="2020">2020</date>
+            <idno type="url">https://www.repairproject.eu/project/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>‘<title>RePAIR</title>’ project is an acronym for <title>Reconstructing the Past:
+                  Artificial Intelligence and Robotics meet Cultural Heritage</title>.</p>
+              <p>The main goal of <title>RePAIR</title> project is to develop a ground-breaking
+                technology to virtually eliminate one of the most labour intensive and frustrating
+                steps in archaeological research, namely the physical reconstruction of shattered
+                artworks. Indeed, countless vases, amphoras, frescos and other ancient artefacts,
+                all over the world, have not survived intact and were dug out from excavation sites
+                as large collections of fragments, many of which are damaged, worn out or missing
+                altogether.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+            <!-- archéologie, restauration, Antiquité, IA -->
+          </keywords>
+        </biblFull>
+        <biblFull n="170">
+          <titleStmt>
+            <title type="main">artnet</title>
+            <principal>
+              <persName>
+                <forename>Ljiljana</forename>
+                <surname>Kolešnik</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Institute of Art History</publisher>
+            <pubPlace>Zagreb</pubPlace>
+            <date from="2014" to="2018">2014-2018</date>
+            <idno type="url">https://www.art-net-ipu.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>artnet</title> is a research project in digital art history conducted at the
+                  <orgName>Institute of Art History</orgName> in <placeName>Zagreb</placeName>, from
+                  <date>2014</date> to <date>2018</date>. Project objective was to explore models of
+                organization and communication embedded in modern and contemporary artist networks.
+                Its initial hypothesis was the claim that there is a definite number of such models
+                sharing the same characteristics, regardless of the geographical location and
+                cultural context in which they operate; if identified, described and explained in
+                terms of analytic patterns, these models could be applied in the research of artist
+                networks at diverse national, regional, transnational and cross-cultural
+                settings.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="">
+            <term/>
+            <!-- visualisation, analyse de réseau, analyse spatiale -->
+          </keywords>
+        </biblFull>
+        
+        <!-- https://www.zotero.org/groups/525911/frick_art_reference_library_digital_art_history_lab/collections/DHTMC55X -->
+        
       </listBibl>
     </body>
   </text>
