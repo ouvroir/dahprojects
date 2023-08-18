@@ -60,115 +60,101 @@
             <date when="2020">2020</date>
             <idno type="url">https://tadirah.info/index.html</idno>
           </bibl>
-          <category>
-            <catDesc xml:lang="en">Analyzing</catDesc>
-            <catDesc xml:lang="fr">Analyse</catDesc>
-            <catDesc xml:lang="en">Analyzing refers to the activity of examining any kind of
-              information from collections of data, of discovering recurring phenomena, units,
-              elements, patterns, groupings, and the like. This can refer to structural, formal or
-              semantic aspects of data.</catDesc>
-            <category xml:id="ConrentAnalysis">
-              <term xml:lang="en">Content analysis</term>
-              <term xml:lang="fr">Analyse de contenu</term>
-              <catDesc xml:lang="en">Content analysis includes researching/studying aspects of
-                objects relating to their meaning, such as identifying concepts or meaningful
-                units.</catDesc>
+          <category xml:id="ContentAnalysis">
+            <term xml:lang="en">Content analysis</term>
+            <term xml:lang="fr">Analyse de contenu</term>
+            <catDesc xml:lang="en">Content analysis includes researching/studying aspects of objects
+              relating to their meaning, such as identifying concepts or meaningful units.</catDesc>
 
-              <!-- Propositions n'existant pas dans Tadirah à cet endroit -->
-              <category xml:id="MachineLearning">
-                <term xml:lang="en">Machine learning</term>
-                <term xml:lang="fr">Apprentissage machine</term>
-              </category>
-              <category xml:id="ComputerVision">
-                <term xml:lang="en">Computer vision</term>
-                <term xml:lang="fr">Vision par ordinateur </term>
-              </category>
-              <category xml:id="NeuralNetwork">
-                <term xml:lang="en">Neural network</term>
-                <term xml:lang="fr">Réseau de neurones</term>
-              </category>
-              <category xml:id="PatternRecognition">
-                <term xml:lang="en">Pattern recognition</term>
-                <term xml:lang="fr">Reconnaissance de formes</term>
-              </category>
-              <!--  -->
+            <!-- Propositions n'existant pas dans Tadirah à cet endroit -->
+            <category xml:id="MachineLearning">
+              <term xml:lang="en">Machine learning</term>
+              <term xml:lang="fr">Apprentissage machine</term>
+            </category>
+            <category xml:id="ComputerVision">
+              <term xml:lang="en">Computer vision</term>
+              <term xml:lang="fr">Vision par ordinateur</term>
+            </category>
+            <category xml:id="NeuralNetwork">
+              <term xml:lang="en">Neural network</term>
+              <term xml:lang="fr">Réseau de neurones</term>
+            </category>
+            <category xml:id="PatternRecognition">
+              <term xml:lang="en">Pattern recognition</term>
+              <term xml:lang="fr">Reconnaissance de formes</term>
+            </category>
+            <!--  -->
 
+          </category>
+          <category xml:id="NetworkAnalysis">
+            <term xml:lang="en">Network analysis</term>
+            <term xml:lang="fr">Analyse de réseau</term>
+          </category>
+          <category xml:id="RelationAnalysis">
+            <term xml:lang="en">Relational analysis</term>
+            <term xml:lang="fr">Analyse relationnelle</term>
+            <category xml:id="Clustering">
+              <term xml:lang="en">Cluster analysis</term>
+              <term xml:lang="fr">Partitionnement de données</term>
             </category>
-            <category xml:id="NetworkAnalysis">
-              <term xml:lang="en">Network analysis</term>
-              <term xml:lang="fr">Analyse de réseau</term>
-            </category>
-            <category xml:id="RelationAnalysis">
-              <term xml:lang="en">Relational analysis</term>
-              <term xml:lang="fr">Analyse relationnelle</term>
-              <category xml:id="Clustering">
-                <term xml:lang="en">Cluster analysis</term>
-                <term xml:lang="fr">Partitionnement de données</term>
-              </category>
-              <category xml:id="PCA">
-                <term xml:lang="en">Principal component analysis</term>
-                <term xml:lang="fr">Analyse en composantes principales</term>
-              </category>
-            </category>
-            <category xml:id="SpatialAnalysis">
-              <term xml:lang="en">Spatial analysis</term>
-              <term xml:lang="fr">Analyse spatiale</term>
-            </category>
-            <category xml:id="StylisticAnalysis">
-              <term xml:lang="en">Stylistic analysis</term>
-              <term xml:lang="fr">Analyse stylistique</term>
-              <category xml:id="AuthorshipAttribution">
-                <term xml:lang="en">Authorship attribution</term>
-                <term xml:lang="fr">Attribution de la paternité</term>
-              </category>
-              <category xml:id="GenreRecognition">
-                <term xml:lang="en">Genre recognition</term>
-                <term xml:lang="fr">Reconnaissance du genre <!-- Revoir la traduction --></term>
-              </category>
-            </category>
-            <category xml:id="Visualization">
-              <term xml:lang="en">Visual analysis</term>
-              <term xml:lang="fr">Visualisation</term>
-              <category xml:id="Map">
-                <term xml:lang="en">Mapping</term>
-                <term xml:lang="fr">Cartographie</term>
-              </category>
-              <category xml:id="Mindmap">
-                <term xml:lang="en">Mind mapping</term>
-                <term xml:lang="fr">Cartographie mentale</term>
-              </category>
-              <category xml:id="Plot">
-                <term xml:lang="en">Plotting</term>
-                <term xml:lang="en">Production graphique <!-- Revoir la traduction --></term>
-              </category>
+            <category xml:id="PCA">
+              <term xml:lang="en">Principal component analysis</term>
+              <term xml:lang="fr">Analyse en composantes principales</term>
             </category>
           </category>
-          <category>
-            <catDesc xml:lang="en">Capturing</catDesc>
-            <catDesc xml:lang="fr">Acquisition</catDesc>
-            <catDesc xml:lang="en">Capturing generally refers to the activity of creating digital
-              surrogates of real world objects, or expressing existing artifacts in a digital
-              representation. This refers basically to learning and noticing something (as in
-              discovering) and could be enhanced by a manual process (as in transcribing) or an
-              automated procedure (as in imaging, data recognition or recording). This also includes
-              aggregating resources, information and data (as in gathering).</catDesc>
-            <category xml:id="Recognition">
-              <term xml:lang="en">Data recognition</term>
-              <term xml:lang="fr">Reconnaissance de données</term>
+          <category xml:id="SpatialAnalysis">
+            <term xml:lang="en">Spatial analysis</term>
+            <term xml:lang="fr">Analyse spatiale</term>
+          </category>
+          <category xml:id="StylisticAnalysis">
+            <term xml:lang="en">Stylistic analysis</term>
+            <term xml:lang="fr">Analyse stylistique</term>
+            <category xml:id="AuthorshipAttribution">
+              <term xml:lang="en">Authorship attribution</term>
+              <term xml:lang="fr">Attribution de la paternité</term>
             </category>
-            <category xml:id="Imaging">
-              <term xml:lang="en">Imaging</term>
-              <term xml:lang="fr">Imagerie</term>
+            <category xml:id="GenreRecognition">
+              <term xml:lang="en">Genre recognition</term>
+              <term xml:lang="fr">Reconnaissance du genre<!-- Revoir la traduction --></term>
             </category>
           </category>
+          <category xml:id="Visualization">
+            <term xml:lang="en">Visual analysis</term>
+            <term xml:lang="fr">Visualisation</term>
+            <category xml:id="Map">
+              <term xml:lang="en">Mapping</term>
+              <term xml:lang="fr">Cartographie</term>
+            </category>
+            <category xml:id="Mindmap">
+              <term xml:lang="en">Mind mapping</term>
+              <term xml:lang="fr">Cartographie mentale</term>
+            </category>
+            <category xml:id="Plot">
+              <term xml:lang="en">Plotting</term>
+              <term xml:lang="en">Graphique</term>
+            </category>
+            <category xml:id="Chronology">
+              <term xml:lang="en">Chronology</term>
+              <term xml:lang="en">Chronologie</term>
+            </category>
+          </category>
+          <category xml:id="Modeling3D">
+            <term xml:lang="en">3D Modeling</term>
+            <term xml:lang="fr">Modélisation 3D</term>
+          </category>
+          <category xml:id="Database">
+            <term xml:lang="en">Database</term>
+            <term xml:lang="fr">Base de données</term>
+          </category>
+
         </taxonomy>
         <taxonomy xml:id="Subject">
           <bibl>
             <title>Taxonomy for projects description (subject, period, geographic era, ...).</title>
           </bibl>
           <category>
-            <catDesc xml:lang="en">Studied object</catDesc>
-            <catDesc xml:lang="fr">Objet étudié</catDesc>
+            <catDesc xml:lang="en">Object</catDesc>
+            <catDesc xml:lang="fr">Objet</catDesc>
             <category xml:id="Painting">
               <term xml:lang="en">Painting</term>
               <term xml:lang="fr">Peinture</term>
@@ -185,9 +171,9 @@
               <term xml:lang="en">Journal</term>
               <term xml:lang="fr">Journal/revue</term>
             </category>
-            <category xml:id="Monument">
-              <term xml:lang="en">Monument</term>
-              <term xml:lang="fr">Monument</term>
+            <category xml:id="Architecture">
+              <term xml:lang="en">Architecture</term>
+              <term xml:lang="fr">Architecture</term>
             </category>
             <category xml:id="Ceramic">
               <term xml:lang="en">Ceramic</term>
@@ -197,20 +183,16 @@
               <term xml:lang="en">Coin</term>
               <term xml:lang="fr">Monnaie</term>
             </category>
-            <category xml:id="Figurine">
-              <term xml:lang="en">Figurine</term>
-              <term xml:lang="fr">Figurine</term>
-            </category>
-            <category xml:id="Weapon">
-              <term xml:lang="en">Weapon</term>
-              <term xml:lang="fr">Arme</term>
+            <category xml:id="Museum">
+              <term xml:lang="en">Museum</term>
+              <term xml:lang="fr">Musée</term>
             </category>
           </category>
           <category>
             <catDesc xml:lang="en">Period</catDesc>
             <catDesc xml:lang="fr">Période</catDesc>
             <category xml:id="XXthCentury">
-              <term xml:lang="en">20th century</term>
+              <term xml:lang="en">20<hi rend="superscript">th</hi> century</term>
               <term xml:lang="fr">XX<hi rend="superscript">ème</hi> siècle</term>
             </category>
           </category>
@@ -220,6 +202,10 @@
             <category xml:id="Asia">
               <term xml:lang="en">Asia</term>
               <term xml:lang="fr">Asie</term>
+            </category>
+            <category xml:id="Europe">
+              <term xml:lang="en">Europe</term>
+              <term xml:lang="fr">Europe</term>
             </category>
           </category>
         </taxonomy>
@@ -831,7 +817,13 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term xml:lang="fr"/>
+            <term ref="#Modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term>France</term>
+            <term>XIIIe siècle</term>
           </keywords>
         </biblFull>
         <biblFull n="2">
@@ -853,7 +845,7 @@
             <pubPlace>Heidelberg</pubPlace>
             <date from="2014" to="2015">2014-2015</date>
             <idno type="url">http://kjc-sv013.kjc.uni-heidelberg.de/hachiman/</idno>
-            <idno type="brokenLink" when="2022-01-20"
+            <idno type="brokenLink" when="2029-02-05"
               >https://web.archive.org/web/20220815000000*/http://kjc-sv013.kjc.uni-heidelberg.de/hachiman/</idno>
           </publicationStmt>
           <notesStmt>
@@ -870,8 +862,8 @@
                   >HyperImage Reader</ref>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
           </keywords>
         </biblFull>
         <biblFull n="3">
@@ -901,8 +893,13 @@
                   target="https://sites.google.com">Google sites</ref>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#ContentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term>Renaissance</term>
           </keywords>
         </biblFull>
         <biblFull n="4">
@@ -941,8 +938,15 @@
                 carte.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term>Italie</term>
+            <term>Renaissance</term>
           </keywords>
         </biblFull>
         <biblFull n="5">
@@ -993,39 +997,13 @@
                 listed below.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Modeling3D">Modélisation 3D</term>
           </keywords>
-        </biblFull>
-        <biblFull n="6">
-          <titleStmt>
-            <title type="main">Wired !</title>
-            <title type="sub">Digital art history &amp; visual culture</title>
-            <principal>
-              <persName>
-                <forename>Kristin Huffman</forename>
-                <surname>Lanzoni</surname>
-              </persName>
-            </principal>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Duke University</publisher>
-            <pubPlace>Duhram</pubPlace>
-            <date from="2009" to="2015">2009-2015</date>
-            <idno type="url">http://www.dukewired.org</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="fr">
-              <p><title>Wired !</title> est un groupe de chercheurs de l’<orgName>univeristé de
-                  Duke</orgName> qui appliquent les technologies de visualisation culturelle et
-                historique et leurs méthodes à l’étude de la culture matérielle, de l’art, de
-                l’architecture et à l’histoire urbaine.</p>
-              <p>Le projet a changé de nom pour devenir le <title>Duke’s Digital Art History &amp;
-                  Visual Culture Research Lab</title>.</p>
-            </note>
-          </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#Subject">
+            <term ref="#Sculpture">Sculpture</term>
+            <term>Italie</term>
+            <term>Renaissance</term>
           </keywords>
         </biblFull>
         <biblFull n="7">
@@ -1075,8 +1053,12 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term>Italie</term>
           </keywords>
         </biblFull>
         <biblFull n="8">
@@ -1171,8 +1153,13 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term>Italie</term>
           </keywords>
         </biblFull>
         <biblFull n="9">
@@ -1270,8 +1257,12 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Sculpture">Sculpture</term>
           </keywords>
         </biblFull>
         <biblFull n="10">
@@ -1365,8 +1356,13 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term>Italie</term>
+            <term>Âge du Bronze</term>
+            <term>Moyen Âge</term>
           </keywords>
         </biblFull>
         <biblFull n="11">
@@ -1405,7 +1401,11 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term/>
+            <term ref="#Modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Sculpture">Sculpture</term>
+            <term>Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull n="12">
@@ -1456,8 +1456,11 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Museum">Musée</term>
           </keywords>
         </biblFull>
         <biblFull n="13">
@@ -1492,48 +1495,15 @@
             </note>
             <note/>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Database">Base de données</term>
           </keywords>
-        </biblFull>
-        <biblFull n="14">
-          <titleStmt>
-            <title type="main">SmartHistory</title>
-            <principal>
-              <persName>
-                <forename>Beth</forename>
-                <surname>Harris</surname>
-              </persName>
-              <persName>
-                <forename>Steven</forename>
-                <surname>Zucker</surname>
-              </persName>
-            </principal>
-            <funder>
-              <orgName>Khan Academy</orgName>
-            </funder>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Khan Academy</publisher>
-            <pubPlace>New York</pubPlace>
-            <date from="2005" to="2022">2005-2022</date>
-            <idno type="brokenLink" when="2019-08-29"
-              >https://www.khanacademy.org/humanities/art-history-basics/beginners-art-history/a/cave-painting-contemporary-art-and-everything-in-between</idno>
-            <idno type="url">https://smarthistory.org/</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="en">
-              <p><title>Smarthistory</title> is a leading resource for the study of art and cultural
-                heritage. Our growing collection of videos and essays are designed to be engaging
-                and conversational and cover art that ranges from the paleolithic to the present
-                across Africa, the Americas, Asia, Europe, and Oceania. Everything on
-                  <title>Smarthistory</title> is completely free and our content is offered with no
-                advertising. We are a tiny non-profit organization based in <placeName>New
-                  York</placeName>, but we reach millions of learners around the world.</p>
-            </note>
-          </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Museum">Musée</term>
+            <term>Italie</term>
+            <term>Renaissance</term>
           </keywords>
         </biblFull>
         <biblFull n="15">
@@ -1581,8 +1551,13 @@
                 one of the world’s great artistic traditions.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Museum">Musée</term>
+            <term ref="#Painting">Peinture</term>
+            <term>Xe - XIVe siècles</term>
           </keywords>
         </biblFull>
         <biblFull n="16">
@@ -1633,8 +1608,15 @@
                 assistance in creating this bilingual digital catalogue. </p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Museum">Musée</term>
+            <term ref="#Painting">Peinture</term>
+            <term>Xe - XIVe siècles</term>
+            <term ref="#Asia">Asie</term>
+            <term>Corée</term>
           </keywords>
         </biblFull>
         <biblFull n="17">
@@ -1693,8 +1675,14 @@
                 art markets, and lay a foundation for his legacy.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Museum">Musée</term>
           </keywords>
         </biblFull>
         <biblFull n="18">
@@ -1759,8 +1747,15 @@
                 welcome both your comments and scholarly contributions to the narratives.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term>France</term>
+            <term>XIIe - XIIIe siècles</term>
           </keywords>
         </biblFull>
         <biblFull n="19">
@@ -1801,7 +1796,13 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term/>
+            <term ref="#ContentAnalysis">Analyse de contenu</term>
+            <term ref="#ComputerVision">Vision par ordinateur</term>
+            <term ref="#MachineLearning">Apprentissage machine</term>
+            <term ref="#PatternRecognition">Reconnaissance de formes</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
           </keywords>
         </biblFull>
         <biblFull n="20">
@@ -1841,8 +1842,16 @@
                 forms of sculptural reproduction, particularly the cast.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Modeling3D">Modélisation 3D</term>
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Sculpture">Sculpture</term>
+            <term>Égypte</term>
+            <term>Grèce</term>
+            <term>Italie</term>
+            <term>Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull n="21">
@@ -1912,8 +1921,11 @@
                 requirements over all of the image collections.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#StylisticAnalysis">Analyse stylistique</term>
+            <term ref="#AuthorshipAttribution">Attribution de la paternité</term>
+            <term ref="#ComputerVision">Vision par ordinateur</term>
+            <term ref="#Database">Base de données</term>
           </keywords>
         </biblFull>
         <biblFull n="22">
@@ -1987,8 +1999,14 @@
                 detect them in antique pieces (Cort et. al. 1997, Lefferts and Cort 2003).</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+            <term ref="#Chronology">Chronologie</term>
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Asia">Asie</term>
           </keywords>
         </biblFull>
         <biblFull n="23">
@@ -2045,8 +2063,14 @@
                 significantly different from the traditional model of the monographic catalogue.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Museum">Musée</term>
+            <term ref="#Painting">Peinture</term>
+            <term>Renaissance</term>
+            <term>Allemagne</term>
           </keywords>
         </biblFull>
         <biblFull n="24">
@@ -8639,6 +8663,7 @@
                 <surname>Varone</surname>
               </persName>
             </principal>
+
             <funder>
               <orgName>The Andrew W. Mellon Foundation</orgName>
               <orgName>Ernst von Siemens Art Foundation</orgName>
@@ -9803,7 +9828,7 @@
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Journal">Journal</term>
-            <term ref="#XXthCentury">XXème siècle</term>
+            <term ref="#XXthCentury">XXe siècle</term>
           </keywords>
         </biblFull>
         <!-- fin exemple -->
@@ -10010,9 +10035,9 @@
             <!-- visualisation, analyse de réseau, analyse spatiale -->
           </keywords>
         </biblFull>
-        
+
         <!-- https://www.zotero.org/groups/525911/frick_art_reference_library_digital_art_history_lab/collections/DHTMC55X -->
-        
+
       </listBibl>
     </body>
   </text>
