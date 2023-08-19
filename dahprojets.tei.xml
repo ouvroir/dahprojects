@@ -133,8 +133,8 @@
               <term xml:lang="en">Plotting</term>
               <term xml:lang="en">Graphique</term>
             </category>
-            <category xml:id="Chronology">
-              <term xml:lang="en">Chronology</term>
+            <category xml:id="Timeline">
+              <term xml:lang="en">Timeline</term>
               <term xml:lang="en">Chronologie</term>
             </category>
           </category>
@@ -166,6 +166,10 @@
             <category xml:id="Photography">
               <term xml:lang="en">Photography</term>
               <term xml:lang="fr">Photographie</term>
+            </category>
+            <category xml:id="Drawing">
+              <term xml:lang="en">Drawing</term>
+              <term xml:lang="fr">Dessin</term>
             </category>
             <category xml:id="Journal">
               <term xml:lang="en">Journal</term>
@@ -206,6 +210,18 @@
             <category xml:id="Europe">
               <term xml:lang="en">Europe</term>
               <term xml:lang="fr">Europe</term>
+            </category>
+            <category xml:id="America">
+              <term xml:lang="en">America</term>
+              <term xml:lang="fr">Amérique</term>
+            </category>
+            <category xml:id="Africa">
+              <term xml:lang="en">Africa</term>
+              <term xml:lang="fr">Afrique</term>
+            </category>
+            <category xml:id="Oceania">
+              <term xml:lang="en">Oceania</term>
+              <term xml:lang="fr">Océanie</term>
             </category>
           </category>
         </taxonomy>
@@ -1496,7 +1512,6 @@
             <note/>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
             <term ref="#Database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
@@ -1679,6 +1694,7 @@
             <term ref="#Database">Base de données</term>
             <term ref="#Visualization">Visualisation</term>
             <term ref="#Map">Cartographie</term>
+            <term ref="#SpatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
@@ -1750,6 +1766,7 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#Visualization">Visualisation</term>
             <term ref="#Map">Cartographie</term>
+            <term ref="#SpatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Architecture">Architecture</term>
@@ -2002,11 +2019,13 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#Visualization">Visualisation</term>
             <term ref="#Map">Cartographie</term>
-            <term ref="#Chronology">Chronologie</term>
+            <term ref="#Timeline">Chronologie</term>
             <term ref="#Database">Base de données</term>
+            <term ref="#SpatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Asia">Asie</term>
+            <term ref="#Ceramic">Céramique</term>
           </keywords>
         </biblFull>
         <biblFull n="23">
@@ -2098,8 +2117,15 @@
                   target="http://osm.org/">OpenStreetMap</ref></p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Europe">Europe</term>
+            <term>France</term>
+            <term ref="#Photography">Photographie</term>
+            <term ref="#Drawing">Dessin</term>
           </keywords>
         </biblFull>
         <biblFull n="25">
@@ -2140,7 +2166,14 @@
                 Commons Attribution 4.0 International License</ref></note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term/>
+            <term ref="#Map">Cartographie</term>
+            <term ref="#Visualization">Visualisation</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term>Italie</term>
+            <term>Renaissance</term>
           </keywords>
         </biblFull>
         <biblFull n="26">
@@ -2173,8 +2206,16 @@
                 géolocalisées grâce à Wikimedia Commons.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#SpatialAnalysis"></term>
+            <term ref="#Map">Cartographie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term>Paris</term>
+            <term>XVIIIe - XXIe siècles</term>
           </keywords>
         </biblFull>
         <biblFull n="27">
@@ -2207,7 +2248,7 @@
             <idno type="url">http://www.cezannecatalogue.com</idno>
           </publicationStmt>
           <notesStmt>
-            <note type="abstract" xml:lang="en">
+            <note type="abstract" xml:lang="fr">
               <p>Ce catalogue raisonné est une tentative de rendre compte de l’œuvre complet du
                 peintre. Le projet tire parti de la versatilité des technologies numériques et
                 entend orienter la recherche sur le peintre dans de nouvelles voies. Le catalogue en
@@ -2223,8 +2264,14 @@
                   target="http://panopticondesign.net/">panOpticon</ref></p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term>France</term>
+            <term>XIXe siècle</term>
           </keywords>
         </biblFull>
         <biblFull n="28">
@@ -2273,8 +2320,11 @@
                 new connections to museum exhibit content.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Museum">Musée</term>
           </keywords>
         </biblFull>
         <biblFull n="29">
@@ -2339,8 +2389,16 @@
               <p>TECHNOLOGY : HTML5, CSS3, Canvas/WebGL, pixi.js und d3.js</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Plot">Graphique</term>
+            <term ref="#Timeline">Chronologie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term>Allemagne</term>
+            <term>XVIIe siècle</term>
           </keywords>
         </biblFull>
         <biblFull n="30">
@@ -2379,8 +2437,15 @@
                 are an on-going process, and we welcome scholarly contributions and feedback.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Database">Base de données</term>
+            <term ref="#Map">Cartographie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Europe">Europe</term>
+            <term>Royaume-Uni</term>
+            <term>XIXe - XXe siècle</term>
           </keywords>
         </biblFull>
         <biblFull n="31">
@@ -2426,8 +2491,15 @@
                 library/texts and Luna galleries.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Sculpture">Sculpture</term>
+            <term ref="#Architecture">Architecture</term>
+            <term ref="#America">America</term>
+            <term>XVIe - XIXe siècles</term>
           </keywords>
         </biblFull>
         <biblFull n="32">
@@ -2444,7 +2516,8 @@
             <publisher>Stuart Whatling</publisher>
             <pubPlace>Londres</pubPlace>
             <date from="2012" to="2016">2012-2016</date>
-            <idno type="brokenLink" when="2021-01-23">http://www.medievalart.org.uk/</idno>
+            <idno type="url">http://www.medievalart.org.uk/</idno>
+            <idno type="brokenLink" when="2016-12-17">http://web.archive.org/web/20161217013105/http://www.medievalart.org.uk/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -2458,8 +2531,14 @@
                 the roughly 10,000 images he shot on my various research trips to France.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term>France</term>
+            <term>Moyen Âge</term>
           </keywords>
         </biblFull>
         <biblFull n="33">
@@ -2481,8 +2560,9 @@
             <publisher>Scuola Normale Superiore</publisher>
             <pubPlace>Pise</pubPlace>
             <date when="2011">2011</date>
-            <idno type="brokenLink" when="2019-02-25"
-              >http://pompei.sns.it/prado_front_end/index.php?page=Home&amp;id=1</idno>
+            <idno type="url">http://pompei.sns.it/</idno>
+            <idno type="brokenLink" when="2019-02-21"
+              >http://web.archive.org/web/20190221052847/http://pompei.sns.it/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="it">
@@ -2585,8 +2665,15 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Architecture">Architecture</term>
+            <term ref="#Drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term>Italie</term>
+            <term>XVIIIe - XIXe siècles</term>
           </keywords>
         </biblFull>
         <biblFull n="34">
@@ -2690,8 +2777,16 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Architecture">Architecture</term>
+            <term ref="#Drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term>France</term>
+            <term>XVIIe - XVIIIe siècles</term>
           </keywords>
         </biblFull>
         <biblFull n="35">
@@ -2731,8 +2826,14 @@
                 at the Schaumainkai from inside - that's the closest you can possibly get! </p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Museum">Musée</term>
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term>Allemagne</term>
           </keywords>
         </biblFull>
         <biblFull n="36">
@@ -2891,8 +2992,14 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term>Renaissance</term>
+            <term>Époque Baroque</term>
           </keywords>
         </biblFull>
         <biblFull n="37">
@@ -2930,8 +3037,14 @@
                 the indexes of the archives of <orgName>Bildarchiv Foto Marburg</orgName>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Museum"></term>
+            <term ref="#Drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term>Allemagne</term>
           </keywords>
         </biblFull>
         <biblFull n="38">
@@ -2973,8 +3086,15 @@
                   November 5th, 1622</date>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term>Royaume-Uni</term>
+            <term>XVIIe siècle</term>
           </keywords>
         </biblFull>
         <biblFull n="39">
@@ -3010,8 +3130,16 @@
                 digital publication.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Photography">Photographie</term>
+            <term ref="#America">Amérique</term>
+            <term>États-Unis</term>
+            <term>XXe - XXIe siècles</term>
           </keywords>
         </biblFull>
         <biblFull n="40">
