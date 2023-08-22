@@ -67,9 +67,10 @@
               relating to their meaning, such as identifying concepts or meaningful units.</catDesc>
 
             <!-- Propositions n'existant pas dans Tadirah à cet endroit -->
-            <category xml:id="MachineLearning">
-              <term xml:lang="en">Machine learning</term>
-              <term xml:lang="fr">Apprentissage machine</term>
+            <category xml:id="OCR_HTR">
+              <term xml:lang="en">Optical character recognition/Handwritten text recognition</term>
+              <term xml:lang="fr">Reconnaissance optique de caractères/Reconnaissance de l'écriture
+                manuscrite</term>
             </category>
             <category xml:id="ComputerVision">
               <term xml:lang="en">Computer vision</term>
@@ -171,9 +172,17 @@
               <term xml:lang="en">Drawing</term>
               <term xml:lang="fr">Dessin</term>
             </category>
+            <category xml:id="Engraving">
+              <term xml:lang="en">Engraving</term>
+              <term xml:lang="fr">Gravure</term>
+            </category>
             <category xml:id="Journal">
               <term xml:lang="en">Journal</term>
               <term xml:lang="fr">Journal/revue</term>
+            </category>
+            <category xml:id="Manuscript">
+              <term xml:lang="en">Manuscript</term>
+              <term xml:lang="fr">Manuscript</term>
             </category>
             <category xml:id="Architecture">
               <term xml:lang="en">Architecture</term>
@@ -1815,7 +1824,6 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#ContentAnalysis">Analyse de contenu</term>
             <term ref="#ComputerVision">Vision par ordinateur</term>
-            <term ref="#MachineLearning">Apprentissage machine</term>
             <term ref="#PatternRecognition">Reconnaissance de formes</term>
           </keywords>
           <keywords scheme="#Subject">
@@ -2208,7 +2216,7 @@
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#Visualization">Visualisation</term>
-            <term ref="#SpatialAnalysis"></term>
+            <term ref="#SpatialAnalysis"/>
             <term ref="#Map">Cartographie</term>
           </keywords>
           <keywords scheme="#Subject">
@@ -2517,7 +2525,8 @@
             <pubPlace>Londres</pubPlace>
             <date from="2012" to="2016">2012-2016</date>
             <idno type="url">http://www.medievalart.org.uk/</idno>
-            <idno type="brokenLink" when="2016-12-17">http://web.archive.org/web/20161217013105/http://www.medievalart.org.uk/</idno>
+            <idno type="brokenLink" when="2016-12-17"
+              >http://web.archive.org/web/20161217013105/http://www.medievalart.org.uk/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -3041,7 +3050,7 @@
             <term ref="#Database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
-            <term ref="#Museum"></term>
+            <term ref="#Museum"/>
             <term ref="#Drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
             <term>Allemagne</term>
@@ -3166,8 +3175,11 @@
                 complex information via digital technologies.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Museum">Musée</term>
           </keywords>
         </biblFull>
         <biblFull n="41">
@@ -3209,9 +3221,24 @@
               <p>This publication uses data generated via the <ref
                   target="http://www.zooniverse.org">Zooniverse platform</ref>.</p>
             </note>
+            <note type="licence">The Getty Research Institute makes the data and code available
+              under the least restrictive open license possible; however, note that each directory
+              has its own license. The J. Paul Getty Trust also owns the copyright to the Lawrence
+              Alloway and Sylvia Sleigh papers, including digital images of the correspondence.
+              These images are not included under any open license, but may be downloaded for
+              personal, non-commercial use.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#ContentAnalysis">Analyse de contenu</term>
+            <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture
+              manuscrite</term>
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Manuscript">Manuscript</term>
+            <term ref="#America">Amérique</term>
+            <term>États-Unis</term>
+            <term>XXe siècle</term>
           </keywords>
         </biblFull>
         <biblFull n="42">
@@ -3265,47 +3292,67 @@
                 Division.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#ContentAnalysis">Analyse de contenu</term>
+            <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture
+              manuscrite</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Drawing">Dessin</term>
+            <term ref="#Manuscript">Manuscript</term>
+            <term ref="#Europe">Europe</term>
+            <term>Italie</term>
+            <term>XVIe siècle</term>
           </keywords>
         </biblFull>
         <biblFull n="43">
           <titleStmt>
-            <title type="main">Berlin/Los Angeles: Space for Music</title>
-            <funder>
-              <orgName>Getty Research Institute</orgName>
-            </funder>
+            <title type="main">Richard Wilson Online</title>
+            <principal>
+              <persName>
+                <forename>Paul</forename>
+                <surname>Spencer-Longhurst</surname>
+              </persName>
+              <persName>
+                <forename>Peter</forename>
+                <surname>Thomas</surname>
+              </persName>
+              <persName>
+                <forename>Maisoon</forename>
+                <surname>Rehani</surname>
+              </persName>
+            </principal>
           </titleStmt>
           <publicationStmt>
-            <publisher>Getty</publisher>
-            <pubPlace>Los Angeles</pubPlace>
-            <date when="2017">2017</date>
-            <idno type="url"
-              >http://www.getty.edu/research/exhibitions_events/exhibitions/space_for_music/</idno>
+            <publisher>Paul Mellon Centre</publisher>
+            <pubPlace>Londres</pubPlace>
+            <date from="2009">2009-</date>
+            <idno type="url">https://www.richardwilsononline.ac.uk/home?WINID=1692713990158</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>This exhibition celebrates the 50th anniversary of the sister-city partnership
-                between <placeName>Berlin</placeName> and <placeName>Los Angeles</placeName> by
-                exploring two iconic buildings: Hans Scharoun's Berlin Philharmonic (Berliner
-                Philharmonie, built <date>1960–1963</date>) and Frank Gehry's Walt Disney Concert
-                Hall (built <date>1999–2003</date>). Both buildings have captured the public's
-                imagination and become signature features of the landscape of each city. Focusing on
-                the buildings' extraordinary interiors and exteriors, <title>Berlin/Los Angeles:
-                  Space for Music</title> brings together original drawings, sketches, prints,
-                photographs, and models to convey the architects' design processes. The parallels
-                demonstrate how the Berlin Philharmonic and the Walt Disney Concert Hall were
-                pivotal in fostering a strong resonance between architecture and the city.</p>
-              <p>Using laser-scanning technology, this project examines Hans Scharoun’s iconic
-                Berlin Philharmonie (<date>1960–1963</date>) through 3-D renderings. The project’s
-                first phase, a collaboration with the <orgName>Fraunhofer Institute’s Competence
-                  Center for Cultural Heritage Digitization</orgName>, produced a physical model of
-                the hall, which was featured in the exhibition <title>Berlin/LA: Spaces for
-                  Music</title>.</p>
+              <p><title>Richard Wilson Online</title> is the outcome of ongoing intensive research
+                undertaken since <date>October 2009</date> with a view to re-establishing the
+                artist’s true status and redefining his authentic oeuvre. The project aims to update
+                and assimilate the magisterial catalogue raisonné published by Professor
+                  <persName>W.G. Constable</persName> in <date>1953</date> and Sir
+                  <persName>Brinsley Ford</persName>’s <title>The Drawings of Richard Wilson</title>
+                of <date>1951</date> (still the only book on the subject). In addition it is
+                intended to add a commentary on the prints after Wilson’s works, which were a
+                crucial instrument in their public reception. By its nature such an undertaking is
+                lengthy and for this reason <title>Richard Wilson Online</title> is presented as a
+                work-in-progress.</p>
             </note>
+            <note type="licence">Usage uniquement personnel, pédagogique et non-commercial.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term>Royaume-Uni</term>
+            <term>XVIIIe siècle</term>
           </keywords>
         </biblFull>
         <biblFull n="44">
@@ -3336,21 +3383,31 @@
               <p>This website presents ten of these photographed panels, selected to exemplify both
                 the cosmographical and art-historical content of the <title>Mnemosyne Atlas</title>.
                 Though offering but fragments of a fragment, it is designed to show some of the
-                Wanderstrassen that Warburg pursued in the Atlas. The <orgName>Warburg
-                  Institute</orgName> has provided new, better scans of the surviving photographs –
-                better, that is, than the images seen in the Gesammelte Schriften volume and other
-                publications (to say nothing of other venues on the Web).</p>
+                Wanderstrassen that <persName>Warburg</persName> pursued in the
+                <title>Atlas</title>. The <orgName>Warburg Institute</orgName> has provided new,
+                better scans of the surviving photographs – better, that is, than the images seen in
+                the Gesammelte Schriften volume and other publications (to say nothing of other
+                venues on the Web).</p>
               <p>Furthermore, the ability to zoom in and out on the panels and on individual images
-                permits a closer inspection of the material aspects of the Atlas. Alternately, if
-                you click on individual images, a window providing identifying information will
-                appear; frequently links to further iterations and permutations on the same image
-                are also provided. Finally, under the tab “Guided Panels,” the user will find
-                interpretations of individual panels by myself and other scholars. Such meanderings,
-                of course, are meant to be at best exemplary, but never exhaustive.</p>
+                permits a closer inspection of the material aspects of the <title>Atlas</title>.
+                Alternately, if you click on individual images, a window providing identifying
+                information will appear; frequently links to further iterations and permutations on
+                the same image are also provided. Finally, under the tab “Guided Panels,” the user
+                will find interpretations of individual panels by myself and other scholars. Such
+                meanderings, of course, are meant to be at best exemplary, but never exhaustive.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+            <term ref="#ContentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term>Allemagne</term>
+            <term>XIXe - XXe siècles</term>
           </keywords>
         </biblFull>
         <biblFull n="45">
@@ -3367,7 +3424,6 @@
             <publisher>Ludwig-Maximilians-Universität (LMU)</publisher>
             <pubPlace>Munich</pubPlace>
             <date from="2010" to="2018">2010-2018</date>
-            <idno type="url">https://data.ub.unit-muenchen.de/136/</idno>
             <idno type="url">http://www.artigo.org/api.html</idno>
           </publicationStmt>
           <notesStmt>
@@ -3430,7 +3486,7 @@
               </biblStruct>
               <biblStruct>
                 <analytic>
-                  <title type="a">RTigo: Building an Artwork Search Engine With Games and
+                  <title type="a">ARTigo: Building an Artwork Search Engine With Games and
                     Higher-Order Latent Semantic Analysis</title>
                   <author>
                     <persName>
@@ -3517,9 +3573,16 @@
                 </monogr>
               </biblStruct>
             </note>
+            <note type="licence"><ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+                >Creative Commons Licence (CC BY-SA 4.0)</ref></note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#ContentAnalysis">Analyse de contenu</term>
+            <term ref="#PatternRecognition">Reconnaissance de formes</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Drawing">Dessin</term>
           </keywords>
         </biblFull>
         <biblFull n="46">
@@ -3558,15 +3621,15 @@
                 may engage with these issues.</p>
               <p>Visualizing, understanding, and generating new insights into the changing patterns
                 and objectives for these types of travel are the primary motivators of behind
-                Itinera. Designed to allow scholars and students to better comprehend the
-                interconnected phenomena of mobility, object collection, and site documentation in
-                the eighteenth and nineteenth centuries, Itinera is an map-based, interactive,
-                digital resource that overlays and juxtaposes the movements of travelers alongside
-                the objects of their study and their own creative output. Itinera therefore operates
-                on between two central modelings. The “Travelers” section introduces a user of this
-                site to the historical network in which individual agents existed, while the
-                “Routes” and “Chronology” sections sketch the travels undertaken during their
-                lifetimes.</p>
+                  <title>Itinera</title>. Designed to allow scholars and students to better
+                comprehend the interconnected phenomena of mobility, object collection, and site
+                documentation in the eighteenth and nineteenth centuries, Itinera is an map-based,
+                interactive, digital resource that overlays and juxtaposes the movements of
+                travelers alongside the objects of their study and their own creative output.
+                Itinera therefore operates on between two central modelings. The “Travelers” section
+                introduces a user of this site to the historical network in which individual agents
+                existed, while the “Routes” and “Chronology” sections sketch the travels undertaken
+                during their lifetimes.</p>
               <p>This digital environment has been proactively developed to collect and present
                 historical data within a richly and transparently-structured visual context. Itinera
                 presents the opportunity for academics and enthusiasts alike to engage with the
@@ -3575,9 +3638,20 @@
                 tours, but more crucially, Itinera promotes user-centric inquiry into the creation
                 of meaningful historical relationships among people, objects, and sites.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#NetworkAnalysis">Analyse de réseau</term>
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+            <term ref="#Plot">Graphique</term>
+            <term ref="#Timeline">Chronologie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Europe">Europe</term>
+            <term ref="#Africa">Afrique</term>
+            <term>XVIIIe - XIXe siècles</term>
           </keywords>
         </biblFull>
         <biblFull n="47">
@@ -3616,19 +3690,20 @@
             <note type="abstract" xml:lang="en">
               <p><title>Experiments in Art and Technology (E.A.T.)</title> is a renowned example of
                 interdisciplinarity at the intersection of Art, Science and Technology, conceived by
-                Rauschenberg, a co-founder of <title>E.A.T.</title>, as a « map of engineers, money
-                and equipment », facilitating collaborations between artist, engineer and industry.
-                Despite the amount of information available, <title>E.A.T.</title>’s production and
-                legacy remains unclear. The project, in collaboration with <title>E.A.T.</title>
-                (represented by Julie Martin), is based on the organization’s numerous activities,
-                developed in art and non-art contexts, including realized and unrealized works and
-                projects from the <date>1960s</date> to the present day. through a ‘datascape’. In
-                the first place, the aim is to describe as extensively as possible the stories of
-                works of art or projects, from their design and development stages to their
-                different exhibitions and receptions. One of the main challenges is to produce a
-                digital archive displaying the process of collaboration, not merely catalogue
-                  <title>E.A.T.</title>’s productions. Secondly, the archive will map these works
-                and projects as networks of people, organizations, places and technologies, so as to
+                  <persName>Rauschenberg</persName>, a co-founder of <title>E.A.T.</title>, as a «
+                map of engineers, money and equipment », facilitating collaborations between artist,
+                engineer and industry. Despite the amount of information available,
+                  <title>E.A.T.</title>’s production and legacy remains unclear. The project, in
+                collaboration with <title>E.A.T.</title> (represented by J<persName>ulie
+                  Martin</persName>), is based on the organization’s numerous activities, developed
+                in art and non-art contexts, including realized and unrealized works and projects
+                from the <date>1960s</date> to the present day. through a ‘datascape’. In the first
+                place, the aim is to describe as extensively as possible the stories of works of art
+                or projects, from their design and development stages to their different exhibitions
+                and receptions. One of the main challenges is to produce a digital archive
+                displaying the process of collaboration, not merely catalogue
+                <title>E.A.T.</title>’s productions. Secondly, the archive will map these works and
+                projects as networks of people, organizations, places and technologies, so as to
                 better understand <title>E.A.T.</title>’s identity using the theories of Science and
                 Technology Studies. The aim is to develop an online archive built as a research tool
                 for humanities scholars in art and social art history. Their work, mapping the
@@ -3668,8 +3743,16 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#NetworkAnalysis">Analyse de réseau</term>
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+            <term ref="#Timeline">Chronologie</term>
+            <term ref="#Plot">Graphique</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Museum">Musée</term>
           </keywords>
         </biblFull>
         <biblFull n="48">
@@ -3724,26 +3807,37 @@
                 photography). This employs the latest state-of-the art artificial intelligence
                 techniques, such as Deep Learning and Convolutional Neural Networks, for the search
                 and display of information.</p>
-              <p>In partnership with the Giorgio Cini Foundation in <placeName>Venice</placeName>
-                and Factum Arte in <placeName>Madrid</placeName>, the <title>Replica</title> project
-                aims to digitize roughly one million artistic reproductions using these images to
-                populate the new search engine and as the basis for new art historical
-                inquiries.</p>
-              <p>Adam Lowe and Factum Arte have been collaborating with the <orgName>Fondazione
-                  Giorgio Cini</orgName> for a long time and have now built a specially designed
-                circular scanning system, capable of recording 12 A3 sized double sided images at
-                400DPI per minute. The paired images are automatically downloaded with metadata tags
-                and archived. The scanner is also equipped with a system of automatic object
-                detection, a controlled light source and instant visualization of the images as they
-                are being recorded.</p>
+              <p>In partnership with the <orgName>Giorgio Cini Foundation</orgName> in
+                  <placeName>Venice</placeName> and Factum Arte in <placeName>Madrid</placeName>,
+                the <title>Replica</title> project aims to digitize roughly one million artistic
+                reproductions using these images to populate the new search engine and as the basis
+                for new art historical inquiries.</p>
+              <p><persName>Adam Lowe</persName> and <orgName>Factum Arte</orgName> have been
+                collaborating with the <orgName>Fondazione Giorgio Cini</orgName> for a long time
+                and have now built a specially designed circular scanning system, capable of
+                recording 12 A3 sized double sided images at 400DPI per minute. The paired images
+                are automatically downloaded with metadata tags and archived. The scanner is also
+                equipped with a system of automatic object detection, a controlled light source and
+                instant visualization of the images as they are being recorded.</p>
               <p><title>Replica</title> opens new avenues for exploring and engaging with artistic
                 collections. It assists art historians in the study of iconography, the transmission
                 of forms, styles and patterns, while engaging larger audiences in a process of
                 learning and discovery.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#ContentAnalysis">Analyse de contenu</term>
+            <term ref="#ComputerVision">Vision par ordinateur</term>
+            <term ref="#NeuralNetwork">Réseau de neurones</term>
+            <term ref="#PatternRecognition">Reconnaissance de formes</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Sculpture">Sculpture</term>
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Photography">Photographie</term>
+            <term ref="#Drawing">Dessin</term>
+            <term ref="#Engraving">Gravure</term>
           </keywords>
         </biblFull>
         <biblFull n="49">
@@ -3819,8 +3913,17 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#NetworkAnalysis">Analyse de réseau</term>
+            <term ref="#Map">Cartographie</term>
+            <term ref="#Plot">Graphique</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Europe">Europe</term>
+            <term ref="#Manuscript">Manuscript</term>
+            <term>XVIIe - XVIIIe siècles</term>
           </keywords>
         </biblFull>
         <biblFull n="50">
@@ -3848,14 +3951,14 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p><title>The Grand Tour Project</title> began in 2008, when Giovanna Ceserani
-                established it as one of the case studies within <title>Mapping the Republic of
-                  Letters</title>, the Stanford digital project dedicated to investigating early
-                modern networks of knowledge through sophisticated digital approaches. <title>The
-                  Grand Tour Project</title> continues this mission while focusing on
-                eighteenth-century travels to Italy, and, now based within <orgName>CESTA
-                  (Stanford's Center for Spatial and Textual Analysis)</orgName>, it maintains close
-                links to <title>Mapping Republic of Letters</title> and other
+              <p><title>The Grand Tour Project</title> began in 2008, when <persName>Giovanna
+                  Ceserani</persName> established it as one of the case studies within
+                  <title>Mapping the Republic of Letters</title>, the Stanford digital project
+                dedicated to investigating early modern networks of knowledge through sophisticated
+                digital approaches. <title>The Grand Tour Project</title> continues this mission
+                while focusing on eighteenth-century travels to Italy, and, now based within
+                  <orgName>CESTA (Stanford's Center for Spatial and Textual Analysis)</orgName>, it
+                maintains close links to <title>Mapping Republic of Letters</title> and other
                   <orgName>Cesta</orgName> research clusters such as the <orgName>Spatial History
                   Project and Humanities+Design</orgName>. While remaining based in Stanford, where
                 it has involved over the years many undergraduate and graduate researchers, faculty
@@ -3865,8 +3968,18 @@
                 Support.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#NetworkAnalysis">Analyse de réseau</term>
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+            <term ref="#Plot">Graphique</term>
+            <term ref="#Timeline">Chronologie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Europe">Europe</term>
+            <term>Italie</term>
+            <term>XVIIIe siècle</term>
           </keywords>
         </biblFull>
         <biblFull n="51">
@@ -3888,28 +4001,41 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>In 2006 Richard Stephens was awarded a PhD at Birkbeck College, London, for his
-                thesis, <title>A Catalogue Raisonné of The Works of Francis Towne</title>, on which
-                this website is based. In 2016 he curated the exhibition <title>Light, Time, Legacy:
-                  Francis Towne's watercolours of Rome</title> at the <orgName>British
-                  Museum</orgName>, London. He edits The art world in Britain 1660 to 1735,
-                published by the <orgName>University of York</orgName>.</p>
-              <p>The catalogue identifies 1080 works by Towne and his circle, doubling
-                previously-described totals. Based on the author’s PhD thesis, it makes extensive
-                use of the papers of Paul Oppé (<date>1878-1957</date>) whose pioneering researches
-                established the artist’s reputation in the <date>1920s</date>, after a century of
-                neglect. Oppé had discovered the contents of Towne's own studio in the possession of
-                the Merivale family of Barton Place near Exeter. Using the archives of Thomas Agnew
-                &amp; Sons, the Fine Art Society, Colnaghi and elsewhere, Stephens gives detailed
-                provenances for hundreds of the Merivales' Townes that have circulated on the London
-                art market. Towne's biography is established in greater detail than before, using
-                much original research. Resources published alongside the catalogue include an
-                edition of Towne's correspondence and a transcription of Oppé's Barton Place
-                catalogue.</p>
+              <p>In <date>2006</date>
+                <persName>Richard Stephens</persName> was awarded a PhD at <orgName>Birkbeck
+                  College</orgName>, London, for his thesis, <title>A Catalogue Raisonné of The
+                  Works of Francis Towne</title>, on which this website is based. In
+                  <date>2016</date> he curated the exhibition <title>Light, Time, Legacy: Francis
+                  Towne's watercolours of Rome</title> at the <orgName>British Museum</orgName>,
+                London. He edits The art world in Britain 1660 to 1735, published by the
+                  <orgName>University of York</orgName>.</p>
+              <p>The catalogue identifies 1080 works by <persName>Towne</persName> and his circle,
+                doubling previously-described totals. Based on the author’s PhD thesis, it makes
+                extensive use of the papers of <persName>Paul Oppé</persName>
+                  (<date>1878-1957</date>) whose pioneering researches established the artist’s
+                reputation in the <date>1920s</date>, after a century of neglect.
+                  <persName>Oppé</persName> had discovered the contents of Towne's own studio in the
+                possession of the Merivale family of Barton Place near Exeter. Using the archives of
+                Thomas Agnew &amp; Sons, the Fine Art Society, Colnaghi and elsewhere,
+                  <persName>Stephens</persName> gives detailed provenances for hundreds of the
+                Merivales' <persName>Townes</persName> that have circulated on the London art
+                market. <persName>Towne</persName>'s biography is established in greater detail than
+                before, using much original research. Resources published alongside the catalogue
+                include an edition of <persName>Towne</persName>'s correspondence and a
+                transcription of <persName>Oppé</persName>'s Barton Place catalogue.</p>
             </note>
+            <note type="licence"><ref target="https://creativecommons.org/licenses/by-nc/2.0/"
+                >CC-BY-NC licence</ref></note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Painting">Peinture</term>
+            <term ref="#Manuscript">Manuscript</term>
+            <term ref="#Europe">Europe</term>
+            <term>Royaume-Uni</term>
+            <term>XVIIIe siècle</term>
           </keywords>
         </biblFull>
         <biblFull n="52">
@@ -3944,24 +4070,36 @@
             <pubPlace>Kingston</pubPlace>
             <date when="2019">2019</date>
             <idno type="url">http://qspace.library.queensu.ca/handle/1974/14832</idno>
+            <idno type="brokenLink" when="2022-11-18"
+              >https://web.archive.org/web/20221118200619/http://qspace.library.queensu.ca/handle/1974/14832</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p><title>Renaissance Polychrome Sculpture in Tuscany</title> is an online open-access
-                database of photographs of and information about over 350 objects, produced by Una
-                D'Elia, Heather Merla, and Rachel Boyd. High-resolution photographs are freely
+                database of photographs of and information about over 350 objects, produced by <persName>Una
+                D'Elia</persName>, <persName>Heather Merla</persName>, and <persName>Rachel Boyd</persName>. High-resolution photographs are freely
                 available for research, teaching, and publication. Clicking on “show full item
                 record” reveals further information and bibliography. The database also includes an
-                integrated map, color-coded by material (by Claire Litt). For an example of how this
+                integrated map, color-coded by material (by <persName>Claire Litt</persName>). For an example of how this
                 resource can be used in teaching, see <ref
                   target="reconstructingrenaissance.home.blog">Reconstructing the Social Lives of
                   Italian Renaissance Sculptures (reconstructingrenaissance.home.blog)</ref>, a
                 virtual exhibition created by <title>Queen’s University</title> undergraduate
                 students, which includes digital visual reconstructions.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#Database">Base de données</term>
+            <term ref="#Visualization">Visualisation</term>
+            <term ref="#Map">Cartographie</term>
+          </keywords>
+          <keywords scheme="#Subject">
+            <term ref="#Photography">Photographie</term>
+            <term ref="#Sculpture">Sculpture</term>
+            <term ref="#Europe">Europe</term>
+            <term>Italie</term>
+            <term>Renaissance</term>
           </keywords>
         </biblFull>
         <biblFull n="53">
@@ -9950,7 +10088,6 @@
           <!-- Exemple d'usages de tags -->
           <keywords scheme="#TaDiRAH">
             <term ref="#ComputerVision">Vision par ordinateur</term>
-            <term ref="#MachineLearning">Apprentissage machine</term>
             <term ref="#Visualization">Visualisation de données</term>
             <term ref="#NeuralNetwork">Réseau de neurones</term>
           </keywords>
