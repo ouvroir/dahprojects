@@ -57,8 +57,8 @@
                 <surname>Schöch</surname>
               </persName>
             </principal>
-            <date when="2020">2020</date>
-            <idno type="url">https://tadirah.info/index.html</idno>
+            <date n="v2.0" when="2020">2020</date>
+            <idno type="url">https://vocabs.dariah.eu/tadirah/</idno>
           </bibl>
           <category xml:id="ContentAnalysis">
             <term xml:lang="en">Content analysis</term>
@@ -73,6 +73,7 @@
                 manuscrite</term>
             </category>
             <category xml:id="ComputerVision">
+              <!-- image analysis ? -->
               <term xml:lang="en">Computer vision</term>
               <term xml:lang="fr">Vision par ordinateur</term>
             </category>
@@ -139,6 +140,7 @@
               <term xml:lang="en">Chronologie</term>
             </category>
           </category>
+          <!-- ajoutés -->
           <category xml:id="Modeling3D">
             <term xml:lang="en">3D Modeling</term>
             <term xml:lang="fr">Modélisation 3D</term>
@@ -147,7 +149,7 @@
             <term xml:lang="en">Database</term>
             <term xml:lang="fr">Base de données</term>
           </category>
-
+          <!-- ajoutés fin -->
         </taxonomy>
         <taxonomy xml:id="Subject">
           <bibl>
@@ -268,7 +270,8 @@
                 that circulated widely in Renaissance and Baroque Europe.</p>
               <p>In collaboration with institutional partners and private collectors from across the
                 globe, the digital archive gathers for the first time, in a single place, critical
-                resource materials on the legacy and reception of Leonardo's art theory. </p></note>
+                resource materials on the legacy and reception of Leonardo's art theory. </p>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -564,8 +567,10 @@
             <title type="main">eMunch</title>
             <title type="sub">Edvard Munchs Tekster Digitalt Arkiv</title>
             <editor>
-              <persName><forename>Hilde</forename>
-                <surname>Bøe</surname></persName>
+              <persName>
+                <forename>Hilde</forename>
+                <surname>Bøe</surname>
+              </persName>
             </editor>
           </titleStmt>
           <publicationStmt>
@@ -575,11 +580,13 @@
             <idno type="url">https://www.emunch.no</idno>
           </publicationStmt>
           <notesStmt>
-            <note><p>Digitalisering Museets prosjektgruppe arbeider med digitalisering av
+            <note>
+              <p>Digitalisering Museets prosjektgruppe arbeider med digitalisering av
                 korrespondansen til Edvard Munch samt med ferdigstilling av Munchs egne tekster.
                 Materialet korrekturleses og kodes før det publiseres her. Alle registrerte
                 avsendere (med lister over brevene de sendte til Munch) og omtalte personer og
-                institusjoner blir etter hvert tilgjengelig her i det digitale arkivet.</p></note>
+                institusjoner blir etter hvert tilgjengelig her i det digitale arkivet.</p>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -601,19 +608,22 @@
             <idno type="url">https://boschdoc.huygens.knaw.nl</idno>
           </publicationStmt>
           <notesStmt>
-            <note><p>BoschDoc is an online database containing source material on the
-                ’s-Hertogenbosch painter Hieronymus Bosch. Not only the sources in which he himself
-                is mentioned are included, but also sources giving information about his immediate
-                surroundings, members of his family, patrons and works. These are chiefly
-                handwritten documents, but also a number of early printed works, dating from before
-                1800 are included in BoschDoc.</p><p>BoschDoc is part of the Bosch Research and
-                Conservation Project and has been carried out in the framework of the 500th
-                anniversary of the death of Hieronymus Bosch (c. 1450 – 1516). The project has been
-                made possible by the Radboud University Nijmegen, the City Archives of
-                ’s-Hertogenbosch and the Huygens ING.</p><p>The content of BoschDoc is largely based
-                on references in other publications. These references have been traced, expanded and
-                if necessary updated and/or corrected. The publications containing the references
-                are credited under the tab “Comments &amp; References”.</p></note>
+            <note>
+              <p>BoschDoc is an online database containing source material on the ’s-Hertogenbosch
+                painter Hieronymus Bosch. Not only the sources in which he himself is mentioned are
+                included, but also sources giving information about his immediate surroundings,
+                members of his family, patrons and works. These are chiefly handwritten documents,
+                but also a number of early printed works, dating from before 1800 are included in
+                BoschDoc.</p>
+              <p>BoschDoc is part of the Bosch Research and Conservation Project and has been
+                carried out in the framework of the 500th anniversary of the death of Hieronymus
+                Bosch (c. 1450 – 1516). The project has been made possible by the Radboud University
+                Nijmegen, the City Archives of ’s-Hertogenbosch and the Huygens ING.</p>
+              <p>The content of BoschDoc is largely based on references in other publications. These
+                references have been traced, expanded and if necessary updated and/or corrected. The
+                publications containing the references are credited under the tab “Comments &amp;
+                References”.</p>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -624,13 +634,16 @@
             <title>Der Sturm</title>
             <title>Digitale Quellenedition zur Geschichte der internationalen Avantgarde</title>
             <editor>
-              <persName><forename>Marjam</forename>
-                <surname>Trautmann</surname></persName>
+              <persName>
+                <forename>Marjam</forename>
+                <surname>Trautmann</surname>
+              </persName>
             </editor>
             <editor>
               <persName>
                 <forename>Torsten</forename>
-                <surname>Schrade</surname></persName>
+                <surname>Schrade</surname>
+              </persName>
             </editor>
           </titleStmt>
           <publicationStmt>
@@ -650,24 +663,34 @@
           <titleStmt>
             <title>The Thorvaldsens Museum archives</title>
             <editor>
-              <persName><forename>Ernst Jonas</forename>
-                <surname>Bencard</surname></persName>
+              <persName>
+                <forename>Ernst Jonas</forename>
+                <surname>Bencard</surname>
+              </persName>
             </editor>
             <editor>
-              <persName><forename>Karen Benedicte</forename>
-                <surname>Busk-Jepsen</surname></persName>
+              <persName>
+                <forename>Karen Benedicte</forename>
+                <surname>Busk-Jepsen</surname>
+              </persName>
             </editor>
             <editor>
-              <persName><forename>Nanna</forename>
-                <surname>Kronberg Frederiksen</surname></persName>
+              <persName>
+                <forename>Nanna</forename>
+                <surname>Kronberg Frederiksen</surname>
+              </persName>
             </editor>
             <editor>
-              <persName><forename>Kira</forename>
-                <surname>Kofoed</surname></persName>
+              <persName>
+                <forename>Kira</forename>
+                <surname>Kofoed</surname>
+              </persName>
             </editor>
             <editor>
-              <persName><forename>Lejla</forename>
-                <surname>Mrgan</surname></persName>
+              <persName>
+                <forename>Lejla</forename>
+                <surname>Mrgan</surname>
+              </persName>
             </editor>
           </titleStmt>
           <publicationStmt>
@@ -695,8 +718,10 @@
           <titleStmt>
             <title>Brieven en Correspondenten rond 1900</title>
             <editor>
-              <persName><forename>Annemarie</forename>
-                <surname>Kets</surname></persName>
+              <persName>
+                <forename>Annemarie</forename>
+                <surname>Kets</surname>
+              </persName>
             </editor>
           </titleStmt>
           <publicationStmt>
@@ -756,7 +781,7 @@
       </listBibl>
       <listBibl>
         <head>Projets en histoire de l'art numérique</head>
-        <biblFull n="1">
+        <biblFull xml:id="dahproject0001">
           <titleStmt>
             <title type="main">Amiens Cathedral Project</title>
             <principal>
@@ -801,7 +826,6 @@
                 produire, à cette époque, le nouveau <orgName>Media Center for the Arts</orgName> en
                 tant que suppléments au programme d’art et d’humanités offert dans l’université.</p>
             </note>
-            <note/>
             <note type="biblio">
               <biblStruct>
                 <analytic>
@@ -2170,8 +2194,10 @@
                 est conçu avec WordPress. L’application a été développée par <ref
                   target="http://calvium.com">Calvium Ltd</ref></p>
             </note>
-            <note type="licence"><ref target="http://creativecommons.org/licenses/by/4.0/">Creative
-                Commons Attribution 4.0 International License</ref></note>
+            <note type="licence">
+              <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
+                4.0 International License</ref>
+            </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#Map">Cartographie</term>
@@ -3417,7 +3443,8 @@
             <principal>
               <persName>
                 <forename>Hubertus</forename>
-                <surname>Kohle</surname></persName>
+                <surname>Kohle</surname>
+              </persName>
             </principal>
           </titleStmt>
           <publicationStmt>
@@ -3573,8 +3600,10 @@
                 </monogr>
               </biblStruct>
             </note>
-            <note type="licence"><ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
-                >Creative Commons Licence (CC BY-SA 4.0)</ref></note>
+            <note type="licence">
+              <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                Licence (CC BY-SA 4.0)</ref>
+            </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#ContentAnalysis">Analyse de contenu</term>
@@ -3845,8 +3874,10 @@
             <title type="main">Mapping the Republic of Letters</title>
             <title type="sub">British Architects on the Grand Tour</title>
             <principal>
-              <persName><forename>Giovanna</forename>
-                <surname>Ceserani</surname></persName>
+              <persName>
+                <forename>Giovanna</forename>
+                <surname>Ceserani</surname>
+              </persName>
             </principal>
             <funder>
               <orgName>National Endowment for the Humanities</orgName>
@@ -3930,8 +3961,10 @@
           <titleStmt>
             <title type="main">The Grand Tour Project</title>
             <principal>
-              <persName><forename>Giovanna</forename>
-                <surname>Ceserani</surname></persName>
+              <persName>
+                <forename>Giovanna</forename>
+                <surname>Ceserani</surname>
+              </persName>
             </principal>
             <funder>
               <orgName>National Endowment for the Humanities</orgName>
@@ -4024,8 +4057,9 @@
                 include an edition of <persName>Towne</persName>'s correspondence and a
                 transcription of <persName>Oppé</persName>'s Barton Place catalogue.</p>
             </note>
-            <note type="licence"><ref target="https://creativecommons.org/licenses/by-nc/2.0/"
-                >CC-BY-NC licence</ref></note>
+            <note type="licence">
+              <ref target="https://creativecommons.org/licenses/by-nc/2.0/">CC-BY-NC licence</ref>
+            </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#Database">Base de données</term>
@@ -4076,12 +4110,13 @@
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p><title>Renaissance Polychrome Sculpture in Tuscany</title> is an online open-access
-                database of photographs of and information about over 350 objects, produced by <persName>Una
-                D'Elia</persName>, <persName>Heather Merla</persName>, and <persName>Rachel Boyd</persName>. High-resolution photographs are freely
-                available for research, teaching, and publication. Clicking on “show full item
-                record” reveals further information and bibliography. The database also includes an
-                integrated map, color-coded by material (by <persName>Claire Litt</persName>). For an example of how this
-                resource can be used in teaching, see <ref
+                database of photographs of and information about over 350 objects, produced by
+                  <persName>Una D'Elia</persName>, <persName>Heather Merla</persName>, and
+                  <persName>Rachel Boyd</persName>. High-resolution photographs are freely available
+                for research, teaching, and publication. Clicking on “show full item record” reveals
+                further information and bibliography. The database also includes an integrated map,
+                color-coded by material (by <persName>Claire Litt</persName>). For an example of how
+                this resource can be used in teaching, see <ref
                   target="reconstructingrenaissance.home.blog">Reconstructing the Social Lives of
                   Italian Renaissance Sculptures (reconstructingrenaissance.home.blog)</ref>, a
                 virtual exhibition created by <title>Queen’s University</title> undergraduate
@@ -5036,8 +5071,8 @@
                 the bridge and communication link that was missing between those who are interested
                 in the city’s past and those building its future. Used not only by researchers,
                 historians and archivists, but also by local government, policy-makers and urban
-                operators, as well as citizens eager to take part in their urban
-              environment.</p></note>
+                operators, as well as citizens eager to take part in their urban environment.</p>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -5340,7 +5375,8 @@
                 l'épopée, l'histoire, le théâtre, l'éloquence... que vers la littérature
                 scientifique et technique ; les antiquisants historiens et archéologues ont été peu
                 nombreux à s'intéresser aux aspects techniques de la civilisation grecque et
-                romaine.</p></note>
+                romaine.</p>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -6719,8 +6755,10 @@
                 CIDOC-CRM. All three expressions are compatible and can be converted to each
                 other.</p>
             </note>
-            <note type="licence"><ref target="https://creativecommons.org/publicdomain/zero/1.0/"
-                >Creative Commons 1.0</ref></note>
+            <note type="licence">
+              <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons
+                1.0</ref>
+            </note>
             <note type="biblio">
               <biblStruct>
                 <analytic>
@@ -7090,8 +7128,9 @@
                 portefeuilles de dessins et d’estampes, imprimés, tableaux et objets) dressé en
                   <date>1711</date>, du vivant de l’antiquaire.</p>
             </note>
-            <note type="licence"><ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/"
-                >Creative Commons</ref></note>
+            <note type="licence">
+              <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons</ref>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -7203,9 +7242,10 @@
                 collection au <orgName>musée Saint-Raymond</orgName>, musée d’Archéologie
                 de Toulouse.</p>
             </note>
-            <note type="licence"><ref
-                target="https://www.etalab.gouv.fr/licence-ouverte-open-licence">Licence
-                ouverte</ref></note>
+            <note type="licence">
+              <ref target="https://www.etalab.gouv.fr/licence-ouverte-open-licence">Licence
+                ouverte</ref>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -7259,9 +7299,11 @@
                 mais aussi du public, les œuvres d’art public sont répertoriées, géolocalisées et
                 documentées au sein d’un atlas Wiki.</p>
             </note>
-            <note type="licence"><ref
+            <note type="licence">
+              <ref
                 target="https://web.archive.org/web/20141002021222/http://creativecommons.org/licenses/by/4.0/"
-                >Creative Commmons 4.0</ref></note>
+                >Creative Commmons 4.0</ref>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -7393,8 +7435,9 @@
                 from <orgName>CMA</orgName>'s world-class collection. The <orgName>CMA</orgName>
                 never saves your uploaded images unless you choose to add to our gallery.</p>
             </note>
-            <note type="licence"><ref target="https://www.clevelandart.org/open-access">Open
-                Access</ref></note>
+            <note type="licence">
+              <ref target="https://www.clevelandart.org/open-access">Open Access</ref>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -7897,14 +7940,14 @@
           <notesStmt>
             <note type="abstract" xml:lang="fr">
               <p>Un point d'accès au patrimoine écrit du Moyen Âge et de la Renaissance en Occident,
-                du VIII<hi rend="superscript">e</hi> au XVIII<hi rend="superscript">e</hi> siècle.
-                </p><p>Le <title>Portail Biblissima</title> offre un accès unifié à un ensemble de
-                données numériques sur les manuscrits, incunables et imprimés anciens produites par
-                les partenaires du consortium <orgName>Biblissima+</orgName>.</p><p>Il permet de
-                visualiser, de consulter et d'interroger des documents numérisés, des catalogues et
-                bases de données spécialisées portant sur divers aspects de l'étude du patrimoine
-                écrit : histoire des collections et des provenances, transmission des textes,
-                iconographie, reliures, fragments etc.</p>
+                du VIII<hi rend="superscript">e</hi> au XVIII<hi rend="superscript">e</hi> siècle. </p>
+              <p>Le <title>Portail Biblissima</title> offre un accès unifié à un ensemble de données
+                numériques sur les manuscrits, incunables et imprimés anciens produites par les
+                partenaires du consortium <orgName>Biblissima+</orgName>.</p>
+              <p>Il permet de visualiser, de consulter et d'interroger des documents numérisés, des
+                catalogues et bases de données spécialisées portant sur divers aspects de l'étude du
+                patrimoine écrit : histoire des collections et des provenances, transmission des
+                textes, iconographie, reliures, fragments etc.</p>
             </note>
           </notesStmt>
           <keywords scheme="">
@@ -9111,9 +9154,10 @@
                 housed at the <orgName>Library of Congress</orgName>, which digitized and maintains
                 the collection including details about rights and restrictions.</p>
             </note>
-            <note type="licence"><ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
-                >Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-                License</ref></note>
+            <note type="licence">
+              <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                Attribution-NonCommercial-ShareAlike 4.0 International License</ref>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -9478,8 +9522,10 @@
                 interface programmable qui sert à la publication du site permet leur réutilisation
                 dans d’autres applications.</p>
             </note>
-            <note type="licence"><ref target="https://creativecommons.org/licenses/by/4.0/">Creative
-                Common Attribution (CC-BY)</ref></note>
+            <note type="licence">
+              <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Common Attribution
+                (CC-BY)</ref>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -9544,9 +9590,10 @@
                 travail à la disposition tant des spécialistes que d'un public passionné ou
                 simplement curieux de la sculpture romane.</p>
             </note>
-            <note type="licence"><ref
-                target="https://www.etalab.gouv.fr/licence-ouverte-open-licence">Licence Ouverte
-                2.0</ref></note>
+            <note type="licence">
+              <ref target="https://www.etalab.gouv.fr/licence-ouverte-open-licence">Licence Ouverte
+                2.0</ref>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -9791,9 +9838,10 @@
                 l’exploration et les recherches sur des fonds déposés dans des institutions
                 francophones.</p>
             </note>
-            <note type="licence"><ref
-                target="https://creativecommons.org/about/cclicenses/#by-nc-nd">Creative Commons
-                CC-BY_NC_ND</ref></note>
+            <note type="licence">
+              <ref target="https://creativecommons.org/about/cclicenses/#by-nc-nd">Creative Commons
+                CC-BY_NC_ND</ref>
+            </note>
           </notesStmt>
           <keywords scheme="">
             <term/>
@@ -10081,8 +10129,9 @@
                 part of identifiable visual style. The timeline view allows users to study a visual
                 trend’s development.</p>
             </note>
-            <note type="licence"><ref target="https://www.apache.org/licenses/LICENSE-2.0">Apache
-                Licence 2.0</ref></note>
+            <note type="licence">
+              <ref target="https://www.apache.org/licenses/LICENSE-2.0">Apache Licence 2.0</ref>
+            </note>
           </notesStmt>
 
           <!-- Exemple d'usages de tags -->
