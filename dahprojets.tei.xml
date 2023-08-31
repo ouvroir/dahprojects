@@ -60,7 +60,7 @@
             <date n="v2.0" when="2020">2020</date>
             <idno type="url">https://vocabs.dariah.eu/tadirah/</idno>
           </bibl>
-          <category xml:id="ContentAnalysis">
+          <category xml:id="contentAnalysis">
             <term xml:lang="en">Content analysis</term>
             <term xml:lang="fr">Analyse de contenu</term>
             <catDesc xml:lang="en">Content analysis includes researching/studying aspects of objects
@@ -72,84 +72,84 @@
               <term xml:lang="fr">Reconnaissance optique de caractères/Reconnaissance de l'écriture
                 manuscrite</term>
             </category>
-            <category xml:id="ComputerVision">
+            <category xml:id="computerVision">
               <!-- image analysis ? -->
               <term xml:lang="en">Computer vision</term>
               <term xml:lang="fr">Vision par ordinateur</term>
             </category>
-            <category xml:id="NeuralNetwork">
+            <category xml:id="neuralNetwork">
               <term xml:lang="en">Neural network</term>
               <term xml:lang="fr">Réseau de neurones</term>
             </category>
-            <category xml:id="PatternRecognition">
+            <category xml:id="patternRecognition">
               <term xml:lang="en">Pattern recognition</term>
               <term xml:lang="fr">Reconnaissance de formes</term>
             </category>
             <!--  -->
 
           </category>
-          <category xml:id="NetworkAnalysis">
+          <category xml:id="networkAnalysis">
             <term xml:lang="en">Network analysis</term>
             <term xml:lang="fr">Analyse de réseau</term>
           </category>
-          <category xml:id="RelationAnalysis">
+          <category xml:id="relationAnalysis">
             <term xml:lang="en">Relational analysis</term>
             <term xml:lang="fr">Analyse relationnelle</term>
-            <category xml:id="Clustering">
+            <category xml:id="clustering">
               <term xml:lang="en">Cluster analysis</term>
               <term xml:lang="fr">Partitionnement de données</term>
             </category>
-            <category xml:id="PCA">
+            <category xml:id="principalComponentAnalysis">
               <term xml:lang="en">Principal component analysis</term>
               <term xml:lang="fr">Analyse en composantes principales</term>
             </category>
           </category>
-          <category xml:id="SpatialAnalysis">
+          <category xml:id="spatialAnalysis">
             <term xml:lang="en">Spatial analysis</term>
             <term xml:lang="fr">Analyse spatiale</term>
           </category>
-          <category xml:id="StylisticAnalysis">
+          <category xml:id="stylisticAnalysis">
             <term xml:lang="en">Stylistic analysis</term>
             <term xml:lang="fr">Analyse stylistique</term>
-            <category xml:id="AuthorshipAttribution">
+            <category xml:id="authorshipAttribution">
               <term xml:lang="en">Authorship attribution</term>
               <term xml:lang="fr">Attribution de la paternité</term>
             </category>
-            <category xml:id="GenreRecognition">
+            <category xml:id="genreRecognition">
               <term xml:lang="en">Genre recognition</term>
               <term xml:lang="fr">Reconnaissance du genre<!-- Revoir la traduction --></term>
             </category>
           </category>
-          <category xml:id="Visualization">
+          <category xml:id="visualAnalysis">
             <term xml:lang="en">Visual analysis</term>
             <term xml:lang="fr">Visualisation</term>
-            <category xml:id="Map">
+            <category xml:id="mapping">
               <term xml:lang="en">Mapping</term>
               <term xml:lang="fr">Cartographie</term>
             </category>
-            <category xml:id="Mindmap">
+            <category xml:id="mindMap">
               <term xml:lang="en">Mind mapping</term>
               <term xml:lang="fr">Cartographie mentale</term>
             </category>
-            <category xml:id="Plot">
+            <category xml:id="plotting">
               <term xml:lang="en">Plotting</term>
               <term xml:lang="en">Graphique</term>
             </category>
-            <category xml:id="Timeline">
+            <!-- ajoutés -->
+            <category xml:id="timeline">
               <term xml:lang="en">Timeline</term>
               <term xml:lang="en">Chronologie</term>
             </category>
+            <category xml:id="modeling3D">
+              <term xml:lang="en">3D Modeling</term>
+              <term xml:lang="fr">Modélisation 3D</term>
+            </category>
+            <category xml:id="database">
+              <term xml:lang="en">Database</term>
+              <term xml:lang="fr">Base de données</term>
+            </category>
+            <!-- ajoutés fin -->
           </category>
-          <!-- ajoutés -->
-          <category xml:id="Modeling3D">
-            <term xml:lang="en">3D Modeling</term>
-            <term xml:lang="fr">Modélisation 3D</term>
-          </category>
-          <category xml:id="Database">
-            <term xml:lang="en">Database</term>
-            <term xml:lang="fr">Base de données</term>
-          </category>
-          <!-- ajoutés fin -->
         </taxonomy>
         <taxonomy xml:id="Subject">
           <bibl>
@@ -866,7 +866,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Modeling3D">Modélisation 3D</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Architecture">Architecture</term>
@@ -875,7 +875,7 @@
             <term>XIIIe siècle</term>
           </keywords>
         </biblFull>
-        <biblFull n="2">
+        <biblFull xml:id="dahproject0002">
           <titleStmt>
             <title type="main">Hachiman Digital Handscrolls</title>
             <principal>
@@ -912,10 +912,10 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
+            <term ref="#visualAnalysis">Visualisation</term>
           </keywords>
         </biblFull>
-        <biblFull n="3">
+        <biblFull xml:id="dahproject0003">
           <titleStmt>
             <title type="main">Venus iconography</title>
             <principal>
@@ -943,7 +943,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#ContentAnalysis">Analyse de contenu</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
@@ -951,7 +951,7 @@
             <term>Renaissance</term>
           </keywords>
         </biblFull>
-        <biblFull n="4">
+        <biblFull xml:id="dahproject0004">
           <titleStmt>
             <title type="main">Mapping Titian</title>
             <title type="sub">See the history of art by mapping Titian’s paintings across time and
@@ -988,9 +988,9 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#SpatialAnalysis">Analyse spatiale</term>
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
@@ -998,7 +998,7 @@
             <term>Renaissance</term>
           </keywords>
         </biblFull>
-        <biblFull n="5">
+        <biblFull xml:id="dahproject0005">
           <titleStmt>
             <title type="main">The Digital Michelangelo Project</title>
             <principal>
@@ -1047,7 +1047,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Modeling3D">Modélisation 3D</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Sculpture">Sculpture</term>
@@ -1055,7 +1055,7 @@
             <term>Renaissance</term>
           </keywords>
         </biblFull>
-        <biblFull n="7">
+        <biblFull xml:id="dahproject0007">
           <titleStmt>
             <title type="main">Forma Urbis Romae</title>
             <title type="sub">Pianta monumentale di Roma per il grande giubileo del 2000</title>
@@ -1103,14 +1103,14 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
           </keywords>
           <keywords scheme="#Subject">
             <term>Italie</term>
           </keywords>
         </biblFull>
-        <biblFull n="8">
+        <biblFull xml:id="dahproject0008">
           <titleStmt>
             <title type="main">Visualizing Venice</title>
             <title type="sub">Exploring the city’s past</title>
@@ -1203,15 +1203,15 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
-            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#Subject">
             <term>Italie</term>
           </keywords>
         </biblFull>
-        <biblFull n="9">
+        <biblFull xml:id="dahproject0009">
           <titleStmt>
             <title type="main">ArtStor</title>
             <funder>
@@ -1307,14 +1307,14 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
             <term ref="#Sculpture">Sculpture</term>
           </keywords>
         </biblFull>
-        <biblFull n="10">
+        <biblFull xml:id="dahproject0010">
           <titleStmt>
             <title type="main">Rome Reborn</title>
             <principal>
@@ -1406,7 +1406,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Modeling3D">Modélisation 3D</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
           <keywords scheme="#Subject">
             <term>Italie</term>
@@ -1414,7 +1414,7 @@
             <term>Moyen Âge</term>
           </keywords>
         </biblFull>
-        <biblFull n="11">
+        <biblFull xml:id="dahproject0011">
           <titleStmt>
             <title type="main">Flyover Zone</title>
             <principal>
@@ -1450,14 +1450,14 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Modeling3D">Modélisation 3D</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Sculpture">Sculpture</term>
             <term>Antiquité</term>
           </keywords>
         </biblFull>
-        <biblFull n="12">
+        <biblFull xml:id="dahproject0012">
           <titleStmt>
             <title type="main">Online Scholarly Catalogue Initiative</title>
             <funder>
@@ -1506,13 +1506,13 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Museum">Musée</term>
           </keywords>
         </biblFull>
-        <biblFull n="13">
+        <biblFull xml:id="dahproject0013">
           <titleStmt>
             <title type="main">Raphael Research Resource</title>
             <principal>
@@ -1545,7 +1545,7 @@
             <note/>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
@@ -1554,7 +1554,7 @@
             <term>Renaissance</term>
           </keywords>
         </biblFull>
-        <biblFull n="15">
+        <biblFull xml:id="dahproject0015">
           <titleStmt>
             <title type="main">Song and Yuan Dynasty Painting and Calligraphy</title>
             <principal>
@@ -1600,7 +1600,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Museum">Musée</term>
@@ -1608,7 +1608,7 @@
             <term>Xe - XIVe siècles</term>
           </keywords>
         </biblFull>
-        <biblFull n="16">
+        <biblFull xml:id="dahproject0016">
           <titleStmt>
             <title type="main">Goryeo Buddhist Painting: A Closer Look</title>
             <principal>
@@ -1657,7 +1657,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Museum">Musée</term>
@@ -1667,7 +1667,7 @@
             <term>Corée</term>
           </keywords>
         </biblFull>
-        <biblFull n="17">
+        <biblFull xml:id="dahproject0017">
           <titleStmt>
             <title type="main">Whistler in Watercolor</title>
             <principal>
@@ -1724,17 +1724,17 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
-            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
             <term ref="#Museum">Musée</term>
           </keywords>
         </biblFull>
-        <biblFull n="18">
+        <biblFull xml:id="dahproject0018">
           <titleStmt>
             <title type="main">Mapping Gothic France</title>
             <principal>
@@ -1797,9 +1797,9 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
-            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Architecture">Architecture</term>
@@ -1808,7 +1808,7 @@
             <term>XIIe - XIIIe siècles</term>
           </keywords>
         </biblFull>
-        <biblFull n="19">
+        <biblFull xml:id="dahproject0019">
           <titleStmt>
             <title type="main">FACES: Faces, Art, and Computerized Evaluation Systems, Phase
               II</title>
@@ -1846,15 +1846,15 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#ContentAnalysis">Analyse de contenu</term>
-            <term ref="#ComputerVision">Vision par ordinateur</term>
-            <term ref="#PatternRecognition">Reconnaissance de formes</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#patternRecognition">Reconnaissance de formes</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
           </keywords>
         </biblFull>
-        <biblFull n="20">
+        <biblFull xml:id="dahproject0020">
           <titleStmt>
             <title type="main">The Digital Sculpture Project</title>
             <principal>
@@ -1892,8 +1892,8 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Modeling3D">Modélisation 3D</term>
-            <term ref="#Database">Base de données</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Sculpture">Sculpture</term>
@@ -1903,7 +1903,7 @@
             <term>Antiquité</term>
           </keywords>
         </biblFull>
-        <biblFull n="21">
+        <biblFull xml:id="dahproject0021">
           <titleStmt>
             <title type="main">Digging into Image Data to Answer Authorship-Related Questions
               (DID-ARQ)</title>
@@ -1971,13 +1971,13 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#StylisticAnalysis">Analyse stylistique</term>
-            <term ref="#AuthorshipAttribution">Attribution de la paternité</term>
-            <term ref="#ComputerVision">Vision par ordinateur</term>
-            <term ref="#Database">Base de données</term>
+            <term ref="#stylisticAnalysis">Analyse stylistique</term>
+            <term ref="#authorshipAttribution">Attribution de la paternité</term>
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#database">Base de données</term>
           </keywords>
         </biblFull>
-        <biblFull n="22">
+        <biblFull xml:id="dahproject0022">
           <titleStmt>
             <title type="main">Ceramics in Mainland Southeast Asia</title>
             <title type="sub">Collections in the Freer Gallery of Art and Arthur M. Sackler
@@ -2049,18 +2049,18 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
-            <term ref="#Timeline">Chronologie</term>
-            <term ref="#Database">Base de données</term>
-            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#database">Base de données</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Asia">Asie</term>
             <term ref="#Ceramic">Céramique</term>
           </keywords>
         </biblFull>
-        <biblFull n="23">
+        <biblFull xml:id="dahproject0023">
           <titleStmt>
             <title type="main">Cranach Digital Archive</title>
             <title type="sub">The research source</title>
@@ -2115,7 +2115,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Museum">Musée</term>
@@ -2124,7 +2124,7 @@
             <term>Allemagne</term>
           </keywords>
         </biblFull>
-        <biblFull n="24">
+        <biblFull xml:id="dahproject0024">
           <titleStmt>
             <title type="main">Chapelle numérique</title>
             <funder>
@@ -2150,8 +2150,8 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Europe">Europe</term>
@@ -2160,7 +2160,7 @@
             <term ref="#Drawing">Dessin</term>
           </keywords>
         </biblFull>
-        <biblFull n="25">
+        <biblFull xml:id="dahproject0025">
           <titleStmt>
             <title type="main">Hidden Florence</title>
             <principal>
@@ -2200,8 +2200,8 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Map">Cartographie</term>
-            <term ref="#Visualization">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#visualAnalysis">Visualisation</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
@@ -2210,7 +2210,7 @@
             <term>Renaissance</term>
           </keywords>
         </biblFull>
-        <biblFull n="26">
+        <biblFull xml:id="dahproject0026">
           <titleStmt>
             <title type="main">Histoire du bâti Parisien</title>
             <title type="sub">Petite cartographie des périodes de construction du bâti parisien et
@@ -2241,9 +2241,9 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#SpatialAnalysis"/>
-            <term ref="#Map">Cartographie</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#spatialAnalysis"/>
+            <term ref="#mapping">Cartographie</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Architecture">Architecture</term>
@@ -2252,7 +2252,7 @@
             <term>XVIIIe - XXIe siècles</term>
           </keywords>
         </biblFull>
-        <biblFull n="27">
+        <biblFull xml:id="dahproject0027">
           <titleStmt>
             <title type="main">The Paintings Watercolors and Drawings of Paul Cézanne</title>
             <title type="sub">An online catalogue raisonné under the direction of Walter
@@ -2299,7 +2299,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
@@ -2308,7 +2308,7 @@
             <term>XIXe siècle</term>
           </keywords>
         </biblFull>
-        <biblFull n="28">
+        <biblFull xml:id="dahproject0028">
           <titleStmt>
             <title type="main">QRator: a digital dialogue on museum collections</title>
             <funder>
@@ -2355,13 +2355,13 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
+            <term ref="#visualAnalysis">Visualisation</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Museum">Musée</term>
           </keywords>
         </biblFull>
-        <biblFull n="29">
+        <biblFull xml:id="dahproject0029">
           <titleStmt>
             <title type="main">Past Visions</title>
             <title type="sub">penned by Frederick William IV</title>
@@ -2424,9 +2424,9 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Plot">Graphique</term>
-            <term ref="#Timeline">Chronologie</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#timeline">Chronologie</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Drawing">Dessin</term>
@@ -2435,7 +2435,7 @@
             <term>XVIIe siècle</term>
           </keywords>
         </biblFull>
-        <biblFull n="30">
+        <biblFull xml:id="dahproject0030">
           <titleStmt>
             <title type="main">London Gallery Project</title>
             <principal>
@@ -2472,9 +2472,9 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Database">Base de données</term>
-            <term ref="#Map">Cartographie</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#database">Base de données</term>
+            <term ref="#mapping">Cartographie</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Europe">Europe</term>
@@ -2482,7 +2482,7 @@
             <term>XIXe - XXe siècle</term>
           </keywords>
         </biblFull>
-        <biblFull n="31">
+        <biblFull xml:id="dahproject0031">
           <titleStmt>
             <title type="main">Vistas</title>
             <title type="sub">Visual Culture in Spanish America, 1520-1820</title>
@@ -2526,7 +2526,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
@@ -2536,7 +2536,7 @@
             <term>XVIe - XIXe siècles</term>
           </keywords>
         </biblFull>
-        <biblFull n="32">
+        <biblFull xml:id="dahproject0032">
           <titleStmt>
             <title type="main">The Corpus of Medieval Narrative Art</title>
             <principal>
@@ -2567,7 +2567,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Architecture">Architecture</term>
@@ -2576,7 +2576,7 @@
             <term>Moyen Âge</term>
           </keywords>
         </biblFull>
-        <biblFull n="33">
+        <biblFull xml:id="dahproject0033">
           <titleStmt>
             <title type="main">Pompei, La fortuna visiva</title>
             <title type="sub">Achivio di immagini e testi dal XVIII al XIX secolo</title>
@@ -2701,7 +2701,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Architecture">Architecture</term>
@@ -2711,7 +2711,7 @@
             <term>XVIIIe - XIXe siècles</term>
           </keywords>
         </biblFull>
-        <biblFull n="34">
+        <biblFull xml:id="dahproject0034">
           <titleStmt>
             <title type="main">Verspera</title>
             <title type="sub">Numérisation et modélisation des plans de Versailles sous l’Ancien
@@ -2813,8 +2813,8 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Modeling3D">Modélisation 3D</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Architecture">Architecture</term>
@@ -2824,7 +2824,7 @@
             <term>XVIIe - XVIIIe siècles</term>
           </keywords>
         </biblFull>
-        <biblFull n="35">
+        <biblFull xml:id="dahproject0035">
           <titleStmt>
             <title type="main">Zeitreise</title>
             <title type="sub">Das Städel Museum im 19. jahrundert</title>
@@ -2862,7 +2862,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Modeling3D">Modélisation 3D</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Museum">Musée</term>
@@ -2871,7 +2871,7 @@
             <term>Allemagne</term>
           </keywords>
         </biblFull>
-        <biblFull n="36">
+        <biblFull xml:id="dahproject0036">
           <titleStmt>
             <title type="main">Emblematica</title>
             <title type="sub">Online</title>
@@ -3028,7 +3028,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Drawing">Dessin</term>
@@ -3037,7 +3037,7 @@
             <term>Époque Baroque</term>
           </keywords>
         </biblFull>
-        <biblFull n="37">
+        <biblFull xml:id="dahproject0037">
           <titleStmt>
             <title xml:lang="de">Kupferstichkabinett online</title>
             <title xml:lang="en">Virtual Printroom online</title>
@@ -3073,7 +3073,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Museum"/>
@@ -3082,7 +3082,7 @@
             <term>Allemagne</term>
           </keywords>
         </biblFull>
-        <biblFull n="38">
+        <biblFull xml:id="dahproject0038">
           <titleStmt>
             <title type="main">Virtual St. Paul’s Cross Project</title>
             <title type="sub">A Digital Re-creation of John Donne's Gunpowder Day Sermon</title>
@@ -3122,8 +3122,8 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Modeling3D">Modélisation 3D</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Architecture">Architecture</term>
@@ -3132,7 +3132,7 @@
             <term>XVIIe siècle</term>
           </keywords>
         </biblFull>
-        <biblFull n="39">
+        <biblFull xml:id="dahproject0039">
           <titleStmt>
             <title type="main">Ed Ruscha's Streets of Los Angeles</title>
             <funder>
@@ -3166,9 +3166,9 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Photography">Photographie</term>
@@ -3177,7 +3177,7 @@
             <term>XXe - XXIe siècles</term>
           </keywords>
         </biblFull>
-        <biblFull n="40">
+        <biblFull xml:id="dahproject0040">
           <titleStmt>
             <title type="main">Getty Scholars’ Workspace™</title>
             <funder>
@@ -3202,13 +3202,13 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Museum">Musée</term>
           </keywords>
         </biblFull>
-        <biblFull n="41">
+        <biblFull xml:id="dahproject0041">
           <titleStmt>
             <title type="main">Mutual Muses</title>
             <principal>
@@ -3255,10 +3255,10 @@
               personal, non-commercial use.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#ContentAnalysis">Analyse de contenu</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
             <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture
               manuscrite</term>
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Manuscript">Manuscript</term>
@@ -3267,7 +3267,7 @@
             <term>XXe siècle</term>
           </keywords>
         </biblFull>
-        <biblFull n="42">
+        <biblFull xml:id="dahproject0042">
           <titleStmt>
             <title type="main">Digital Serlio Project</title>
             <principal>
@@ -3319,7 +3319,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#ContentAnalysis">Analyse de contenu</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
             <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture
               manuscrite</term>
           </keywords>
@@ -3331,7 +3331,7 @@
             <term>XVIe siècle</term>
           </keywords>
         </biblFull>
-        <biblFull n="43">
+        <biblFull xml:id="dahproject0043">
           <titleStmt>
             <title type="main">Richard Wilson Online</title>
             <principal>
@@ -3372,7 +3372,7 @@
             <note type="licence">Usage uniquement personnel, pédagogique et non-commercial.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
@@ -3381,7 +3381,7 @@
             <term>XVIIIe siècle</term>
           </keywords>
         </biblFull>
-        <biblFull n="44">
+        <biblFull xml:id="dahproject0044">
           <titleStmt>
             <title type="main">Mnemosyne</title>
             <title type="sub">Meanderings through Aby Warburg’s Atlas</title>
@@ -3425,8 +3425,8 @@
             <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
-            <term ref="#ContentAnalysis">Analyse de contenu</term>
+            <term ref="#database">Base de données</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
@@ -3436,7 +3436,7 @@
             <term>XIXe - XXe siècles</term>
           </keywords>
         </biblFull>
-        <biblFull n="45">
+        <biblFull xml:id="dahproject0045">
           <titleStmt>
             <title type="main">ARTigo</title>
             <title type="sub">Social Image Tagging</title>
@@ -3606,15 +3606,15 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#ContentAnalysis">Analyse de contenu</term>
-            <term ref="#PatternRecognition">Reconnaissance de formes</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#patternRecognition">Reconnaissance de formes</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
             <term ref="#Drawing">Dessin</term>
           </keywords>
         </biblFull>
-        <biblFull n="46">
+        <biblFull xml:id="dahproject0046">
           <titleStmt>
             <title type="main">Itinera</title>
             <principal>
@@ -3670,12 +3670,12 @@
             <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
             <term ref="#NetworkAnalysis">Analyse de réseau</term>
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
-            <term ref="#Plot">Graphique</term>
-            <term ref="#Timeline">Chronologie</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#timeline">Chronologie</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Europe">Europe</term>
@@ -3683,7 +3683,7 @@
             <term>XVIIIe - XIXe siècles</term>
           </keywords>
         </biblFull>
-        <biblFull n="47">
+        <biblFull xml:id="dahproject0047">
           <titleStmt>
             <title type="main">E.A.T. DATASCAPE</title>
             <title type="sub">1962-TODAY An Exploration of the Experiments in Art and Technology
@@ -3773,18 +3773,18 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
             <term ref="#NetworkAnalysis">Analyse de réseau</term>
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
-            <term ref="#Timeline">Chronologie</term>
-            <term ref="#Plot">Graphique</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#plotting">Graphique</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Museum">Musée</term>
           </keywords>
         </biblFull>
-        <biblFull n="48">
+        <biblFull xml:id="dahproject0048">
           <titleStmt>
             <title type="main">Replica</title>
             <principal>
@@ -3856,10 +3856,10 @@
             <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#ContentAnalysis">Analyse de contenu</term>
-            <term ref="#ComputerVision">Vision par ordinateur</term>
-            <term ref="#NeuralNetwork">Réseau de neurones</term>
-            <term ref="#PatternRecognition">Reconnaissance de formes</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#neuralNetwork">Réseau de neurones</term>
+            <term ref="#patternRecognition">Reconnaissance de formes</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Sculpture">Sculpture</term>
@@ -3869,7 +3869,7 @@
             <term ref="#Engraving">Gravure</term>
           </keywords>
         </biblFull>
-        <biblFull n="49">
+        <biblFull xml:id="dahproject0049">
           <titleStmt>
             <title type="main">Mapping the Republic of Letters</title>
             <title type="sub">British Architects on the Grand Tour</title>
@@ -3945,11 +3945,11 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#SpatialAnalysis">Analyse spatiale</term>
-            <term ref="#Visualization">Visualisation</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#NetworkAnalysis">Analyse de réseau</term>
-            <term ref="#Map">Cartographie</term>
-            <term ref="#Plot">Graphique</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#plotting">Graphique</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Europe">Europe</term>
@@ -3957,7 +3957,7 @@
             <term>XVIIe - XVIIIe siècles</term>
           </keywords>
         </biblFull>
-        <biblFull n="50">
+        <biblFull xml:id="dahproject0050">
           <titleStmt>
             <title type="main">The Grand Tour Project</title>
             <principal>
@@ -4002,12 +4002,12 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#SpatialAnalysis">Analyse spatiale</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
             <term ref="#NetworkAnalysis">Analyse de réseau</term>
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
-            <term ref="#Plot">Graphique</term>
-            <term ref="#Timeline">Chronologie</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#timeline">Chronologie</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Europe">Europe</term>
@@ -4015,7 +4015,7 @@
             <term>XVIIIe siècle</term>
           </keywords>
         </biblFull>
-        <biblFull n="51">
+        <biblFull xml:id="dahproject0051">
           <titleStmt>
             <title type="main">Francis Towne</title>
             <title type="sub">A Catalogue Raisonné of Francis Towne (1739-1816)</title>
@@ -4062,7 +4062,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
+            <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Painting">Peinture</term>
@@ -4072,7 +4072,7 @@
             <term>XVIIIe siècle</term>
           </keywords>
         </biblFull>
-        <biblFull n="52">
+        <biblFull xml:id="dahproject0052">
           <titleStmt>
             <title type="main">Renaissance Polychrome Sculpture in Tuscany</title>
             <principal>
@@ -4125,9 +4125,9 @@
             <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Database">Base de données</term>
-            <term ref="#Visualization">Visualisation</term>
-            <term ref="#Map">Cartographie</term>
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Photography">Photographie</term>
@@ -4137,7 +4137,7 @@
             <term>Renaissance</term>
           </keywords>
         </biblFull>
-        <biblFull n="53">
+        <biblFull xml:id="dahproject0053">
           <titleStmt>
             <title type="main">The Watercolour World</title>
             <title type="sub">The known world before photography</title>
@@ -4188,7 +4188,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="54">
+        <biblFull xml:id="dahproject0054">
           <titleStmt>
             <title type="main">The Digital Piranesi</title>
             <principal>
@@ -4232,7 +4232,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="55">
+        <biblFull xml:id="dahproject0055">
           <titleStmt>
             <title type="main">Mapping Paintings</title>
             <principal>
@@ -4282,7 +4282,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="56">
+        <biblFull xml:id="dahproject0056">
           <titleStmt>
             <title type="main">Images of Rome</title>
             <title type="sub">The Rodolfo Lanciani Digital Archive</title>
@@ -4357,7 +4357,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="57">
+        <biblFull xml:id="dahproject0057">
           <titleStmt>
             <title type="main">Artists in Paris</title>
             <title type="sub">Mapping the 18<hi rend="superscript">th</hi>-Century Art World</title>
@@ -4465,7 +4465,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="58">
+        <biblFull xml:id="dahproject0058">
           <titleStmt>
             <title type="main">Fashion History Timeline</title>
             <principal>
@@ -4502,7 +4502,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="59">
+        <biblFull xml:id="dahproject0059">
           <titleStmt>
             <title type="main">Style Revolution</title>
             <title type="sub">Journal des Dames et des Modes (1797-1804) Digitized!</title>
@@ -4546,7 +4546,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="60">
+        <biblFull xml:id="dahproject0060">
           <titleStmt>
             <title type="main">Mapping Art Markets in Europe, 1500-1800</title>
             <principal>
@@ -4601,7 +4601,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="61">
+        <biblFull xml:id="dahproject0061">
           <titleStmt>
             <title type="main">The Royal Academy Summer Exhibition</title>
             <title type="sub">A Chronicle, 1769-2018</title>
@@ -4668,7 +4668,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="62">
+        <biblFull xml:id="dahproject0062">
           <titleStmt>
             <title type="main">Picturing Places</title>
             <principal>
@@ -4718,7 +4718,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="63">
+        <biblFull xml:id="dahproject0063">
           <titleStmt>
             <title type="main">What Jane Saw</title>
             <principal>
@@ -4756,7 +4756,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="64">
+        <biblFull xml:id="dahproject0064">
           <titleStmt>
             <title type="main">ARIES - ARt Image Exploration Space</title>
             <title type="sub">An interactive image manipulation system that enables the exploration
@@ -4848,7 +4848,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="65">
+        <biblFull xml:id="dahproject0065">
           <titleStmt>
             <title type="main">Atlas des techniques de la Construction Romaine</title>
             <principal>
@@ -4906,7 +4906,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="66">
+        <biblFull xml:id="dahproject0066">
           <titleStmt>
             <title type="main">Open Art Data</title>
             <title type="sub">Linking Databases To Detect Looted Art</title>
@@ -4927,7 +4927,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="67">
+        <biblFull xml:id="dahproject0067">
           <titleStmt>
             <title type="main">BlakeTint</title>
             <title type="sub">Quantizing Color in William Blake’s Illuminated Books</title>
@@ -4969,7 +4969,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="68">
+        <biblFull xml:id="dahproject0068">
           <titleStmt>
             <title type="main">Modern Migrants: Paintings from Europe in US Museums</title>
             <principal>
@@ -5013,7 +5013,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="69">
+        <biblFull xml:id="dahproject0069">
           <titleStmt>
             <title type="main">What is a painting?</title>
             <principal>
@@ -5042,7 +5042,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="70">
+        <biblFull xml:id="dahproject0070">
           <titleStmt>
             <title type="main">Archival city</title>
             <title type="sub">Bridging Urban Past and Future</title>
@@ -5078,7 +5078,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="71">
+        <biblFull xml:id="dahproject0071">
           <titleStmt>
             <title type="main">Paris Time-machine</title>
             <principal>
@@ -5176,7 +5176,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="72">
+        <biblFull xml:id="dahproject0072">
           <titleStmt>
             <title type="main">Le plan de Rome</title>
             <title type="sub">Restituer la Rome antique</title>
@@ -5304,7 +5304,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="73">
+        <biblFull xml:id="dahproject0073">
           <titleStmt>
             <title type="main">Restitution virtuelle des machines de l'Antiquité</title>
             <principal>
@@ -5382,7 +5382,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="74">
+        <biblFull xml:id="dahproject0074">
           <titleStmt>
             <title type="main">Digital Augustan Rome</title>
             <principal>
@@ -5476,7 +5476,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="75">
+        <biblFull xml:id="dahproject0075">
           <titleStmt>
             <title type="main">Rennes et l’incendie de 1720</title>
             <principal>
@@ -5507,7 +5507,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="76">
+        <biblFull xml:id="dahproject0076">
           <titleStmt>
             <title type="main">Lyon en 1700</title>
             <principal>
@@ -5558,7 +5558,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="77">
+        <biblFull xml:id="dahproject0077">
           <titleStmt>
             <title type="main">Imagine Rio</title>
             <principal>
@@ -5674,7 +5674,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="78">
+        <biblFull xml:id="dahproject078">
           <titleStmt>
             <title type="main">Base de données du programme CIRCE</title>
             <title type="sub">Constructions, Interprétations et Représentations Cultuelles de
@@ -5723,7 +5723,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="79">
+        <biblFull xml:id="dahproject0079">
           <titleStmt>
             <title type="main">ArchBook</title>
             <principal>
@@ -5815,7 +5815,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="80">
+        <biblFull xml:id="dahproject0080">
           <titleStmt>
             <title type="main">Dictionary of Art Historians</title>
             <principal>
@@ -5876,7 +5876,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="81">
+        <biblFull xml:id="dahproject0081">
           <titleStmt>
             <title type="main">Dictionnaire critique des historiens de l’art actifs en France de la
               Révolution à la Première Guerre mondiale</title>
@@ -5963,7 +5963,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="82">
+        <biblFull xml:id="dahproject0082">
           <titleStmt>
             <title type="main">Project Cornelia</title>
             <principal>
@@ -6007,7 +6007,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="83">
+        <biblFull xml:id="dahproject0083">
           <titleStmt>
             <title type="main">Project Cornelia</title>
             <principal>
@@ -6051,7 +6051,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="84">
+        <biblFull xml:id="dahproject0084">
           <titleStmt>
             <title type="main">Digital Montagny</title>
             <principal>
@@ -6100,7 +6100,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="85">
+        <biblFull xml:id="dahproject0085">
           <titleStmt>
             <title type="main">J. Burckhardt</title>
             <title type="sub">OPenPal. Open Correspondence Publishing and Visualization
@@ -6144,7 +6144,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="86">
+        <biblFull xml:id="dahproject0086">
           <titleStmt>
             <title type="main">Artl@s</title>
             <principal>
@@ -6201,7 +6201,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="87">
+        <biblFull xml:id="dahproject0087">
           <titleStmt>
             <title type="main">GeoMap</title>
             <title type="sub">Géographie du marché de l'art parisien</title>
@@ -6253,7 +6253,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="88">
+        <biblFull xml:id="dahproject0088">
           <titleStmt>
             <title type="main">Dictionnaire biographique des pensionnaires de l’Académie de France à
               Rome</title>
@@ -6301,7 +6301,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="89">
+        <biblFull xml:id="dahproject0089">
           <titleStmt>
             <title type="main">Imago</title>
             <title type="sub">Visual Contagions</title>
@@ -6341,7 +6341,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="90">
+        <biblFull xml:id="dahproject0090">
           <titleStmt>
             <title type="main">Fictions de l'Artificel Postdigital</title>
             <principal>
@@ -6394,7 +6394,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="91">
+        <biblFull xml:id="dahproject0091">
           <titleStmt>
             <title type="main">Ukiyo-e Search</title>
             <title type="sub">Japanese Woodblock Print Search</title>
@@ -6424,7 +6424,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="92">
+        <biblFull xml:id="dahproject0092">
           <titleStmt>
             <title type="main">Inventing abstraction</title>
             <title type="sub">1910-1925</title>
@@ -6481,7 +6481,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="93">
+        <biblFull xml:id="dahproject0093">
           <titleStmt>
             <title type="main" xml:lang="en">Research Database Continent Allegories in the Baroque
               Age</title>
@@ -6530,7 +6530,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="94">
+        <biblFull xml:id="dahproject0094">
           <titleStmt>
             <title type="main">Gen Studio</title>
             <principal>
@@ -6570,7 +6570,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="95">
+        <biblFull xml:id="dahproject0095">
           <titleStmt>
             <title type="main">RHIZOME</title>
             <title type="sub">ArtBase</title>
@@ -6605,7 +6605,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="96">
+        <biblFull xml:id="dahproject0096">
           <titleStmt>
             <title type="main">LexArt</title>
             <title type="sub">Words for Art : The Rise of a Terminology (1600-1750)</title>
@@ -6667,7 +6667,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="97">
+        <biblFull xml:id="dahproject0097">
           <titleStmt>
             <title type="main">MEXICANA</title>
             <title type="sub">Repositorio del patrimonio cultural de México</title>
@@ -6706,7 +6706,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="98">
+        <biblFull xml:id="dahproject0098">
           <titleStmt>
             <title type="main">Art Track</title>
             <title type="sub">The CMOA Digital Provenance Standard</title>
@@ -6869,7 +6869,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="99">
+        <biblFull xml:id="dahproject0099">
           <titleStmt>
             <title type="main">The Experiments in Art and Technology (E.A.T.) Datascape</title>
             <principal>
@@ -6992,7 +6992,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="100">
+        <biblFull xml:id="dahproject0100">
           <titleStmt>
             <title type="main">Coins</title>
             <title type="sub">A journey through a rich cultural collection</title>
@@ -7077,7 +7077,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="101">
+        <biblFull xml:id="dahproject0101">
           <titleStmt>
             <title type="main">Collecta</title>
             <title type="sub">Archive Numérique Géolocalisée - La collection Gaignières -
@@ -7136,7 +7136,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="102">
+        <biblFull xml:id="dahproject0102">
           <titleStmt>
             <title type="main">Visualizing Visions</title>
             <title type="sub">Exploring the Rijksmuseum dataset</title>
@@ -7166,7 +7166,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="103">
+        <biblFull xml:id="dahproject0103">
           <titleStmt>
             <title type="main">Van Gogh</title>
             <principal>
@@ -7199,7 +7199,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="104">
+        <biblFull xml:id="dahproject0104">
           <titleStmt>
             <title type="main">Les sculptures de la villa romaine de Chiragan</title>
             <title type="sub">Musée Saint-Raymond</title>
@@ -7251,7 +7251,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="105">
+        <biblFull xml:id="dahproject0105">
           <titleStmt>
             <title type="main">Atlasmuseum</title>
             <principal>
@@ -7309,7 +7309,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="106">
+        <biblFull xml:id="dahproject0106">
           <titleStmt>
             <title type="main">Ocapi (Outil de Captcha et d'Annotation du Patrimoine en
               Image)</title>
@@ -7366,7 +7366,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="107">
+        <biblFull xml:id="dahproject0107">
           <titleStmt>
             <title type="main">Google Arts &amp; Culture</title>
             <title type="old">Google Art Project</title>
@@ -7399,7 +7399,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="108">
+        <biblFull xml:id="dahproject0108">
           <titleStmt>
             <title type="main">ArtLens AI</title>
             <title type="sub">Share Your View</title>
@@ -7443,7 +7443,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="109">
+        <biblFull xml:id="dahproject0109">
           <titleStmt>
             <title type="main">Diamond</title>
             <principal>
@@ -7485,7 +7485,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="110">
+        <biblFull xml:id="dahproject0110">
           <titleStmt>
             <title type="main">Time Machine</title>
             <principal>
@@ -7536,7 +7536,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="111">
+        <biblFull xml:id="dahproject0111">
           <titleStmt>
             <title type="main">Odeuropa</title>
             <principal>
@@ -7645,7 +7645,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="112">
+        <biblFull xml:id="dahproject0112">
           <titleStmt>
             <title type="main">DatArt_Asie</title>
             <principal>
@@ -7713,7 +7713,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="113">
+        <biblFull xml:id="dahproject0113">
           <titleStmt>
             <title type="main">DatArt_Bordeaux</title>
             <principal>
@@ -7761,7 +7761,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="114">
+        <biblFull xml:id="dahproject0114">
           <titleStmt>
             <title type="main">DatArt_Toulouse</title>
             <principal>
@@ -7828,7 +7828,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="115">
+        <biblFull xml:id="dahproject0115">
           <titleStmt>
             <title type="main">Archipédie</title>
             <principal>
@@ -7864,7 +7864,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="116">
+        <biblFull xml:id="dahproject0116">
           <titleStmt>
             <title type="main">Below the Surface</title>
             <principal>
@@ -7902,7 +7902,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="117">
+        <biblFull xml:id="dahproject0117">
           <titleStmt>
             <title type="main">Portail Biblissima</title>
             <principal>
@@ -7954,7 +7954,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="118">
+        <biblFull xml:id="dahproject0118">
           <titleStmt>
             <title type="main">Biblissima+</title>
             <title type="sub">Observatoire des cultures écrites anciennes, de l’argile à
@@ -8029,7 +8029,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="119">
+        <biblFull xml:id="dahproject0119">
           <titleStmt>
             <title type="main">Mirador</title>
             <principal>
@@ -8076,7 +8076,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="120">
+        <biblFull xml:id="dahproject0120">
           <titleStmt>
             <title type="main">Mirador</title>
             <principal>
@@ -8123,7 +8123,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="121">
+        <biblFull xml:id="dahproject0121">
           <titleStmt>
             <title type="main">Digitales Storytelling in der Kunstgeschichte</title>
             <principal>
@@ -8162,7 +8162,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="122">
+        <biblFull xml:id="dahproject0122">
           <titleStmt>
             <title type="main">Wikidata Image Positions</title>
             <principal>
@@ -8190,7 +8190,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="123">
+        <biblFull xml:id="dahproject0123">
           <titleStmt>
             <title type="main">Schweizer Kleinmeister: An Unexpected Journey</title>
             <principal>
@@ -8239,7 +8239,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="124">
+        <biblFull xml:id="dahproject0124">
           <titleStmt>
             <title type="main">Sur la piste des oeuvres antiques</title>
             <principal>
@@ -8291,7 +8291,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="125">
+        <biblFull xml:id="dahproject0125">
           <titleStmt>
             <title type="main">Géo RETIF</title>
             <principal>
@@ -8367,7 +8367,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="126">
+        <biblFull xml:id="dahproject0126">
           <titleStmt>
             <title type="main">Recording the Grandeur of the Qing</title>
             <title type="sub">The Southern Inspection Tour Scrolls of the Kangxi and Quianlong
@@ -8414,7 +8414,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="127">
+        <biblFull xml:id="dahproject0127">
           <titleStmt>
             <title type="main">Mapping the Art and Architecture of Renaissance Venice</title>
             <principal>
@@ -8448,7 +8448,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="128">
+        <biblFull xml:id="dahproject0128">
           <titleStmt>
             <title type="main">Monet's Rouen Cathedral</title>
             <principal>
@@ -8472,7 +8472,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="129">
+        <biblFull xml:id="dahproject0129">
           <titleStmt>
             <title type="main">Parthenon Frieze</title>
             <principal>
@@ -8494,7 +8494,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="130">
+        <biblFull xml:id="dahproject0130">
           <titleStmt>
             <title type="main">Mapping Architecture in Medieval and Renaissance Naples</title>
             <principal>
@@ -8518,7 +8518,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="131">
+        <biblFull xml:id="dahproject0131">
           <titleStmt>
             <title type="main">Paris, Notre-Dame Cathedral Animated Ground Plan</title>
             <principal>
@@ -8540,7 +8540,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="132">
+        <biblFull xml:id="dahproject0132">
           <titleStmt>
             <title type="main">Durham Cathedral Interactive Ground Plan</title>
             <principal>
@@ -8564,7 +8564,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="133">
+        <biblFull xml:id="dahproject0133">
           <titleStmt>
             <title type="main">Shahnama (Book of Kings) of Safavid Shah Tahmasp (The Feast of
               Sadah)</title>
@@ -8590,7 +8590,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="134">
+        <biblFull xml:id="dahproject0134">
           <titleStmt>
             <title type="main">The Great Mosque of Mopti</title>
             <principal>
@@ -8619,7 +8619,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="135">
+        <biblFull xml:id="dahproject0135">
           <titleStmt>
             <title type="main">Les Netsuke</title>
             <title type="sub">Au bout des doigts</title>
@@ -8646,7 +8646,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="136">
+        <biblFull xml:id="dahproject0136">
           <titleStmt>
             <title type="main">Perpetuity | Palmyra</title>
             <principal>
@@ -8688,7 +8688,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="137">
+        <biblFull xml:id="dahproject0137">
           <titleStmt>
             <title type="main">Closer to Van Eyck</title>
             <title type="sub">Rediscovering the Ghent Altarpiece</title>
@@ -8744,7 +8744,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="138">
+        <biblFull xml:id="dahproject0138">
           <titleStmt>
             <title type="main">Whistler's Peacock Room</title>
             <principal>
@@ -8789,7 +8789,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="139">
+        <biblFull xml:id="dahproject0139">
           <titleStmt>
             <title type="main">Mapping the Frick Photograph Campaigns, 1922–1967</title>
             <principal>
@@ -8841,7 +8841,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="140">
+        <biblFull xml:id="dahproject0140">
           <titleStmt>
             <title type="main">Map Search</title>
             <title type="sub">Archives Directory for the History of Collecting</title>
@@ -8878,7 +8878,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="141">
+        <biblFull xml:id="dahproject0141">
           <titleStmt>
             <title type="main">The Life of the Buddha</title>
             <principal>
@@ -8922,7 +8922,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="142">
+        <biblFull xml:id="dahproject0142">
           <titleStmt>
             <title type="main">Paris Past &amp; Present</title>
             <principal>
@@ -8955,7 +8955,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="143">
+        <biblFull xml:id="dahproject0143">
           <titleStmt>
             <title type="main">Mapping Video Art</title>
             <principal>
@@ -9005,7 +9005,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="144">
+        <biblFull xml:id="dahproject0144">
           <titleStmt>
             <title type="main">What Jane Saw</title>
             <principal>
@@ -9039,7 +9039,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="145">
+        <biblFull xml:id="dahproject0145">
           <titleStmt>
             <title type="main">Saint George on a Bike</title>
             <principal>
@@ -9078,7 +9078,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="146">
+        <biblFull xml:id="dahproject0146">
           <titleStmt>
             <title type="main">What Jane Saw</title>
             <principal>
@@ -9112,7 +9112,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="147">
+        <biblFull xml:id="dahproject0147">
           <titleStmt>
             <title type="main">Photogrammar</title>
             <principal>
@@ -9163,7 +9163,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="148">
+        <biblFull xml:id="dahproject0148">
           <titleStmt>
             <title type="main">PixPlot</title>
             <principal>
@@ -9200,7 +9200,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="149">
+        <biblFull xml:id="dahproject0149">
           <titleStmt>
             <title type="main">The Khosro Cup Replication Project</title>
             <principal>
@@ -9239,7 +9239,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="150">
+        <biblFull xml:id="dahproject0150">
           <titleStmt>
             <title type="main">Jheronimus Bosch, the Garden of Earthly Delights</title>
             <principal>
@@ -9278,7 +9278,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="151">
+        <biblFull xml:id="dahproject0151">
           <titleStmt>
             <title type="main">Mapping the Medieval Woman</title>
             <principal>
@@ -9320,7 +9320,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="152">
+        <biblFull xml:id="dahproject0152">
           <titleStmt>
             <title type="main">Le Monde en Musée</title>
             <title type="sub">Cartographie des collections d'objets d'Afrique et d'Océanie en
@@ -9374,7 +9374,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="153">
+        <biblFull xml:id="dahproject0153">
           <titleStmt>
             <title type="main">BAnDITI</title>
             <title type="sub">Les "badigeonneurs" italiens itinérants, entre Haut-Languedoc et
@@ -9426,7 +9426,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="154">
+        <biblFull xml:id="dahproject0154">
           <titleStmt>
             <title type="main">DataVirgo</title>
             <principal>
@@ -9471,7 +9471,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="155">
+        <biblFull xml:id="dahproject0155">
           <titleStmt>
             <title type="main">Les Guides de Paris</title>
             <principal>
@@ -9531,7 +9531,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="156">
+        <biblFull xml:id="dahproject0156">
           <titleStmt>
             <title type="main">La Sculpture en son lieu</title>
             <title type="sub">Chapiteaux romans d'Auvergne</title>
@@ -9599,7 +9599,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="157">
+        <biblFull xml:id="dahproject0157">
           <titleStmt>
             <title type="main">Villa Diomedes Project</title>
             <title type="sub">Archives de la villa de Diomède à Pompéi (1771-2019)</title>
@@ -9662,7 +9662,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="158">
+        <biblFull xml:id="dahproject0158">
           <titleStmt>
             <title type="main">LittéPub</title>
             <title type="sub">Lis tes pubs ? Littérature publicitaire et publicité littéraire de
@@ -9721,7 +9721,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="159">
+        <biblFull xml:id="dahproject0159">
           <titleStmt>
             <title type="main">Perso-Indica</title>
             <title type="sub">An Analytical Survey of Persian Works on Indian Learned
@@ -9771,7 +9771,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="160">
+        <biblFull xml:id="dahproject0160">
           <titleStmt>
             <title type="main">Problemata</title>
             <title type="sub">ZNAK! Logotypes ukrainiens. 1910-2019</title>
@@ -9847,7 +9847,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="161">
+        <biblFull xml:id="dahproject0161">
           <titleStmt>
             <title type="main">Qallaline</title>
             <title type="sub">Catalogue raisonné des carreaux de céramique tunisois</title>
@@ -9907,7 +9907,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="162">
+        <biblFull xml:id="dahproject0162">
           <titleStmt>
             <title type="main">BaOIA</title>
             <title type="sub">Boîte à Outils d’Intelligence Artificielle</title>
@@ -9969,7 +9969,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="163">
+        <biblFull xml:id="dahproject0163">
           <titleStmt>
             <title type="main">Spiridon</title>
             <title type="sub">Céramique Médiévales et Modernes en Méditerranée</title>
@@ -10006,7 +10006,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="164">
+        <biblFull xml:id="dahproject0164">
           <titleStmt>
             <title type="main">Sculpturo</title>
             <title type="sub">Plateforme de recherche sur la sculpture romaine en Gaules et en
@@ -10079,7 +10079,7 @@
             <term/>
           </keywords>
         </biblFull>
-        <biblFull n="165">
+        <biblFull xml:id="dahproject0165">
           <titleStmt>
             <title type="main">SIAMESE</title>
             <principal>
@@ -10136,9 +10136,9 @@
 
           <!-- Exemple d'usages de tags -->
           <keywords scheme="#TaDiRAH">
-            <term ref="#ComputerVision">Vision par ordinateur</term>
-            <term ref="#Visualization">Visualisation de données</term>
-            <term ref="#NeuralNetwork">Réseau de neurones</term>
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#neuralNetwork">Réseau de neurones</term>
           </keywords>
           <keywords scheme="#Subject">
             <term ref="#Journal">Journal</term>
@@ -10147,7 +10147,7 @@
         </biblFull>
         <!-- fin exemple -->
 
-        <biblFull n="166">
+        <biblFull xml:id="dahproject0166">
           <titleStmt>
             <title type="main">Where Uncertainty Falls</title>
             <title type="sub">The incidence of the word "uncertain" in the Met's collection</title>
@@ -10179,11 +10179,11 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#Visualization">Visualisation</term>
+            <term ref="#visualAnalysis">Visualisation</term>
             <!-- BDD, musée -->
           </keywords>
         </biblFull>
-        <biblFull n="167">
+        <biblFull xml:id="dahproject0167">
           <titleStmt>
             <title type="main">Digital Muret</title>
             <principal>
@@ -10228,7 +10228,7 @@
             <!-- dessin, XIXe siècle, Antiquité, identification d'images, BDD, publication -->
           </keywords>
         </biblFull>
-        <biblFull n="168">
+        <biblFull xml:id="dahproject0168">
           <titleStmt>
             <title type="main">Gender &amp; Medium</title>
             <principal>
@@ -10269,7 +10269,7 @@
             <!-- musée, études de genre, visualisation -->
           </keywords>
         </biblFull>
-        <biblFull n="169">
+        <biblFull xml:id="dahproject0169">
           <titleStmt>
             <title type="main">RePAIR</title>
             <principal>
@@ -10314,7 +10314,7 @@
             <!-- archéologie, restauration, Antiquité, IA -->
           </keywords>
         </biblFull>
-        <biblFull n="170">
+        <biblFull xml:id="dahproject0170">
           <titleStmt>
             <title type="main">artnet</title>
             <principal>
