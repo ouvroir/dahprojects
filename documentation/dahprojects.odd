@@ -606,6 +606,11 @@
             </elementSpec>
             <elementSpec ident="date" mode="change">
                <attList>
+                  <attDef ident="version" mode="add">
+                     <datatype>
+                        <dataRef key="token"></dataRef>
+                     </datatype>
+                  </attDef>
                   <attDef ident="full" mode="delete"/>
                   <attDef ident="ref" mode="delete"/>
                   <attDef ident="type" mode="delete"/>
