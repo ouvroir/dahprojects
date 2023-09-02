@@ -599,16 +599,25 @@
                </attList>
             </elementSpec>
             <elementSpec ident="term" mode="change">
-               <!-- COMPLETER -->
                <attList>
                   <attDef ident="cert" mode="delete"/>
+                  <attDef ident="cRef" mode="delete"/>
+                  <attDef ident="decls" mode="delete"/>
+                  <attDef ident="n" mode="delete"/>
+                  <attDef ident="rend" mode="delete"/>
+                  <attDef ident="rendition" mode="delete"/>
+                  <attDef ident="resp" mode="delete"/>
+                  <attDef ident="sortKey" mode="delete"/>
+                  <attDef ident="style" mode="delete"/>
+                  <attDef ident="xml:base" mode="delete"/>
+                  <attDef ident="xml:space" mode="delete"/>
                </attList>
             </elementSpec>
             <elementSpec ident="date" mode="change">
                <attList>
                   <attDef ident="version" mode="add">
                      <datatype>
-                        <dataRef key="token"></dataRef>
+                        <dataRef key="token"/>
                      </datatype>
                   </attDef>
                   <attDef ident="full" mode="delete"/>
@@ -772,6 +781,7 @@
                   <attDef ident="cRef" mode="delete"/>
                   <attDef ident="decls" mode="delete"/>
                   <attDef ident="rend" mode="delete"/>
+                  <attDef ident="mimeType" mode="delete"/>
                </attList>
             </elementSpec>
             <elementSpec ident="head" mode="change">
@@ -1646,7 +1656,7 @@
                      <elementRef key="titleStmt" minOccurs="1" maxOccurs="1"/>
                      <elementRef key="publicationStmt" minOccurs="1" maxOccurs="1"/>
                      <elementRef key="notesStmt" minOccurs="1" maxOccurs="1"/>
-                     <elementRef key="keywords" minOccurs="1" maxOccurs="unbounded"/>
+                     <elementRef key="keywords" minOccurs="2" maxOccurs="2"/>
                   </sequence>
                </content>
                <attList>
@@ -1862,51 +1872,51 @@
                   <attDef ident="from" mode="delete"/>
                </attList>
             </elementSpec>
-               <elementSpec ident="category" mode="change">
-                  <content>
-                     <elementRef key="term" minOccurs="0" maxOccurs="unbounded"/>
-                     <elementRef key="catDesc" minOccurs="0" maxOccurs="unbounded"/>
-                     <elementRef key="category" minOccurs="0" maxOccurs="unbounded"/>
-                  </content>
-                  <attList>
-                     <attDef ident="uri" mode="add">
-                        <datatype>
-                           <dataRef key="token"></dataRef>
-                        </datatype>
-                     </attDef>
-                     <attDef ident="from-iso" mode="add">
-                        <datatype>
-                           <dataRef key="numeral"></dataRef>
-                        </datatype>
-                     </attDef>
-                     <attDef ident="to-iso" mode="add">
-                        <datatype>
-                           <dataRef key="numeral"></dataRef>
-                        </datatype>
-                     </attDef>
-                     <attDef ident="when-iso" mode="add">
-                        <datatype>
-                           <dataRef key="numeral"></dataRef>
-                        </datatype>
-                     </attDef>
-                     <attDef ident="default" mode="delete"/>
-                     <attDef ident="n" mode="delete"/>
-                     <attDef ident="when" mode="delete"/>
-                     <attDef ident="xml:space" mode="delete"/>
-                     <attDef ident="xml:base" mode="delete"/>
-                     <attDef ident="cert" mode="delete"/>
-                     <attDef ident="rend" mode="delete"/>
-                     <attDef ident="cert" mode="delete"/>
-                     <attDef ident="rendition" mode="delete"/>
-                     <attDef ident="style" mode="delete"/>
-                     <attDef ident="resp" mode="delete"/>
-                     <attDef ident="sortKey" mode="delete"/>
-                     <attDef ident="xml:space" mode="delete"/>
-                     <attDef ident="xml:base" mode="delete"/>
-                     <attDef ident="cert" mode="delete"/>
-                     <attDef ident="datingMethod" mode="delete"/>
-                     <attDef ident="datingPoint" mode="delete"/>
-                  </attList>
+            <elementSpec ident="category" mode="change">
+               <content>
+                  <elementRef key="term" minOccurs="0" maxOccurs="unbounded"/>
+                  <elementRef key="catDesc" minOccurs="0" maxOccurs="unbounded"/>
+                  <elementRef key="category" minOccurs="0" maxOccurs="unbounded"/>
+               </content>
+               <attList>
+                  <attDef ident="uri" mode="add">
+                     <datatype>
+                        <dataRef key="token"/>
+                     </datatype>
+                  </attDef>
+                  <attDef ident="from-iso" mode="add">
+                     <datatype>
+                        <dataRef key="numeral"/>
+                     </datatype>
+                  </attDef>
+                  <attDef ident="to-iso" mode="add">
+                     <datatype>
+                        <dataRef key="numeral"/>
+                     </datatype>
+                  </attDef>
+                  <attDef ident="when-iso" mode="add">
+                     <datatype>
+                        <dataRef key="numeral"/>
+                     </datatype>
+                  </attDef>
+                  <attDef ident="default" mode="delete"/>
+                  <attDef ident="n" mode="delete"/>
+                  <attDef ident="when" mode="delete"/>
+                  <attDef ident="xml:space" mode="delete"/>
+                  <attDef ident="xml:base" mode="delete"/>
+                  <attDef ident="cert" mode="delete"/>
+                  <attDef ident="rend" mode="delete"/>
+                  <attDef ident="cert" mode="delete"/>
+                  <attDef ident="rendition" mode="delete"/>
+                  <attDef ident="style" mode="delete"/>
+                  <attDef ident="resp" mode="delete"/>
+                  <attDef ident="sortKey" mode="delete"/>
+                  <attDef ident="xml:space" mode="delete"/>
+                  <attDef ident="xml:base" mode="delete"/>
+                  <attDef ident="cert" mode="delete"/>
+                  <attDef ident="datingMethod" mode="delete"/>
+                  <attDef ident="datingPoint" mode="delete"/>
+               </attList>
             </elementSpec>
             <elementSpec ident="catDesc" mode="change">
                <content>

@@ -145,11 +145,11 @@
               <term xml:lang="fr">Modélisation 3D</term>
             </category>
           </category>
-            <category xml:id="database">
-              <term xml:lang="en">Database</term>
-              <term xml:lang="fr">Base de données</term>
-            </category>
-            <!-- ajoutés fin -->
+          <category xml:id="database">
+            <term xml:lang="en">Database</term>
+            <term xml:lang="fr">Base de données</term>
+          </category>
+          <!-- ajoutés fin -->
         </taxonomy>
         <taxonomy xml:id="dataBnf">
           <bibl>
@@ -958,7 +958,7 @@
                 large audience. La présentation explore les possibilités de visualisations
                 simultanées d’un même thème iconographique ou textuel dans plusieurs sources.</p>
               <p>Le contenu pictural et textuel des rouleaux est identifié par des zones et indexé.
-                Ce découpage permet une navigation hypertexteulle et de fournir des informations
+                Ce découpage permet une navigation hypertextuelle et de fournir des informations
                 supplémentaires. Une table lumineuse permet de rassembler des ensembles pour les
                 étudier de manière adéquate.</p>
               <p>Techniquement, le site utilise le logiciel <ref target="http://hyperimage.ws"
@@ -970,6 +970,11 @@
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#visualAnalysis">Visualisation</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#manuscript">Manuscrit</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0003">
@@ -2566,17 +2571,18 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="it">
-              <p>L'identità culturale di <placeName>Pompei</placeName> è il risultato dei significati attribuiti alle sue
-                antichità da varie persone in epoche e con intenti diversi. <title>"La Fortuna Visiva di
-                Pompei"</title> raccoglie immagini e testi che documentano le varie interpretazioni e
-                percezioni dei monumenti di <placeName>Pompei</placeName> dal <date>1748</date>, anno della sua scoperta,
-                ai primi del Novecento.</p>
+              <p>L'identità culturale di <placeName>Pompei</placeName> è il risultato dei
+                significati attribuiti alle sue antichità da varie persone in epoche e con intenti
+                diversi. <title>"La Fortuna Visiva di Pompei"</title> raccoglie immagini e testi che
+                documentano le varie interpretazioni e percezioni dei monumenti di
+                  <placeName>Pompei</placeName> dal <date>1748</date>, anno della sua scoperta, ai
+                primi del Novecento.</p>
               <p>Il nome scelto per questo Progetto di ricerca, in corso dal <date>2002</date>
-                presso la <orgName>Scuola Normale Superiore</orgName>, dichiara immediatamente l'intento predominante
-                di analizzare la percezione dell'antica <placeName>Pompei</placeName>, nelle sue molteplici forme e
-                variazioni nello spazio e nel tempo, così come si coglie attraverso la
-                documentazione grafica edita e inedita, privilegiando le testimonianze più antiche e
-                pregevoli.</p>
+                presso la <orgName>Scuola Normale Superiore</orgName>, dichiara immediatamente
+                l'intento predominante di analizzare la percezione dell'antica
+                  <placeName>Pompei</placeName>, nelle sue molteplici forme e variazioni nello
+                spazio e nel tempo, così come si coglie attraverso la documentazione grafica edita e
+                inedita, privilegiando le testimonianze più antiche e pregevoli.</p>
               <p>Oggetti principali della ricerca sono dunque le rappresentazioni figurative in sé
                 (incisioni, disegni, acquerelli, etc.) e la "fortuna" dei soggetti che in queste
                 sono riprodotti, relativi al sito archeologico e ai suoi monumenti. Obiettivo
@@ -2728,7 +2734,8 @@
                 nationales (7 500 dessins du fonds du secrétariat d’État de la Maison du roi sous
                 l’Ancien Régime), mais également dans celui de la Bibliothèque nationale de France
                 (1 000 dessins de la collection Robert De Cotte) et de l’Établissement public du
-                château, du musée et du domaine national de <placeName>Versailles</placeName> (200 dessins).</p>
+                château, du musée et du domaine national de <placeName>Versailles</placeName> (200
+                dessins).</p>
               <p>Ce corpus documentaire, exceptionnel par son histoire, son homogénéité et son
                 volume, est principalement issu du travail des agences des premiers architectes du
                 roi, de <persName>Louis Le Vau</persName> à <persName>Richard Mique</persName>, en
@@ -2741,10 +2748,11 @@
                 vaste sur l’architecture palatiale classique française des <date>XVIIe</date> et
                   <date>XVIIIe</date> siècles. Ce corpus a été établi à partir du catalogue de
                   <persName>Danièle Gallet-Guerne</persName> et <persName>Christian
-                  Baulez</persName> <placeName>Versailles</placeName>. Dessins d’architecture de la direction générale des
-                Bâtiments du roi, <placeName>Paris</placeName>, archives nationales, 1983 et 1989, 2 vol. Il a ensuite été
-                complété, révisé et augmenté par les chercheurs des différentes institutions
-                partenaires.</p>
+                  Baulez</persName>
+                <placeName>Versailles</placeName>. Dessins d’architecture de la direction générale
+                des Bâtiments du roi, <placeName>Paris</placeName>, archives nationales, 1983 et
+                1989, 2 vol. Il a ensuite été complété, révisé et augmenté par les chercheurs des
+                différentes institutions partenaires.</p>
             </note>
             <note type="biblio">
               <biblStruct>
@@ -3234,10 +3242,11 @@
             </note>
             <note type="licence">The Getty Research Institute makes the data and code available
               under the least restrictive open license possible; however, note that each directory
-              has its own license. The <orgName>J. Paul Getty Trust</orgName> also owns the copyright to the <persName>Lawrence
-              Alloway</persName> and <persName>Sylvia Sleigh</persName> papers, including digital images of the correspondence.
-              These images are not included under any open license, but may be downloaded for
-              personal, non-commercial use.</note>
+              has its own license. The <orgName>J. Paul Getty Trust</orgName> also owns the
+              copyright to the <persName>Lawrence Alloway</persName> and <persName>Sylvia
+                Sleigh</persName> papers, including digital images of the correspondence. These
+              images are not included under any open license, but may be downloaded for personal,
+              non-commercial use.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#contentAnalysis">Analyse de contenu</term>
@@ -3278,30 +3287,31 @@
             <note type="abstract" xml:lang="en">
               <p><title>The Digital Serlio Project</title> presents <orgName>Avery Architectural
                   &amp; Fine Arts Library's</orgName> unparalleled holdings of the works of
-                <persName>Sebastiano Serlio</persName> including his published works in multiple editions, and the
-                manuscript for his unpublished masterwork, On Domestic Architecture. The Project
-                seeks to facilitate active use of the collection in curricular and research
-                activities and to promote new scholarship. <title>The Digital Serlio Project</title>
-                brings current research on Serlio's works into direct conversation with digital
-                captures of the works themselves.</p>
-              <p>A sixteenth-century Italian architect and theoretician, <persName>Sebastiano Serlio</persName> was
-                influential in canonizing the classical orders of architecture as the author of
-                seven books on architecture, collectively known as Tutte l'opere d'architettura, and
-                for his formulation of the first typology of Western domestic architecture. The 
-               <title>Digital Serlio Project</title> leverages contemporary methodologies – including visual,
-                textual and material analysis using high resolution digital images – to re-examine
-                Avery’s <persName>Serlio</persName> corpus and the questions it foments on domestic architecture of the
-                <date>16th century</date> and <persName>Serlio</persName>’s socio-economic model for early modern European
-                urbanism.</p>
-              <p>An international team of scholars is coordinated by Prof. <persName>Francesco Benelli</persName>, while
-                scholars and staff at the <orgName>Avery Library</orgName> direct the effort in
-                collaboration with the <orgName>Graduate School of Architecture, Planning and
-                  Preservation (GSAPP)</orgName>, and the Italian Academy, all at Columbia, as well
-                as Avery Friends, the <orgName>University of Bologna</orgName> and the
-                  <orgName>École nationale des Chartes</orgName>. Digital photography and project
-                support are provided by the Avery Digital Lab and (also within Columbia's Libraries)
-                the Digital Program Division and the Preservation and Digital Conversion
-                Division.</p>
+                  <persName>Sebastiano Serlio</persName> including his published works in multiple
+                editions, and the manuscript for his unpublished masterwork, On Domestic
+                Architecture. The Project seeks to facilitate active use of the collection in
+                curricular and research activities and to promote new scholarship. <title>The
+                  Digital Serlio Project</title> brings current research on Serlio's works into
+                direct conversation with digital captures of the works themselves.</p>
+              <p>A sixteenth-century Italian architect and theoretician, <persName>Sebastiano
+                  Serlio</persName> was influential in canonizing the classical orders of
+                architecture as the author of seven books on architecture, collectively known as
+                Tutte l'opere d'architettura, and for his formulation of the first typology of
+                Western domestic architecture. The <title>Digital Serlio Project</title> leverages
+                contemporary methodologies – including visual, textual and material analysis using
+                high resolution digital images – to re-examine Avery’s <persName>Serlio</persName>
+                corpus and the questions it foments on domestic architecture of the <date>16th
+                  century</date> and <persName>Serlio</persName>’s socio-economic model for early
+                modern European urbanism.</p>
+              <p>An international team of scholars is coordinated by Prof. <persName>Francesco
+                  Benelli</persName>, while scholars and staff at the <orgName>Avery
+                  Library</orgName> direct the effort in collaboration with the <orgName>Graduate
+                  School of Architecture, Planning and Preservation (GSAPP)</orgName>, and the
+                Italian Academy, all at Columbia, as well as Avery Friends, the <orgName>University
+                  of Bologna</orgName> and the <orgName>École nationale des Chartes</orgName>.
+                Digital photography and project support are provided by the Avery Digital Lab and
+                (also within Columbia's Libraries) the Digital Program Division and the Preservation
+                and Digital Conversion Division.</p>
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
@@ -3777,7 +3787,7 @@
             <term ref="#Europe">Europe</term>
             <term ref="#Asia">Asie</term>
             <term ref="#America">Amérique</term>
-            <term ref="#modernPeriod">Périodes moderne et contemporaine</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
             <term>20e siècle</term>
             <term>21e siècle</term>
           </keywords>
@@ -3952,7 +3962,9 @@
           <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
             <term ref="#manuscript">Manuscript</term>
-            <term>XVIIe - XVIIIe siècles</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0050">
@@ -3998,6 +4010,7 @@
                 is made possible thanks to generous institutional encouragement detailed at Project
                 Support.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#spatialAnalysis">Analyse spatiale</term>
@@ -4009,8 +4022,9 @@
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
-            <term>Italie</term>
-            <term>XVIIIe siècle</term>
+            <term ref="#Italy">Italie</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0051">
@@ -4066,8 +4080,9 @@
             <term ref="#painting">Peinture</term>
             <term ref="#manuscript">Manuscript</term>
             <term ref="#Europe">Europe</term>
-            <term>Royaume-Uni</term>
-            <term>XVIIIe siècle</term>
+            <term ref="#UK">Royaume-Uni</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0052">
@@ -4120,7 +4135,9 @@
                 virtual exhibition created by <title>Queen’s University</title> undergraduate
                 students, which includes digital visual reconstructions.</p>
             </note>
-            <note type="licence">Tous droits réservés.</note>
+            <note type="licence"><ref
+                target="https://web.archive.org/web/20221118200619/http://creativecommons.org/licenses/by/4.0/"
+                >Creative Commons Attribution 4.0 International License</ref></note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
@@ -4131,8 +4148,10 @@
             <term ref="#photography">Photographie</term>
             <term ref="#sculpture">Sculpture</term>
             <term ref="#Europe">Europe</term>
-            <term>Italie</term>
-            <term>Renaissance</term>
+            <term ref="#Italy">Italie</term>
+            <term>Toscane (Italie)</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term/>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0053">
@@ -4161,8 +4180,8 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>A free database of pre-1900 documentary watercolours from private as well as public
-                collections around the world.</p>
+              <p>A free database of <date>pre-1900</date> documentary watercolours from private as
+                well as public collections around the world.</p>
               <p>Before the invention of the camera, people used watercolours to document the world.
                 Over the centuries, painters – both professional and amateur – created hundreds of
                 thousands of images recording life as they witnessed it. Every one of these
@@ -4170,20 +4189,33 @@
                 store rooms, too fragile to display. The Watercolour World exists to bring them back
                 into view.</p>
               <p>We are creating a free online database of documentary watercolours painted before
-                1900. For the first time, you can explore these fascinating visual records on a
-                world map, search for topics that are important to you, and compare watercolours
-                from multiple collections in one place. We hope that this project will not simply
-                preserve the watercolour record but revive it, sparking new conversations and
-                revelations. By making history visible to more people, we can deepen our
+                  <date>1900</date>. For the first time, you can explore these fascinating visual
+                records on a world map, search for topics that are important to you, and compare
+                watercolours from multiple collections in one place. We hope that this project will
+                not simply preserve the watercolour record but revive it, sparking new conversations
+                and revelations. By making history visible to more people, we can deepen our
                 understanding of the world.</p>
-              <p>We are a UK-based charity, but the project is truly global. We work with private
-                and public collections from around the world to locate and publish their images,
-                many of which have never been photographed before. There are thousands of
-                watercolours still to add. If you think you can contribute, let us know.</p>
+              <p>We are a <placeName>UK</placeName>-based charity, but the project is truly global.
+                We work with private and public collections from around the world to locate and
+                publish their images, many of which have never been photographed before. There are
+                thousands of watercolours still to add. If you think you can contribute, let us
+                know.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#Oceania">Océanie</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0054">
@@ -4203,31 +4235,46 @@
             <publisher>University of South Carolina</publisher>
             <pubPlace>Columbia</pubPlace>
             <date from="2019" to="2022">2019-2022</date>
-            <idno type="url">digitalpiranesi.org</idno>
+            <idno type="url">https://scalar.usc.edu/works/piranesidigitalproject/index</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
               <p><title>The Digital Piranesi</title> is based at the <orgName>University of South
                   Carolina (Columbia)</orgName>, where the <orgName>Irvin Department of Rare Books
-                  and Special Collections</orgName> owns a rare full 29-volume set of Piranesi’s
-                complete works. The project aims to make this interdisciplinary material accessible
-                in a complete digital collection and, in an interactive digital edition, to
-                illuminate and enact many of the graphic features of his innovative designs.</p>
-              <p>Giovanni Battista Piranesi was an innovative graphic artist most known for his
-                architectural studies of Rome and imaginary prisons. “The Digital Piranesi” aims to
-                make this rare material accessible in a complete digital collection and, in an
-                interactive digital edition, to make it visible, legible, and searchable in ways
-                that the original works are not. The scale and breadth of Piranesi’s works require
+                  and Special Collections</orgName> owns a rare full 29-volume set of
+                  <persName>Piranesi</persName>’s complete works. The project aims to make this
+                interdisciplinary material accessible in a complete digital collection and, in an
+                interactive digital edition, to illuminate and enact many of the graphic features of
+                his innovative designs.</p>
+              <p><persName>Giovanni Battista Piranesi</persName> was an innovative graphic artist
+                most known for his architectural studies of <placeName>Rome</placeName> and
+                imaginary prisons. <title>“The Digital Piranesi”</title> aims to make this rare
+                material accessible in a complete digital collection and, in an interactive digital
+                edition, to make it visible, legible, and searchable in ways that the original works
+                are not. The scale and breadth of <persName>Piranesi</persName>’s works require
                 innovative methods of presentation, discovery, and analysis. By digitally
                 illuminating and enacting many of the graphic features of his designs, this project
                 will provide new ways of seeing this rare and complex historical material. A digital
-                volume dedicated to the Views of Rome is under construction <ref
+                volume dedicated to the Views of <placeName>Rome</placeName> is under construction
+                  <ref
                   target="https://scalar.usc.edu/works/piranesidigitalproject/the-views-of-rome"
                   >here</ref>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#networkAnalysis">Analyse de réseau</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#drawing">Dessin</term>
+            <term ref="#manuscript">Manuscrit</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Italy">Italie</term>
+            <term>Rome (Italie)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0055">
@@ -4249,6 +4296,8 @@
             <pubPlace>Boston</pubPlace>
             <date when="2021">2021</date>
             <idno type="url">http://www.mappingpaintings.org/</idno>
+            <idno type="brokenLink" when="2023-06-01"
+              >https://web.archive.org/web/20230601194020/http://www.mappingpaintings.org/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -4275,9 +4324,17 @@
               <p>We are always looking for collaborators, whether individuals or institutions!
                 Please join our community!</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Italy">Italie</term>
+            <term ref="#Renaissance">Renaissance</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0056">
@@ -4333,7 +4390,7 @@
                 of the ancient city. Throughout his long career Lanciani collected a vast archive of
                 his own notes and manuscripts, as well as works by others including rare prints and
                 original drawings by artists and architects stretching back to the sixteenth
-                century. After his death in 1929, his entire library was purchased by the
+                century. After his death in <date>1929</date>, his entire library was purchased by the
                   <orgName>Istituto Nazionale di Archeologia e Storia dell’Arte (INASA)</orgName>,
                 on the recommendation of the Director <persName>Corrado Ricci</persName>
                   (<date>1858-1934</date>).</p>
@@ -4345,14 +4402,29 @@
                   loose drawings, and some books of drawings and sketches in pen and pencil by
                   artists such as Giani, Rossini and Caracciolo.”</quote> Lanciani considered this
                 corpus his personal collection, unlike one of similar importance that he donated to
-                the Vatican Library in 1925. Fittingly, the room that hosts the INASA collection is
+                the Vatican Library in <date>1925</date>. Fittingly, the room that hosts the <orgName>INASA</orgName> collection is
                 called the “Sala Lanciani” and is now located on the fourth floor of the
                   <orgName>Biblioteca di Archeologia and Storia dell’Arte (BIASA)</orgName> in the
                 historic Palazzo Venezia in <placeName>Rome</placeName>.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#plotting">Graphique</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#engraving">Estampe</term>
+            <term ref="#photography">Photographie</term>
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Italy">Italie</term>
+            <term>Rome (Italie)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0057">

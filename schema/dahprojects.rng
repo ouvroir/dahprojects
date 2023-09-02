@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2023-09-02T01:09:52Z. .
+Schema generated from ODD source 2023-09-02T20:17:18Z. .
 TEI Edition: Version 4.3.0. Last updated on
         31st August 2021, revision b4f72b1ff
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
@@ -145,17 +145,6 @@ TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
          </attribute>
       </optional>
    </define>
-   <define name="att.cReferencing.attributes">
-      <ref name="att.cReferencing.attribute.cRef"/>
-   </define>
-   <define name="att.cReferencing.attribute.cRef">
-      <optional>
-         <attribute name="cRef">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(canonical reference) specifies the destination of the pointer by supplying a canonical reference expressed using the scheme defined in a <code xmlns="http://www.w3.org/1999/xhtml">&lt;refsDecl&gt;</code> element in the TEI header</a:documentation>
-            <data type="string"/>
-         </attribute>
-      </optional>
-   </define>
    <define name="att.datable.w3c.attributes">
       <ref name="att.datable.w3c.attribute.when"/>
       <ref name="att.datable.w3c.attribute.from"/>
@@ -262,21 +251,6 @@ TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
                <value>false</value>
                <a:documentation>This element can only be selected explicitly, unless it is the only one of its kind, in which case it is selected if its parent is selected.</a:documentation>
             </choice>
-         </attribute>
-      </optional>
-   </define>
-   <define name="att.declaring.attributes">
-      <ref name="att.declaring.attribute.decls"/>
-   </define>
-   <define name="att.declaring.attribute.decls">
-      <optional>
-         <attribute name="decls">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">identifies one or more declarable elements within the header, which are understood to apply to the element bearing this attribute and its content.</a:documentation>
-            <list>
-               <oneOrMore>
-                  <data type="anyURI"/>
-               </oneOrMore>
-            </list>
          </attribute>
       </optional>
    </define>
@@ -469,23 +443,6 @@ Sample values include: 1] approved; 2] candidate; 3] cleared; 4] deprecated; 5] 
          </attribute>
       </optional>
    </define>
-   <define name="att.internetMedia.attributes">
-      <ref name="att.internetMedia.attribute.mimeType"/>
-   </define>
-   <define name="att.internetMedia.attribute.mimeType">
-      <optional>
-         <attribute name="mimeType">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(MIME media type) specifies the applicable multimedia internet mail extension (MIME) media type</a:documentation>
-            <list>
-               <oneOrMore>
-                  <data type="token">
-                     <param name="pattern">[^\p{C}\p{Z}]+</param>
-                  </data>
-               </oneOrMore>
-            </list>
-         </attribute>
-      </optional>
-   </define>
    <define name="att.typed.attributes">
       <ref name="att.typed.attribute.type"/>
    </define>
@@ -521,19 +478,6 @@ Sample values include: 1] approved; 2] candidate; 3] cleared; 4] deprecated; 5] 
                   <data type="anyURI"/>
                </oneOrMore>
             </list>
-         </attribute>
-      </optional>
-   </define>
-   <define name="att.sortable.attributes">
-      <ref name="att.sortable.attribute.sortKey"/>
-   </define>
-   <define name="att.sortable.attribute.sortKey">
-      <optional>
-         <attribute name="sortKey">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">supplies the sort key for this element in an index, list or group which contains it.</a:documentation>
-            <data type="token">
-               <param name="pattern">[^\p{C}\p{Z}]+</param>
-            </data>
          </attribute>
       </optional>
    </define>
@@ -1159,21 +1103,11 @@ Sample values include: 1] approved; 2] candidate; 3] cleared; 4] deprecated; 5] 
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(term) contains a single-word, multi-word, or symbolic designation which is regarded as a technical term. [3.4.1. Terms and Glosses]</a:documentation>
          <ref name="macro.phraseSeq"/>
          <ref name="att.global.attribute.xmlid"/>
-         <ref name="att.global.attribute.n"/>
          <ref name="att.global.attribute.xmllang"/>
-         <ref name="att.global.attribute.xmlbase"/>
-         <ref name="att.global.attribute.xmlspace"/>
-         <ref name="att.global.rendition.attribute.rend"/>
-         <ref name="att.global.rendition.attribute.style"/>
-         <ref name="att.global.rendition.attribute.rendition"/>
-         <ref name="att.global.responsibility.attribute.resp"/>
          <ref name="att.global.source.attribute.source"/>
-         <ref name="att.declaring.attributes"/>
          <ref name="att.pointing.attributes"/>
          <ref name="att.typed.attributes"/>
          <ref name="att.canonical.attributes"/>
-         <ref name="att.sortable.attributes"/>
-         <ref name="att.cReferencing.attributes"/>
          <empty/>
       </element>
    </define>
@@ -1214,7 +1148,6 @@ Sample values include: 1] approved; 2] candidate; 3] cleared; 4] deprecated; 5] 
          <ref name="att.global.attribute.xmllang"/>
          <ref name="att.global.responsibility.attribute.resp"/>
          <ref name="att.global.source.attribute.source"/>
-         <ref name="att.internetMedia.attributes"/>
          <ref name="att.pointing.attributes"/>
          <optional>
             <attribute name="type">
@@ -2520,9 +2453,10 @@ Child elements of <name/> are only allowed when an external module is being load
             <ref name="titleStmt"/>
             <ref name="publicationStmt"/>
             <ref name="notesStmt"/>
-            <oneOrMore>
+            <group>
                <ref name="keywords"/>
-            </oneOrMore>
+               <ref name="keywords"/>
+            </group>
          </group>
          <ref name="att.global.attribute.xmlid"/>
          <ref name="att.global.attribute.n"/>
