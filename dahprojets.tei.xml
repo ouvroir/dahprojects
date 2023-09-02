@@ -144,12 +144,12 @@
               <term xml:lang="en">3D Modeling</term>
               <term xml:lang="fr">Modélisation 3D</term>
             </category>
+          </category>
             <category xml:id="database">
               <term xml:lang="en">Database</term>
               <term xml:lang="fr">Base de données</term>
             </category>
             <!-- ajoutés fin -->
-          </category>
         </taxonomy>
         <taxonomy xml:id="dataBnf">
           <bibl>
@@ -227,8 +227,8 @@
             </category>
             <category xml:id="modernPeriod" uri="https://data.bnf.fr/ark:/12148/cb119760222"
               from-iso="1500" to-iso="2000">
-              <term xml:lang="en">Modern period</term>
-              <term xml:lang="fr">Période moderne</term>
+              <term xml:lang="en">Modern and contemporary periods</term>
+              <term xml:lang="fr">Époques moderne et contemporaine</term>
             </category>
           </category>
           <category>
@@ -2098,9 +2098,11 @@
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
-            <term>France</term>
+            <term ref="#France">France</term>
+            <term>Paris (France)</term>
             <term ref="#photography">Photographie</term>
             <term ref="#drawing">Dessin</term>
+            <term ref="#architecture">Architecture</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0025">
@@ -2149,8 +2151,9 @@
           <keywords scheme="#dataBnf">
             <term ref="#painting">Peinture</term>
             <term ref="#Europe">Europe</term>
-            <term>Italie</term>
-            <term>Renaissance</term>
+            <term ref="#Italy">Italie</term>
+            <term>Florence (Italie)</term>
+            <term ref="#Renaissance">Renaissance</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0026">
@@ -2185,14 +2188,18 @@
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#visualAnalysis">Visualisation</term>
-            <term ref="#spatialAnalysis"/>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
             <term ref="#mapping">Cartographie</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#architecture">Architecture</term>
             <term ref="#Europe">Europe</term>
-            <term>Paris</term>
-            <term>XVIIIe - XXIe siècles</term>
+            <term ref="#France">France</term>
+            <term>Paris (France)</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0027">
@@ -2240,15 +2247,17 @@
               <p>Design du site web et logiciel de base de données par <ref
                   target="http://panopticondesign.net/">panOpticon</ref></p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#painting">Peinture</term>
+            <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
-            <term>France</term>
-            <term>XIXe siècle</term>
+            <term ref="#France">France</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0028">
@@ -2302,6 +2311,10 @@
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#museum">Musée</term>
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#UK">Royaume-Uni</term>
+            <term>Londres (Royaume-Uni)</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0029">
@@ -2374,8 +2387,9 @@
           <keywords scheme="#dataBnf">
             <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
-            <term>Allemagne</term>
-            <term>XVIIe siècle</term>
+            <term ref="#Germany">Allemagne</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>17e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0030">
@@ -2421,8 +2435,11 @@
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
-            <term>Royaume-Uni</term>
-            <term>XIXe - XXe siècle</term>
+            <term ref="#UK">Royaume-Uni</term>
+            <term>Londres (Royaume-Uni)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0031">
@@ -2467,6 +2484,7 @@
               <p>This site was last updated in <date>April 2015</date>, with new design, addition of
                 library/texts and Luna galleries.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
@@ -2475,8 +2493,12 @@
             <term ref="#painting">Peinture</term>
             <term ref="#sculpture">Sculpture</term>
             <term ref="#architecture">Architecture</term>
-            <term ref="#America">America</term>
-            <term>XVIe - XIXe siècles</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>16e siècle</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0032">
@@ -2515,8 +2537,8 @@
           <keywords scheme="#dataBnf">
             <term ref="#architecture">Architecture</term>
             <term ref="#Europe">Europe</term>
-            <term>France</term>
-            <term>Moyen Âge</term>
+            <term ref="#France">France</term>
+            <term ref="#middleAges">Moyen Âge</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0033">
@@ -2544,14 +2566,14 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="it">
-              <p>L'identità culturale di Pompei è il risultato dei significati attribuiti alle sue
-                antichità da varie persone in epoche e con intenti diversi. "La Fortuna Visiva di
-                Pompei" raccoglie immagini e testi che documentano le varie interpretazioni e
-                percezioni dei monumenti di Pompei dal <date>1748</date>, anno della sua scoperta,
+              <p>L'identità culturale di <placeName>Pompei</placeName> è il risultato dei significati attribuiti alle sue
+                antichità da varie persone in epoche e con intenti diversi. <title>"La Fortuna Visiva di
+                Pompei"</title> raccoglie immagini e testi che documentano le varie interpretazioni e
+                percezioni dei monumenti di <placeName>Pompei</placeName> dal <date>1748</date>, anno della sua scoperta,
                 ai primi del Novecento.</p>
               <p>Il nome scelto per questo Progetto di ricerca, in corso dal <date>2002</date>
-                presso la Scuola Normale Superiore, dichiara immediatamente l'intento predominante
-                di analizzare la percezione dell'antica Pompei, nelle sue molteplici forme e
+                presso la <orgName>Scuola Normale Superiore</orgName>, dichiara immediatamente l'intento predominante
+                di analizzare la percezione dell'antica <placeName>Pompei</placeName>, nelle sue molteplici forme e
                 variazioni nello spazio e nel tempo, così come si coglie attraverso la
                 documentazione grafica edita e inedita, privilegiando le testimonianze più antiche e
                 pregevoli.</p>
@@ -2568,6 +2590,7 @@
                 rendere consultabile per tutti attraverso questo sito web un patrimonio culturale e
                 artistico, spesso raro e difficilmente accessibile.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
             <note type="biblio">
               <biblStruct>
                 <analytic>
@@ -2650,8 +2673,11 @@
             <term ref="#architecture">Architecture</term>
             <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
-            <term>Italie</term>
-            <term>XVIIIe - XIXe siècles</term>
+            <term ref="#Italy">Italie</term>
+            <term>Pompéi (Italie)</term>
+            <term ref="#modernPeriod">Période moderne</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0034">
@@ -2702,7 +2728,7 @@
                 nationales (7 500 dessins du fonds du secrétariat d’État de la Maison du roi sous
                 l’Ancien Régime), mais également dans celui de la Bibliothèque nationale de France
                 (1 000 dessins de la collection Robert De Cotte) et de l’Établissement public du
-                château, du musée et du domaine national de Versailles (200 dessins).</p>
+                château, du musée et du domaine national de <placeName>Versailles</placeName> (200 dessins).</p>
               <p>Ce corpus documentaire, exceptionnel par son histoire, son homogénéité et son
                 volume, est principalement issu du travail des agences des premiers architectes du
                 roi, de <persName>Louis Le Vau</persName> à <persName>Richard Mique</persName>, en
@@ -2715,8 +2741,8 @@
                 vaste sur l’architecture palatiale classique française des <date>XVIIe</date> et
                   <date>XVIIIe</date> siècles. Ce corpus a été établi à partir du catalogue de
                   <persName>Danièle Gallet-Guerne</persName> et <persName>Christian
-                  Baulez</persName> Versailles. Dessins d’architecture de la direction générale des
-                Bâtiments du roi, Paris, archives nationales, 1983 et 1989, 2 vol. Il a ensuite été
+                  Baulez</persName> <placeName>Versailles</placeName>. Dessins d’architecture de la direction générale des
+                Bâtiments du roi, <placeName>Paris</placeName>, archives nationales, 1983 et 1989, 2 vol. Il a ensuite été
                 complété, révisé et augmenté par les chercheurs des différentes institutions
                 partenaires.</p>
             </note>
@@ -2763,8 +2789,11 @@
             <term ref="#architecture">Architecture</term>
             <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
-            <term>France</term>
-            <term>XVIIe - XVIIIe siècles</term>
+            <term ref="#France">France</term>
+            <term>Versailles (France)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0035">
@@ -2811,7 +2840,10 @@
             <term ref="#museum">Musée</term>
             <term ref="#painting">Peinture</term>
             <term ref="#Europe">Europe</term>
-            <term>Allemagne</term>
+            <term ref="#Germany">Allemagne</term>
+            <term>Francfort-sur-le-Main (Allemagne)</term>
+            <term ref="#modernPeriod">Période moderne</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0036">
@@ -2847,6 +2879,7 @@
                   <orgName>Getty Research Institute Library</orgName> and <orgName>Duke University
                   Library</orgName>, both of which contributed book-level information.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
             <note type="biblio">
               <biblStruct>
                 <analytic>
@@ -2976,8 +3009,11 @@
           <keywords scheme="#dataBnf">
             <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
-            <term>Renaissance</term>
+            <term ref="#Renaissance">Renaissance</term>
             <term>Époque Baroque</term>
+            <term>16e siècle</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0037">
@@ -3019,10 +3055,10 @@
             <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#dataBnf">
-            <term ref="#museum"/>
+            <term ref="#museum">Musée</term>
             <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
-            <term>Allemagne</term>
+            <term ref="#Germany">Allemagne</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0038">
@@ -3071,8 +3107,10 @@
           <keywords scheme="#dataBnf">
             <term ref="#architecture">Architecture</term>
             <term ref="#Europe">Europe</term>
-            <term>Royaume-Uni</term>
-            <term>XVIIe siècle</term>
+            <term ref="#UK">Royaume-Uni</term>
+            <term>Londres (Royaume-Uni)</term>
+            <term>17e siècle</term>
+            <term ref="#modernPeriod">Période moderne</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0039">
@@ -3116,8 +3154,11 @@
           <keywords scheme="#dataBnf">
             <term ref="#photography">Photographie</term>
             <term ref="#America">Amérique</term>
-            <term>États-Unis</term>
-            <term>XXe - XXIe siècles</term>
+            <term ref="#USA">États-Unis</term>
+            <term>Los Angeles (États-Unis)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0040">
@@ -3173,6 +3214,7 @@
             <pubPlace>Los Angeles</pubPlace>
             <date when="2017">2017</date>
             <idno type="url">https://github.com/thegetty/mutual-muses</idno>
+            <idno type="url">https://thegetty.github.io/mutual-muses/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -3192,8 +3234,8 @@
             </note>
             <note type="licence">The Getty Research Institute makes the data and code available
               under the least restrictive open license possible; however, note that each directory
-              has its own license. The J. Paul Getty Trust also owns the copyright to the Lawrence
-              Alloway and Sylvia Sleigh papers, including digital images of the correspondence.
+              has its own license. The <orgName>J. Paul Getty Trust</orgName> also owns the copyright to the <persName>Lawrence
+              Alloway</persName> and <persName>Sylvia Sleigh</persName> papers, including digital images of the correspondence.
               These images are not included under any open license, but may be downloaded for
               personal, non-commercial use.</note>
           </notesStmt>
@@ -3204,10 +3246,11 @@
             <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#dataBnf">
-            <term ref="#manuscript">Manuscript</term>
+            <term ref="#manuscript">Manuscrit</term>
             <term ref="#America">Amérique</term>
-            <term>États-Unis</term>
-            <term>XXe siècle</term>
+            <term ref="#USA">États-Unis</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0042">
@@ -3235,22 +3278,22 @@
             <note type="abstract" xml:lang="en">
               <p><title>The Digital Serlio Project</title> presents <orgName>Avery Architectural
                   &amp; Fine Arts Library's</orgName> unparalleled holdings of the works of
-                Sebastiano Serlio including his published works in multiple editions, and the
+                <persName>Sebastiano Serlio</persName> including his published works in multiple editions, and the
                 manuscript for his unpublished masterwork, On Domestic Architecture. The Project
                 seeks to facilitate active use of the collection in curricular and research
                 activities and to promote new scholarship. <title>The Digital Serlio Project</title>
                 brings current research on Serlio's works into direct conversation with digital
                 captures of the works themselves.</p>
-              <p>A sixteenth-century Italian architect and theoretician, Sebastiano Serlio was
+              <p>A sixteenth-century Italian architect and theoretician, <persName>Sebastiano Serlio</persName> was
                 influential in canonizing the classical orders of architecture as the author of
                 seven books on architecture, collectively known as Tutte l'opere d'architettura, and
-                for his formulation of the first typology of Western domestic architecture. The
-                Digital Serlio Project leverages contemporary methodologies – including visual,
+                for his formulation of the first typology of Western domestic architecture. The 
+               <title>Digital Serlio Project</title> leverages contemporary methodologies – including visual,
                 textual and material analysis using high resolution digital images – to re-examine
-                Avery’s Serlio corpus and the questions it foments on domestic architecture of the
-                16th century and Serlio’s socio-economic model for early modern European
+                Avery’s <persName>Serlio</persName> corpus and the questions it foments on domestic architecture of the
+                <date>16th century</date> and <persName>Serlio</persName>’s socio-economic model for early modern European
                 urbanism.</p>
-              <p>An international team of scholars is coordinated by Prof. Francesco Benelli, while
+              <p>An international team of scholars is coordinated by Prof. <persName>Francesco Benelli</persName>, while
                 scholars and staff at the <orgName>Avery Library</orgName> direct the effort in
                 collaboration with the <orgName>Graduate School of Architecture, Planning and
                   Preservation (GSAPP)</orgName>, and the Italian Academy, all at Columbia, as well
@@ -3268,10 +3311,11 @@
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#drawing">Dessin</term>
-            <term ref="#manuscript">Manuscript</term>
+            <term ref="#manuscript">Manuscrit</term>
             <term ref="#Europe">Europe</term>
-            <term>Italie</term>
-            <term>XVIe siècle</term>
+            <term ref="#Italy">Italie</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term>16e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0043">
@@ -3320,8 +3364,9 @@
           <keywords scheme="#dataBnf">
             <term ref="#painting">Peinture</term>
             <term ref="#Europe">Europe</term>
-            <term>Royaume-Uni</term>
-            <term>XVIIIe siècle</term>
+            <term ref="#UK">Royaume-Uni</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0044">
@@ -3375,8 +3420,10 @@
             <term ref="#painting">Peinture</term>
             <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
-            <term>Allemagne</term>
-            <term>XIXe - XXe siècles</term>
+            <term ref="#Germany">Allemagne</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0045">
@@ -3623,7 +3670,9 @@
           <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
             <term ref="#Africa">Afrique</term>
-            <term>XVIIIe - XIXe siècles</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0047">
@@ -3666,7 +3715,7 @@
                 map of engineers, money and equipment », facilitating collaborations between artist,
                 engineer and industry. Despite the amount of information available,
                   <title>E.A.T.</title>’s production and legacy remains unclear. The project, in
-                collaboration with <title>E.A.T.</title> (represented by J<persName>ulie
+                collaboration with <title>E.A.T.</title> (represented by <persName>Julie
                   Martin</persName>), is based on the organization’s numerous activities, developed
                 in art and non-art contexts, including realized and unrealized works and projects
                 from the <date>1960s</date> to the present day. through a ‘datascape’. In the first
@@ -3725,6 +3774,12 @@
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#museum">Musée</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#modernPeriod">Périodes moderne et contemporaine</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0048">
