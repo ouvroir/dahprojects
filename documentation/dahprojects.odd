@@ -1869,9 +1869,28 @@
                      <elementRef key="category" minOccurs="0" maxOccurs="unbounded"/>
                   </content>
                   <attList>
+                     <attDef ident="uri" mode="add">
+                        <datatype>
+                           <dataRef key="token"></dataRef>
+                        </datatype>
+                     </attDef>
+                     <attDef ident="from-iso" mode="add">
+                        <datatype>
+                           <dataRef key="numeral"></dataRef>
+                        </datatype>
+                     </attDef>
+                     <attDef ident="to-iso" mode="add">
+                        <datatype>
+                           <dataRef key="numeral"></dataRef>
+                        </datatype>
+                     </attDef>
+                     <attDef ident="when-iso" mode="add">
+                        <datatype>
+                           <dataRef key="numeral"></dataRef>
+                        </datatype>
+                     </attDef>
                      <attDef ident="default" mode="delete"/>
                      <attDef ident="n" mode="delete"/>
-                     <attDef ident="ref" mode="delete"/>
                      <attDef ident="when" mode="delete"/>
                      <attDef ident="xml:space" mode="delete"/>
                      <attDef ident="xml:base" mode="delete"/>
@@ -1880,27 +1899,13 @@
                      <attDef ident="cert" mode="delete"/>
                      <attDef ident="rendition" mode="delete"/>
                      <attDef ident="style" mode="delete"/>
-                     <attDef ident="source" mode="delete"/>
                      <attDef ident="resp" mode="delete"/>
                      <attDef ident="sortKey" mode="delete"/>
-                     <attDef ident="when" mode="delete"/>
                      <attDef ident="xml:space" mode="delete"/>
                      <attDef ident="xml:base" mode="delete"/>
                      <attDef ident="cert" mode="delete"/>
                      <attDef ident="datingMethod" mode="delete"/>
                      <attDef ident="datingPoint" mode="delete"/>
-                     <attDef ident="when-iso" mode="delete"/>
-                     <attDef ident="notBefore-iso" mode="delete"/>
-                     <attDef ident="notAfter-iso" mode="delete"/>
-                     <attDef ident="from-iso" mode="delete"/>
-                     <attDef ident="to-iso" mode="delete"/>
-                     <attDef ident="to" mode="delete"/>
-                     <attDef ident="when-custom" mode="delete"/>
-                     <attDef ident="notBefore-custom" mode="delete"/>
-                     <attDef ident="notAfter-custom" mode="delete"/>
-                     <attDef ident="from-custom" mode="delete"/>
-                     <attDef ident="to-custom" mode="delete"/>
-                     <attDef ident="from" mode="delete"/>
                   </attList>
             </elementSpec>
             <elementSpec ident="catDesc" mode="change">

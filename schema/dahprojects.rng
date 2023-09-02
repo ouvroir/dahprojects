@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2023-08-31T22:31:23Z. .
+Schema generated from ODD source 2023-09-02T01:09:52Z. .
 TEI Edition: Version 4.3.0. Last updated on
         31st August 2021, revision b4f72b1ff
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
@@ -2595,6 +2595,27 @@ Child elements of <name/> are only allowed when an external module is being load
          </zeroOrMore>
          <ref name="att.global.attribute.xmlid"/>
          <ref name="att.global.attribute.xmllang"/>
+         <ref name="att.global.source.attribute.source"/>
+         <optional>
+            <attribute name="uri">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="from-iso">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="to-iso">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="when-iso">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            </attribute>
+         </optional>
          <empty/>
       </element>
    </define>

@@ -57,7 +57,7 @@
                 <surname>Schöch</surname>
               </persName>
             </principal>
-            <date n="v2.0" when="2020">2020</date>
+            <date version="2.0" from="2020">2020</date>
             <idno type="url">https://vocabs.dariah.eu/tadirah/</idno>
           </bibl>
           <category xml:id="contentAnalysis">
@@ -151,54 +151,55 @@
             <!-- ajoutés fin -->
           </category>
         </taxonomy>
-        <taxonomy xml:id="Subject">
+        <taxonomy xml:id="dataBnf">
           <bibl>
             <title>Taxonomy for projects description (subject, period, geographic era, ...).</title>
+            <principal>
+              <orgName>Bibliothèque nationale de France (BnF)</orgName>
+            </principal>
+            <date version="3.7.5" from="2011">2011</date>
+            <idno type="url">https://data.bnf.fr/</idno>
           </bibl>
           <category>
-            <catDesc xml:lang="en">Object</catDesc>
-            <catDesc xml:lang="fr">Objet</catDesc>
-            <category xml:id="Painting">
+            <catDesc xml:lang="en">Disciplinary field</catDesc>
+            <catDesc xml:lang="fr">Champ disciplinaire</catDesc>
+            <category xml:id="painting" uri="https://data.bnf.fr/ark:/12148/cb11932942c">
               <term xml:lang="en">Painting</term>
               <term xml:lang="fr">Peinture</term>
             </category>
-            <category xml:id="Sculpture">
+            <category xml:id="sculpture" uri="https://data.bnf.fr/ark:/12148/cb11933241b">
               <term xml:lang="en">Sculpture</term>
               <term xml:lang="fr">Sculpture</term>
             </category>
-            <category xml:id="Photography">
+            <category xml:id="photography" uri="https://data.bnf.fr/ark:/12148/cb11933113t">
               <term xml:lang="en">Photography</term>
               <term xml:lang="fr">Photographie</term>
             </category>
-            <category xml:id="Drawing">
+            <category xml:id="drawing" uri="https://data.bnf.fr/ark:/12148/cb119362234">
               <term xml:lang="en">Drawing</term>
               <term xml:lang="fr">Dessin</term>
             </category>
-            <category xml:id="Engraving">
+            <category xml:id="engraving" uri="https://data.bnf.fr/ark:/12148/cb11931593x">
               <term xml:lang="en">Engraving</term>
-              <term xml:lang="fr">Gravure</term>
+              <term xml:lang="fr">Estampe</term>
             </category>
-            <category xml:id="Journal">
+            <category xml:id="journal" uri="https://data.bnf.fr/ark:/12148/cb133183691">
               <term xml:lang="en">Journal</term>
-              <term xml:lang="fr">Journal/revue</term>
+              <term xml:lang="fr">Presse</term>
             </category>
-            <category xml:id="Manuscript">
+            <category xml:id="manuscript" uri="https://data.bnf.fr/ark:/12148/cb13318362m">
               <term xml:lang="en">Manuscript</term>
-              <term xml:lang="fr">Manuscript</term>
+              <term xml:lang="fr">Manuscrit</term>
             </category>
-            <category xml:id="Architecture">
+            <category xml:id="architecture" uri="https://data.bnf.fr/ark:/12148/cb133183211">
               <term xml:lang="en">Architecture</term>
               <term xml:lang="fr">Architecture</term>
             </category>
-            <category xml:id="Ceramic">
-              <term xml:lang="en">Ceramic</term>
-              <term xml:lang="fr">Céramique</term>
+            <category xml:id="archaeology" uri="https://data.bnf.fr/ark:/12148/cb13318444z">
+              <term xml:lang="en">Archaeology</term>
+              <term xml:lang="fr">Archéologie</term>
             </category>
-            <category xml:id="Coin">
-              <term xml:lang="en">Coin</term>
-              <term xml:lang="fr">Monnaie</term>
-            </category>
-            <category xml:id="Museum">
+            <category xml:id="museum" uri="https://data.bnf.fr/ark:/12148/cb11939565m">
               <term xml:lang="en">Museum</term>
               <term xml:lang="fr">Musée</term>
             </category>
@@ -206,33 +207,84 @@
           <category>
             <catDesc xml:lang="en">Period</catDesc>
             <catDesc xml:lang="fr">Période</catDesc>
-            <category xml:id="XXthCentury">
-              <term xml:lang="en">20<hi rend="superscript">th</hi> century</term>
-              <term xml:lang="fr">XX<hi rend="superscript">ème</hi> siècle</term>
+            <category xml:id="prehistory" uri="https://data.bnf.fr/ark:/12148/cb133183738">
+              <term xml:lang="en">Prehistory</term>
+              <term xml:lang="fr">Préhistoire</term>
+            </category>
+            <category xml:id="ancientHistory" uri="https://data.bnf.fr/ark:/12148/cb119366117">
+              <term xml:lang="en">Ancient history</term>
+              <term xml:lang="fr">Antiquité</term>
+            </category>
+            <category xml:id="middleAges" uri="https://data.bnf.fr/ark:/12148/cb133185191"
+              from-iso="600" to-iso="1500">
+              <term xml:lang="en">Middle Ages</term>
+              <term xml:lang="fr">Moyen Âge</term>
+            </category>
+            <category xml:id="Renaissance" uri="https://data.bnf.fr/ark:/12148/cb11993774x"
+              from-iso="1400" to-iso="1600">
+              <term xml:lang="en">Renaissance</term>
+              <term xml:lang="fr">Renaissance</term>
+            </category>
+            <category xml:id="modernPeriod" uri="https://data.bnf.fr/ark:/12148/cb119760222"
+              from-iso="1500" to-iso="2000">
+              <term xml:lang="en">Modern period</term>
+              <term xml:lang="fr">Période moderne</term>
             </category>
           </category>
           <category>
             <catDesc xml:lang="en">Geographical area</catDesc>
             <catDesc xml:lang="fr">Aire géographique</catDesc>
-            <category xml:id="Asia">
-              <term xml:lang="en">Asia</term>
-              <term xml:lang="fr">Asie</term>
-            </category>
-            <category xml:id="Europe">
-              <term xml:lang="en">Europe</term>
-              <term xml:lang="fr">Europe</term>
-            </category>
-            <category xml:id="America">
-              <term xml:lang="en">America</term>
-              <term xml:lang="fr">Amérique</term>
-            </category>
-            <category xml:id="Africa">
+            <category xml:id="Africa" uri="https://data.bnf.fr/ark:/12148/cb119308418">
               <term xml:lang="en">Africa</term>
               <term xml:lang="fr">Afrique</term>
             </category>
-            <category xml:id="Oceania">
+            <category xml:id="America" uri="https://data.bnf.fr/ark:/12148/cb119308747">
+              <term xml:lang="en">America</term>
+              <term xml:lang="fr">Amérique</term>
+            </category>
+            <category xml:id="Asia" uri="https://data.bnf.fr/ark:/12148/cb119765364">
+              <term xml:lang="en">Asia</term>
+              <term xml:lang="fr">Asie</term>
+            </category>
+            <category xml:id="Europe" uri="https://data.bnf.fr/ark:/12148/cb11931301w">
+              <term xml:lang="en">Europe</term>
+              <term xml:lang="fr">Europe</term>
+            </category>
+            <category xml:id="Oceania" uri="https://data.bnf.fr/ark:/12148/cb119451841">
               <term xml:lang="en">Oceania</term>
               <term xml:lang="fr">Océanie</term>
+            </category>
+            <category xml:id="Benin" uri="https://data.bnf.fr/ark:/12148/cb119310372">
+              <term xml:lang="en">Benin</term>
+              <term xml:lang="fr">Bénin</term>
+            </category>
+            <category xml:id="Egypt" uri="https://data.bnf.fr/ark:/12148/cb11938556d">
+              <term xml:lang="en">Egypt</term>
+              <term xml:lang="fr">Égypte</term>
+            </category>
+            <category xml:id="France" uri="https://data.bnf.fr/ark:/12148/cb119314762">
+              <term xml:lang="en">France</term>
+              <term xml:lang="fr">France</term>
+            </category>
+            <category xml:id="Germany" uri="https://data.bnf.fr/ark:/12148/cb11930867z">
+              <term xml:lang="en">Germany</term>
+              <term xml:lang="fr">Allemagne</term>
+            </category>
+            <category xml:id="Greece" uri="https://data.bnf.fr/ark:/12148/cb11931600c">
+              <term xml:lang="en">Greece</term>
+              <term xml:lang="fr">Grèce</term>
+            </category>
+            <category xml:id="Italy" uri="https://data.bnf.fr/ark:/12148/cb119321456">
+              <term xml:lang="en">Italy</term>
+              <term xml:lang="fr">Italie</term>
+            </category>
+            <category xml:id="UK" uri="https://data.bnf.fr/ark:/12148/cb11931584z">
+              <term xml:lang="en">United-Kingdom</term>
+              <term xml:lang="fr">Royaume-Uni</term>
+            </category>
+            <category xml:id="USA" uri="https://data.bnf.fr/ark:/12148/cb119313712">
+              <term xml:lang="en">United States</term>
+              <term xml:lang="fr">États-Unis</term>
             </category>
           </category>
         </taxonomy>
@@ -868,11 +920,13 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Architecture">Architecture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
             <term ref="#Europe">Europe</term>
-            <term>France</term>
-            <term>XIIIe siècle</term>
+            <term ref="#France">France</term>
+            <term>Amiens (France)</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term>13e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0002">
@@ -894,8 +948,8 @@
             <pubPlace>Heidelberg</pubPlace>
             <date from="2014" to="2015">2014-2015</date>
             <idno type="url">http://kjc-sv013.kjc.uni-heidelberg.de/hachiman/</idno>
-            <idno type="brokenLink" when="2029-02-05"
-              >https://web.archive.org/web/20220815000000*/http://kjc-sv013.kjc.uni-heidelberg.de/hachiman/</idno>
+            <idno type="brokenLink" when="2020-02-05"
+              >https://web.archive.org/web/20200205165712/http://kjc-sv013.kjc.uni-heidelberg.de/hachiman/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
@@ -910,6 +964,9 @@
               <p>Techniquement, le site utilise le logiciel <ref target="http://hyperimage.ws"
                   >HyperImage Reader</ref>.</p>
             </note>
+            <note type="licence"><ref
+                target="https://web.archive.org/web/20200205165712/http://www.apache.org/licenses/LICENSE-2.0.html"
+                >Apache License, Version 2.0</ref></note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#visualAnalysis">Visualisation</term>
@@ -941,14 +998,16 @@
               <p>Techniquement très simple, le site utilise le service <ref
                   target="https://sites.google.com">Google sites</ref>.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#contentAnalysis">Analyse de contenu</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#engraving">Estampe</term>
             <term ref="#Europe">Europe</term>
-            <term>Renaissance</term>
+            <term ref="#Renaissance">Renaissance</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0004">
@@ -977,7 +1036,7 @@
             <pubPlace>Boston</pubPlace>
             <date when="2015">2015</date>
             <idno type="url">http://www.mappingtitian.org</idno>
-            <idno type="brokenLink" when="2021-12-09"
+            <idno type="brokenLink" when="2021-09-27"
               >https://web.archive.org/web/20210927012903/http://www.mappingtitian.org/</idno>
           </publicationStmt>
           <notesStmt>
@@ -986,16 +1045,18 @@
                 qui permet l’édition d’un catalogue d’œuvres et leur visualisation sur une
                 carte.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#spatialAnalysis">Analyse spatiale</term>
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#mapping">Cartographie</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
-            <term>Italie</term>
-            <term>Renaissance</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Italy">Italie</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term>15e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0005">
@@ -1045,14 +1106,17 @@
                 and art historians, include the Italian museums and institutions whose names are
                 listed below.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Sculpture">Sculpture</term>
-            <term>Italie</term>
-            <term>Renaissance</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#Italy">Italie</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term>15e siècle</term>
+            <term>16e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0007">
@@ -1106,8 +1170,9 @@
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#mapping">Cartographie</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term>Italie</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#Italy">Italie</term>
+            <term>Le Vatican (Italie)</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0008">
@@ -1207,8 +1272,10 @@
             <term ref="#mapping">Cartographie</term>
             <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term>Italie</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Italy">Italie</term>
+            <term>Venise (Italie)</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0009">
@@ -1239,6 +1306,7 @@
                   <orgName>Magnum Photos</orgName>, making it a resource for your whole
                 institution.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
             <note type="biblio">
               <biblStruct>
                 <analytic>
@@ -1308,10 +1376,13 @@
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
-            <term ref="#Sculpture">Sculpture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#engraving">Estampe</term>
+            <term ref="#drawing">Dessin</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0010">
@@ -1328,7 +1399,9 @@
             <publisher>Frischer Consulting</publisher>
             <pubPlace>Konstanz</pubPlace>
             <date from="2005" to="2018">2005-2018</date>
-            <idno type="url">http://romereborn.frischerconsulting.com</idno>
+            <idno type="url">http://romereborn.org</idno>
+            <idno type="brokenLink" when="2021-01-30"
+              >https://web.archive.org/web/20210130182227/https://www.romereborn.org/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -1347,6 +1420,7 @@
                 intends to move both backwards and forwards in time until the entire span of time
                 foreseen by our mission has been covered.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
             <note type="biblio">
               <biblStruct>
                 <analytic>
@@ -1408,10 +1482,11 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term>Italie</term>
-            <term>Âge du Bronze</term>
-            <term>Moyen Âge</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#Italy">Italie</term>
+            <term ref="#ancientHistory">Antiquité</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term>Rome (Italie)</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0011">
@@ -1432,7 +1507,7 @@
           <publicationStmt>
             <publisher>Flyover Zone</publisher>
             <pubPlace>Bloomington</pubPlace>
-            <date from="2018" to="2022">2018-2022</date>
+            <date from="2018">2018</date>
             <idno type="url">https://www.flyoverzone.com/</idno>
           </publicationStmt>
           <notesStmt>
@@ -1448,13 +1523,16 @@
               <p><title>Flyover Zone</title> est le projet qui fait suite à <title>Rome
                   Reborn</title> à partir de <date>2018</date>.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Sculpture">Sculpture</term>
-            <term>Antiquité</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#ancientHistory">Antiquité</term>
+            <term ref="#Italy">Italie</term>
+            <term>Rome (Italie)</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0012">
@@ -1508,8 +1586,8 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Museum">Musée</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0013">
@@ -1542,129 +1620,20 @@
                 their history and provenance as well as the materials and techniques used in their
                 making.</p>
             </note>
-            <note/>
+            <note type="licence">Material may be reproduced free of charge in any format or medium
+              for research, private study or for internal circulation within an educational
+              organisation (such as schools, colleges and universities).</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
-            <term ref="#Museum">Musée</term>
-            <term>Italie</term>
-            <term>Renaissance</term>
-          </keywords>
-        </biblFull>
-        <biblFull xml:id="dahproject0015">
-          <titleStmt>
-            <title type="main">Song and Yuan Dynasty Painting and Calligraphy</title>
-            <principal>
-              <persName>
-                <forename>Stephen D.</forename>
-                <surname>Allee</surname>
-              </persName>
-              <persName>
-                <forename>Joseph</forename>
-                <surname>Chang</surname>
-              </persName>
-              <persName>
-                <forename>Ingrid</forename>
-                <surname>Larsen</surname>
-              </persName>
-            </principal>
-            <funder>
-              <orgName>Freer Gallery of Art</orgName>
-            </funder>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>The Smithsonian’s Museum of Asian Art</publisher>
-            <pubPlace>Washington</pubPlace>
-            <date>s.d.</date>
-            <idno type="url">http://www.asia.si.edu/SongYuan/</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="en">
-              <p> The <orgName>Freer Gallery of Art </orgName>possesses one of the most important
-                collections of Chinese painting outside Asia, and its holdings from the Song and
-                Yuan dynasties (<date>10th–14th centuries</date>) are particularly significant. The
-                collection includes an extraordinary group of eighty-two paintings—illustrating a
-                range of themes, compositions, and stylistic conventions—and three independent works
-                of calligraphy, two of which take the form of rubbings. More than ninety other
-                examples of Song and Yuan calligraphy are featured in frontispieces, inscriptions,
-                or colophons attached to paintings. Many of the eighty-five Freer works have assumed
-                near-iconic status in the study of Chinese brushwork in the West. Despite their
-                exceptional quality, however, most are being thoroughly published for the first time
-                on this website. This pioneering project enables web users around the globe to study
-                these artworks in their entirety and, through the comprehensive documentation of all
-                associated texts and accessories, gain a deeper understanding and appreciation for
-                one of the world’s great artistic traditions.</p>
-            </note>
-          </notesStmt>
-          <keywords scheme="#TaDiRAH">
-            <term ref="#database">Base de données</term>
-          </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Museum">Musée</term>
-            <term ref="#Painting">Peinture</term>
-            <term>Xe - XIVe siècles</term>
-          </keywords>
-        </biblFull>
-        <biblFull xml:id="dahproject0016">
-          <titleStmt>
-            <title type="main">Goryeo Buddhist Painting: A Closer Look</title>
-            <principal>
-              <persName>
-                <forename>Keith</forename>
-                <surname>Wilson</surname>
-              </persName>
-            </principal>
-            <funder>
-              <orgName>Freer Gallery of Art</orgName>
-            </funder>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>The Smithsonian’s Museum of Asian Art</publisher>
-            <pubPlace>Washington</pubPlace>
-            <date when="2017">2017</date>
-            <idno type="url">https://asia.si.edu/goryeo-buddhist-painting-a-closer-look/</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="en">
-              <p>International collaboration and modern research techniques reveal characteristic
-                details in thirteenth- and fourteenth-century Korean Buddhist paintings that
-                distinguish them from similar works painted elsewhere in Asia.</p>
-              <p>Exquisite silk scrolls created with ink, rich mineral pigments, and gold
-                characterize a distinctive school of Buddhist painting that emerged in Korea under
-                the patronage of the imperial court by the thirteenth century. Relatively small in
-                scale, these delicate works were made for intimate settings, such as private chapels
-                maintained by members of the elite class. Today, only about 160 of these exceptional
-                paintings dating from the second half of the Goryeo 고려 高麗 dynasty
-                  (<date>918–1392</date>) exist worldwide. Three are in the collections of the
-                  <orgName>Freer Gallery of Art</orgName> and <orgName>Arthur M. Sackler
-                  Gallery</orgName>, while thirteen more belong to other museums throughout the
-                United States. I would like to take this opportunity to thank these museums for
-                their cooperation in this collaborative undertaking. Photo of Prof. <persName>Chung
-                  Woothak</persName>, <orgName>Dongguk University</orgName>, <persName>Seoul Chung
-                  Woothak</persName>, Professor Emeritus, <orgName>Dongguk University</orgName>,
-                Seoul, photographing Water-Moon Avalokiteshvara at the <orgName>Freer Gallery of
-                  Art</orgName> Scholarship on these paintings, which are chiefly Pure Land images
-                dominated by the Buddha Amitabha and deities associated with him, has developed
-                quickly since the first study was presented by the Yamato Bunkakan 大和文華館 in
-                  <placeName>Nara</placeName>, Japan, in <date>1978</date>. To help advance this
-                research and deepen understanding of the sixteen examples in American collections,
-                the <orgName>Freer Gallery of Art</orgName> and <orgName>Arthur M. Sackler
-                  Gallery</orgName> approached the Cultural Heritage Administration of Korea for
-                assistance in creating this bilingual digital catalogue. </p>
-            </note>
-          </notesStmt>
-          <keywords scheme="#TaDiRAH">
-            <term ref="#database">Base de données</term>
-          </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Museum">Musée</term>
-            <term ref="#Painting">Peinture</term>
-            <term>Xe - XIVe siècles</term>
-            <term ref="#Asia">Asie</term>
-            <term>Corée</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#museum">Musée</term>
+            <term ref="#Italy">Italie</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term>15e siècle</term>
+            <term>16e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0017">
@@ -1722,6 +1691,7 @@
                 years to highlight his small works, develop his presence in the British and American
                 art markets, and lay a foundation for his legacy.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
@@ -1729,9 +1699,11 @@
             <term ref="#mapping">Cartographie</term>
             <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
-            <term ref="#Museum">Musée</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#museum">Musée</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0018">
@@ -1801,57 +1773,13 @@
             <term ref="#mapping">Cartographie</term>
             <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Architecture">Architecture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
             <term ref="#Europe">Europe</term>
-            <term>France</term>
-            <term>XIIe - XIIIe siècles</term>
-          </keywords>
-        </biblFull>
-        <biblFull xml:id="dahproject0019">
-          <titleStmt>
-            <title type="main">FACES: Faces, Art, and Computerized Evaluation Systems, Phase
-              II</title>
-            <principal>
-              <persName>
-                <forename>Conrad</forename>
-                <surname>Rudolph</surname>
-              </persName>
-            </principal>
-            <funder>
-              <orgName>National Endowment for the Humanities</orgName>
-            </funder>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>University of California, Riverside</publisher>
-            <pubPlace>Riverside</pubPlace>
-            <date from="2013" to="2015">2013-2015</date>
-            <idno type="url"
-              >https://securegrants.neh.gov/publicquery/main.aspx?f=1&amp;gn=HD-51735-13</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="en">
-              <p>The refinement of additional techniques for using facial recognition software to
-                help with the identification of human subjects in portraiture for art historical
-                research. Before the advent of photography, portraits were, almost by definition,
-                depictions of people who were important in their own worlds. But, as a walk through
-                almost any major museum will show, a large number of these unidentified portraits
-                from before the nineteenth century--many of them great works of art--have lost the
-                identities of their subjects through the fortunes of time. Traditionally,
-                identification of many of these portraits has been limited to often quite variable
-                personal opinion. <title>FACES (Faces, Art, and Computerized Evaluation
-                  Systems)</title> proposes to establish the initial potential of face recognition
-                technology to this highly subjective aspect of art history while at the same time
-                retaining the human eye as the final arbiter.</p>
-            </note>
-          </notesStmt>
-          <keywords scheme="#TaDiRAH">
-            <term ref="#contentAnalysis">Analyse de contenu</term>
-            <term ref="#computerVision">Vision par ordinateur</term>
-            <term ref="#patternRecognition">Reconnaissance de formes</term>
-          </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
+            <term ref="#France">France</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term>12e siècle</term>
+            <term>13e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0020">
@@ -1870,7 +1798,7 @@
           <publicationStmt>
             <publisher>University of Virginia</publisher>
             <pubPlace>Charlottesville</pubPlace>
-            <date from="2009" to="2013">2009-2013</date>
+            <date from="2009" to="2021">2009-2021</date>
             <idno type="url">http://www.digitalsculpture.org</idno>
           </publicationStmt>
           <notesStmt>
@@ -1890,17 +1818,20 @@
                 analysis of digitized sculpture, including colorization ; - Analysis of earlier
                 forms of sculptural reproduction, particularly the cast.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#modeling3D">Modélisation 3D</term>
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Sculpture">Sculpture</term>
-            <term>Égypte</term>
-            <term>Grèce</term>
-            <term>Italie</term>
-            <term>Antiquité</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#Egypt">Égypte</term>
+            <term ref="#Greece">Grèce</term>
+            <term ref="#Italy">Italie</term>
+            <term ref="#ancientHistory">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0021">
@@ -1975,6 +1906,15 @@
             <term ref="#authorshipAttribution">Attribution de la paternité</term>
             <term ref="#computerVision">Vision par ordinateur</term>
             <term ref="#database">Base de données</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#manuscript">Manuscrit</term>
+            <term ref="#drawing">Dessin</term>
+            <term>15e siècle</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0022">
@@ -2055,9 +1995,9 @@
             <term ref="#database">Base de données</term>
             <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
-          <keywords scheme="#Subject">
+          <keywords scheme="#dataBnf">
             <term ref="#Asia">Asie</term>
-            <term ref="#Ceramic">Céramique</term>
+            <term ref="#archaeology">Archéologie</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0023">
@@ -2113,15 +2053,18 @@
                 knowledge on <persName>Lucas Cranach</persName> and his workshop, which is
                 significantly different from the traditional model of the monographic catalogue.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Museum">Musée</term>
-            <term ref="#Painting">Peinture</term>
-            <term>Renaissance</term>
-            <term>Allemagne</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
+            <term ref="#painting">Peinture</term>
+            <term ref="#manuscript">Manuscrit</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term ref="#Germany">Allemagne</term>
+            <term>16e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0024">
@@ -2134,7 +2077,7 @@
           <publicationStmt>
             <publisher>Bibliothèque Václav Havel</publisher>
             <pubPlace>Paris</pubPlace>
-            <date when="2015">c. 2015</date>
+            <date when="2015">2015</date>
             <idno type="url">http://umap.openstreetmap.fr/fr/map/chapelle-numerique_41723</idno>
           </publicationStmt>
           <notesStmt>
@@ -2153,11 +2096,11 @@
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#mapping">Cartographie</term>
           </keywords>
-          <keywords scheme="#Subject">
+          <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
             <term>France</term>
-            <term ref="#Photography">Photographie</term>
-            <term ref="#Drawing">Dessin</term>
+            <term ref="#photography">Photographie</term>
+            <term ref="#drawing">Dessin</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0025">
@@ -2203,8 +2146,8 @@
             <term ref="#mapping">Cartographie</term>
             <term ref="#visualAnalysis">Visualisation</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
             <term ref="#Europe">Europe</term>
             <term>Italie</term>
             <term>Renaissance</term>
@@ -2245,8 +2188,8 @@
             <term ref="#spatialAnalysis"/>
             <term ref="#mapping">Cartographie</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Architecture">Architecture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
             <term ref="#Europe">Europe</term>
             <term>Paris</term>
             <term>XVIIIe - XXIe siècles</term>
@@ -2301,8 +2244,8 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
             <term ref="#Europe">Europe</term>
             <term>France</term>
             <term>XIXe siècle</term>
@@ -2357,8 +2300,8 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#visualAnalysis">Visualisation</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Museum">Musée</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0029">
@@ -2428,8 +2371,8 @@
             <term ref="#plotting">Graphique</term>
             <term ref="#timeline">Chronologie</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Drawing">Dessin</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
             <term>Allemagne</term>
             <term>XVIIe siècle</term>
@@ -2476,7 +2419,7 @@
             <term ref="#database">Base de données</term>
             <term ref="#mapping">Cartographie</term>
           </keywords>
-          <keywords scheme="#Subject">
+          <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
             <term>Royaume-Uni</term>
             <term>XIXe - XXe siècle</term>
@@ -2528,10 +2471,10 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
-            <term ref="#Sculpture">Sculpture</term>
-            <term ref="#Architecture">Architecture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#architecture">Architecture</term>
             <term ref="#America">America</term>
             <term>XVIe - XIXe siècles</term>
           </keywords>
@@ -2569,8 +2512,8 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Architecture">Architecture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
             <term ref="#Europe">Europe</term>
             <term>France</term>
             <term>Moyen Âge</term>
@@ -2703,9 +2646,9 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Architecture">Architecture</term>
-            <term ref="#Drawing">Dessin</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
             <term>Italie</term>
             <term>XVIIIe - XIXe siècles</term>
@@ -2816,9 +2759,9 @@
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Architecture">Architecture</term>
-            <term ref="#Drawing">Dessin</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
             <term>France</term>
             <term>XVIIe - XVIIIe siècles</term>
@@ -2864,9 +2807,9 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Museum">Musée</term>
-            <term ref="#Painting">Peinture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
+            <term ref="#painting">Peinture</term>
             <term ref="#Europe">Europe</term>
             <term>Allemagne</term>
           </keywords>
@@ -3030,8 +2973,8 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Drawing">Dessin</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
             <term>Renaissance</term>
             <term>Époque Baroque</term>
@@ -3075,9 +3018,9 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Museum"/>
-            <term ref="#Drawing">Dessin</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum"/>
+            <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
             <term>Allemagne</term>
           </keywords>
@@ -3125,8 +3068,8 @@
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Architecture">Architecture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
             <term ref="#Europe">Europe</term>
             <term>Royaume-Uni</term>
             <term>XVIIe siècle</term>
@@ -3170,8 +3113,8 @@
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#mapping">Cartographie</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Photography">Photographie</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#photography">Photographie</term>
             <term ref="#America">Amérique</term>
             <term>États-Unis</term>
             <term>XXe - XXIe siècles</term>
@@ -3204,8 +3147,8 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Museum">Musée</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0041">
@@ -3260,8 +3203,8 @@
               manuscrite</term>
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Manuscript">Manuscript</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#manuscript">Manuscript</term>
             <term ref="#America">Amérique</term>
             <term>États-Unis</term>
             <term>XXe siècle</term>
@@ -3323,9 +3266,9 @@
             <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture
               manuscrite</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Drawing">Dessin</term>
-            <term ref="#Manuscript">Manuscript</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#drawing">Dessin</term>
+            <term ref="#manuscript">Manuscript</term>
             <term ref="#Europe">Europe</term>
             <term>Italie</term>
             <term>XVIe siècle</term>
@@ -3374,8 +3317,8 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
             <term ref="#Europe">Europe</term>
             <term>Royaume-Uni</term>
             <term>XVIIIe siècle</term>
@@ -3428,9 +3371,9 @@
             <term ref="#database">Base de données</term>
             <term ref="#contentAnalysis">Analyse de contenu</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
-            <term ref="#Drawing">Dessin</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
             <term>Allemagne</term>
             <term>XIXe - XXe siècles</term>
@@ -3609,9 +3552,9 @@
             <term ref="#contentAnalysis">Analyse de contenu</term>
             <term ref="#patternRecognition">Reconnaissance de formes</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
-            <term ref="#Drawing">Dessin</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#drawing">Dessin</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0046">
@@ -3677,7 +3620,7 @@
             <term ref="#plotting">Graphique</term>
             <term ref="#timeline">Chronologie</term>
           </keywords>
-          <keywords scheme="#Subject">
+          <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
             <term ref="#Africa">Afrique</term>
             <term>XVIIIe - XIXe siècles</term>
@@ -3780,8 +3723,8 @@
             <term ref="#timeline">Chronologie</term>
             <term ref="#plotting">Graphique</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Museum">Musée</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0048">
@@ -3861,12 +3804,12 @@
             <term ref="#neuralNetwork">Réseau de neurones</term>
             <term ref="#patternRecognition">Reconnaissance de formes</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Sculpture">Sculpture</term>
-            <term ref="#Painting">Peinture</term>
-            <term ref="#Photography">Photographie</term>
-            <term ref="#Drawing">Dessin</term>
-            <term ref="#Engraving">Gravure</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#painting">Peinture</term>
+            <term ref="#photography">Photographie</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#engraving">Gravure</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0049">
@@ -3951,9 +3894,9 @@
             <term ref="#mapping">Cartographie</term>
             <term ref="#plotting">Graphique</term>
           </keywords>
-          <keywords scheme="#Subject">
+          <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
-            <term ref="#Manuscript">Manuscript</term>
+            <term ref="#manuscript">Manuscript</term>
             <term>XVIIe - XVIIIe siècles</term>
           </keywords>
         </biblFull>
@@ -4009,7 +3952,7 @@
             <term ref="#plotting">Graphique</term>
             <term ref="#timeline">Chronologie</term>
           </keywords>
-          <keywords scheme="#Subject">
+          <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
             <term>Italie</term>
             <term>XVIIIe siècle</term>
@@ -4064,9 +4007,9 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#database">Base de données</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Painting">Peinture</term>
-            <term ref="#Manuscript">Manuscript</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#manuscript">Manuscript</term>
             <term ref="#Europe">Europe</term>
             <term>Royaume-Uni</term>
             <term>XVIIIe siècle</term>
@@ -4129,9 +4072,9 @@
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#mapping">Cartographie</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Photography">Photographie</term>
-            <term ref="#Sculpture">Sculpture</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#photography">Photographie</term>
+            <term ref="#sculpture">Sculpture</term>
             <term ref="#Europe">Europe</term>
             <term>Italie</term>
             <term>Renaissance</term>
@@ -10140,8 +10083,8 @@
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#neuralNetwork">Réseau de neurones</term>
           </keywords>
-          <keywords scheme="#Subject">
-            <term ref="#Journal">Journal</term>
+          <keywords scheme="#dataBnf">
+            <term ref="#journal">Journal</term>
             <term ref="#XXthCentury">XXe siècle</term>
           </keywords>
         </biblFull>
