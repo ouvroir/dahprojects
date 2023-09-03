@@ -211,8 +211,8 @@
               <term xml:lang="en">Prehistory</term>
               <term xml:lang="fr">Préhistoire</term>
             </category>
-            <category xml:id="ancientHistory" uri="https://data.bnf.fr/ark:/12148/cb119366117">
-              <term xml:lang="en">Ancient history</term>
+            <category xml:id="Antiquity" uri="https://data.bnf.fr/ark:/12148/cb119366117">
+              <term xml:lang="en">Antiquity</term>
               <term xml:lang="fr">Antiquité</term>
             </category>
             <category xml:id="middleAges" uri="https://data.bnf.fr/ark:/12148/cb133185191"
@@ -1489,7 +1489,7 @@
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#Italy">Italie</term>
-            <term ref="#ancientHistory">Antiquité</term>
+            <term ref="#Antiquity">Antiquité</term>
             <term ref="#middleAges">Moyen Âge</term>
             <term>Rome (Italie)</term>
           </keywords>
@@ -1535,7 +1535,7 @@
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#sculpture">Sculpture</term>
-            <term ref="#ancientHistory">Antiquité</term>
+            <term ref="#Antiquity">Antiquité</term>
             <term ref="#Italy">Italie</term>
             <term>Rome (Italie)</term>
           </keywords>
@@ -1836,7 +1836,7 @@
             <term ref="#Egypt">Égypte</term>
             <term ref="#Greece">Grèce</term>
             <term ref="#Italy">Italie</term>
-            <term ref="#ancientHistory">Antiquité</term>
+            <term ref="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0021">
@@ -4390,8 +4390,8 @@
                 of the ancient city. Throughout his long career Lanciani collected a vast archive of
                 his own notes and manuscripts, as well as works by others including rare prints and
                 original drawings by artists and architects stretching back to the sixteenth
-                century. After his death in <date>1929</date>, his entire library was purchased by the
-                  <orgName>Istituto Nazionale di Archeologia e Storia dell’Arte (INASA)</orgName>,
+                century. After his death in <date>1929</date>, his entire library was purchased by
+                the <orgName>Istituto Nazionale di Archeologia e Storia dell’Arte (INASA)</orgName>,
                 on the recommendation of the Director <persName>Corrado Ricci</persName>
                   (<date>1858-1934</date>).</p>
               <p>To quote the librarian at the time of the accession, the Lanciani collection
@@ -4402,10 +4402,11 @@
                   loose drawings, and some books of drawings and sketches in pen and pencil by
                   artists such as Giani, Rossini and Caracciolo.”</quote> Lanciani considered this
                 corpus his personal collection, unlike one of similar importance that he donated to
-                the Vatican Library in <date>1925</date>. Fittingly, the room that hosts the <orgName>INASA</orgName> collection is
-                called the “Sala Lanciani” and is now located on the fourth floor of the
-                  <orgName>Biblioteca di Archeologia and Storia dell’Arte (BIASA)</orgName> in the
-                historic Palazzo Venezia in <placeName>Rome</placeName>.</p>
+                the Vatican Library in <date>1925</date>. Fittingly, the room that hosts the
+                  <orgName>INASA</orgName> collection is called the “Sala Lanciani” and is now
+                located on the fourth floor of the <orgName>Biblioteca di Archeologia and Storia
+                  dell’Arte (BIASA)</orgName> in the historic Palazzo Venezia in
+                  <placeName>Rome</placeName>.</p>
             </note>
             <note type="licence">Tous droits réservés.</note>
           </notesStmt>
@@ -4462,11 +4463,11 @@
                 sub-communities formed within the city? Which neighbourhoods formed the cultural
                 geography of the eighteenth-century art world? And did that geography change over
                 the course of the century? This website provides answers to these tantalising
-                questions about the geography and demography of the Paris art world in the
-                  <date>eighteenth century</date>. Based on original archival research retrieving
-                the addresses of hundreds of artists’ homes and studios, this website uses digital
-                mapping technologies to locate those spaces on georeferenced historical maps, making
-                them available for visitors to explore.</p>
+                questions about the geography and demography of the <placeName>Paris</placeName> art
+                world in the <date>eighteenth century</date>. Based on original archival research
+                retrieving the addresses of hundreds of artists’ homes and studios, this website
+                uses digital mapping technologies to locate those spaces on georeferenced historical
+                maps, making them available for visitors to explore.</p>
               <p><title>Artists in Paris</title> is the first project to map comprehensively where
                 artistic communities developed in the <date>eighteenth-century</date> city and
                 offers rich scope for subsequent investigations into how these communities worked
@@ -4485,6 +4486,8 @@
                 the city in art production, the geography of the art world, and urban experience
                 more generally.</p>
             </note>
+            <note type="licence"><ref target="https://creativecommons.org/licenses/by/3.0/">CC BY
+                3.0</ref></note>
             <note type="biblio">
               <biblStruct>
                 <analytic>
@@ -4531,8 +4534,16 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visulisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Paris (France)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0058">
@@ -4556,7 +4567,7 @@
             <authority>Fashion Institute of Technology</authority>
             <publisher>State University of New York</publisher>
             <pubPlace>New York</pubPlace>
-            <date from="2015" to="2022">2015-2022</date>
+            <date from="2015">2015</date>
             <idno type="url">https://fashionhistory.fitnyc.edu</idno>
           </publicationStmt>
           <notesStmt>
@@ -4565,11 +4576,28 @@
                   of Art Department</orgName>. The Timeline offers scholarly contributions to the
                 public knowledge of the history of fashion and design.</p>
             </note>
-            <note type="licence">Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-              International Licence</note>
+            <note type="licence"><ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+              4.0)</ref></note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#timeline">Chronologie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#prehistory">Préhistoire</term>
+            <term ref="#Antiquity">Antiquité</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0059">
@@ -4588,7 +4616,7 @@
             <pubPlace>New York</pubPlace>
             <pubPlace/>
             <date when="2019">2019</date>
-            <idno type="url">https://fashionhistory.fitnyc.edu/style-revolution/</idno>
+            <idno type="url">https://stylerevolution.github.io/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -4597,23 +4625,41 @@
                 of <date>1789</date> promised that all people could reinvent themselves. Between
                   <date>1797</date> and <date>1804</date>, after the political crisis of the first
                 revolutionary years subsided, and before <persName>Napoleon</persName> demanded that
-                women’s clothing become more conservative, the Journal des dames et des modes
-                offered Europeans a startlingly new way to dress. It rejected the rules, shapes, and
-                materials that had signaled static social rank in favor of mobile self-expression
-                through consumer choice. This dramatic experiment in individualism freed men to
-                dress as they have ever since, and for a brief time liberated women too.</p>
-              <p>Here you will find, online for the first time, all the Journal des dames et des
-                modes plates from the magazine’s most surprising years, <date>1797-1804</date>,
-                together with their transcribed and translated captions. The digital images were
-                made from an extremely rare, complete set of the engravings, in exceptionally good
-                condition, belonging to the Morgan Library and Museum—call numbers PML 5687, PML
-                5688, PML 5689. Work on the vocabulary, text descriptions, locations, patterns, and
-                historical context of the plates was begun by a faculty-student team based at
-                  <orgName>Columbia University</orgName>, and is ongoing.</p>
+                women’s clothing become more conservative, the <title>Journal des dames et des
+                  modes</title> offered Europeans a startlingly new way to dress. It rejected the
+                rules, shapes, and materials that had signaled static social rank in favor of mobile
+                self-expression through consumer choice. This dramatic experiment in individualism
+                freed men to dress as they have ever since, and for a brief time liberated women
+                too.</p>
+              <p>Here you will find, online for the first time, all the <title>Journal des dames et
+                  des modes</title> plates from the magazine’s most surprising years,
+                  <date>1797-1804</date>, together with their transcribed and translated captions.
+                The digital images were made from an extremely rare, complete set of the engravings,
+                in exceptionally good condition, belonging to the Morgan Library and Museum—call
+                numbers PML 5687, PML 5688, PML 5689. Work on the vocabulary, text descriptions,
+                locations, patterns, and historical context of the plates was begun by a
+                faculty-student team based at <orgName>Columbia University</orgName>, and is
+                ongoing.</p>
             </note>
+            <note type="licence"><ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+              4.0)</ref></note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#drawing">Dessin</term>
+            <term ref="#journal">Presse</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Paris (France)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0060">
@@ -4644,12 +4690,13 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
-              <p>Quels étaient les grands centres du marché de l’art en Europe au 18<hi
-                  rend="superscript">e</hi> siècle ? Qui en étaient les acteurs ? Dans quels réseaux
-                professionnels et familiaux ces derniers s’inscrivaient-ils ? Où étaient situés les
-                marchands de tableaux à Paris au siècle des Lumières ? A quoi ressemblait l’activité
-                du marchande du Pont Notre Dame et la boutique de son plus célèbre occupant,
-                François-Edmé Gersaint ?</p>
+              <p>Quels étaient les grands centres du marché de l’art en
+                  <placeName>Europe</placeName> au <date>18<hi rend="superscript">e</hi>
+                  siècle</date> ? Qui en étaient les acteurs ? Dans quels réseaux professionnels et
+                familiaux ces derniers s’inscrivaient-ils ? Où étaient situés les marchands de
+                tableaux à <placeName>Paris</placeName> au siècle des Lumières ? A quoi ressemblait
+                l’activité du marchande du Pont Notre Dame et la boutique de son plus célèbre
+                occupant, <persName>François-Edmé Gersaint</persName> ?</p>
               <p>La base de données et les applications de visualisation proposées ici visent à
                 restituer sous une forme inédite les résultats d’une équipe de chercheurs qui se
                 sont penchés – entre autres – sur ces questions, dans le cadre du projet <title>Art
@@ -4667,8 +4714,22 @@
                 européens et américains.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#networkAnalysis">Analyse de réseau</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Paris (France)</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>16e siècle</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0061">
@@ -4714,18 +4775,19 @@
                 by <persName> Mark Hallett</persName> and <persName>Sarah Victoria
                 Turner</persName>. </p>
               <p>The <title>RA Chronicle</title>, which was conceived by Mark Hallett, has been
-                developed and produced by a team of Paul Mellon Centre staff, working with many
-                partners, including our authors, designers, and reviewers. It is important for us to
-                acknowledge that a publication of this size and complexity is only possible by
-                working collaboratively. The <title>RA Chronicle</title> entries have been edited by
-                three content specialist editors—<persName>Mark Hallett</persName>, <persName>Sarah
-                  Victoria Turner</persName>, and <persName>Jessica Feather</persName>—who each took
-                responsibility for different periods of this 250-year history, as well as writing
-                some entries themselves. The whole project was managed and edited by Baillie Card.
-                Tom Scutt managed the digital infrastructure and conceptualisation of the project,
-                from the digitisation of the Exhibition catalogues through to the website’s
-                publication. Maisoon Rehani managed all of the picture research and copyright
-                clearances.</p>
+                developed and produced by a team of <orgName>Paul Mellon Centre</orgName> staff,
+                working with many partners, including our authors, designers, and reviewers. It is
+                important for us to acknowledge that a publication of this size and complexity is
+                only possible by working collaboratively. The <title>RA Chronicle</title> entries
+                have been edited by three content specialist editors—<persName>Mark
+                  Hallett</persName>, <persName>Sarah Victoria Turner</persName>, and
+                  <persName>Jessica Feather</persName>—who each took responsibility for different
+                periods of this 250-year history, as well as writing some entries themselves. The
+                whole project was managed and edited by <persName>Baillie Card</persName>.
+                  <persName>Tom Scutt</persName> managed the digital infrastructure and
+                conceptualisation of the project, from the digitisation of the Exhibition catalogues
+                through to the website’s publication. <persName>Maisoon Rehani</persName> managed
+                all of the picture research and copyright clearances.</p>
               <p>The <title>RA Chronicle</title> was also peer-reviewed by three specialist readers,
                 each of whom took responsibility for a portion of the chronology matching their
                 expertise. We are deeply grateful to these readers for their advice and critical
@@ -4733,59 +4795,23 @@
                 rest underwent either single-blind review or open review, depending on their unique
                 formats and subject matter.</p>
             </note>
+            <note type="licence"><ref target="https://creativecommons.org/licenses/by-nc/4.0/"
+                >Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC
+                4.0)</ref></note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#timeline">Chronologie</term>
           </keywords>
-        </biblFull>
-        <biblFull xml:id="dahproject0062">
-          <titleStmt>
-            <title type="main">Picturing Places</title>
-            <principal>
-              <persName>
-                <forename>Mark</forename>
-                <surname>Hallet</surname>
-              </persName>
-              <persName>
-                <forename>Sarah</forename>
-                <surname>Turner</surname>
-              </persName>
-            </principal>
-            <funder>
-              <orgName>Marc Fitch Fund</orgName>
-              <orgName>Thriplow Charitable Trust, Coles Medlock Foundation</orgName>
-              <orgName>Finnis ScottFoundation</orgName>
-              <orgName>SP Lohia Foundation</orgName>
-            </funder>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>British Library</publisher>
-            <pubPlace>Londres</pubPlace>
-            <date from="2013" to="2017">2013-2017</date>
-            <idno type="url">https://www.bl.uk/picturing-places</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="en">
-              <p><title>Picturing Places</title> is a free educational resource providing
-                unprecedented access to the <orgName>British Library</orgName>’s unrivalled holdings
-                of topographical materials. The site highlights a selection of important items from
-                our vast and varied collections, including prints, drawings, paintings, books, maps,
-                letters, notes and ephemera. Users can examine high-resolution digitised images and
-                read articles by emerging and established scholars exploring the history, context
-                and significance of these images.</p>
-              <p><title>Picturing Places</title> demonstrates that topography involves far more than
-                straightforward ‘pictorial evidence’ of what a place looked like in the past. We
-                showcase some of the <orgName>Library</orgName>’s most treasured topographical
-                materials, including <persName>Tudor</persName> views collected by <persName>Robert
-                  Cotton</persName> and maps and views owned by <persName>George III</persName>. But
-                much of this material remains uncharted, and is being brought to wider attention for
-                the first time. The first phase of <title>Picturing Places</title> features over 500
-                collection items, most never published before, and over 100 articles providing fresh
-                perspectives and new ideas.</p>
-            </note>
-          </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#dataBnf">
+            <term ref="#Europe">Europe</term>
+            <term ref="#UK">Royaume-Uni</term>
+            <term>Londres (Royaume-Uni)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0063">
@@ -4822,8 +4848,18 @@
                 podcast called <title>Recreating the Boydell Gallery</title>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#museum">Musée</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#UK">Royaume-Uni</term>
+            <term>Londres (Royaume-Uni)</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0064">
@@ -4914,8 +4950,16 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#photography">Photographie</term>
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#engraving">Estampe</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0065">
@@ -4971,20 +5015,32 @@
                 une autre intervention). S'y ajoute une analyse spécifique des traces de chantier,
                 communes à la plupart des interventions.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0066">
           <titleStmt>
             <title type="main">Open Art Data</title>
             <title type="sub">Linking Databases To Detect Looted Art</title>
+            <principal>
+              <orgName>Open Art Data</orgName>
+            </principal>
           </titleStmt>
           <publicationStmt>
             <publisher>Open Art Data</publisher>
             <pubPlace>Paris</pubPlace>
-            <date from="2016" to="2022">2016-2022</date>
+            <date from="2016">2016-</date>
             <idno type="url">https://www.openartdata.org</idno>
           </publicationStmt>
           <notesStmt>
@@ -4993,8 +5049,13 @@
                 interesting. The user can upload your their lists of words to verify.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#Europe">Europe</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0067">
@@ -5034,9 +5095,45 @@
                   <persName>Blake</persName>’s manuscripts, providing new angles into understanding
                 his complicated relationship with color.</p>
             </note>
+            <note type="biblio">
+              <biblStruct>
+                <analytic>
+                  <title type="a">Particulars and Pixels: Quantizing and Theorizing Color in William
+                    Blake's Illuminated Books</title>
+                  <author>
+                    <persName>
+                      <forename>Sarah T.</forename>
+                      <surname>Weston</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">European Romantic Review</title>
+                  <imprint>
+                    <date when="2021">2021</date>
+                    <biblScope unit="volume" n="32">32</biblScope>
+                    <biblScope unit="issue" n="5-6">5-6</biblScope>
+                    <biblScope unit="page" from="619" to="637">619-637</biblScope>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://www.tandfonline.com/doi/full/10.1080/10509585.2021.1989879</ref>
+              </biblStruct>
+            </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#UK">Royaume-Uni</term>
+            <term>Londres (Royaume-Uni)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0068">
@@ -5054,7 +5151,7 @@
             <publisher>Leuphana Universität Lüneburg</publisher>
             <pubPlace>Lüneburg</pubPlace>
             <date when="2022">2022</date>
-            <idno type="url">https://whatisapainting.com</idno>
+            <idno type="url">https://www.modernmigrants.art/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -5079,8 +5176,20 @@
                   target="https://www.modernmigrants.art/museum-faq">Museum FAQ</ref>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#database">Base de données</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#museum">Musée</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#USA">États-Unis</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0069">
