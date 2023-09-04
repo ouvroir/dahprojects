@@ -77,10 +77,6 @@
               <term xml:lang="en">Computer vision</term>
               <term xml:lang="fr">Vision par ordinateur</term>
             </category>
-            <category xml:id="neuralNetwork">
-              <term xml:lang="en">Neural network</term>
-              <term xml:lang="fr">Réseau de neurones</term>
-            </category>
             <category xml:id="patternRecognition">
               <term xml:lang="en">Pattern recognition</term>
               <term xml:lang="fr">Reconnaissance de formes</term>
@@ -254,13 +250,33 @@
               <term xml:lang="en">Oceania</term>
               <term xml:lang="fr">Océanie</term>
             </category>
+            <category xml:id="Algeria" uri="https://data.bnf.fr/ark:/12148/cb11930860j">
+              <term xml:lang="en">Algeria</term>
+              <term xml:lang="fr">Algérie</term>
+            </category>
+            <category xml:id="Belgium" uri="https://data.bnf.fr/ark:/12148/cb11933381v">
+              <term xml:lang="en">Belgium</term>
+              <term xml:lang="fr">Belgique</term>
+            </category>
             <category xml:id="Benin" uri="https://data.bnf.fr/ark:/12148/cb119310372">
               <term xml:lang="en">Benin</term>
               <term xml:lang="fr">Bénin</term>
             </category>
+            <category xml:id="Brazil" uri="https://data.bnf.fr/ark:/12148/cb119316758">
+              <term xml:lang="en">Brazil</term>
+              <term xml:lang="fr">Brésil</term>
+            </category>
+            <category xml:id="China" uri="https://data.bnf.fr/ark:/12148/cb11963283w">
+              <term xml:lang="en">China</term>
+              <term xml:lang="fr">Chine</term>
+            </category>
             <category xml:id="Egypt" uri="https://data.bnf.fr/ark:/12148/cb11938556d">
               <term xml:lang="en">Egypt</term>
               <term xml:lang="fr">Égypte</term>
+            </category>
+            <category xml:id="Ecuador" uri="https://data.bnf.fr/ark:/12148/cb11931363f">
+              <term xml:lang="en">Ecuador</term>
+              <term xml:lang="fr">Équateur</term>
             </category>
             <category xml:id="France" uri="https://data.bnf.fr/ark:/12148/cb119314762">
               <term xml:lang="en">France</term>
@@ -274,9 +290,25 @@
               <term xml:lang="en">Greece</term>
               <term xml:lang="fr">Grèce</term>
             </category>
+            <category xml:id="Israel" uri="https://data.bnf.fr/ark:/12148/cb11934249b">
+              <term xml:lang="en">Israel</term>
+              <term xml:lang="fr">Israël</term>
+            </category>
             <category xml:id="Italy" uri="https://data.bnf.fr/ark:/12148/cb119321456">
               <term xml:lang="en">Italy</term>
               <term xml:lang="fr">Italie</term>
+            </category>
+            <category xml:id="Japan" uri="https://data.bnf.fr/ark:/12148/cb11934253k">
+              <term xml:lang="en">Japan</term>
+              <term xml:lang="fr">Japon</term>
+            </category>
+            <category xml:id="Switzerland" uri="https://data.bnf.fr/ark:/12148/cb11933332n">
+              <term xml:lang="en">Switzerland</term>
+              <term xml:lang="fr">Suisse</term>
+            </category>
+            <category xml:id="Thailand" uri="https://data.bnf.fr/ark:/12148/cb11933494g">
+              <term xml:lang="en">Thailand</term>
+              <term xml:lang="fr">Thaïlande</term>
             </category>
             <category xml:id="UK" uri="https://data.bnf.fr/ark:/12148/cb11931584z">
               <term xml:lang="en">United-Kingdom</term>
@@ -328,6 +360,9 @@
           <keywords scheme="">
             <term/>
           </keywords>
+          <keywords scheme="">
+            <term/>
+          </keywords>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -347,6 +382,9 @@
           <keywords scheme="">
             <term/>
           </keywords>
+          <keywords scheme="">
+            <term/>
+          </keywords>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -362,6 +400,9 @@
           <notesStmt>
             <note/>
           </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
           <keywords scheme="">
             <term/>
           </keywords>
@@ -390,6 +431,9 @@
           <notesStmt>
             <note/>
           </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
           <keywords scheme="">
             <term/>
           </keywords>
@@ -436,6 +480,9 @@
                 !</p>
             </note>
           </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
           <keywords scheme="">
             <term/>
           </keywords>
@@ -487,8 +534,10 @@
           <keywords scheme="">
             <term/>
           </keywords>
+          <keywords scheme="">
+            <term/>
+          </keywords>
         </biblFull>
-
         <biblFull>
           <titleStmt>
             <title>Manart</title>
@@ -515,6 +564,9 @@
           <keywords scheme="">
             <term/>
           </keywords>
+          <keywords scheme="">
+            <term/>
+          </keywords>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -529,6 +581,9 @@
           <notesStmt>
             <note/>
           </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
           <keywords scheme="">
             <term/>
           </keywords>
@@ -560,6 +615,9 @@
                 seminar.</p>
             </note>
           </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
           <keywords scheme="">
             <term/>
           </keywords>
@@ -613,6 +671,9 @@
           <keywords scheme="">
             <term/>
           </keywords>
+          <keywords scheme="">
+            <term/>
+          </keywords>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -640,6 +701,9 @@
                 institusjoner blir etter hvert tilgjengelig her i det digitale arkivet.</p>
             </note>
           </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
           <keywords scheme="">
             <term/>
           </keywords>
@@ -680,6 +744,9 @@
           <keywords scheme="">
             <term/>
           </keywords>
+          <keywords scheme="">
+            <term/>
+          </keywords>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -707,6 +774,9 @@
           <notesStmt>
             <note/>
           </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
           <keywords scheme="">
             <term/>
           </keywords>
@@ -765,6 +835,9 @@
           <keywords scheme="">
             <term/>
           </keywords>
+          <keywords scheme="">
+            <term/>
+          </keywords>
         </biblFull>
         <biblFull>
           <titleStmt>
@@ -785,6 +858,9 @@
           <notesStmt>
             <note/>
           </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
           <keywords scheme="">
             <term/>
           </keywords>
@@ -826,6 +902,9 @@
                 result.</p>
             </note>
           </notesStmt>
+          <keywords scheme="">
+            <term/>
+          </keywords>
           <keywords scheme="">
             <term/>
           </keywords>
@@ -1910,6 +1989,7 @@
             <term ref="#stylisticAnalysis">Analyse stylistique</term>
             <term ref="#authorshipAttribution">Attribution de la paternité</term>
             <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
             <term ref="#database">Base de données</term>
           </keywords>
           <keywords scheme="#dataBnf">
@@ -2437,6 +2517,7 @@
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#database">Base de données</term>
             <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
@@ -3158,6 +3239,7 @@
             <term ref="#database">Base de données</term>
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#photography">Photographie</term>
@@ -3866,7 +3948,6 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#contentAnalysis">Analyse de contenu</term>
             <term ref="#computerVision">Vision par ordinateur</term>
-            <term ref="#neuralNetwork">Réseau de neurones</term>
             <term ref="#patternRecognition">Reconnaissance de formes</term>
           </keywords>
           <keywords scheme="#dataBnf">
@@ -4207,6 +4288,7 @@
             <term ref="#database">Base de données</term>
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#painting">Peinture</term>
@@ -4329,6 +4411,7 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#painting">Peinture</term>
@@ -4535,8 +4618,9 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
-            <term ref="#visualAnalysis">Visulisation</term>
+            <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
@@ -4650,6 +4734,7 @@
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#mapping">Cartographie</term>
             <term ref="#timeline">Chronologie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#drawing">Dessin</term>
@@ -4720,6 +4805,7 @@
             <term ref="#plotting">Graphique</term>
             <term ref="#networkAnalysis">Analyse de réseau</term>
             <term ref="#modeling3D">Modélisation 3D</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#Europe">Europe</term>
@@ -5180,6 +5266,7 @@
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#database">Base de données</term>
             <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#painting">Peinture</term>
@@ -5217,8 +5304,11 @@
                   University</orgName>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0070">
@@ -5253,8 +5343,28 @@
                 operators, as well as citizens eager to take part in their urban environment.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#photography">Phtographie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#France">France</term>
+            <term>Paris (France)</term>
+            <term ref="#Algeria">Algérie</term>
+            <term>Alger (Algérie)</term>
+            <term ref="#Italy">Italie</term>
+            <term>Bologne (Italie)</term>
+            <term ref="#Thailand">Thaïlande</term>
+            <term>Chiang-Mai (Thaïlande)</term>
+            <term ref="#Israel">Israël</term>
+            <term>Jérusalem (Israël)</term>
+            <term ref="#Ecuador">Équateur</term>
+            <term>Quito (Équateur)</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0071">
@@ -5351,8 +5461,19 @@
                 basés sur des pratiques partagées et interopérables.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Paris (France)</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0072">
@@ -5479,8 +5600,18 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Italy">Italie</term>
+            <term>Rome (Italie)</term>
+            <term ref="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0073">
@@ -5522,7 +5653,6 @@
             </principal>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
-
               <orgName>Sapienza - Università di Roma, Dipartimento di Scienze dell'Antichità,
                 Sistemo Informativo Archeologica</orgName>
               <orgName>Institute for Advanced Technology in the Humanities, University of
@@ -5557,8 +5687,16 @@
                 romaine.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Italy">Italie</term>
+            <term>Rome (Italie)</term>
+            <term ref="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0074">
@@ -5615,6 +5753,7 @@
                 sensing and GIS in the field of ancient cities, landscapes and sanctuaries in order
                 to study and better understand their composition, organization and planning.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
             <note type="biblio">
               <biblStruct>
                 <analytic>
@@ -5651,8 +5790,19 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#dataBnf">Base de données</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Italy">Italie</term>
+            <term>Rome (Italie)</term>
+            <term ref="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0075">
@@ -5682,8 +5832,19 @@
             <note type="licence">OpenTopoMap (<ref
                 target="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</ref>)</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Rennes (France)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0076">
@@ -5704,7 +5865,7 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
-              <p> Ce site propose la visite virtuelle d'une restitution numérique d'une partie de la
+              <p>Ce site propose la visite virtuelle d'une restitution numérique d'une partie de la
                 ville de <placeName>Lyon</placeName> en <date>1700</date>. Cette maquette est le
                 fruit de dix ans de travail réalisé membres de l'association <orgName>« Lyon en 1700
                   »</orgName>. Elle est le résultat d'un travail de recherche avant tout
@@ -5733,8 +5894,19 @@
                 restitution, vous êtes invité à vous rendre sur la page « Méthodologie ».</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Lyon (France)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0077">
@@ -5849,11 +6021,27 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#database">Base de données</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#photography">Photographie</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#Brazil">Brésil</term>
+            <term>Rio de Janeiro (Brésil)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>16e siècle</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
-        <biblFull xml:id="dahproject078">
+        <biblFull xml:id="dahproject0078">
           <titleStmt>
             <title type="main">Base de données du programme CIRCE</title>
             <title type="sub">Constructions, Interprétations et Représentations Cultuelles de
@@ -5897,101 +6085,19 @@
                 offrandes dans l’espace et ses implications dans la signification et l’évolution du
                 polythéisme grec antique dans la diversité de ses manifestations.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
-        </biblFull>
-        <biblFull xml:id="dahproject0079">
-          <titleStmt>
-            <title type="main">ArchBook</title>
-            <principal>
-              <persName>
-                <forename>Yin</forename>
-                <surname>Liu</surname>
-              </persName>
-              <persName>
-                <forename>Richard</forename>
-                <surname>Cunningham</surname>
-              </persName>
-              <persName>
-                <forename>Alan</forename>
-                <surname>Galey</surname>
-              </persName>
-              <persName>
-                <forename>Bonnie</forename>
-                <surname>Mak</surname>
-              </persName>
-              <persName>
-                <forename>Brent</forename>
-                <surname>Nelson</surname>
-              </persName>
-              <persName>
-                <forename>Scott</forename>
-                <surname>Schofield</surname>
-              </persName>
-              <persName>
-                <forename>Paul</forename>
-                <surname>Werstine</surname>
-              </persName>
-            </principal>
-            <funder>
-              <orgName>Social Sciences and Humanities Research Council of Canada (SSHRC)</orgName>
-              <orgName>University of Saskatchewan Humanities and Fine Arts Digital Research
-                Centre</orgName>
-              <orgName>University of Toronto's iSchool</orgName>
-            </funder>
-            <respStmt>
-              <resp>Partenaires scientifiques</resp>
-              <orgName/>
-            </respStmt>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Implementing New Knowledge Environment (INKE)</publisher>
-            <pubPlace>Canada</pubPlace>
-            <date from="2009" to="2013">2009-2013</date>
-            <idno type="url">https://drc.usask.ca/projects/archbook/index.php</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="en">
-              <p><title>ArchBook</title> is an open-access, peer-reviewed collection of richly
-                illustrated essays about specific design features in the history of the book. Our
-                goal is to make the diverse history of the book -- especially the under-appreciated
-                parts of that history -- available to students, researchers, and the public.
-                ArchBook is designed to complement more definitive and encyclopedic resources like
-                the <title>Cambridge History of the Book in Britain</title> with essays that target
-                connections between the history and future of books and reading. A typical
-                  <title>ArchBook</title> entry will follow a specific textual feature through its
-                development (or disappearance) across historical periods, with an eye to the
-                continuities and discontinuities the feature might have with digital reading
-                environments. Each entry offers a definition of a textual feature and rationale for
-                its importance, an historical overview of that feature, and (optionally) one or more
-                spotlight sections offering critical arguments about that feature's digital
-                reinvention. <title>ArchBook</title> seeks to combine the public accessibility of
-                Wikipedia, the scholarly standards and original research of a peer-reviewed history
-                of the book, and the critical provocativeness of a project like <persName>Raymond
-                  Williams</persName>'s Keywords.</p>
-              <p>Although <title>ArchBook</title> makes no claim to exhaustiveness, the project can
-                serve as a reference resource for students and teachers of book history. However,
-                unlike entries in a traditional reference resource, <title>ArchBook</title> articles
-                are written specifically to provoke further thought, discussion, and practical
-                experimentation among all readers with a stake in the future of books and reading.
-                In the spirit of the blank pages for readers' notes that <persName>Raymond
-                  Williams</persName> includes at the end of Keywords, each <title>ArchBook</title>
-                entry contains a post-publication discussion section with links to the project blog
-                and related wikis, where readers are invited to continue the discussion. The visual
-                examples of textual features provided in the essays are supplemented by a larger
-                open-access image database. Researchers, students, and teachers are welcome to use
-                these images provided they respect the usage and attribution policies of the source
-                libraries (named in the image metadata).</p>
-            </note>
-            <note type="licence">Licensed under a <ref
-                target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons
-                Attribution-Noncommercial-No Derivative Works 3.0 License</ref>
-            </note>
-          </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Greece">Grèce</term>
+            <term ref="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0080">
@@ -6051,8 +6157,11 @@
             <note type="licence">The Dictionary of Art Historians is licensed under <ref
                 target="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</ref>.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0081">
@@ -6090,8 +6199,8 @@
                 d’offrir un bilan de l’apport et de la réception de chaque historien, en son temps
                 et aujourd’hui.</p>
             </note>
-            <note type="licence">Tous les textes sont publiés sous licence <ref
-                target="http://creativecommons.org/licenses/">Creative Commons CC-BY</ref>.</note>
+            <note type="licence"><ref target="http://creativecommons.org/licenses/">Creative Commons
+                CC-BY</ref>.</note>
             <note type="biblio">
               <biblStruct>
                 <analytic>
@@ -6138,8 +6247,11 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0082">
@@ -6182,52 +6294,17 @@
             <note type="licence">Source code licensed <ref
                 target="http://opensource.org/licenses/mit-license.php">MIT</ref>.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#timeline">Chronologie</term>
           </keywords>
-        </biblFull>
-        <biblFull xml:id="dahproject0083">
-          <titleStmt>
-            <title type="main">Project Cornelia</title>
-            <principal>
-              <persName>
-                <forename>Koenraad</forename>
-                <surname>Brosens</surname>
-              </persName>
-              <persName>
-                <forename>Frederik</forename>
-                <surname>Truyen</surname>
-              </persName>
-              <persName>
-                <forename>Katlijne</forename>
-                <surname>Van der Stighelen</surname>
-              </persName>
-            </principal>
-            <funder>
-              <orgName>Research Foundation – Flanders (FWO)</orgName>
-              <orgName>MIT International Science and Technology Initiatives Seed Fund</orgName>
-              <orgName>Europeana Research Grant</orgName>
-            </funder>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Katholieke Universiteit Leuven (KU Leuven)</publisher>
-            <pubPlace>Leuven</pubPlace>
-            <date from="2011" to="2022">2011-2022</date>
-            <idno type="url">https://projectcornelia.be</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="en">
-              <p><title>Project Cornelia</title> is a hybrid research engine bridging art history
-                and computer science. We study <date>17th-century</date> Flemish tapestry and
-                painting by using and developing datasets, data retrieval tools and data
-                visualization tools. In doing so, we also try to understand and facilitate the
-                dialog between the humanities scholar and the computer.</p>
-            </note>
-            <note type="licence">Source code licensed <ref
-                target="http://opensource.org/licenses/mit-license.php">MIT</ref>.</note>
-          </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Belgium">Belgique</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>17e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0084">
@@ -6255,8 +6332,10 @@
           <publicationStmt>
             <publisher>Institut National d'Histoire de l'Art (INHA)</publisher>
             <pubPlace>Paris</pubPlace>
-            <date>s.d.</date>
+            <date from="2015">2015-</date>
             <idno type="url">https://digitalmontagny.inha.fr/</idno>
+            <idno type="brokenLink" when="2018-12-13"
+              >https://web.archive.org/web/20181213162100/https://digitalmontagny.inha.fr/fr</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="fr">
@@ -6264,9 +6343,10 @@
                   d’histoire de l’art</orgName> et le <orgName>Getty Research Institute</orgName>,
                 le « <title>Digital Montagny</title> » porte sur le Recueil d’Antiquités
                   d’<persName>Élie-Honoré Montagny</persName>, un rare album de dessins du début du
-                XIXe siècle conservé dans les Special Collections du <orgName>Getty Research
-                  Institute</orgName> (2004.M.12), qui documente des monuments antiques conservés à
-                  <placeName>Naples</placeName> et à <placeName>Rome</placeName> à cette époque.</p>
+                  <date>XIXe siècle</date> conservé dans les Special Collections du <orgName>Getty
+                  Research Institute</orgName> (2004.M.12), qui documente des monuments antiques
+                conservés à <placeName>Naples</placeName> et à <placeName>Rome</placeName> à cette
+                époque.</p>
               <p>Il s’agit d’une édition critique en ligne qui, après avoir elle-même bénéficié des
                 technologies de recherche numériques, offre à l’utilisateur des possibilités
                 étendues pour interroger les dessins et les œuvres antiques qu’ils reproduisent.
@@ -6274,9 +6354,25 @@
                 d’amateurs peuvent consulter, le site permet les contributions des utilisateurs qui
                 souhaiteraient apporter des informations sur un dessin ou sur un objet.</p>
             </note>
+            <note type="licence"><ref
+                target="https://web.archive.org/web/20160325191045/http://creativecommons.org/licenses/by-nd/4.0/"
+                >Creative Commons BY-ND</ref></note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#drawing">Dessin</term>
+            <term target="#manuscript">Manuscrit</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term target="#Italy">Italie</term>
+            <term>Rome (Italie)</term>
+            <term>Naples (Italie)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term target="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0085">
@@ -6318,9 +6414,22 @@
                 front-end of the platform.</p>
               <p>The platform also publishes paintings and photographies.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#networkAnalysis">Analyse de réseau</term>
+            <term ref="#plotting">Graphique</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#drawing">Dessin</term>
+            <term ref="#painting">Peinture</term>
+            <term target="#manuscript">Manuscrit</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Switzerland">Suisse</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0086">
@@ -6366,7 +6475,7 @@
                 artistique et culturelle, engagés dans le décentrement des sources et des récits. Il
                 nourrit également une réflexion de fond sur les méthodologies numériques et sur la
                 circulation des images jusqu’à l’ère du digital.</p>
-              <p><title>Artl</title>@s met à votre disposition une base numérique de catalogues
+              <p><title>Artl@s</title> met à votre disposition une base numérique de catalogues
                 d’expositions. Elle est destinée à contenir tous types de catalogues d’exposition,
                 de l’invention du catalogue (Salon de Paris, <date>1673</date>) jusqu’à nos jours.
                 Cette base est géoréférencée et datée. Elle permet de cartographier les expositions,
@@ -6376,8 +6485,26 @@
                 auteur, et à tous autres types d’information renseignée d’après les catalogues.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0087">
@@ -6412,7 +6539,7 @@
             <authority>École Normale Supérieure (ENS-PSL)</authority>
             <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
-            <date from="2009" to="2022">2009-2022</date>
+            <date from="2009">2009-</date>
             <idno type="url">https://paris-art-market.huma-num.fr/</idno>
           </publicationStmt>
           <notesStmt>
@@ -6427,9 +6554,24 @@
                 s'appuyant sur les méthodes issues de l’histoire de l’art quantitative et des
                 humanités numériques.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Paris (France)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0088">
@@ -6476,14 +6618,28 @@
                 membres de l’<orgName>Institut national d’histoire de l’art</orgName>).</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term ref="#Italy">Italie</term>
+            <term>Rome (Italie)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0089">
           <titleStmt>
-            <title type="main">Imago</title>
-            <title type="sub">Visual Contagions</title>
+            <title type="main">Visual Contagions</title>
+            <title type="sub">Explore</title>
             <principal>
               <persName>
                 <forename>Béatrice</forename>
@@ -6493,84 +6649,61 @@
             <funder>
               <orgName>Erasmus+ Programme of the European Union</orgName>
               <orgName>École Normale Supérieure (ENS-PSL)</orgName>
+              <orgName>Fonds National Suisse de la Recherche Scientifique (FNSNF)</orgName>
             </funder>
             <respStmt>
               <resp>Partenaires scientifiques</resp>
               <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
-              <orgName>Purdue University</orgName>
+              <orgName>Université de Genève</orgName>
             </respStmt>
           </titleStmt>
           <publicationStmt>
             <publisher>École Normale Supérieure (ENS-PSL)</publisher>
             <pubPlace>Paris</pubPlace>
-            <date from="2009" to="2022">2009-2022</date>
-            <idno type="url">https://www.imago.ens.fr/</idno>
+            <date from="2009">2009-</date>
+            <idno type="url">https://www.unige.ch/visualcontagions/</idno>
+            <idno type="url">https://visualcontagions.unige.ch/explore/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>The aim of the « <title>IMAGO</title> » Centre of Excellence is to understand how
-                European cultures have met through the international circulation of images. The
-                center hosts a collaboration between historians, art historians, cognitivists,
-                computer vision specialists and contemporary artists. We study, teach, and exhibit
-                to broader publics to what extent images have been the crucible of European cultural
-                homogenization, or reveal particular cultural and political differences.</p>
+              <p>How does the circulation and dissemination of images take place on a global scale?
+                Is the flow heterogeneous? Is certain imagery indicative of a specific location or
+                culture? The vast quantity and variety of printed matter, art magazines and other
+                propaganda journals testify to a phenomenon of movement on a global scale.
+                  <title>Visual contagions</title>, linking one iconography to another, allow the
+                establishment of visual block busters leading to an international reflection.</p>
+              <p><title>Explore</title> is an image search tool created for the <title>Visual
+                  Contagions</title> project at the <orgName>Faculty of Letters, University of
+                  Geneva</orgName>. Explore enables the study of image circulation within millions
+                of historical illustrated publications. The available dataset currently comprises
+                3,651,742 issues of 80,965 journals that were published between <date>1797</date>
+                and <date>2021</date> across the world. These journals are all accessible in open
+                access, in IIIF format, and distributed by international institutions.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#patternRecognition">Reconnaissance de formes</term>
+            <term ref="#relationAnalysis">Analyse relationnelle</term>
+            <term ref="#clustering">Partitionnement des données</term>
           </keywords>
-        </biblFull>
-        <biblFull xml:id="dahproject0090">
-          <titleStmt>
-            <title type="main">Fictions de l'Artificel Postdigital</title>
-            <principal>
-              <persName>
-                <forename>Béatrice</forename>
-                <surname>Joyeux-Prunel</surname>
-              </persName>
-              <persName>
-                <forename>Léa</forename>
-                <surname>Saint-Raymond</surname>
-              </persName>
-              <persName>
-                <forename>Grégory</forename>
-                <surname>Chatonsky</surname>
-              </persName>
-            </principal>
-            <funder>
-              <orgName>École Normale Supérieure (ENS-PSL)</orgName>
-            </funder>
-            <respStmt>
-              <resp>Partenaires scientifiques</resp>
-              <orgName>Université Paris Sciences et Lettres (PSL)</orgName>
-            </respStmt>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>École Normale Supérieure (ENS-PSL)</publisher>
-            <pubPlace>Paris</pubPlace>
-            <date from="2017" to="2022">2017-2022</date>
-            <idno type="url">http://postdigital.ens.fr/</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="fr">
-              <p><title>Postdigital</title> invite les chercheurs, jeunes ou plus experts, en
-                sciences humaines ou en sciences «dures», à s’interroger en compagnie d’artistes et
-                de praticiens du numérique sur ce que le digital fait à l’époque contemporaine.
-                Après une année sur la question du temps organisée par le jeune entrepreneur
-                  <persName>Alexandre Cadain</persName>, ancien de l’<orgName>ENS</orgName>, une
-                autre sur l’intelligence artificielle, l’année <date>2017-2018</date> portera sur
-                «l’imagination artificielle». Le séminaire alterne entre conférences (mensuelles),
-                ateliers de pratique et de discussion (plus restreints), visites d’ateliers et
-                d’expositions, organisation d’expositions (« <title>A Rebours à la bibliothèque des
-                  Lettres</title>, <date>juin 2017</date>). Le projet se déploira pour
-                  <date>2017-2019</date> sous la direction de <persName>Béatrice
-                  Joyeux-Prunel</persName> à l’aide de l’artiste <persName>Grégory
-                  Chatonsky</persName>, postdoc financé par le Fonds national de Recherche du
-                Québec.</p>
-            </note>
-          </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#dataBnf">
+            <term ref="#journal">Presse</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0091">
@@ -6595,12 +6728,26 @@
               <p>The <title>Ukiyo-e.org</title> database and image similarity analysis engine,
                 created by <persName>John Resig</persName> to aide researchers in the study of
                 Japanese woodblock prints, was launched in <date>December 2012</date>. The database
-                currently contains over 213,000 prints from 24 institutions and, as of September
-                2013, has received 3.4 million page views from 150,000 people.</p>
+                currently contains over 213,000 prints from 24 institutions and, as of <date>September
+                2013</date>, has received 3.4 million page views from 150,000 people.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#patternRecognition">Reconnaissance de formes</term>
+            <term ref="#relationAnalysis">Analyse relationnelle</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#engraving">Estampe</term>
+            <term ref="#Asia">Asie</term>
+            <term type="#Japan">Japon</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0092">
@@ -10317,7 +10464,6 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#computerVision">Vision par ordinateur</term>
             <term ref="#visualAnalysis">Visualisation</term>
-            <term ref="#neuralNetwork">Réseau de neurones</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#journal">Journal</term>
