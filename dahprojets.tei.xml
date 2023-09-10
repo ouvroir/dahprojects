@@ -294,6 +294,10 @@
               <term xml:lang="en">Greece</term>
               <term xml:lang="fr">Grèce</term>
             </category>
+            <category xml:id="Iran" uri="https://data.bnf.fr/ark:/12148/cb119320855">
+              <term xml:lang="en">Iran</term>
+              <term xml:lang="fr">Iran</term>
+            </category>
             <category xml:id="Israel" uri="https://data.bnf.fr/ark:/12148/cb11934249b">
               <term xml:lang="en">Israel</term>
               <term xml:lang="fr">Israël</term>
@@ -305,6 +309,10 @@
             <category xml:id="Japan" uri="https://data.bnf.fr/ark:/12148/cb11934253k">
               <term xml:lang="en">Japan</term>
               <term xml:lang="fr">Japon</term>
+            </category>
+            <category xml:id="Mali" uri="https://data.bnf.fr/ark:/12148/cb11932407g">
+              <term xml:lang="en">Mali</term>
+              <term xml:lang="fr">Mali</term>
             </category>
             <category xml:id="Netherlands" uri="https://data.bnf.fr/ark:/12148/cb11933554h">
               <term xml:lang="en">Netherlands</term>
@@ -7842,7 +7850,8 @@
           <keywords scheme="#TaDiRAH">
             <term ref="#contentAnalysis">Analyse de contenu</term>
             <term ref="#patternRecognition">Reconnaissance de formes</term>
-            <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture manuscrite</term>
+            <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture
+              manuscrite</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#painting">Peinture</term>
@@ -8228,9 +8237,26 @@
                 adresses sont reliées entre elles par une ligne sur la carte. Enfin, les adresses
                 localisées à la rue sont distinguées de celles qui sont localisées à la ville.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#Asia">Asie</term>
+            <term ref="#China">Chine</term>
+            <term ref="#Japan">Japon</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#USA">États-Unis</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0113">
@@ -8276,9 +8302,22 @@
                 alors trois modes d’affichage : le lieu de naissance de l’artiste, le lieu de
                 résidence de l’exposant et le lieu représenté dans l’œuvre exposée.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Bordeaux (France)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0114">
@@ -8343,9 +8382,23 @@
                 d’affichage : le lieu de naissance de l’artiste, le lieu de résidence de l’exposant
                 et le lieu représenté dans l’œuvre exposée.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Toulouse (France)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0115">
@@ -8379,9 +8432,24 @@
                 supérieures d’architecture et des universités et ayant vocation à s'ouvrir aux
                 chercheurs du domaine, le projet entend s'adresser au plus grand nombre.</p>
             </note>
+            <note type="licence">Les contributions sont sous licence <ref
+                target="http://creativecommons.fr/">Creative Commons</ref> et les données et les
+              listes d'oeuvres sous licence <ref
+                target="http://creativecommons.org/licences/by-nc-sa/4.0">CC BY NC SA
+              4.0</ref>.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0116">
@@ -8418,8 +8486,16 @@
                 showcases or catalogues of finds.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#timeline">Chronologie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Netherlands">Pays-Bas</term>
+            <term>Amsterdam (Pays-Bas)</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0117">
@@ -8469,84 +8545,29 @@
                 patrimoine écrit : histoire des collections et des provenances, transmission des
                 textes, iconographie, reliures, fragments etc.</p>
             </note>
+            <note type="licence">Les notices issues d'Esprit des Livres sont disponibles selon les
+              conditions d'utilisation des contenus de l'<ref
+                target="http://elec.enc.sorbonne.fr/cataloguevente/mentions.php">École nationale des
+                chartes</ref> ; Les notices issues du projet Europeana Regia sont sous licence <ref
+                target="https://creativecommons.org/publicdomain/zero/1.0/deed.fr">CC0 1.0</ref>
+              (domaine public) ; Bibale (IRHT-CNRS) sous <ref
+                target="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC</ref> ; BnF
+              Archives et manuscrits sous <ref target="http://www.data.gouv.fr/fr/faq/">Licence
+                ouverte</ref>.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
-        </biblFull>
-        <biblFull xml:id="dahproject0118">
-          <titleStmt>
-            <title type="main">Biblissima+</title>
-            <title type="sub">Observatoire des cultures écrites anciennes, de l’argile à
-              l’imprimé</title>
-            <principal>
-              <persName>
-                <forename>Anne-Marie</forename>
-                <surname>Turvan-Verkerk</surname>
-              </persName>
-              <persName>
-                <forename>François</forename>
-                <surname>Bougard</surname>
-              </persName>
-              <persName>
-                <forename>Marie-Agnès</forename>
-                <surname>Lucas-Avenel</surname>
-              </persName>
-              <persName>
-                <forename>Emmanuelle</forename>
-                <surname>Morlock</surname>
-              </persName>
-            </principal>
-            <funder>
-              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
-            </funder>
-            <respStmt>
-              <resp>Partenaires scientifiques</resp>
-              <orgName>Archives nationales de France</orgName>
-              <orgName>Archéologie et philologie d’Orient et d’Occident (AOrOc) (UMR 8546, CNRS –
-                EPHE – ENS - PSL)</orgName>
-              <orgName>Bibliothèque nationale de France (BnF)</orgName>
-              <orgName>Centre d'Études Supérieures de Civilisation Médiévale (CESCM) (UMR 7302,
-                Université de Poitiers – CNRS)</orgName>
-              <orgName>Centre d'Études Supérieures de la Renaissance (CESR) (UMR 7323, CNRS -
-                Université de Tours - Ministère de la Culture)</orgName>
-              <orgName>Centre de Recherche sur la Conservation (CRC) (USR 3224, Muséum national
-                d’histoire naturelle – CNRS – Ministère de la Culture)</orgName>
-              <orgName>Centre de Recherches Historiques (CRH) (UMR 8558, CNRS - EHESS-PSL)</orgName>
-              <orgName>Histoire, Archéologie, Littérature des Mondes Chrétiens et Musulmans
-                Médiévaux (CIHAM) (UMR 5648, CNRS - Université Lyon 2 - EHESS-PSL - ENS-PSL - Avigon
-                Université - Université Lyon 3))</orgName>
-              <orgName>Histoire et Sources des Mondes Antiques (HiSoMA) (UMR 5189, CNRS – ENS de
-                Lyon – Université Lyon 3 – Université Lyon 2 – Université Jean-Monnet
-                Saint-Étienne)</orgName>
-              <orgName>Centre Jean Mabillon (CJM) (EA 3624, ENC-PSL)</orgName>
-              <orgName>Persée</orgName>
-              <orgName>Teklia</orgName>
-              <orgName>Centre de Recherches Archéologiques et Historiques Anciennes et Médiévales.
-                Centre Michel de Boüard (CRAHAM) (UMR 6273, CNRS - Université de Caen
-                Normandie)</orgName>
-              <orgName>Savoirs et Pratiques du Moyen Âge à l'époque contemporaine (SARPAT) (EA 4116,
-                EPHE - PSL)</orgName>
-              <orgName>Institut de Recherche et d'Histoire des Textes (IRHT) (CNRS)</orgName>
-              <orgName>Maison de la Recherche en Sciences Humaines (MRSH) (Université de Caen
-                Normandie)</orgName>
-            </respStmt>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>ÉquipEx Biblissima+</publisher>
-            <pubPlace>Aubervilliers</pubPlace>
-            <date from="2021">2021-</date>
-            <idno type="url">https://projet.biblissima.fr/</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="fr">
-              <p><title>Biblissima+</title> est une infrastructure numérique multipolaire de
-                recherche fondamentale et de service consacrée à l’histoire de la transmission des
-                textes anciens, de l’Antiquité à la Renaissance en Orient comme en Occident.</p>
-            </note>
-          </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#dataBnf">
+            <term ref="#manuscript">Manuscrit</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0119">
@@ -8592,55 +8613,14 @@
                 research settings.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
           </keywords>
-        </biblFull>
-        <biblFull xml:id="dahproject0120">
-          <titleStmt>
-            <title type="main">Mirador</title>
-            <principal>
-              <persName>
-                <forename>María A.</forename>
-                <surname>Matienzo</surname>
-              </persName>
-              <persName>
-                <forename>Jessie</forename>
-                <surname>Keck</surname>
-              </persName>
-              <persName>
-                <forename>Marlo</forename>
-                <surname>Longley</surname>
-              </persName>
-              <persName>
-                <forename>Nick</forename>
-                <surname>Budak</surname>
-              </persName>
-              <persName>
-                <forename>Camille</forename>
-                <surname>Villa</surname>
-              </persName>
-            </principal>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>ProjectMirador</publisher>
-            <pubPlace>s.l.</pubPlace>
-            <date from="2015">2015-</date>
-            <idno type="url">https://projectmirador.org/</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="en">
-              <p><title>Mirador</title> is a configurable, extensible, and easy-to-integrate image
-                viewer, which enables image annotation and comparison of images from repositories
-                dispersed around the world. <title>Mirador</title> has been optimized to display
-                resources from repositories that support the International Image Interoperability
-                Framework (IIIF) API's. <title>Mirador</title> provides several workspaces for
-                comparing image-based resources, suitable for use in both cultural heritage and
-                research settings.</p>
-            </note>
-          </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#engraving">Estampe</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0121">
@@ -8667,7 +8647,7 @@
           <publicationStmt>
             <publisher>Université Goethe</publisher>
             <pubPlace>Francfort</pubPlace>
-            <date from="2020">2020-</date>
+            <date when="2020">2020</date>
             <idno type="url">https://leszimmermann.github.io/digitales-storytelling/</idno>
           </publicationStmt>
           <notesStmt>
@@ -8678,8 +8658,15 @@
                 workshop is to create a digital story.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#museum">Musée</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Germany">Allemagne</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0122">
@@ -8695,7 +8682,7 @@
           <publicationStmt>
             <publisher>Wikidata</publisher>
             <pubPlace>s.l.</pubPlace>
-            <date when="2018">2018-</date>
+            <date when="2018">2018</date>
             <idno type="url">https://wd-image-positions.toolforge.org/</idno>
           </publicationStmt>
           <notesStmt>
@@ -8706,8 +8693,15 @@
                 Data on Commons files, they are shown on the file itself.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#engraving">Estampe</term>
+            <term ref="#photography">Photographie</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0123">
@@ -8755,8 +8749,17 @@
                 preserving topological neighborhoods in the original space.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#engraving">Estampe</term>
+            <term ref="#museum">Musée</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Switzerland">Suisse</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0124">
@@ -8806,9 +8809,22 @@
                 véritable histoire culturelle et sociale du <date>XIX<hi rend="superscript">e</hi>
                   siècle</date>.</p>
             </note>
+            <note type="licence">Creative Commons 4.0.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Greece">Grèce</term>
+            <term ref="#Italy">Italie</term>
+            <term ref="#France">France</term>
+            <term ref="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0125">
@@ -8883,8 +8899,21 @@
                 pertinente.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Italy">Italie</term>
+            <term ref="#France">France</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0126">
@@ -8929,9 +8958,16 @@
                 multiple inspection tours, provide a unique and vivid glimpse into the grandeur of
                 late imperial <placeName>China</placeName> and are the focus of this web site.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#manuscript">Manuscrit</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#China">Chine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0127">
@@ -8964,8 +9000,17 @@
                   <placeName>Italy</placeName>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Italy">Italie</term>
+            <term>Venise (Italie)</term>
+            <term ref="#Renaissance">Renaissance</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0128">
@@ -8978,7 +9023,7 @@
           <publicationStmt>
             <publisher>Columbia Universtiy</publisher>
             <pubPlace>New York</pubPlace>
-            <date>s.d.</date>
+            <date from="2018" to="2022">2018-2022</date>
             <idno type="url">http://projects.mcah.columbia.edu/monet/swf/</idno>
           </publicationStmt>
           <notesStmt>
@@ -8988,8 +9033,16 @@
                 paintings by approximate time of day they were made.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Rouen (France)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0129">
@@ -9010,8 +9063,15 @@
               <p>Annotated floorplans and images of the Parthenon frieze, organized by facade.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Greece">Grèce</term>
+            <term>Athènes (Grèce)</term>
+            <term ref="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0130">
@@ -9034,8 +9094,19 @@
                 history of the city.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Italy">Italie</term>
+            <term>Naples (Italie)</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0131">
@@ -9056,8 +9127,18 @@
               <p>Flash animations of floorplan and elevation.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#photography">Photographie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Paris (France)</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term>12e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0132">
@@ -9072,7 +9153,7 @@
             <pubPlace>New York</pubPlace>
             <date>s.d.</date>
             <idno type="url"
-              >https://learn.columbia.edu/custom/warning.html?f&amp;durham_imap/imap.html</idno>
+              >http://projects.mcah.columbia.edu/durham_imap/imap.html</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -9080,8 +9161,18 @@
                 building floorplan.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#photography">Photographie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#UK">Royaume-Uni</term>
+            <term>Durham (Royaume-Uni)</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term>12e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0133">
@@ -9105,9 +9196,20 @@
                 Iranian illuminated manuscript, along with descriptions of the iconography, history,
                 and historical figures found therein.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#manuscript">Manuscrit</term>
+            <term ref="#painting">Peinture</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#Iran">Iran</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>16e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0134">
@@ -9135,8 +9237,17 @@
                 brief history and bibliography of the region and building.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#Mali">Mali</term>
+            <term>Mopti (Mali)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0135">
