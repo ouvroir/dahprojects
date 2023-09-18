@@ -167,6 +167,10 @@
               <term xml:lang="en">Sculpture</term>
               <term xml:lang="fr">Sculpture</term>
             </category>
+            <category xml:id="videography" uri="https://data.bnf.fr/ark:/12148/cb126502916">
+              <term xml:lang="en">Videography</term>
+              <term xml:lang="fr">Videographie</term>
+            </category>
             <category xml:id="photography" uri="https://data.bnf.fr/ark:/12148/cb11933113t">
               <term xml:lang="en">Photography</term>
               <term xml:lang="fr">Photographie</term>
@@ -310,6 +314,10 @@
               <term xml:lang="en">Japan</term>
               <term xml:lang="fr">Japon</term>
             </category>
+            <category xml:id="SouthKorea" uri="https://data.bnf.fr/ark:/12148/cb119334338">
+              <term xml:lang="en">South Korea</term>
+              <term xml:lang="fr">Corée du Sud</term>
+            </category>
             <category xml:id="Mali" uri="https://data.bnf.fr/ark:/12148/cb11932407g">
               <term xml:lang="en">Mali</term>
               <term xml:lang="fr">Mali</term>
@@ -321,6 +329,10 @@
             <category xml:id="Switzerland" uri="https://data.bnf.fr/ark:/12148/cb11933332n">
               <term xml:lang="en">Switzerland</term>
               <term xml:lang="fr">Suisse</term>
+            </category>
+            <category xml:id="Syria" uri="https://data.bnf.fr/ark:/12148/cb11941661s">
+              <term xml:lang="en">Syria</term>
+              <term xml:lang="fr">Syrie</term>
             </category>
             <category xml:id="Thailand" uri="https://data.bnf.fr/ark:/12148/cb11933494g">
               <term xml:lang="en">Thailand</term>
@@ -9273,8 +9285,18 @@
                 d’Edo (<date>1615-1868</date>) au <placeName>Montréal</placeName> d’aujourd’hui.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#Japan">Japon</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0136">
@@ -9314,9 +9336,19 @@
                 the slings and arrows of outrageous fortune, nor even the bombs and missiles of the
                 criminally insane nor the technologically over-empowered.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Antiquity">Antiquité</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#Syria">Syrie</term>
+            <term>Palmyre (Syrie)</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0137">
@@ -9371,8 +9403,16 @@
                 examining the altarpiece in ways never before possible.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#museum">Musée</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Belgium">Belgique</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term>15e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0138">
@@ -9415,9 +9455,26 @@
                 the room itself, the objects it has contained, as well as archival materials such as
                 photographs, bills of sale, and correspondence.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+            <term ref="#database">Base de données</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#architecture">Architecture</term>
+            <term ref="#museum">Musée</term>
+            <term ref="#Antiquity">Antiquité</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#China">Chine</term>
+            <term ref="#Japan">Japan</term>
+            <term ref="#Syria">Syrie</term>
+            <term ref="#Iran">Iran</term>
+            <term ref="#SouthKorea">Corée du Sud</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#USA">États-Unis</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0139">
@@ -9465,11 +9522,19 @@
                 photograph campaigns, all of which have been digitized, are one of the most valuable
                 resources in the Photoarchive, documenting many objects that either remain
                 inaccessible to the general public or have been lost, destroyed, or altered in the
-                intervening decades. </p>
+                intervening decades.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#photography">Photographie</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#USA">États-Unis</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0140">
@@ -9504,9 +9569,21 @@
                 material about American art collectors, dealers, agents and advisors, and the
                 repositories that hold these records.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#timeline">Chronologie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#photography">Photographie</term>
+            <term ref="#museum">Musée</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#USA">États-Unis</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0141">
@@ -9545,12 +9622,21 @@
                 the famed scholar of the Jonang School Tāranātha, these murals are closely related
                 to narrative, poetic, and artistic literature evoking the story of the
                   <persName>Buddha</persName>. The LOTB project offers unprecedented digital access
-                to one of Tibet's greatest retellings of the <persName>Buddha</persName>'s life.
-              </p>
+                to one of Tibet's greatest retellings of the <persName>Buddha</persName>'s life.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#China">Chine</term>
+            <term>Tibet (Chine)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>17e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0142">
@@ -9581,9 +9667,19 @@
                 more accessible for the classroom and also to facilitate historical research
                 requiring accurate virtual environments.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Paris (France)</term>
+            <term ref="#middleAges">Moyen Âge</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0143">
@@ -9603,7 +9699,6 @@
                 <surname>Varone</surname>
               </persName>
             </principal>
-
             <funder>
               <orgName>The Andrew W. Mellon Foundation</orgName>
               <orgName>Ernst von Siemens Art Foundation</orgName>
@@ -9632,42 +9727,22 @@
                 visualization.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
           </keywords>
-        </biblFull>
-        <biblFull xml:id="dahproject0144">
-          <titleStmt>
-            <title type="main">What Jane Saw</title>
-            <principal>
-              <persName>
-                <forename>Janine</forename>
-                <surname>Barchas</surname>
-              </persName>
-            </principal>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>The University of Texas at Austin</publisher>
-            <pubPlace>Austin</pubPlace>
-            <date from="2013">2013</date>
-            <idno type="url">http://www.whatjanesaw.org/</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="en">
-              <p>A website where the user is invited to explore two art exhibitions witnessed by
-                  <persName>Jane Austen</persName>: <title>the Sir Joshua Reynolds
-                  retrospective</title> in <date>1813</date> or <placeName>the Shakespeare
-                  Gallery</placeName> as it looked in <date>1796</date>. These two Georgian
-                blockbusters took place, years apart, in the same <placeName>London</placeName>
-                exhibition space at 52 Pall Mall (it no longer exists). When
-                  <persName>Austen</persName> visited in <date>1813</date>, the building housed the
-                British Institution, an organization promoting native artists. On her earlier
-                  <placeName>London</placeName> visit in <date>1796</date>, it was the first-ever
-                museum dedicated to <persName>William Shakespeare</persName>.</p>
-            </note>
-          </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#dataBnf">
+            <term ref="#videography">Vidéographie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#Oceania">Océanie</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0145">
@@ -9705,42 +9780,15 @@
                 language that characterises iconographic symbols and sacred imagery.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#patternRecognition">Reconnaissance de formes</term>
+            <term ref="#database">Base de données</term>
           </keywords>
-        </biblFull>
-        <biblFull xml:id="dahproject0146">
-          <titleStmt>
-            <title type="main">What Jane Saw</title>
-            <principal>
-              <persName>
-                <forename>Janine</forename>
-                <surname>Barchas</surname>
-              </persName>
-            </principal>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>The University of Texas at Austin</publisher>
-            <pubPlace>Austin</pubPlace>
-            <date from="2013">2013</date>
-            <idno type="url">http://www.whatjanesaw.org/</idno>
-          </publicationStmt>
-          <notesStmt>
-            <note type="abstract" xml:lang="en">
-              <p>A website where the user is invited to explore two art exhibitions witnessed by
-                  <persName>Jane Austen</persName>: <title>the Sir Joshua Reynolds
-                  retrospective</title> in <date>1813</date> or <placeName>the Shakespeare
-                  Gallery</placeName> as it looked in <date>1796</date>. These two Georgian
-                blockbusters took place, years apart, in the same <placeName>London</placeName>
-                exhibition space at 52 Pall Mall (it no longer exists). When
-                  <persName>Austen</persName> visited in <date>1813</date>, the building housed the
-                British Institution, an organization promoting native artists. On her earlier
-                  <placeName>London</placeName> visit in <date>1796</date>, it was the first-ever
-                museum dedicated to <persName>William Shakespeare</persName>.</p>
-            </note>
-          </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0147">
@@ -9759,7 +9807,7 @@
           <publicationStmt>
             <publisher>Yale University</publisher>
             <pubPlace>New Haven</pubPlace>
-            <date from="2010">2010</date>
+            <date from="2010">2010-</date>
             <idno type="url">http://photogrammar.yale.edu/</idno>
           </publicationStmt>
           <notesStmt>
@@ -9790,8 +9838,20 @@
                 Attribution-NonCommercial-ShareAlike 4.0 International License</ref>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#photography">Photographie</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#USA">États-Unis</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0148">
@@ -9812,7 +9872,7 @@
             <publisher>Yale University</publisher>
             <pubPlace>New Haven</pubPlace>
             <date from="2016">2016</date>
-            <idno type="url">https://dhlab.yale.edu/</idno>
+            <idno type="url">https://dhlab.yale.edu/projects/pixplot/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -9827,8 +9887,19 @@
                   <orgName>Medical Historical Library</orgName>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#relationAnalysis">Analyse relationnelle</term>
+            <term ref="#clustering">Partitionnement des données</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#photography">Photographie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#UK">Royaume-Uni</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0149">
@@ -9855,7 +9926,7 @@
             <note type="abstract" xml:lang="en">
               <p>The Khosro Cup, also known as the Cup of Solomon, is a stunning and intricate
                 Sasanian Persian vessel made of gold, garnets, rock crystal, and glass. It probably
-                dates to the sixth century AD, in the later period of Sasanian rule. At the centre
+                dates to the <date>sixth century AD</date>, in the later period of Sasanian rule. At the centre
                 is an enthroned king, most likely <persName>Khosro I</persName>
                   (r.<date>531-579</date>), under whose reign the Sasanian empire underwent its last
                 great flourishing of prosperity and cultural attainment before its collapse in the
@@ -9865,9 +9936,18 @@
                 collection among the many precious objects and antiquities from the Abbey of St
                 Denis given to the Cabinet des Médailles after the French Revolution.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#Iran">Iran</term>
+            <term ref="#Antiquity">Antiquité</term>
+            <term>6e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0150">
@@ -9905,8 +9985,16 @@
                 pick up the book again from the shelf to further explore.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Netherlands">Pays-Bas</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term>16e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0151">
@@ -9926,7 +10014,7 @@
           <publicationStmt>
             <publisher>Tracy Chapman Hamilton</publisher>
             <pubPlace>Cambridge</pubPlace>
-            <date>s.d.</date>
+            <date from="2023">2023-</date>
             <idno type="url">https://mappingthemedievalwoman.com/</idno>
           </publicationStmt>
           <notesStmt>
@@ -9947,8 +10035,19 @@
                 women patrons, workers, residents, and monastics come into view together.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>Paris (France)</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term>13e siècle</term>
+            <term>14e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0152">
