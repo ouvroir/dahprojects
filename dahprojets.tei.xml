@@ -298,6 +298,10 @@
               <term xml:lang="en">Greece</term>
               <term xml:lang="fr">Grèce</term>
             </category>
+            <category xml:id="India" uri="https://data.bnf.fr/ark:/12148/cb11934238p">
+              <term xml:lang="en">India</term>
+              <term xml:lang="fr">Inde</term>
+            </category>
             <category xml:id="Iran" uri="https://data.bnf.fr/ark:/12148/cb119320855">
               <term xml:lang="en">Iran</term>
               <term xml:lang="fr">Iran</term>
@@ -314,10 +318,6 @@
               <term xml:lang="en">Japan</term>
               <term xml:lang="fr">Japon</term>
             </category>
-            <category xml:id="SouthKorea" uri="https://data.bnf.fr/ark:/12148/cb119334338">
-              <term xml:lang="en">South Korea</term>
-              <term xml:lang="fr">Corée du Sud</term>
-            </category>
             <category xml:id="Mali" uri="https://data.bnf.fr/ark:/12148/cb11932407g">
               <term xml:lang="en">Mali</term>
               <term xml:lang="fr">Mali</term>
@@ -325,6 +325,10 @@
             <category xml:id="Netherlands" uri="https://data.bnf.fr/ark:/12148/cb11933554h">
               <term xml:lang="en">Netherlands</term>
               <term xml:lang="fr">Pays-Bas</term>
+            </category>
+            <category xml:id="SouthKorea" uri="https://data.bnf.fr/ark:/12148/cb119334338">
+              <term xml:lang="en">South Korea</term>
+              <term xml:lang="fr">Corée du Sud</term>
             </category>
             <category xml:id="Switzerland" uri="https://data.bnf.fr/ark:/12148/cb11933332n">
               <term xml:lang="en">Switzerland</term>
@@ -337,6 +341,10 @@
             <category xml:id="Thailand" uri="https://data.bnf.fr/ark:/12148/cb11933494g">
               <term xml:lang="en">Thailand</term>
               <term xml:lang="fr">Thaïlande</term>
+            </category>
+            <category xml:id="Tunisia" uri="https://data.bnf.fr/ark:/12148/cb119336345">
+              <term xml:lang="en">Tunisia</term>
+              <term xml:lang="fr">Tunisie</term>
             </category>
             <category xml:id="UK" uri="https://data.bnf.fr/ark:/12148/cb11931584z">
               <term xml:lang="en">United-Kingdom</term>
@@ -9164,8 +9172,7 @@
             <publisher>Columbia Universtiy</publisher>
             <pubPlace>New York</pubPlace>
             <date>s.d.</date>
-            <idno type="url"
-              >http://projects.mcah.columbia.edu/durham_imap/imap.html</idno>
+            <idno type="url">http://projects.mcah.columbia.edu/durham_imap/imap.html</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
@@ -9926,8 +9933,8 @@
             <note type="abstract" xml:lang="en">
               <p>The Khosro Cup, also known as the Cup of Solomon, is a stunning and intricate
                 Sasanian Persian vessel made of gold, garnets, rock crystal, and glass. It probably
-                dates to the <date>sixth century AD</date>, in the later period of Sasanian rule. At the centre
-                is an enthroned king, most likely <persName>Khosro I</persName>
+                dates to the <date>sixth century AD</date>, in the later period of Sasanian rule. At
+                the centre is an enthroned king, most likely <persName>Khosro I</persName>
                   (r.<date>531-579</date>), under whose reign the Sasanian empire underwent its last
                 great flourishing of prosperity and cultural attainment before its collapse in the
                   <date>mid seventh century</date>. The Cup is one of the star objects in the
@@ -10099,9 +10106,21 @@
                 des bases de données en ligne. Surtout, nous avons analysé les inventaires quand
                 cela a été possible.</p>
             </note>
+            <note type="licence"><ref target="https://creativecommons.org/licenses/by/4.0/deed.fr"
+                >Creative Commons 4.0</ref></note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term ref="#Oceania">Océanie</term>
+            <term ref="#Africa">Afrique</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0153">
@@ -10152,8 +10171,19 @@
                 ?</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term ref="#Italy">Italie</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0154">
@@ -10180,30 +10210,45 @@
           <notesStmt>
             <note type="abstract" xml:lang="fr">
               <p>Le projet <title>DataVirgo</title> analyse la diffusion d'un motif iconographique
-                entre le XIVe et le <date>XVI<hi rend="superscript">e</hi> siècle</date> : la Vierge
-                d'Humilité. Il mobilise la cartographie numérique au service de l'analyse formelle
-                des œuvres, en histoire de l'art. A l’origine du projet se trouve la volonté
-                d’interroger les potentialités qu'offrent les outils numériques pour l’analyse
-                iconographique, en tentant de modéliser la dynamique d’un sujet iconographique, ses
-                déplacements, sa densité par régions et ses variations, grâce à une carte
-                interactive. L’objectif étant, dans un premier temps, d’avoir une idée des axes de
-                circulation des modèles iconographiques, entre plusieurs foyers de dynamisme
-                artistique. Il a pour cela été décidé de choisir un phénomène iconographique concret
-                et limité dans le temps : La Vierge d’Humilité. Soudainement apparue vers
-                  <date>1340</date>, cette variante de la Vierge à l’enfant est caractérisée par le
-                fait qu’au lieu d’être sur un trône, Marie est assise sur un coussin ou un support
-                léger comme une pierre, ou encore à même le sol. Ce phénomène a connu un
-                développement rapide en l’<placeName>Europe</placeName>, avant de décliner au cours
-                du <date>XVI<hi rend="superscript">e</hi> siècle</date>.</p>
+                entre le <date>XIV<hi rend="superscript">e</hi></date> et le <date>XVI<hi
+                    rend="superscript">e</hi> siècle</date> : la Vierge d'Humilité. Il mobilise la
+                cartographie numérique au service de l'analyse formelle des œuvres, en histoire de
+                l'art. A l’origine du projet se trouve la volonté d’interroger les potentialités
+                qu'offrent les outils numériques pour l’analyse iconographique, en tentant de
+                modéliser la dynamique d’un sujet iconographique, ses déplacements, sa densité par
+                régions et ses variations, grâce à une carte interactive. L’objectif étant, dans un
+                premier temps, d’avoir une idée des axes de circulation des modèles iconographiques,
+                entre plusieurs foyers de dynamisme artistique. Il a pour cela été décidé de choisir
+                un phénomène iconographique concret et limité dans le temps : La Vierge d’Humilité.
+                Soudainement apparue vers <date>1340</date>, cette variante de la Vierge à l’enfant
+                est caractérisée par le fait qu’au lieu d’être sur un trône, Marie est assise sur un
+                coussin ou un support léger comme une pierre, ou encore à même le sol. Ce phénomène
+                a connu un développement rapide en l’<placeName>Europe</placeName>, avant de
+                décliner au cours du <date>XVI<hi rend="superscript">e</hi> siècle</date>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term>14e siècle</term>
+            <term>15e siècle</term>
+            <term>16e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0155">
           <titleStmt>
             <title type="main">Les Guides de Paris</title>
+            <title type="sub">Corpus des XVII et XVIIIe siècles</title>
             <principal>
               <persName>
                 <forename>Marianne Cojannot-Le Blanc</forename>
@@ -10257,8 +10302,18 @@
                 (CC-BY)</ref>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term>France (Paris)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0156">
@@ -10325,8 +10380,18 @@
                 2.0</ref>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term>11e siècle</term>
+            <term>12e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0157">
@@ -10368,6 +10433,7 @@
                 du corpus de réalisations d’architectes et d’artistes le plus considérable accumulé
                 sur un édifice pompéien.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
             <note type="biblio">
               <biblStruct>
                 <monogr>
@@ -10388,8 +10454,20 @@
               </biblStruct>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Italy">Italie</term>
+            <term>Pompéi (Italie)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0158">
@@ -10447,8 +10525,17 @@
             </note>
             <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#drawing">Dessin</term>
+            <term ref="#journal">Presse</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0159">
@@ -10497,8 +10584,29 @@
             </note>
             <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#plotting">Graphique</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#manuscript">Manuscrit</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#Iran">Iran</term>
+            <term ref="#India">Inde</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>13e siècle</term>
+            <term>14e siècle</term>
+            <term>15e siècle</term>
+            <term>16e siècle</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0160">
@@ -10573,8 +10681,18 @@
                 CC-BY_NC_ND</ref>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#plotting">Graphique</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#photography">Photographie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0161">
@@ -10633,8 +10751,23 @@
                 dans les arts beylicaux et aux questions de l’identité.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#Tunisia">Tunisie</term>
+            <term>Tunis (Tunisie)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>17e siècle</term>
+            <term>18e siècle</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0162">
@@ -10695,8 +10828,28 @@
             </note>
             <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#patternRecognition">Reconnaissance de formes</term>
+            <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture
+              manuscrite</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#journal">Presse</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#engraving">Gravure</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#Oceania">Océanie</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0163">
@@ -10732,8 +10885,20 @@
                 la valoriser grâce aux outils numériques.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#middleAges">Moyen Âge</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0164">
@@ -10805,8 +10970,18 @@
                 scientifiques et culturels sont étroitement liés.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term ref="#Germany">Allemagne</term>
+            <term ref="#Switzerland">Suisse</term>
+            <term ref="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0165">
@@ -10863,19 +11038,22 @@
               <ref target="https://www.apache.org/licenses/LICENSE-2.0">Apache Licence 2.0</ref>
             </note>
           </notesStmt>
-
-          <!-- Exemple d'usages de tags -->
           <keywords scheme="#TaDiRAH">
             <term ref="#computerVision">Vision par ordinateur</term>
             <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture
+              manuscrite</term>
           </keywords>
           <keywords scheme="#dataBnf">
-            <term ref="#journal">Journal</term>
-            <term ref="#XXthCentury">XXe siècle</term>
+            <term ref="#journal">Presse</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Netherlands">Pays-Bas</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
-        <!-- fin exemple -->
-
         <biblFull xml:id="dahproject0166">
           <titleStmt>
             <title type="main">Where Uncertainty Falls</title>
@@ -10890,7 +11068,7 @@
           <publicationStmt>
             <publisher>Clare Churchouse</publisher>
             <pubPlace>New York</pubPlace>
-            <date>s.d.</date>
+            <date when="2020">2020</date>
             <idno type="url"
               >https://churc.github.io/MajorStudio1/MetProjectsQual/uncertainty/</idno>
           </publicationStmt>
@@ -10909,7 +11087,13 @@
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#visualAnalysis">Visualisation</term>
-            <!-- BDD, musée -->
+            <term ref="#database">Base de données</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#painting">Peinture</term>
+            <term ref="#archaeology">Archéologie</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0167">
@@ -10933,7 +11117,7 @@
           <publicationStmt>
             <publisher>Insitut National d'Histoire de l'Art (INHA)</publisher>
             <pubPlace>Paris</pubPlace>
-            <date from="2017">2017</date>
+            <date from="2017">2017-</date>
             <idno type="url">https://www.zooniverse.org/projects/inha/digital-muret</idno>
           </publicationStmt>
           <notesStmt>
@@ -10952,9 +11136,18 @@
                   Muret</title>.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
-            <!-- dessin, XIXe siècle, Antiquité, identification d'images, BDD, publication -->
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term ref="#Antiquity">Antiquité</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0168">
@@ -10984,23 +11177,36 @@
                 here and connections between medium and gender in the collection are explored. -
                 Gender: using total numbers, wrapped bar visualization, 1 pixel represents 2
                 artworks - What year were these artworks made?: timeline visualization, years
-                1850-2017 (14,284 artworks) - What medium are being collected by gender?: vertical
-                bar visualization of medium by gender using the 'Classification' column identifying
-                105 mediums - Who are the most collected women and men in the Modern and
-                Contemporary Art Collection and what did they make?: showing the top ten collected
-                women and the top ten collected men in the Collection, and drawing connections
-                between the artwork medium collected in the case of the top female artists and the
-                top male artists.</p>
+                  <date>1850-2017</date> (14,284 artworks) - What medium are being collected by
+                gender?: vertical bar visualization of medium by gender using the 'Classification'
+                column identifying 105 mediums - Who are the most collected women and men in the
+                Modern and Contemporary Art Collection and what did they make?: showing the top ten
+                collected women and the top ten collected men in the Collection, and drawing
+                connections between the artwork medium collected in the case of the top female
+                artists and the top male artists.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
-            <!-- musée, études de genre, visualisation -->
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#timeline">Chronologie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#museum">Musée</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#USA">États-Unis</term>
+            <term>New York (États-Unis)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0169">
           <titleStmt>
             <title type="main">RePAIR</title>
+            <title type="sub">Reconstructing the Past: Artificial Intelligence and Robotics meet
+              Cultural Heritage</title>
             <principal>
               <persName>
                 <forename>Marcello</forename>
@@ -11022,7 +11228,7 @@
           <publicationStmt>
             <publisher>Università Ca'Foscari</publisher>
             <pubPlace>Venise</pubPlace>
-            <date from="2020">2020</date>
+            <date from="2020">2020-</date>
             <idno type="url">https://www.repairproject.eu/project/</idno>
           </publicationStmt>
           <notesStmt>
@@ -11038,9 +11244,16 @@
                 altogether.</p>
             </note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
-            <!-- archéologie, restauration, Antiquité, IA -->
+          <keywords scheme="#TaDiRAH">
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Italy">Italie</term>
+            <term>Pompéi (Italie)</term>
+            <term ref="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0170">
@@ -11072,10 +11285,24 @@
                 networks at diverse national, regional, transnational and cross-cultural
                 settings.</p>
             </note>
+            <note type="licence">Tous droits réservés.</note>
           </notesStmt>
-          <keywords scheme="">
-            <term/>
-            <!-- visualisation, analyse de réseau, analyse spatiale -->
+          <keywords scheme="#TaDiRAH">
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture manuscrite</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#spatialAnalysis">Analyse spatiale</term>
+            <term ref="#networkAnalysis">Analyse de réseau</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#journal">Presse</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#America"></term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
 
