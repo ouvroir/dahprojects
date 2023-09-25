@@ -274,6 +274,10 @@
               <term xml:lang="en">Brazil</term>
               <term xml:lang="fr">Brésil</term>
             </category>
+            <category xml:id="Canada" uri="https://data.bnf.fr/ark:/12148/cb11933413n">
+              <term xml:lang="en">Canada</term>
+              <term xml:lang="fr">Canada</term>
+            </category>
             <category xml:id="China" uri="https://data.bnf.fr/ark:/12148/cb11963283w">
               <term xml:lang="en">China</term>
               <term xml:lang="fr">Chine</term>
@@ -1033,6 +1037,7 @@
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
           <keywords scheme="#dataBnf">
@@ -1174,6 +1179,7 @@
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
             <term ref="#Italy">Italie</term>
             <term ref="#Renaissance">Renaissance</term>
             <term>15e siècle</term>
@@ -1229,14 +1235,87 @@
             <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#sculpture">Sculpture</term>
+            <term ref="#Europe">Europe</term>
             <term ref="#Italy">Italie</term>
             <term ref="#Renaissance">Renaissance</term>
             <term>15e siècle</term>
             <term>16e siècle</term>
+          </keywords>
+        </biblFull>
+        <biblFull xml:id="dahproject0006">
+          <titleStmt>
+            <title type="main">Digital Benin</title>
+            <principal>
+              <persName>
+                <forename>Kokunre</forename>
+                <surname>Agbontaen-Eghafona</surname>
+              </persName>
+              <persName>
+                <forename>Felicity</forename>
+                <surname>Bodenstein</surname>
+              </persName>
+              <persName>
+                <forename>Jonathan D.M.</forename>
+                <surname>Fine</surname>
+              </persName>
+              <persName>
+                <forename>Anne</forename>
+                <surname>Luther</surname>
+              </persName>
+              <persName>
+                <forename>Barbara</forename>
+                <surname>Plankensteiner</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Ernst von Siemens Kunststiftung (EvS)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Lettres Sorbonne Université</orgName>
+              <orgName>Welt Museum Wien</orgName>
+              <orgName>University of Benin (UniBEN)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Museum am Rothenbaum Kulturen und Künste der Welt (MARKK)</publisher>
+            <pubPlace>Hambourg</pubPlace>
+            <date from="2020" to="2023">2020-2023</date>
+            <idno type="url">https://digitalbenin.org/media/3d-image-archive</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The aim of this space is to display the historical objects with their correct Edo
+                designation, which creates object groups that differ from the current vocabulary
+                used and interpreted by institutions outside of <placeName>Nigeria</placeName>. The
+                object groups are displayed visually, described in written language and vocalised in
+                spoken language.</p>
+              <p>The data provided by the current holding institutions is grouped according to Edo
+                designations. This space has been created to offer insight into the cultural
+                relevance of these objects by including the Edo designations and introductory texts
+                describing their use, function, production and art-historical interpretation. The
+                visual description also makes it possible for users to access and observe the
+                individual objects in an overview. Each drawing can be downloaded as a print-out
+                colouring book or language card.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Africa">Afrique</term>
+            <term ref="#Benin">Bénin</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0007">
@@ -1291,6 +1370,7 @@
             <term ref="#mapping">Cartographie</term>
           </keywords>
           <keywords scheme="#dataBnf">
+            <term ref="#Europe">Europe</term>
             <term ref="#Italy">Italie</term>
             <term>Le Vatican (Italie)</term>
           </keywords>
@@ -1394,6 +1474,7 @@
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#architecture">Architecture</term>
+            <term ref="#Europe"></term>
             <term ref="#Italy">Italie</term>
             <term>Venise (Italie)</term>
           </keywords>
@@ -1603,6 +1684,7 @@
             <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
           <keywords scheme="#dataBnf">
+            <term ref="#Europe">Europe</term>
             <term ref="#Italy">Italie</term>
             <term ref="#Antiquity">Antiquité</term>
             <term ref="#middleAges">Moyen Âge</term>
@@ -1646,11 +1728,13 @@
             <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#modeling3D">Modélisation 3D</term>
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#sculpture">Sculpture</term>
             <term ref="#Antiquity">Antiquité</term>
+            <term ref="#Europe">Europe</term>
             <term ref="#Italy">Italie</term>
             <term>Rome (Italie)</term>
           </keywords>
@@ -1750,10 +1834,63 @@
           <keywords scheme="#dataBnf">
             <term ref="#painting">Peinture</term>
             <term ref="#museum">Musée</term>
+            <term ref="#Europe">Europe</term>
             <term ref="#Italy">Italie</term>
             <term ref="#Renaissance">Renaissance</term>
             <term>15e siècle</term>
             <term>16e siècle</term>
+          </keywords>
+        </biblFull>
+        <biblFull xml:id="dahproject0014">
+          <titleStmt>
+            <title type="main">MONA</title>
+            <principal>
+              <persName>
+                <forename>Lena</forename>
+                <surname>Krause</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Mouvement des accélérateurs d'innovation du Québec (MAIN)</orgName>
+            </funder>
+          </titleStmt>
+          <publicationStmt>
+            <authority>Université de Montréal (UdeM)</authority>
+            <publisher>La Maison MONA</publisher>
+            <pubPlace>Montréal</pubPlace>
+            <date from="2019">2019-</date>
+            <idno type="url">https://monamontreal.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet principal de l'organisme est une application mobile gratuite qui promeut
+                la découverte de l'art et des espaces culturels montréalais. L’application
+                transforme la découverte des œuvres d’art en une chasse au trésor, faisant ainsi
+                rayonner les artistes et l'art public qui façonnent l'espace public montréalais.
+                Cette forme de diffusion numérique permet de rejoindre un large éventail de
+                citoyen·ne·s, à toute heure et en tous lieux.</p>
+              <p><orgName>La Maison MONA</orgName> organise également des parcours artistiques dans
+                la ville. Ces activités sont organisées en collaboration avec des partenaires
+                pédagogiques, culturels ou communautaires dans le but d'atteindre un public
+                diversifié. De plus, la poursuite d'interventions artististiques dans l'espace
+                urbain débouche sur des collaborations avec des artistes.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#photography">Photographie</term>
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#painting">Peinture</term>
+            <term ref="#America">Amérique</term>
+            <term ref="#Canada">Canada</term>
+            <term>Montréal (Canada)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>20e siècle</term>
+            <term>21e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0017">
@@ -1823,6 +1960,7 @@
             <term ref="#painting">Peinture</term>
             <term ref="#Europe">Europe</term>
             <term ref="#museum">Musée</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
             <term>19e siècle</term>
           </keywords>
         </biblFull>
@@ -1941,6 +2079,7 @@
             <note type="licence">Tous droits réservés.</note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#modeling3D">Modélisation 3D</term>
             <term ref="#database">Base de données</term>
           </keywords>
@@ -2031,6 +2170,8 @@
           <keywords scheme="#dataBnf">
             <term ref="#manuscript">Manuscrit</term>
             <term ref="#drawing">Dessin</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
             <term>15e siècle</term>
             <term>17e siècle</term>
             <term>18e siècle</term>
@@ -2184,6 +2325,7 @@
             <term ref="#painting">Peinture</term>
             <term ref="#manuscript">Manuscrit</term>
             <term ref="#Renaissance">Renaissance</term>
+            <term ref="#Europe">Europe</term>
             <term ref="#Germany">Allemagne</term>
             <term>16e siècle</term>
           </keywords>
@@ -2224,6 +2366,7 @@
             <term ref="#photography">Photographie</term>
             <term ref="#drawing">Dessin</term>
             <term ref="#architecture">Architecture</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0025">
@@ -2317,6 +2460,7 @@
             <term ref="#Europe">Europe</term>
             <term ref="#France">France</term>
             <term>Paris (France)</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
             <term>18e siècle</term>
             <term>19e siècle</term>
             <term>20e siècle</term>
@@ -2378,6 +2522,7 @@
             <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
             <term ref="#France">France</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
             <term>19e siècle</term>
           </keywords>
         </biblFull>
@@ -11289,7 +11434,8 @@
           </notesStmt>
           <keywords scheme="#TaDiRAH">
             <term ref="#computerVision">Vision par ordinateur</term>
-            <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture manuscrite</term>
+            <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture
+              manuscrite</term>
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#plotting">Graphique</term>
             <term ref="#mapping">Cartographie</term>
@@ -11300,7 +11446,7 @@
             <term ref="#journal">Presse</term>
             <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
-            <term ref="#America"></term>
+            <term ref="#America"/>
             <term ref="#modernPeriod">Époques moderne et contemporaine</term>
             <term>20e siècle</term>
           </keywords>
