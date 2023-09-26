@@ -93,7 +93,7 @@
             <term xml:lang="fr">Analyse relationnelle</term>
             <category xml:id="clustering">
               <term xml:lang="en">Cluster analysis</term>
-              <term xml:lang="fr">Partitionnement de données</term>
+              <term xml:lang="fr">Partitionnement des données</term>
             </category>
             <category xml:id="principalComponentAnalysis">
               <term xml:lang="en">Principal component analysis</term>
@@ -1474,7 +1474,7 @@
           </keywords>
           <keywords scheme="#dataBnf">
             <term ref="#architecture">Architecture</term>
-            <term ref="#Europe"></term>
+            <term ref="#Europe"/>
             <term ref="#Italy">Italie</term>
             <term>Venise (Italie)</term>
           </keywords>
@@ -1893,6 +1893,114 @@
             <term>21e siècle</term>
           </keywords>
         </biblFull>
+        <biblFull xml:id="dahproject0015">
+          <titleStmt>
+            <title type="main">CHRONReader</title>
+            <principal>
+              <persName>
+                <forename>Willem</forename>
+                <surname>Jan Faber</surname>
+              </persName>
+              <persName>
+                <forename>Thomas</forename>
+                <surname>Smits</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>KB Lab</publisher>
+            <pubPlace>La Haye</pubPlace>
+            <date when="2018">2018</date>
+            <idno type="url">https://lab.kb.nl/tool/chronreader</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The Dutch digital newspaper archive Delpher contains millions of digitised Dutch
+                newspaper pages. While keyword-searches can be used to find relevant articles, it
+                can be quite hard to find relevant images. Delpher offers users the opportunity to
+                search for ‘images with captions,’ which means that the text underneath a seperate
+                image is used to find relevant material. However, captions not always correctly or
+                sufficiently describe the subject of an image. For example, they only represent a
+                specific part of an image or use general, generic, or non-referential language to
+                describe it. Furthermore, not all images are captioned, meaning that thousands of
+                illustrations and photographs in Delpher cannot be found by using this method.</p>
+              <p><title>CHRONReader</title> enables you to find images in Delpher’s digitised
+                newspaper in two new ways. First of all, based on the <title>CHRONIC</title>
+                database of classified historical Dutch newspaper images, you can search for
+                specific (combinations) of visual characteristics. First of all, you can indicate in
+                which time period you want to search (<date>1860-1922</date> available). Then you
+                select if you are looking for drawings, photographs, or both of these categories.
+                Thirdly, you can select one of the categories (any, buildings, cartoons, chess,
+                crowds, logo’s, maps, schematics, sheet music, weather reports). Because all images
+                in <title>CHRONIC</title> were classified for faces, you can also select if you want
+                to search for images with a face.</p>
+            </note>
+            <note type="licence">Tous droits réservés.</note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#patternRecognition">Reconnaissance de formes</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#photography">Photographie</term>
+            <term ref="#journal">Presse</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Netherlands">Pays-Bas</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+          </keywords>
+        </biblFull>
+        <biblFull xml:id="dahproject0016">
+          <titleStmt>
+            <title type="main">Timelapse</title>
+            <principal>
+              <persName>
+                <forename>Willem</forename>
+                <surname>Jan Faber</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>KB Lab</publisher>
+            <pubPlace>La Haye</pubPlace>
+            <date when="2022">2022</date>
+            <idno type="url">https://lab.kb.nl/tool/timelapse-0</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>To view a hundred years' worth of newspapers within a minute? It is possible! The
+                KB visualized three newspapers from its digital collection: de Volkskrant, de
+                Telegraaf and NRC Handelsblad. You can view the animations on the Live demo page
+                (see the tab on the top of this page) or visit the Dutch <title>Timelapse</title>
+                page. The timelapse animations show a development that everyone knows of, but nobody
+                witnessed in real-time: the rise of images in our news feeds. KB researcher
+                  <persName>Willem Jan Faber</persName> made the animations after he and his
+                colleagues got inspired after watching this NY-Times video made by data-artist
+                  <persName>Josh Begley</persName>.</p>
+              <p>For those that wonder how these animations, showing newspapers that the KB
+                digitized, were made: we used opensource tools. The programming language that was
+                used was Python, to be specific the Python Imaging Library (PIL), and to connect all
+                separate images Magick image converter was used. Because the tools are open source
+                people who are tech savvy can use this as well when you work with KB data.</p>
+            </note>
+            <note type="licence">Tous droits réservés.</note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#photography">Photographie</term>
+            <term ref="#journal">Presse</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Netherlands">Pays-Bas</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+          </keywords>
+        </biblFull>
         <biblFull xml:id="dahproject0017">
           <titleStmt>
             <title type="main">Whistler in Watercolor</title>
@@ -2038,6 +2146,62 @@
             <term ref="#middleAges">Moyen Âge</term>
             <term>12e siècle</term>
             <term>13e siècle</term>
+          </keywords>
+        </biblFull>
+        <biblFull xml:id="dahproject0019">
+          <titleStmt>
+            <title type="main">Victorian Eyes</title>
+            <principal>
+              <persName>
+                <forename>Catherine</forename>
+                <surname>DeRose</surname>
+              </persName>
+              <persName>
+                <forename>Carrie</forename>
+                <surname>Roy</surname>
+              </persName>
+              <persName>
+                <forename>Fred</forename>
+                <surname>Boehm</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>University of Wisconsin</publisher>
+            <pubPlace>Madison</pubPlace>
+            <date when="2014">2014</date>
+            <idno type="url">http://victorianeyes.com/</idno>
+            <idno type="brokenLink" when="2022-06-17"
+              >https://web.archive.org/web/20220617235715/http://victorianeyes.com/Exhibition_Overview</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>"Victorian Eyes”</title> is a traveling art exhibition that examines
+                  <date>nineteenth-century</date> British literature from literary, statistical, and
+                artistic vantages. With the modern deluge of media and information, it is easy to
+                become overwhelmed by the sheer amounts of data available. With <title>“Victorian
+                  Eyes”</title>, we aim to inspire both specialists within our fields and
+                nonspecialists to think about how the intersections of literature, statistics, and
+                art can help us “see,” analyze, and explain large amounts of data. While our fields
+                may seem like an eclectic grouping, all deal in varying modes with perspective,
+                which is the unifying theme this exhibition is designed to explore. One intriguing
+                literary and statistical finding (based on word frequencies, words lengths, unique
+                words, etc.) functions as the muse for each art piece in our exhibition. Each art
+                piece also features a QR code that links to a page on this website where more
+                detailed information about the literary, statistical, and artistic perspectives
+                about the results can be found.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#plotting">Graphique</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#drawing">Dessin</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#UK">Royaume-Uni</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0020">
@@ -5079,6 +5243,118 @@
             <term>19e siècle</term>
             <term>20e siècle</term>
             <term>21e siècle</term>
+          </keywords>
+        </biblFull>
+        <biblFull xml:id="dahproject0062">
+          <titleStmt>
+            <title type="main">Collection Space Navigator</title>
+            <title type="sub">An Interactive Visualization Interface for Multidimensional
+              Datasets</title>
+            <principal>
+              <persName>
+                <forename>Tillmann</forename>
+                <surname>Ohm</surname>
+              </persName>
+              <persName>
+                <forename>Mark</forename>
+                <surname>Canet Solà</surname>
+              </persName>
+              <persName>
+                <forename>Andres</forename>
+                <surname>Karjus</surname>
+              </persName>
+              <persName>
+                <forename>Maximilian</forename>
+                <surname>Schich</surname>
+              </persName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>The Baltic, Film Media, and Arts School (BFM)</orgName>
+              <orgName>School of Humanities (HUM)</orgName>
+              <orgName>School of Digital Technology (DTI)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Cultural Data Analytics (CUDAN)</publisher>
+            <pubPlace>Tallinn</pubPlace>
+            <date when="2023">2023</date>
+            <idno type="url">https://collection-space-navigator.github.io/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>We introduce the <title>Collection Space Navigator (CSN)</title>, a browser-based visualization
+                tool to explore, research, and curate large collections of visual digital artifacts
+                that are associated with multidimensional data, such as vector embeddings or tables
+                of metadata. Media objects such as images are often encoded as numerical vectors,
+                for e.g. based on metadata or using machine learning to embed image information.
+                Yet, while such procedures are widespread for a range of applications, it remains a
+                challenge to explore, analyze, and understand the resulting multidimensional spaces
+                in a more comprehensive manner. Dimensionality reduction techniques such as t-SNE or
+                UMAP often serve to project high-dimensional data into low dimensional
+                visualizations, yet require interpretation themselves as the remaining dimensions
+                are typically abstract. Here, the Collection Space Navigator provides a customizable
+                interface that combines two-dimensional projections with a set of configurable
+                multidimensional filters. As a result, the user is able to view and investigate
+                collections, by zooming and scaling, by transforming between projections, by
+                filtering dimensions via range sliders, and advanced text filters. Insights that are
+                gained during the interaction can be fed back into the original data via ad hoc
+                exports of filtered metadata and projections. This paper comes with a functional
+                showcase demo using a large digitized collection of classical Western art. The
+                Collection Space Navigator is open source. Users can reconfigure the interface to
+                fit their own data and research needs, including projections and filter controls.
+                The <title>CSN</title> is ready to serve a broad community.</p>
+            </note>
+            <note type="licence">The CSN tool is open source released as <ref
+                target="https://en.wikipedia.org/wiki/MIT_License">MIT license</ref>.</note>
+            <note type="biblio">
+              <biblStruct>
+                <analytic>
+                  <title type="a">Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets</title>
+                  <author>
+                    <persName>
+                      <forename>Tillmann</forename>
+                      <surname>Ohm</surname>
+                    </persName>
+                    <persName>
+                      <forename>Mark</forename>
+                      <surname>Canet Solà</surname>
+                    </persName>
+                    <persName>
+                      <forename>Andres</forename>
+                      <surname>Karjus</surname>
+                    </persName>
+                    <persName>
+                      <forename>Maximilian</forename>
+                      <surname>Schich</surname>
+                    </persName>
+                  </author>
+                </analytic>
+                <monogr>
+                  <title type="j">arXiv</title>
+                  <imprint>
+                    <date when="2023">2023</date>
+                  </imprint>
+                </monogr>
+                <ref type="url"
+                  >https://arxiv.org/abs/2305.06809</ref>
+              </biblStruct>
+            </note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#timeline">Chronologie</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#relationAnalysis">Analyse relationnelle</term>
+            <term ref="#clustering">Partitionnement des données</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#middleAges">Moyen Âge</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0063">
