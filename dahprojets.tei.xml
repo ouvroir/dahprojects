@@ -5283,34 +5283,36 @@
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p>We introduce the <title>Collection Space Navigator (CSN)</title>, a browser-based visualization
-                tool to explore, research, and curate large collections of visual digital artifacts
-                that are associated with multidimensional data, such as vector embeddings or tables
-                of metadata. Media objects such as images are often encoded as numerical vectors,
-                for e.g. based on metadata or using machine learning to embed image information.
-                Yet, while such procedures are widespread for a range of applications, it remains a
-                challenge to explore, analyze, and understand the resulting multidimensional spaces
-                in a more comprehensive manner. Dimensionality reduction techniques such as t-SNE or
-                UMAP often serve to project high-dimensional data into low dimensional
-                visualizations, yet require interpretation themselves as the remaining dimensions
-                are typically abstract. Here, the Collection Space Navigator provides a customizable
-                interface that combines two-dimensional projections with a set of configurable
-                multidimensional filters. As a result, the user is able to view and investigate
-                collections, by zooming and scaling, by transforming between projections, by
-                filtering dimensions via range sliders, and advanced text filters. Insights that are
-                gained during the interaction can be fed back into the original data via ad hoc
-                exports of filtered metadata and projections. This paper comes with a functional
-                showcase demo using a large digitized collection of classical Western art. The
-                Collection Space Navigator is open source. Users can reconfigure the interface to
-                fit their own data and research needs, including projections and filter controls.
-                The <title>CSN</title> is ready to serve a broad community.</p>
+              <p>We introduce the <title>Collection Space Navigator (CSN)</title>, a browser-based
+                visualization tool to explore, research, and curate large collections of visual
+                digital artifacts that are associated with multidimensional data, such as vector
+                embeddings or tables of metadata. Media objects such as images are often encoded as
+                numerical vectors, for e.g. based on metadata or using machine learning to embed
+                image information. Yet, while such procedures are widespread for a range of
+                applications, it remains a challenge to explore, analyze, and understand the
+                resulting multidimensional spaces in a more comprehensive manner. Dimensionality
+                reduction techniques such as t-SNE or UMAP often serve to project high-dimensional
+                data into low dimensional visualizations, yet require interpretation themselves as
+                the remaining dimensions are typically abstract. Here, the Collection Space
+                Navigator provides a customizable interface that combines two-dimensional
+                projections with a set of configurable multidimensional filters. As a result, the
+                user is able to view and investigate collections, by zooming and scaling, by
+                transforming between projections, by filtering dimensions via range sliders, and
+                advanced text filters. Insights that are gained during the interaction can be fed
+                back into the original data via ad hoc exports of filtered metadata and projections.
+                This paper comes with a functional showcase demo using a large digitized collection
+                of classical Western art. The Collection Space Navigator is open source. Users can
+                reconfigure the interface to fit their own data and research needs, including
+                projections and filter controls. The <title>CSN</title> is ready to serve a broad
+                community.</p>
             </note>
             <note type="licence">The CSN tool is open source released as <ref
                 target="https://en.wikipedia.org/wiki/MIT_License">MIT license</ref>.</note>
             <note type="biblio">
               <biblStruct>
                 <analytic>
-                  <title type="a">Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets</title>
+                  <title type="a">Collection Space Navigator: An Interactive Visualization Interface
+                    for Multidimensional Datasets</title>
                   <author>
                     <persName>
                       <forename>Tillmann</forename>
@@ -5336,8 +5338,7 @@
                     <date when="2023">2023</date>
                   </imprint>
                 </monogr>
-                <ref type="url"
-                  >https://arxiv.org/abs/2305.06809</ref>
+                <ref type="url">https://arxiv.org/abs/2305.06809</ref>
               </biblStruct>
             </note>
           </notesStmt>
@@ -6557,6 +6558,65 @@
             <term ref="#Antiquity">Antiquité</term>
           </keywords>
         </biblFull>
+        <biblFull xml:id="dahproject0079">
+          <titleStmt>
+            <title type="main">Jan Brueghel The Elder</title>
+            <title type="sub">Complete Catalog</title>
+            <principal>
+              <persName>
+                <forename>Elizabeth</forename>
+                <surname>Honig</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>National Science Foundation (NSF)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Center for Information Technology Research in the Interest of Society and the
+                Banatao Institute (CITRIS)</orgName>
+              <orgName>Nederlands Instituut voor Kunstgeschiedenis (RKD)</orgName>
+              <orgName>University of California, Berkeley</orgName>
+              <orgName>Rubenianum</orgName>
+              <orgName>The Courtauld</orgName>
+              <orgName>ArtAuthorithy</orgName>
+              <orgName>Johnny Van Haeften Ltd</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>University of Maryland</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2021">2021</date>
+            <idno type="url">http://janbrueghel.net/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p>The purpose of this website is to serve as a place where information about the
+                artists Pieter Bruegel and his son <persName>Jan Brueghel</persName> can be
+                gathered, shared, and debated among scholars. It is meant to provide ways of
+                furthering our understanding of how the Brueg(h)el family produced a complex body of
+                interconnected work. The site also serves as a general resource for any visitor who
+                is interested in the artists’ works. Visitors are encouraged to explore between the
+                two catalogs to investigate the relationship between the Brueg(h)els and their
+                works.</p>
+            </note>
+            <note type="licence">Tous droits réservés.</note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#painting">Peinture</term>
+            <term ref="#drawing">Dessin</term>
+            <term ref="#engraving">Estampe</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#Netherlands">Pays-Bas</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term>16e siècle</term>
+            <term>17e siècle</term>
+          </keywords>
+        </biblFull>
         <biblFull xml:id="dahproject0080">
           <titleStmt>
             <title type="main">Dictionary of Art Historians</title>
@@ -6762,6 +6822,90 @@
             <term ref="#Belgium">Belgique</term>
             <term ref="#modernPeriod">Époques moderne et contemporaine</term>
             <term>17e siècle</term>
+          </keywords>
+        </biblFull>
+        <biblFull xml:id="dahproject0083">
+          <titleStmt>
+            <title type="main">ModOAP</title>
+            <title type="sub">Modèles et outils d'apprentissage profond</title>
+            <principal>
+              <persName>
+                <forename>Julien</forename>
+                <surname>Schuh</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Agence Nationale de la Recherche (ANR)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Bibliothèque nationale de France (BnF)</orgName>
+              <orgName>Centre des Sciences des Littératures en langue Française (CSLF) (EA 1586,
+                Université Paris Nanterre)</orgName>
+              <orgName>La Contemporaine</orgName>
+              <orgName>Modèles, Dynamiques, Corpus (MoDyCo) (UMR 7114, Université Paris
+                Nanterre)</orgName>
+              <orgName>TGIR Huma-Num (UAR 3598, CNRS)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Université Paris Nanterre</publisher>
+            <pubPlace>Nanterre</pubPlace>
+            <date from="2023">2023-</date>
+            <idno type="url">https://modoap.huma-num.fr</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet <title>ModOAP</title> est conçu autour de deux objectifs principaux. En
+                premier lieu, nous avons développé une boîte à outils d’analyse de données massives
+                pour des projets consacrés aux Sciences Humaines et Sociales, disponible en ligne.
+                Elle repose sur des modèles pouvant être aisément adaptés à différents types de
+                corpus textuels et graphiques, et comportera des programmes réutilisables par les
+                institutions et laboratoires impliqués dans le <orgName>Labex</orgName>, et plus
+                généralement par l’ensemble de la communauté scientifique en SHS. Ces outils
+                (téléchargement de corpus depuis <title>Gallica</title>, segmentation de pages et
+                extraction d’illustrations, classification automatique d’images, statistiques
+                textuelles) ont fait l’objet d’une élaboration collective en partenariat avec
+                d’autres projets du <orgName>Labex</orgName> et d’ateliers de formation à
+                destination des chercheurs. En second lieu, ce projet a testé ces outils sur deux
+                corpus particulièrement importants pour l’analyse de la construction d’une mémoire
+                collective : les manuels scolaires, à travers les fonds numérisés par la BnF, et le
+                photoreportage, par le biais du fonds <persName>Élie Kagan</persName> conservé à La
+                Contemporaine. Le traitement d’un corpus de romans scolaires a donné lieu à la
+                production d’un <ref target="https://modoap.huma-num.fr/romans_scolaires/">site
+                  interactif permettant d’explorer ces ouvrages à travers les personnalités et les
+                  lieux qu’ils mentionnent</ref>, et de reconstruire les représentations de
+                l’histoire et de la géographie de la <placeName>France</placeName> transmises aux
+                enfants à la fin du <date>XIX<hi rend="superscript">e</hi> siècle</date>. Le travail
+                sur le fonds <persName>Kagan</persName> a permis l’élaboration d’une <ref
+                  target="https://modoap.huma-num.fr/Kagan_Contemporaine/index.php">borne
+                  interactive, disponible également en ligne</ref>, offrant au public trois portes
+                d’entrée dans cette archive photographique : l’analyse des circulations des images
+                dans la presse, grâce au repérage automatique de doublons graphiques ; une
+                cartographie de l’ensemble des photographies numérisées autorisant une exploration
+                visuelle de ce fonds ; un classement thématique à partir des principaux mots-clefs
+                utilisés dans les descriptifs des images. Grâce à l’analyse de données massives
+                permise par les outils d’apprentissage profond, nous souhaitons explorer la
+                construction d’une mémoire institutionnelle et scolaire et sa transmission par les
+                manuels, et comprendre la manière dont la presse peut contribuer à la formation
+                d’une mémoire collective médiatique, par la réutilisation et la rediffusion d’images
+                sur le temps long.</p>
+            </note>
+            <note type="licence">Tous droits réservés.</note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+            <term ref="#plotting">Graphique</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#journal">Presse</term>
+            <term ref="#photography">Photographie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>20e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0084">
