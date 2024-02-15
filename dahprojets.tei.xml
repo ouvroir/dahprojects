@@ -3131,7 +3131,7 @@
               <resp>Partenaires scientifiques</resp>
               <orgName>Archives nationales de France</orgName>
               <orgName>Bibliothèque nationale de France (BnF)</orgName>
-              <orgName>Laboratoire Équipes Traitement de l’Information et Systèmes (ETIS) (UMR8051,
+              <orgName>Laboratoire Équipes Traitement de l’Information et Systèmes (ETIS) (UMR 8051,
                 Cergy Paris Université - ENSEA Cergy - CNRS)</orgName>
             </respStmt>
           </titleStmt>
@@ -7307,6 +7307,63 @@
             <term>21e siècle</term>
           </keywords>
         </biblFull>
+        <biblFull xml:id="dahproject0090">
+          <titleStmt>
+            <title type="main">Partours</title>
+            <title type="sub">Parcourir Tours à la Renaissance</title>
+            <principal>
+              <persName>
+                <forename>Dominique</forename>
+                <surname>Andrieu</surname>
+              </persName>
+              <persName>
+                <forename>Marion</forename>
+                <surname>Boudon-Machuel</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Union Européenne (UE)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Maison des Sciences de l'Homme (MSH) Val de Loire (UAR 3501)</orgName>
+              <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
+              <orgName>Centre Tourangeau d'Histoire et d'étude des Sources (CETHIS) (EA 6298,
+                Université de Tours)</orgName>
+              <orgName>NewTeAch (Lac'lab numérique)</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Université de Tours</publisher>
+            <pubPlace>Tours</pubPlace>
+            <date from="2022">2022-</date>
+            <idno type="url">https://partours.univ-tours.fr/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p> Capitale royale, la ville de <placeName>Tours</placeName> a été un foyer politique
+                et artistique majeur du royaume de <placeName>France</placeName> à la Renaissance.
+                De cette période, subsistent des éléments remarquables qui permettent de restituer
+                la vie de cette société urbaine : ses lieux, ses hommes et ses œuvres.
+                  <title>ParTouRs</title> vous invite à les rencontrer par le biais de différents
+                supports : une carte interactive, une BD numérique enrichie, un webdocumentaire, des
+                livrets pédagogiques et des fiches thématiques.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#database">Base de données</term>
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#mapping">Cartographie</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term>15e siècle</term>
+            <term>16e siècle</term>
+          </keywords>
+        </biblFull>
         <biblFull xml:id="dahproject0091">
           <titleStmt>
             <title type="main">Ukiyo-e Search</title>
@@ -8552,7 +8609,7 @@
             </principal>
             <funder>
               <orgName>Time Machine Organisation</orgName>
-              <orgName>Union européenne</orgName>
+              <orgName>Union Européenne (UE)</orgName>
               <orgName>Republic of Austria</orgName>
             </funder>
           </titleStmt>
@@ -9096,14 +9153,14 @@
               <resp>Partenaires scientifiques</resp>
               <orgName>Archives nationales de France</orgName>
               <orgName>Bibliothèque nationale de France (BnF)</orgName>
-              <orgName>Centre d'Études Supérieures de la Renaissance (CESR) (UMR7323, CNRS -
+              <orgName>Centre d'Études Supérieures de la Renaissance (CESR) (UMR 7323, CNRS -
                 Université de Tours - Ministère de la Culture)</orgName>
               <orgName>Histoire, Archéologie, Littérature des Mondes Chrétiens et Musulmans
-                Médiévaux (CIHAM) (UMR5648, CNRS - Université Lyon 2 - EHESS-PSL - ENS-PSL - Avigon
+                Médiévaux (CIHAM) (UMR 5648, CNRS - Université Lyon 2 - EHESS-PSL - ENS-PSL - Avigon
                 Université - Université Lyon 3))</orgName>
               <orgName>Centre Jean Mabillon (CJM) (EA 3624, ENC - PSL)</orgName>
               <orgName>Centre de Recherches Archéologiques et Historiques Anciennes et Médiévales.
-                Centre Michel de Boüard (CRAHAM) (UMR6273, CNRS - Université de Caen
+                Centre Michel de Boüard (CRAHAM) (UMR 6273, CNRS - Université de Caen
                 Normandie)</orgName>
               <orgName>Savoirs et Pratiques du Moyen Âge à l'époque contemporaine (SARPAT) (EA4116,
                 EPHE - PSL)</orgName>
@@ -9153,6 +9210,70 @@
             <term ref="#middleAges">Moyen Âge</term>
             <term ref="#Renaissance">Renaissance</term>
             <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+          </keywords>
+        </biblFull>
+        <biblFull xml:id="dahproject0118">
+          <titleStmt>
+            <title type="main">Sculpture 3D</title>
+            <principal>
+              <persName>
+                <forename>Marion</forename>
+                <surname>Boudon-Machuel</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>Région Centre-Val de Loire</orgName>
+              <orgName>Union Européenne (UE)</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Laboratoire d’Informatique Fondamentale et Appliquée de Tours (LIFAT) (EA
+                6300, Université de Tours)</orgName>
+              <orgName>CMN Château d’Azay le Rideau-La Psalette</orgName>
+              <orgName>Musée des Beaux Arts de Tours</orgName>
+              <orgName>Direction régionale des Affaires culturelles (DRAC) Centre-Val de
+                Loire</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Université de Tours</publisher>
+            <pubPlace>Tours</pubPlace>
+            <date from="2020">2020-</date>
+            <idno type="url">https://renaissance-transmedia-lab.fr/rtl4/sculpture-3d/#</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le projet <title>SCULPTURE 3D</title> rassemble des chercheurs en histoire de l’art
+                et en informatique de l’université de Tours afin d’étudier la sculpture de la
+                Renaissance en Centre Val de Loire, un patrimoine encore très peu valorisé.</p>
+              <p>De cette association est née une exposition-atelier d’un genre nouveau,
+                  <title>SCULPTUROSCOPE La Vierge à l’Enfant du réel au virtuel</title>, qui s’est
+                tenue en 2018 au <orgName> Musée des Beaux-Arts de Tours</orgName>. Modèles 3D
+                interactifs, manipulations d’impressions 3D, web-série… Le public a pu y découvrir
+                la sculpture d’une manière totalement inédite. Des dispositifs numériques à
+                (re)découvrir sous une nouvelle forme sur le <orgName>Renaissance Transmédia
+                  Lab</orgName>.</p>
+              <p>Le projet <title>SCULPTURE 3D</title> met aussi à l’honneur des œuvres sculptées
+                monumentales, afin de les rendre plus accessibles et d’en faciliter l’analyse.
+                  <title>Le Tombeau des enfants de Charles VIII et Anne de Bretagne</title>
+                  (<placeName>Tours</placeName>, cathédrale) et le Tour de chœur de la cathédrale de
+                  <placeName>Chartres</placeName>, de la minutie de son ornement à la majesté de ses
+                grands groupes sculptés : des œuvres à observer prochainement sur le
+                  <orgName>Renaissance Transmédia Lab</orgName>.</p>
+            </note>
+            <note type="licence">Tous droits réservés.</note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#sculpture">Sculpture</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#France">France</term>
+            <term ref="#Renaissance">Renaissance</term>
+            <term>15e siècle</term>
+            <term>16e siècle</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0119">
@@ -9206,6 +9327,54 @@
             <term ref="#painting">Peinture</term>
             <term ref="#drawing">Dessin</term>
             <term ref="#engraving">Estampe</term>
+          </keywords>
+        </biblFull>
+        <biblFull xml:id="dahproject0120">
+          <titleStmt>
+            <title type="main">Project Tirtha</title>
+            <principal>
+              <persName>
+                <forename>Jyotirmaya</forename>
+                <surname>Shivottam</surname>
+              </persName>
+              <persName>
+                <forename>Subhankar</forename>
+                <surname>Mishra</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>School of Computer Sciences, National Institute of Science Education and
+              Research (NISER)</publisher>
+            <pubPlace>Khordha</pubPlace>
+            <date when="2023">2023</date>
+            <idno type="url">https://tirtha.niser.ac.in/</idno>
+            <idno type="brokenLink" when="2023-10-12"
+              >https://web.archive.org/web/20231012235842/https://tirtha.niser.ac.in/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Project Tirtha</title> is an academic initiative to create 3D models of
+                heritage sites, using crowdsourced images. The word Tirtha is Sanskrit for "a place
+                of pilgrimage", and is commonly used to refer to the sacred sites of Hinduism. Our
+                goal is to preserve and showcase the beauty and cultural significance of heritage
+                sites. We believe that by allowing the general public to contribute to the creation
+                of these models, and by providing open access to these models, we can increase
+                awareness and appreciation of these important cultural landmarks and inspire future
+                generations to maintain them for years to come.</p>
+            </note>
+            <note type="licence"><ref target="https://www.gnu.org/licenses/agpl-3.0.en.html">GNU
+                Affero General Public License v3.0</ref></note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#Asia">Asie</term>
+            <term ref="#India">Inde</term>
+            <term ref="#middleAges">Moyen Âge</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0121">
@@ -10317,6 +10486,45 @@
             <term>20e siècle</term>
           </keywords>
         </biblFull>
+        <biblFull xml:id="dahproject0144">
+          <titleStmt>
+            <title type="main">Persepolis Reimagined</title>
+            <principal>
+              <orgName>Getty</orgName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Getty</publisher>
+            <pubPlace>Los Angeles</pubPlace>
+            <date when="2022">2022</date>
+            <idno type="url">https://persepolis.getty.edu/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><orgName>Getty</orgName> has launched <title>Persepolis Reimagined</title>, an
+                immersive web experience that lets visitors explore the ceremonial capital of the
+                ancient Persian Empire at its height.</p>
+              <p>Visitors can walk in the footsteps of ancient dignitaries through the most accurate
+                recreation of <placeName>Persepolis</placeName> to date, and learn about the art,
+                architecture, and customs of this iconic monument to imperial power.</p>
+            </note>
+            <note type="licence">Tous droits réservés.</note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#visualAnalysis">Visualisation</term>
+            <term ref="#modeling3D">Modélisation 3D</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#architecture">Architecture</term>
+            <term ref="#archaeology">Archéologie</term>
+            <term ref="#Asia">Asie</term>
+            <term/>
+            <term ref="#Antiquity">Antiquité</term>
+            <term>6e siècle av. J.-C.</term>
+            <term>5e siècle av. J.-C.</term>
+            <term>4e siècle av. J.-C.</term>
+          </keywords>
+        </biblFull>
         <biblFull xml:id="dahproject0145">
           <titleStmt>
             <title type="main">Saint George on a Bike</title>
@@ -10361,6 +10569,41 @@
           <keywords scheme="#dataBnf">
             <term ref="#painting">Peinture</term>
             <term ref="#Europe">Europe</term>
+          </keywords>
+        </biblFull>
+        <biblFull xml:id="dahproject0146">
+          <titleStmt>
+            <title type="main">Buddhas at the Met</title>
+            <principal>
+              <persName>
+                <forename>Dan</forename>
+                <surname>Ran</surname>
+              </persName>
+            </principal>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>The Metropolitan Museum of Art (Met)</publisher>
+            <pubPlace>New York</pubPlace>
+            <date when="2019">2019</date>
+            <idno type="url">https://shuvitran.github.io/MetPartnershipProjectsDoc/BuddhasAtTheMet/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="en">
+              <p><title>Buddhas at the Met</title> is a data visualization project studying the facial features of
+                <orgName>Met</orgName>'s collections of buddha sculptures, through computer vision imaging processing.
+                This project seeks to understand how buddha sculptures reflect the religion's
+                process of morphing and changing to adapt to different countries and cultures.</p>
+            </note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#patternRecognition">Reconnaissance de formes</term>
+            <term ref="#stylisticAnalysis">Analyse stylistique</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#Sculpture">Sculpture</term>
+            <term ref="#Asia">Asie</term>
           </keywords>
         </biblFull>
         <biblFull xml:id="dahproject0147">
@@ -10767,7 +11010,7 @@
             </respStmt>
           </titleStmt>
           <publicationStmt>
-            <publisher>TGIR Huma-Num (UAR3598, CNRS)</publisher>
+            <publisher>TGIR Huma-Num (UAR 3598, CNRS)</publisher>
             <pubPlace>Paris</pubPlace>
             <date when="2022">2022</date>
             <idno type="url">https://datavirgo.huma-num.fr/</idno>
