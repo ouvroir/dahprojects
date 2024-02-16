@@ -10585,14 +10585,16 @@
             <publisher>The Metropolitan Museum of Art (Met)</publisher>
             <pubPlace>New York</pubPlace>
             <date when="2019">2019</date>
-            <idno type="url">https://shuvitran.github.io/MetPartnershipProjectsDoc/BuddhasAtTheMet/</idno>
+            <idno type="url"
+              >https://shuvitran.github.io/MetPartnershipProjectsDoc/BuddhasAtTheMet/</idno>
           </publicationStmt>
           <notesStmt>
             <note type="abstract" xml:lang="en">
-              <p><title>Buddhas at the Met</title> is a data visualization project studying the facial features of
-                <orgName>Met</orgName>'s collections of buddha sculptures, through computer vision imaging processing.
-                This project seeks to understand how buddha sculptures reflect the religion's
-                process of morphing and changing to adapt to different countries and cultures.</p>
+              <p><title>Buddhas at the Met</title> is a data visualization project studying the
+                facial features of <orgName>Met</orgName>'s collections of buddha sculptures,
+                through computer vision imaging processing. This project seeks to understand how
+                buddha sculptures reflect the religion's process of morphing and changing to adapt
+                to different countries and cultures.</p>
             </note>
           </notesStmt>
           <keywords scheme="#TaDiRAH">
@@ -12099,6 +12101,7 @@
             <term ref="#computerVision">Vision par ordinateur</term>
             <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture
               manuscrite</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
             <term ref="#visualAnalysis">Visualisation</term>
             <term ref="#plotting">Graphique</term>
             <term ref="#mapping">Cartographie</term>
@@ -12109,12 +12112,163 @@
             <term ref="#journal">Presse</term>
             <term ref="#drawing">Dessin</term>
             <term ref="#Europe">Europe</term>
-            <term ref="#America"/>
+            <term ref="#America">Amérique</term>
             <term ref="#modernPeriod">Époques moderne et contemporaine</term>
             <term>20e siècle</term>
           </keywords>
         </biblFull>
-
+        <biblFull xml:id="dahproject0171">
+          <titleStmt>
+            <title type="main">Filigranes pour tous</title>
+            <principal>
+              <persName>
+                <forename>Olivier</forename>
+                <surname>Poncet</surname>
+              </persName>
+            </principal>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>École des Ponts ParisTech</orgName>
+              <orgName>Institut National de Recherche en Informatique et en Automatique
+                (INRIA)</orgName>
+              <orgName>Institut de Recherche et d'Histoire des Textes (IRHT)</orgName>
+              <orgName>Archives nationales</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>École nationale des Chartes (ENC-PSL)</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date from="2017" to="2019">2017-2019</date>
+            <idno type="url">https://filigranes.hypotheses.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Les filigranes sont des outils précieux dans tout type de recherche et d’analyse
+                qui concerne n’importe quel document dont le support soit le papier. Mais il faut
+                savoir s’en servir. <title>« Filigranes pour tous »</title> est un projet qui vise à
+                rendre accessible ces ressources à un public non forcement spécialisé dans le
+                domaine.</p>
+              <p>Le but est de créer une application pour smartphone qui permette de prendre une
+                photo d’un filigrane, la télécharger et obtenir sa fiche descriptive, à travers un
+                système d’identification image-image, qui ne demande pas de mots mais directement
+                des images : on en fournit une et on en obtient en réponse une autre, avec des
+                données. Si l’image n’existe pas dans la base, elle sert à créer une référence
+                future (crowdsourcing).</p>
+              <p>La démarche scientifique s’appuie sur un algorithme fondé sur une méthode
+                d’apprentissage profond (deep learning) et de comparaison d’images (réseau de
+                neurones convolutifs), qui se nourrit d’images multiples de filigranes (identiques
+                ou variantes). Afin d’entraîner l’algorithme, un corpus initial a été créé à partir
+                de prises de vues originales.</p>
+            </note>
+            <note type="licence">Tous droits réservés.</note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#OCR_HTR">Reconnaissance optique de caractères/Reconnaissance de l'écriture
+              manuscrite</term>
+            <term ref="#patternRecognition">Reconnaissance de formes</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#manuscript">Manuscrit</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#middleAges">Moyen Âge</term>
+          </keywords>
+        </biblFull>
+        <biblFull xml:id="dahproject0172">
+          <titleStmt>
+            <title type="main">EyCon</title>
+            <title type="sub">Visual AI and Early Conflict Photography</title>
+            <principal>
+              <persName>
+                <forename>Lise</forename>
+                <surname>Jaillant</surname>
+              </persName>
+              <persName>
+                <forename>Julien</forename>
+                <surname>Schuh</surname>
+              </persName>
+            </principal>
+            <funder>
+              <orgName>AHRC/Labex Passés dans le Présent</orgName>
+              <orgName>Université de Paris Idex “chaire environnée”</orgName>
+            </funder>
+            <respStmt>
+              <resp>Partenaires scientifiques</resp>
+              <orgName>Université Paris Nanterre</orgName>
+              <orgName>Laboratoire de Recherches sur les Cultures Anglophones (LARCA) (UMR 8225,
+                CNRS)</orgName>
+              <orgName>Laboratoire d'Informatique Paris Descartes (LIPADE) (EA 2517, Université
+                Paris Cité)</orgName>
+              <orgName>Archives nationales d'outre-mer</orgName>
+              <orgName>Imperial War Museums (IWM)</orgName>
+              <orgName>BNG Datalab</orgName>
+              <orgName>Welcome Collection</orgName>
+              <orgName>Ecpad</orgName>
+              <orgName>Agence d'images de la Défense</orgName>
+              <orgName>National Library of Scotland (NLS)</orgName>
+              <orgName>Musée du Quai Branly Jacques Chirac</orgName>
+              <orgName>Bibliothèque La Contemporaine</orgName>
+              <orgName>Archives nationales</orgName>
+              <orgName>Service historique de la Défense</orgName>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Loughborough University</publisher>
+            <pubPlace>Loughborough</pubPlace>
+            <date from="2022" to="2023">2022-2023</date>
+            <idno type="url">https://eycon.hypotheses.org/</idno>
+          </publicationStmt>
+          <notesStmt>
+            <note type="abstract" xml:lang="fr">
+              <p>Le Projet <title>EyCon (Early Conflict Photography 1890-1918 and Visual AI)</title>
+                vise à utiliser des outils fondés sur l’intelligence artificielle et la modélisation
+                des données pour analyser de grands corpus de photographie ancienne. La base de
+                données du projet regroupera à terme des dizaines de milliers de photographies
+                inédites documentant les conflits avec une focale sur les espaces coloniaux.</p>
+              <p>Le projet <title>EyCon (Early Conflict Photography and Visual AI)</title> regroupe
+                des spécialistes d’horizons variés pour produire des recherches innovantes à la
+                jonction de l’informatique, des études archivistiques et de l’histoire. Il répond au
+                constat que la numérisation de fonds photographiques par les institutions
+                patrimoniales a souvent été réalisée en silos séparés les uns des autres, ce qui
+                rend difficile l’exploitation de ces ensembles par les spécialistes et le grand
+                public. Cela soulève en particulier la question des utilisations publiques de
+                l’histoire dès lors lorsqu’il s’agit d’aborder des passés contestés, à l’instar des
+                conflits armés. Le manque de corrélation des fonds participe à renforcer des notions
+                profondément ancrées d’exceptionnalisme national en <placeName>France</placeName>,
+                en <placeName>Grande-Bretagne</placeName> et dans d’autres États ayant une histoire
+                d’interventionnisme et d’expansionnisme international. En s’appuyant sur des
+                technologies avancées telles que l’intelligence artificielle, <title>EyCon</title> a
+                pour objectif de relier, d’analyser et de commenter ces fonds afin de faciliter leur
+                découverte ainsi que de mettre à disposition un matériau visuel négligé et éparpillé
+                sur les conflits armés coloniaux, impériaux et internationaux des années
+                  <date>1890</date> à <date>1918</date>. Le projet permettra de rendre des documents
+                numérisés et inédits plus accessibles à un large éventail d’utilisateurs. L’objectif
+                central d’<title>EyCon</title> est d’explorer des solutions computationnelles pour
+                augmenter les possibilités de visualisation, de navigation et d’analyse de grands
+                corpus visuels. Ce faisant, le projet aborde très concrètement les questions
+                éthiques et épistémologiques soulevées par l’application d’outils de l’intelligence
+                artificielle à des passés controversés.</p>
+            </note>
+            <note type="licence">Tous droits réservés.</note>
+          </notesStmt>
+          <keywords scheme="#TaDiRAH">
+            <term ref="#computerVision">Vision par ordinateur</term>
+            <term ref="#patternRecognition">Reconnaissance de formes</term>
+            <term ref="#contentAnalysis">Analyse de contenu</term>
+          </keywords>
+          <keywords scheme="#dataBnf">
+            <term ref="#photography">Photographie</term>
+            <term ref="#Europe">Europe</term>
+            <term ref="#modernPeriod">Époques moderne et contemporaine</term>
+            <term>19e siècle</term>
+            <term>20e siècle</term>
+          </keywords>
+        </biblFull>
+        
+        <!-- https://4dbrowser.urbanhistory4d.org/ -->
+        <!-- https://www.archesproject.org/ -->
+        <!-- https://www.imago.ens.fr/ -->
         <!-- https://www.zotero.org/groups/525911/frick_art_reference_library_digital_art_history_lab/collections/DHTMC55X -->
 
       </listBibl>
